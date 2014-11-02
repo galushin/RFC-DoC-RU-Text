@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_DESC</Tag>
+		<Russian>&#200;&#237;&#228;&#243;&#241;&#251;</Russian>
+		<English>The Indians</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_DESC_PEOPLES</Tag>
+		<Russian>&#200;&#237;&#228;&#238;-&#224;&#240;&#232;&#233;&#241;&#234;&#232;&#229; &#237;&#224;&#240;&#238;&#228;&#251;</Russian>
+		<English>Indo-Aryan Peoples</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_DESC_DEFAULT</Tag>
+		<Russian>&#204;&#224;&#245;&#224;&#240;&#224;&#228;&#230;&#224;&#242; &#200;&#237;&#228;&#232;&#255;</Russian>
+		<English>Maharajate of India</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_DESC_FASCIST</Tag>
+		<Russian>&#205;&#229;&#228;&#229;&#235;&#232;&#236;&#224;&#255; &#200;&#237;&#228;&#232;&#255;</Russian>
+		<English>Undivided India</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_DESC_COMMUNIST</Tag>
+		<Russian>&#205;&#224;&#240;&#238;&#228;&#237;&#224;&#255; &#240;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#200;&#237;&#228;&#232;&#255;</Russian>
+		<English>People's Republic of India</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_DESC_DEMOCRATIC</Tag>
+		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#200;&#237;&#228;&#232;&#255;</Russian>
+		<English>Republic of India</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_ISLAMIC_MODERN</Tag>
+		<Russian>&#200;&#241;&#235;&#224;&#236;&#241;&#234;&#224;&#255; &#240;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#200;&#237;&#228;&#232;&#255;</Russian>
+		<English>Islamic Republic of India</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_MARATHA</Tag>
+		<Russian>&#204;&#224;&#240;&#224;&#242;&#245;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Maratha Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_SULTANATE</Tag>
+		<Russian>&#209;&#243;&#235;&#242;&#224;&#237;&#224;&#242; &#200;&#237;&#228;&#232;&#255;</Russian>
+		<English>Sultanate of India</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_MAHAJANAPADAS</Tag>
+		<Russian>&#200;&#237;&#228;&#232;&#233;&#241;&#234;&#232;&#229; &#204;&#224;&#245;&#224;&#228;&#230;&#224;&#237;&#224;&#239;&#224;&#228;&#251;</Russian>
+		<English>Indian Mahajanapadas</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_MAURYA</Tag>
+		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#204;&#224;&#243;&#240;&#252;&#229;&#226;</Russian>
+		<English>Maurya Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_GUPTA</Tag>
+		<Russian>&#195;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238; &#195;&#243;&#239;&#242;&#238;&#226;</Russian>
+		<English>Gupta Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_PALA</Tag>
+		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#207;&#224;&#235;&#224;</Russian>
+		<English>Pala Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_VIJAYANAGARA</Tag>
+		<Russian>&#194;&#232;&#228;&#230;&#224;&#255;&#237;&#224;&#227;&#224;&#240;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Vijayanagara Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_SOVIET_VASSAL</Tag>
+		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#200;&#237;&#228;&#232;&#255;</Russian>
+		<English>Soviet India</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_NAZI_VASSAL</Tag>
+		<Russian>&#195;&#229;&#240;&#236;&#224;&#237;&#241;&#234;&#224;&#255; &#200;&#237;&#228;&#232;&#255;</Russian>
+		<English>German India</English>
+	</TEXT>
+</Civ4GameText>

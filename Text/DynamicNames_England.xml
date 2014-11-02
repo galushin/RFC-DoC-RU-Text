@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_DESC</Tag>
+		<Russian>&#192;&#237;&#227;&#235;&#232;&#247;&#224;&#237;&#229;</Russian>
+		<English>The English</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BRITAIN_SHORT_DESC</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#232;&#255;</Russian>
+		<English>Britain</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BRITAIN_ADJECTIVE</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#246;&#251;</Russian>
+		<English>British</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_DESC_PEOPLES</Tag>
+		<Russian>&#192;&#237;&#227;&#235;&#238;&#241;&#224;&#234;&#241;&#251;</Russian>
+		<English>Anglo-Saxon Peoples</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_DESC_DEFAULT</Tag>
+		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#192;&#237;&#227;&#235;&#232;&#255;</Russian>
+		<English>Kingdom of England</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_DESC_DEMOCRATIC</Tag>
+		<Russian>&#192;&#237;&#227;&#235;&#232;&#233;&#241;&#234;&#238;&#229; &#241;&#238;&#228;&#240;&#243;&#230;&#229;&#241;&#242;&#226;&#238;</Russian>
+		<English>Commonwealth of England</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_DESC_COMMUNIST</Tag>
+		<English>British Worker's Commonwealth</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_DESC_FASCIST</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#232;&#233; &#241;&#238;&#254;&#231;</Russian>
+		<English>British Union</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_EMPIRE</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>British Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_GREAT_BRITAIN</Tag>
+		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#194;&#229;&#235;&#232;&#234;&#238;&#225;&#240;&#232;&#242;&#224;&#237;&#232;&#255;</Russian>
+		<English>Kingdom of Great Britain</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_UNITED_KINGDOM</Tag>
+		<Russian>&#206;&#225;&#250;&#229;&#228;&#232;&#237;¸&#237;&#237;&#238;&#229; &#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#194;&#229;&#235;&#232;&#234;&#238;&#225;&#240;&#232;&#242;&#224;&#237;&#232;&#255;</Russian>
+		<English>United Kingdom of Great Britain</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_ANGEVIN_EMPIRE</Tag>
+		<Russian>&#192;&#237;&#230;&#243;&#233;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Angevin Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_EXILE</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#238;&#229; &#239;&#240;&#224;&#226;&#232;&#242;&#229;&#235;&#252;&#241;&#242;&#226;&#238; &#226; &#232;&#231;&#227;&#237;&#224;&#237;&#232;&#232;</Russian>
+		<English>British Government in Exile</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_NAZI_VASSAL</Tag>
+		<Russian>&#208;&#229;&#233;&#245;&#241;&#234;&#238;&#236;&#232;&#241;&#241;&#224;&#240;&#232;&#224;&#242; &#192;&#237;&#227;&#235;&#232;&#255;</Russian>
+		<English>Reichskommissariat England</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_SOVIET_VASSAL</Tag>
+		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#192;&#237;&#227;&#235;&#232;&#255;</Russian>
+		<English>Soviet England</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLISH_VASSAL_GENERIC</Tag>
+		<Russian>&#196;&#238;&#236;&#232;&#237;&#232;&#238;&#237; %s1</Russian>
+		<English>Dominion of %s1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EGYPT_ENGLISH_VASSAL</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#232;&#233; &#236;&#224;&#237;&#228;&#224;&#242; &#226; &#197;&#227;&#232;&#239;&#242;&#229;</Russian>
+		<English>British Mandate of Egypt</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_ENGLISH_VASSAL</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#224;&#255; &#200;&#237;&#228;&#232;&#255;</Russian>
+		<English>British Raj</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BABYLONIA_ENGLISH_VASSAL</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#232;&#233; &#236;&#224;&#237;&#228;&#224;&#242; &#226; &#204;&#229;&#230;&#228;&#243;&#240;&#229;&#247;&#252;&#229;</Russian>
+		<English>British Mandate of Mesopotamia</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_ENGLISH_VASSAL</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#232;&#233; &#236;&#224;&#237;&#228;&#224;&#242; &#226; &#207;&#229;&#240;&#241;&#232;&#232;</Russian>
+		<English>British Mandate of Persia</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PHOENICIA_ENGLISH_VASSAL</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#232;&#233; &#236;&#224;&#237;&#228;&#224;&#242; &#226; &#203;&#232;&#226;&#224;&#237;&#229;</Russian>
+		<English>British Mandate of Lebanon</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_ENGLISH_VASSAL</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#224;&#255; &#194;&#238;&#241;&#242;&#238;&#247;&#237;&#224;&#255; &#192;&#244;&#240;&#232;&#234;&#224;</Russian>
+		<English>British East Africa</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_ENGLISH_VASSAL</Tag>
+		<Russian>&#202;&#238;&#235;&#238;&#237;&#232;&#255; &#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#232;&#233; &#195;&#238;&#237;&#228;&#243;&#240;&#224;&#241;</Russian>
+		<English>Colony of British Honduras</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BYZANTIUM_ENGLISH_VASSAL</Tag>
+		<Russian>&#203;&#224;&#242;&#232;&#237;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Latin Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKINGS_ENGLISH_VASSAL</Tag>
+		<Russian>&#195;&#229;&#240;&#246;&#238;&#227;&#241;&#242;&#226;&#238; &#209;&#234;&#224;&#237;&#228;&#232;&#237;&#224;&#226;&#232;&#255;</Russian>
+		<English>Duchy of Scandinavia</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_ENGLISH_VASSAL</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#232;&#233; &#236;&#224;&#237;&#228;&#224;&#242; &#226; &#192;&#240;&#224;&#226;&#232;&#232;</Russian>
+		<English>British Mandate of Arabia</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_ENGLISH_VASSAL</Tag>
+		<Russian>&#196;&#238;&#236;&#232;&#237;&#232;&#238;&#237; &#200;&#237;&#228;&#238;&#234;&#232;&#242;&#224;&#233;</Russian>
+		<English>Dominion of Indochina</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_ENGLISH_VASSAL</Tag>
+		<Russian>&#195;&#229;&#240;&#246;&#238;&#227;&#241;&#242;&#226;&#238; &#192;&#237;&#230;&#243;</Russian>
+		<English>Duchy of Anjou</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HOLY_ROME_ENGLISH_VASSAL</Tag>
+		<Russian>&#195;&#229;&#240;&#246;&#238;&#227;&#241;&#242;&#226;&#238; &#195;&#224;&#237;&#238;&#226;&#229;&#240;&#241;&#234;&#238;&#229;</Russian>
+		<English>Duchy of Hanover</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_ENGLISH_VASSAL</Tag>
+		<Russian>&#206;&#234;&#234;&#243;&#239;&#232;&#240;&#238;&#226;&#224;&#237;&#237;&#224;&#255; &#225;&#240;&#232;&#242;&#224;&#237;&#246;&#224;&#236;&#232; &#195;&#229;&#240;&#236;&#224;&#237;&#232;&#255;</Russian>
+		<English>British-Occupied Germany</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NETHERLANDS_ENGLISH_VASSAL</Tag>
+		<Russian>&#195;&#229;&#240;&#246;&#238;&#241;&#242;&#226;&#238; &#212;&#235;&#224;&#237;&#228;&#240;&#232;&#255;</Russian>
+		<English>Duchy of Flanders</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_ENGLISH_VASSAL</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#224;&#255; &#199;&#224;&#239;&#224;&#228;&#237;&#224;&#255; &#192;&#244;&#240;&#232;&#234;&#224;</Russian>
+		<English>British West Africa</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_ENGLISH_VASSAL</Tag>
+		<Russian>&#196;&#238;&#236;&#232;&#237;&#232;&#238;&#237; &#207;&#229;&#240;&#243;</Russian>
+		<English>Dominion of Peru</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTECS_ENGLISH_VASSAL</Tag>
+		<Russian>&#196;&#238;&#236;&#232;&#237;&#232;&#238;&#237; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<English>Dominion of Mexico</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TURKEY_ENGLISH_VASSAL</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#232;&#233; &#236;&#224;&#237;&#228;&#224;&#242; &#226; &#210;&#243;&#240;&#246;&#232;&#232;</Russian>
+		<English>British Mandate of Turkey</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MUGHALS_ENGLISH_VASSAL</Tag>
+		<Russian>&#196;&#238;&#236;&#232;&#237;&#232;&#238;&#237; &#207;&#224;&#234;&#232;&#241;&#242;&#224;&#237;</Russian>
+		<English>Dominion of Pakistan</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_THAILAND_ENGLISH_VASSAL</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#232;&#233; &#209;&#232;&#224;&#236;</Russian>
+		<English>British Siam</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AMERICA_ENGLISH_VASSAL</Tag>
+		<Russian>&#210;&#240;&#232;&#237;&#224;&#228;&#246;&#224;&#242;&#252; &#234;&#238;&#235;&#238;&#237;&#232;&#233;</Russian>
+		<English>Thirteen Colonies</English>
+	</TEXT>
+</Civ4GameText>

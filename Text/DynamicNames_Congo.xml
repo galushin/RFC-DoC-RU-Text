@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CONGO_DESC</Tag>
+		<Russian>&#202;&#238;&#237;&#227;&#238;</Russian>
+		<English>The Congolese</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CONGO_DESC_PEOPLES</Tag>
+		<Russian>&#205;&#224;&#240;&#238;&#228; &#225;&#224;&#234;&#238;&#237;&#227;&#238;</Russian>
+		<English>Congolese Peoples</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CONGO_DESC_DEFAULT</Tag>
+		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#202;&#238;&#237;&#227;&#238;</Russian>
+		<English>Kingdom of Kongo</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CONGO_DESC_DEMOCRATIC</Tag>
+		<Russian>&#196;&#229;&#236;&#238;&#234;&#240;&#224;&#242;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#202;&#238;&#237;&#227;&#238;</Russian>
+		<English>Democratic Republic of the Congo</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CONGO_DESC_COMMUNIST</Tag>
+		<Russian>&#205;&#224;&#240;&#238;&#228;&#237;&#224;&#255; &#240;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#202;&#238;&#237;&#227;&#238;</Russian>
+		<English>People's Republic of the Congo</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CONGO_DESC_FASCIST</Tag>
+		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#199;&#224;&#232;&#240;</Russian>
+		<English>Republic of Zaire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CONGO_SOVIET_VASSAL</Tag>
+		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#238;&#229; &#202;&#238;&#237;&#227;&#238;</Russian>
+		<English>Soviet Congo</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CONGO_NAZI_VASSAL</Tag>
+		<Russian>&#195;&#229;&#240;&#236;&#224;&#237;&#241;&#234;&#238;&#229; &#202;&#238;&#237;&#227;&#238;</Russian>
+		<English>German Congo</English>
+	</TEXT>
+</Civ4GameText>

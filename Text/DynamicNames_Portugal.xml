@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PORTUGAL_DESC</Tag>
+		<Russian>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#246;&#251;</Russian>
+		<English>The Portuguese</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PORTUGAL_DESC_PEOPLES</Tag>
+		<Russian>&#203;&#243;&#231;&#232;&#242;&#224;&#237;&#251;</Russian>
+		<English>Lusitanian Peoples</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PORTUGAL_DESC_DEFAULT</Tag>
+		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#232;&#255;</Russian>
+		<English>Kingdom of Portugal</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PORTUGAL_DESC_DEMOCRATIC</Tag>
+		<Russian>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#241;&#234;&#224;&#255; &#240;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<English>Portuguese Republic</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PORTUGAL_DESC_COMMUNIST</Tag>
+		<Russian>Portuguese Continuing Revolutionary Process</Russian>
+		<English>Portuguese Continuing Revolutionary Process</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PORTUGAL_DESC_FASCIST</Tag>
+		<Russian>New State of Portugal</Russian>
+		<English>New State of Portugal</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PORTUGAL_EMPIRE</Tag>
+		<Russian>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Portuguese Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PORTUGAL_BRAZIL</Tag>
+		<Russian>United Kingdom of Portugal and Brazil</Russian>
+		<English>United Kingdom of Portugal and Brazil</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PORTUGAL_EXILE</Tag>
+		<Russian>Portuguese Government in Exile</Russian>
+		<English>Portuguese Government in Exile</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_PORTUGUESE_VASSAL</Tag>
+		<Russian>Viceroyalty of Portuguese India</Russian>
+		<English>Viceroyalty of Portuguese India</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDONESIA_PORTUGUESE_VASSAL</Tag>
+		<Russian>Portuguese East Indies</Russian>
+		<English>Portuguese East Indies</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTECS_PORTUGUESE_VASSAL</Tag>
+		<Russian>Portuguese Mexico</Russian>
+		<English>Portuguese Mexico</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_PORTUGUESE_VASSAL</Tag>
+		<Russian>Portuguese Yucat&#225;n</Russian>
+		<English>Portuguese Yucat&#225;n</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_PORTUGUESE_VASSAL</Tag>
+		<Russian>Portuguese Peru</Russian>
+		<English>Portuguese Peru</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PORTUGAL_SOVIET_VASSAL</Tag>
+		<Russian>Soviet Portugal</Russian>
+		<English>Soviet Portugal</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PORTUGAL_NAZI_VASSAL</Tag>
+		<Russian>Reichskommissariat Portugal</Russian>
+		<English>Reichskommissariat Portugal</English>
+	</TEXT>
+</Civ4GameText>

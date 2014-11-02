@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_DESC</Tag>
+		<Russian>&#200;&#237;&#234;&#232;</Russian>
+		<English>The Inca</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_DESC_PEOPLES</Tag>
+		<Russian>&#205;&#224;&#240;&#238;&#228;&#251; &#192;&#237;&#228;</Russian>
+		<English>Andean Peoples</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_DESC_DEFAULT</Tag>
+		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#202;&#243;&#241;&#234;&#238;</Russian>
+		<English>Kingdom of Cuzco</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_DESC_DEMOCRATIC</Tag>
+		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#200;&#237;&#234;&#238;&#226;</Russian>
+		<English>Incan Republic</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_DESC_COMMUNIST</Tag>
+		<Russian>&#208;&#229;&#226;&#238;&#235;&#254;&#246;&#232;&#238;&#237;&#237;&#238;&#229; &#196;&#226;&#232;&#230;&#229;&#237;&#232;&#229; &#200;&#237;&#234;&#238;&#226;</Russian>
+		<English>Incan Revolutionary Movement</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_DESC_FASCIST</Tag>
+		<Russian>&#207;&#240;&#224;&#226;&#232;&#242;&#229;&#235;&#252;&#241;&#242;&#226;&#238; &#226;&#238;&#238;&#240;&#243;&#230;&#229;&#237;&#237;&#251;&#245; &#241;&#232;&#235; &#200;&#237;&#234;&#238;&#226;</Russian>
+		<English>Government of the Incan Armed Forces</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERU_SHORT_DESC</Tag>
+		<Russian>&#207;&#229;&#240;&#243;</Russian>
+		<English>Peru</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERU_ADJECTIVE</Tag>
+		<Russian>&#207;&#229;&#240;&#243;&#224;&#237;&#246;&#251;</Russian>
+		<English>Peruvian</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_EMPIRE</Tag>
+		<Russian>&#215;&#229;&#242;&#251;&#240;&#229; &#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#232; &#200;&#237;&#234;&#238;&#226;</Russian>
+		<English>Four Incan Regions</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_BOLIVIA</Tag>
+		<Russian>Republic of Bolivia</Russian>
+		<English>Republic of Bolivia</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_PERU</Tag>
+		<Russian>Republic of Peru</Russian>
+		<English>Republic of Peru</English>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_GOAL_ACCOMPLISHED</Tag>
+		<Russian>&#214;&#229;&#235;&#252; &#226;&#251;&#239;&#238;&#235;&#237;&#229;&#237;&#224;!</Russian>
+		<English>Goal accomplished!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_GOAL_FAILED</Tag>
+		<Russian>&#214;&#229;&#235;&#252; &#237;&#229; &#226;&#251;&#239;&#238;&#235;&#237;&#229;&#237;&#224;!</Russian>
+		<English>Goal failed!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_GOAL_FAILED_ANNOUNCE</Tag>
+		<Russian>&#194;&#224;&#236; &#237;&#229; &#243;&#228;&#224;&#235;&#238;&#241;&#252; &#226;&#251;&#239;&#238;&#235;&#237;&#232;&#242;&#252; &#246;&#229;&#235;&#252; %d1 &#232;&#241;&#242;&#238;&#240;&#232;&#247;&#229;&#241;&#234;&#238;&#233; &#239;&#238;&#225;&#229;&#228;&#251;!</Russian>
+		<English>You have failed goal %d1 of your historical victory!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TOTAL_CULTURE</Tag>
+		<Russian>&#200;&#242;&#238;&#227;&#238; [ICON_CULTURE]: %d1 / %d2</Russian>
+		<English>Total culture: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_HINDU_SHRINE</Tag>
+		<Russian>&#209;&#226;&#255;&#242;&#251;&#237;&#255; &#232;&#237;&#228;&#243;&#232;&#231;&#236;&#224;</Russian>
+		<English>Hindu Shrine</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_BUDDHIST_SHRINE</Tag>
+		<Russian>&#209;&#226;&#255;&#242;&#251;&#237;&#255; &#225;&#243;&#228;&#228;&#232;&#231;&#236;&#224;</Russian>
+		<English>Buddhist Shrine</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TEMPLES_BUILT</Tag>
+		<Russian>&#207;&#238;&#241;&#242;&#240;&#238;&#229;&#237;&#238; &#245;&#240;&#224;&#236;&#238;&#226;: %d1 / %d2</Russian>
+		<English>Temples built: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_PERCENTAGE_WORLD_POPULATION</Tag>
+		<Russian>&#196;&#238;&#235;&#255; &#237;&#224;&#241;&#229;&#235;&#229;&#237;&#232;&#255; &#236;&#232;&#240;&#224;: %s1 / %s2%%</Russian>
+		<English>Percentage of world population: %s1 / %s2%%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_CONFUCIAN_ACADEMIES</Tag>
+		<Russian>&#202;&#238;&#237;&#244;&#243;&#246;&#232;&#224;&#237;&#241;&#234;&#232;&#229; &#224;&#234;&#224;&#228;&#229;&#236;&#232;&#232;: %d1 / %d2</Russian>
+		<English>Confucian Academies: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_TAOIST_PAGODAS</Tag>
+		<Russian>&#210;&#224;&#238;&#241;&#232;&#242;&#241;&#234;&#232;&#229; &#239;&#224;&#227;&#238;&#228;&#251;: %d1 / %d2</Russian>
+		<English>Taoist Pagodas: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_GOLDEN_AGES</Tag>
+		<Russian>&#199;&#238;&#235;&#238;&#242;&#251;&#229; &#226;&#229;&#234;&#224;: %d1 / %d2</Russian>
+		<English>Golden Ages: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_MOST_POPULOUS_CITY</Tag>
+		<Russian>&#209;&#224;&#236;&#251;&#233; &#237;&#224;&#241;&#229;&#235;&#229;&#237;&#237;&#251;&#233; &#227;&#238;&#240;&#238;&#228;: %s1_city</Russian>
+		<English>Most populous city: %s1_city</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_MOST_CULTURED_CITY</Tag>
+		<Russian>&#209;&#224;&#236;&#251;&#233; &#234;&#243;&#235;&#252;&#242;&#243;&#240;&#237;&#251;&#233; &#227;&#238;&#240;&#238;&#228;: %s1_city</Russian>
+		<English>Most cultured city: %s1_city</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_PERCENTAGE_WORLD_TERRITORY</Tag>
+		<Russian>&#196;&#238;&#235;&#255; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#232; &#236;&#232;&#240;&#224;: %s1 / %s2%%</Russian>
+		<English>Percentage of world territory: %s1 / %s2%%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_WONDERS</Tag>
+		<Russian>&#202;&#238;&#235;&#232;&#247;&#229;&#241;&#242;&#226;&#238; &#247;&#243;&#228;&#229;&#241;: %d1 / %d2</Russian>
+		<English>Wonders: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_SHRINES</Tag>
+		<Russian>&#202;&#238;&#235;&#232;&#247;&#229;&#241;&#242;&#226;&#238; &#241;&#226;&#255;&#242;&#251;&#237;&#252;: %d1 / %d2</Russian>
+		<English>Shrines: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_OPEN_BORDERS</Tag>
+		<Russian>&#209;&#238;&#227;&#235;&#224;&#248;&#229;&#237;&#232;&#233; &#238;&#225; &#238;&#242;&#234;&#240;&#251;&#242;&#251;&#245; &#227;&#240;&#224;&#237;&#232;&#246;&#224;&#245;: %d1 / %d2</Russian>
+		<English>Open border agreements: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TRANSOXANIA</Tag>
+		<Russian>&#210;&#240;&#224;&#237;&#241;&#238;&#234;&#241;&#232;&#224;&#237;&#224;</Russian>
+		<English>Transoxania</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NORTHWEST_INDIA</Tag>
+		<Russian>&#209;&#229;&#226;&#229;&#240;&#238;&#231;&#224;&#239;&#224;&#228;&#237;&#224;&#255; &#200;&#237;&#228;&#232;&#255;</Russian>
+		<English>Northwest India</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_MOST_CULTURED_CITY_VALUE</Tag>
+		<English>Most cultured city: %s1_city (%d2 / %d3)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_MEDITERRANEAN_CITIES</Tag>
+		<Russian>&#209;&#240;&#229;&#228;&#232;&#231;&#229;&#236;&#237;&#238;&#236;&#238;&#240;&#241;&#234;&#232;&#229; &#227;&#238;&#240;&#238;&#228;&#224;: %d1 / %d2</Russian>
+		<English>Mediterranean cities: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_AVAILABLE_DYE_RESOURCES</Tag>
+		<Russian>&#196;&#238;&#241;&#242;&#243;&#239;&#237;&#251;&#229; &#240;&#229;&#241;&#243;&#240;&#241;&#251; &#234;&#240;&#224;&#241;&#234;&#232;: %d1 / %d2</Russian>
+		<English>Available dye resources: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_LARGEST_MAP</Tag>
+		<Russian>&#209;&#224;&#236;&#224;&#255; &#225;&#238;&#235;&#252;&#248;&#224;&#255; &#234;&#224;&#240;&#242;&#224;: </Russian>
+		<English>Largest map: </English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_IBERIA_CARTHAGE</Tag>
+		<Russian>&#200;&#225;&#229;&#240;&#232;&#255;</Russian>
+		<English>Iberia</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ITALY</Tag>
+		<Russian>&#200;&#242;&#224;&#235;&#232;&#255;</Russian>
+		<English>Italy</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_HIGHEST_COMMERCE_CIV</Tag>
+		<Russian>&#205;&#224;&#232;&#225;&#238;&#235;&#252;&#248;&#224;&#255; &#234;&#238;&#236;&#236;&#229;&#240;&#224;&#246;&#232;&#255; &#237;&#224; &#227;&#238;&#240;&#238;&#228;: %s1</Russian>
+		<English>Highest commerce per city: %s1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_BARRACKS</Tag>
+		<Russian>&#202;&#224;&#231;&#224;&#240;&#236;&#251;: %d1 / %d2</Russian>
+		<English>Barracks: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_AQUEDUCTS</Tag>
+		<Russian>&#192;&#234;&#226;&#229;&#228;&#243;&#234;&#232;: %d1 / %d2</Russian>
+		<English>Aqueducts: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_AMPHITHEATRES</Tag>
+		<Russian>&#192;&#236;&#244;&#232;&#242;&#229;&#224;&#242;&#240;&#251;: %d1 / %d2</Russian>
+		<English>Amphitheatres: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_FORUMS</Tag>
+		<Russian>&#212;&#238;&#240;&#243;&#236;&#251;: %d1 / %d2</Russian>
+		<English>Forums: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ROME_CONTROL_SPAIN</Tag>
+		<Russian>&#200;&#225;&#229;&#240;&#232;&#255;: %d1 / %d2</Russian>
+		<English>Iberia: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ROME_CONTROL_FRANCE</Tag>
+		<English>Gaul: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ROME_CONTROL_ENGLAND</Tag>
+		<English>Britain: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ROME_CONTROL_CARTHAGE</Tag>
+		<English>Africa: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ROME_CONTROL_BYZANTIUM</Tag>
+		<Russian>&#195;&#240;&#229;&#246;&#232;&#255; &#232; &#192;&#237;&#224;&#242;&#238;&#235;&#232;&#255;: %d1 / %d2</Russian>
+		<English>Greece and Anatolia: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ROME_CONTROL_EGYPT</Tag>
+		<Russian>&#197;&#227;&#232;&#239;&#229;&#242;: %d1 / %d2</Russian>
+		<English>Egypt: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_MANCHURIA</Tag>
+		<Russian>&#204;&#224;&#237;&#252;&#247;&#230;&#243;&#240;&#232;&#255;</Russian>
+		<English>Manchuria</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_INDOCHINA</Tag>
+		<Russian>&#200;&#237;&#228;&#238;&#234;&#232;&#242;&#224;&#233;</Russian>
+		<English>Indochina</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_PHILIPPINES</Tag>
+		<Russian>&#212;&#232;&#235;&#232;&#239;&#239;&#232;&#237;&#251;</Russian>
+		<English>Philippines</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_AVAILABLE_INCENSE_RESOURCES</Tag>
+		<Russian>&#196;&#238;&#241;&#242;&#243;&#239;&#237;&#251;&#229; &#232;&#241;&#242;&#238;&#247;&#237;&#232;&#234;&#232; &#225;&#235;&#224;&#227;&#238;&#226;&#238;&#237;&#232;&#233;: %d1 / %d2</Russian>
+		<English>Available incense resources: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NO_AFRICAN_COLONIES_CURRENT</Tag>
+		<Russian>&#194; &#237;&#224;&#241;&#242;&#238;&#255;&#249;&#232;&#233; &#236;&#238;&#236;&#229;&#237;&#242; &#229;&#226;&#240;&#238;&#239;&#229;&#233;&#241;&#234;&#232;&#245; &#234;&#238;&#235;&#238;&#237;&#232;&#233; &#226; &#194;&#238;&#241;&#242;&#238;&#247;&#237;&#238;&#233; &#232; &#209;&#243;&#225;&#253;&#234;&#226;&#224;&#242;&#238;&#240;&#232;&#224;&#235;&#252;&#237;&#238;&#233; &#192;&#244;&#240;&#232;&#234;&#229; &#237;&#229;&#242;</Russian>
+		<English>Currently no European colonies in East and Subequatorial Africa</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NO_AFRICAN_COLONIES_1500</Tag>
+		<Russian>&#205;&#229; &#228;&#238;&#239;&#243;&#241;&#242;&#232;&#242;&#252; &#241;&#243;&#249;&#229;&#241;&#242;&#226;&#238;&#226;&#224;&#237;&#232;&#255; &#229;&#226;&#240;&#238;&#239;&#229;&#233;&#241;&#234;&#232;&#245; &#234;&#238;&#235;&#238;&#232;&#237;&#233; &#226; &#194;&#238;&#241;&#242;&#238;&#247;&#237;&#238;&#233; &#232; &#209;&#243;&#225;&#253;&#234;&#226;&#224;&#242;&#238;&#240;&#232;&#224;&#235;&#252;&#237;&#238;&#233; &#192;&#244;&#240;&#232;&#234;&#229; &#226; 1500 &#227;&#238;&#228;&#243;</Russian>
+		<English>No European colonies in East and Subequatorial Africa in 1500 AD</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NO_AFRICAN_COLONIES_1910</Tag>
+		<Russian>&#205;&#229; &#228;&#238;&#239;&#243;&#241;&#242;&#232;&#242;&#252; &#241;&#243;&#249;&#229;&#241;&#242;&#226;&#238;&#226;&#224;&#237;&#232;&#255; &#229;&#226;&#240;&#238;&#239;&#229;&#233;&#241;&#234;&#232;&#245; &#234;&#238;&#235;&#238;&#232;&#237;&#233; &#226; &#194;&#238;&#241;&#242;&#238;&#247;&#237;&#238;&#233; &#232; &#209;&#243;&#225;&#253;&#234;&#226;&#224;&#242;&#238;&#240;&#232;&#224;&#235;&#252;&#237;&#238;&#233; &#192;&#244;&#240;&#232;&#234;&#229; &#226; 1910 &#227;&#238;&#228;&#243;</Russian>
+		<English>No European colonies in East and Subequatorial Africa in 1910 AD</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ENEMY_SHIPS_SUNK</Tag>
+		<Russian>&#207;&#238;&#242;&#238;&#239;&#235;&#229;&#237;&#238; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#232;&#245; &#234;&#238;&#240;&#224;&#225;&#235;&#229;&#233;: %d1 / %d2</Russian>
+		<English>Enemy ships sunk: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TOTAL_GOLD</Tag>
+		<Russian>&#199;&#238;&#235;&#238;&#242;&#224; &#226; &#234;&#224;&#231;&#237;&#229;: %d1 / %d2</Russian>
+		<English>Gold in treasury: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_BALKANS</Tag>
+		<Russian>&#193;&#224;&#235;&#234;&#224;&#237;&#251;: %d1 / %d2</Russian>
+		<English>Balkans: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NORTH_AFRICA</Tag>
+		<Russian>&#209;&#229;&#226;&#229;&#240;&#237;&#224;&#255; &#192;&#244;&#240;&#232;&#234;&#224;: %d1 / %d2</Russian>
+		<English>North Africa: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NEAR_EAST</Tag>
+		<Russian>&#193;&#235;&#232;&#230;&#237;&#232;&#233; &#194;&#238;&#241;&#242;&#238;&#234; %d1 / %d2</Russian>
+		<English>Near East: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_EUROPEAN_CORE</Tag>
+		<Russian>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#252; &#237;&#224;&#228; &#255;&#228;&#240;&#238;&#236; &#229;&#226;&#240;&#238;&#239;&#229;&#233;&#241;&#234;&#238;&#233; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#232;</Russian>
+		<English>Controlling a European core</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ACQUIRED_GOLD</Tag>
+		<Russian>&#196;&#238;&#225;&#251;&#242;&#238; &#231;&#238;&#235;&#238;&#242;&#224;: %d1 / %d2</Russian>
+		<English>Acquired gold: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_MOST_ADVANCED_CIV</Tag>
+		<Russian>&#209;&#224;&#236;&#224;&#255; &#240;&#224;&#231;&#226;&#232;&#242;&#224;&#255; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#255;: %s1</Russian>
+		<English>Most advanced civilization: %s1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_MAGHREB</Tag>
+		<Russian>&#204;&#224;&#227;&#240;&#232;&#225;</Russian>
+		<English>Maghreb</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_MESOPOTAMIA</Tag>
+		<Russian>&#204;&#229;&#230;&#228;&#243;&#240;&#229;&#247;&#252;&#229;</Russian>
+		<English>Mesopotamia</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_SPREAD_RELIGION_PERCENT</Tag>
+		<Russian>&#208;&#224;&#241;&#239;&#240;&#238;&#241;&#242;&#240;&#224;&#237;&#229;&#237;&#232;&#229; &#240;&#229;&#235;&#232;&#227;&#232;&#232; %s1_religion: %s2 / %s3%%</Russian>
+		<English>%s1_religion spread to: %s2 / %s3%%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_BUDDHIST_MONASTERIES</Tag>
+		<Russian>&#193;&#243;&#228;&#228;&#232;&#241;&#242;&#241;&#234;&#232;&#229; &#236;&#238;&#237;&#224;&#241;&#242;&#251;&#240;&#232;: %d1 / %d2</Russian>
+		<English>Buddhist monasteries: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_HINDU_MONASTERIES</Tag>
+		<Russian>&#200;&#237;&#228;&#243;&#232;&#241;&#242;&#241;&#234;&#232;&#229; &#236;&#238;&#237;&#224;&#241;&#242;&#251;&#240;&#232;: %d1 / %d2</Russian>
+		<English>Hindu monasteries: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_AVERAGE_CITY_POPULATION</Tag>
+		<Russian>&#209;&#240;&#229;&#228;&#237;&#229;&#229; &#237;&#224;&#241;&#229;&#235;&#229;&#237;&#232;&#229; &#227;&#238;&#240;&#238;&#228;&#238;&#226;: %s1 / %s2</Russian>
+		<English>Average city population: %s1 / %s2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_HIGHEST_POPULATION_CIV</Tag>
+		<Russian>&#214;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#255; &#241; &#241;&#224;&#236;&#251;&#236; &#225;&#238;&#235;&#252;&#248;&#232;&#236; &#237;&#224;&#241;&#229;&#235;&#229;&#237;&#232;&#229;&#236;: </Russian>
+		<English>Civilization with the largest population: </English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_HAPPINESS_RESOURCES</Tag>
+		<Russian>&#194;&#235;&#224;&#228;&#229;&#237;&#232;&#229; &#240;&#229;&#241;&#243;&#240;&#241;&#224;&#236;&#232; &#240;&#238;&#241;&#234;&#238;&#248;&#232;: %d1 / %d2</Russian>
+		<English>Owned happiness resources: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_GOLD_SILVER_RESOURCES</Tag>
+		<Russian>&#194;&#235;&#224;&#228;&#229;&#237;&#232;&#229; &#236;&#229;&#241;&#242;&#238;&#240;&#238;&#230;&#228;&#229;&#237;&#232;&#255;&#236;&#232; &#231;&#238;&#235;&#238;&#242;&#224; &#232; &#241;&#229;&#240;&#229;&#225;&#240;&#224;: %d1 / %d2</Russian>
+		<English>Gold and silver resources secured: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_LARGEST_EMPIRE_CIV</Tag>
+		<Russian>&#202;&#240;&#243;&#239;&#237;&#229;&#233;&#248;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;: </Russian>
+		<English>Largest empire: </English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NO_PROTESTANTS</Tag>
+		<Russian>&#194; &#197;&#226;&#240;&#238;&#239;&#229; &#237;&#229;&#242; &#239;&#240;&#238;&#242;&#229;&#241;&#242;&#224;&#237;&#242;&#241;&#234;&#232;&#245; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#233;</Russian>
+		<English>No Protestant civilizations in Europe</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CITY_CULTURE</Tag>
+		<Russian>[ICON_CULTURE] &#226; &#227;&#238;&#240;&#238;&#228;&#229; %s1_city: %d2 / %d3</Russian>
+		<English>Culture in %s1_city: %d2 / %d3</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_EUROPEAN_TERRITORY</Tag>
+		<Russian>&#197;&#226;&#240;&#238;&#239;&#229;&#233;&#241;&#234;&#224;&#255; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#255;: %s1 / %s2%%</Russian>
+		<English>European territory: %s1 / %s2%%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NORTH_AMERICAN_TERRITORY</Tag>
+		<Russian>&#210;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#255; &#209;&#229;&#226;&#229;&#240;&#237;&#238;&#233; &#192;&#236;&#229;&#240;&#232;&#234;&#232;: %s1 / %s2%%</Russian>
+		<English>North American territory: %s1 / %s2%%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ENGLAND_CONTROL_NORTH_AMERICA</Tag>
+		<Russian>&#209;&#229;&#226;&#229;&#240;&#237;&#224;&#255; &#192;&#236;&#229;&#240;&#232;&#234;&#224;: %d1 / %d2</Russian>
+		<English>North America: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ENGLAND_CONTROL_ASIA</Tag>
+		<Russian>&#192;&#231;&#232;&#255;: %d1 / %d2</Russian>
+		<English>Asia: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ENGLAND_CONTROL_AFRICA</Tag>
+		<Russian>&#192;&#244;&#240;&#232;&#234;&#224;: %d1 / %d2</Russian>
+		<English>Africa: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ENGLAND_CONTROL_SOUTH_AMERICA</Tag>
+		<Russian>&#222;&#230;&#237;&#224;&#255; &#192;&#236;&#229;&#240;&#232;&#234;&#224;, &#214;&#229;&#237;&#242;&#240;&#224;&#235;&#252;&#237;&#224;&#255; &#192;&#236;&#229;&#240;&#232;&#234;&#224; &#232; &#202;&#224;&#240;&#232;&#225;&#251;: %d1 / %d2</Russian>
+		<English>South America, Central America and the Caribbean: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ENGLAND_CONTROL_OCEANIA</Tag>
+		<Russian>&#192;&#226;&#241;&#242;&#240;&#224;&#235;&#232;&#255; &#232; &#206;&#234;&#229;&#224;&#237;&#232;&#255;: %d1 / %d2</Russian>
+		<English>Australia and Oceania: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NAVY_SIZE</Tag>
+		<Russian>&#200;&#242;&#238;&#227;&#238; &#244;&#240;&#232;&#227;&#224;&#242;&#238;&#226; &#232; &#235;&#232;&#237;&#229;&#233;&#237;&#251;&#245; &#234;&#238;&#240;&#224;&#225;&#235;&#229;&#233;: %d1 / %d2</Russian>
+		<English>Total of frigates and ships of the line: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_FIRST_ENTER_INDUSTRIAL</Tag>
+		<Russian>&#207;&#229;&#240;&#226;&#251;&#236; &#226;&#238;&#233;&#242;&#232; &#226; &#207;&#240;&#238;&#236;&#251;&#248;&#235;&#229;&#237;&#237;&#243;&#254; &#221;&#240;&#243;</Russian>
+		<English>First to enter the Industrial Era</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_FIRST_ENTER_MODERN</Tag>
+		<Russian>&#207;&#229;&#240;&#226;&#251;&#236; &#226;&#238;&#233;&#242;&#232; &#226; &#209;&#238;&#226;&#240;&#229;&#236;&#229;&#237;&#237;&#243;&#254; &#253;&#240;&#243;</Russian>
+		<English>First to enter the Modern Era</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_VASSALS</Tag>
+		<Russian>&#202;&#238;&#235;&#232;&#247;&#229;&#241;&#242;&#226;&#238; &#226;&#224;&#241;&#241;&#224;&#235;&#238;&#226;: %d1 / %d2</Russian>
+		<English>Number of vassals: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_GREAT_PEOPLE_IN_CITY</Tag>
+		<Russian>&#194;&#229;&#235;&#232;&#234;&#232;&#245; &#235;&#254;&#228;&#229;&#233; &#226; &#227;&#238;&#240;&#238;&#228;&#229; %s1_city: %d2 / %d3</Russian>
+		<English>Great people in %s1_city: %d2 / %d3</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_SCANDINAVIA</Tag>
+		<Russian>&#209;&#234;&#224;&#237;&#228;&#232;&#237;&#224;&#226;&#232;&#255;</Russian>
+		<English>Scandinavia</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_RUSSIA_CONTROL_SIBERIA</Tag>
+		<English>Cities in Siberia: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TRANSSIBERIAN_RAILWAY</Tag>
+		<Russian>&#198;&#229;&#235;&#229;&#231;&#237;&#224;&#255; &#228;&#238;&#240;&#238;&#227;&#224; &#232;&#231; &#204;&#238;&#241;&#234;&#226;&#251; &#226; &#209;&#232;&#225;&#232;&#240;&#241;&#234;&#232;&#233; &#239;&#238;&#240;&#242;</Russian>
+		<English>Railroad from Moscow to a Siberian port</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_COMMUNIST_BROTHERS</Tag>
+		<Russian>&#193;&#240;&#224;&#242;&#252;&#255;-&#234;&#238;&#236;&#236;&#243;&#237;&#232;&#241;&#242;&#251;: %d1 / %d2</Russian>
+		<English>Communist brothers: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_GREAT_MERCHANTS_IN_CITY</Tag>
+		<Russian>&#194;&#229;&#235;&#232;&#234;&#232;&#245; &#242;&#238;&#240;&#227;&#238;&#226;&#246;&#229;&#226; &#226; &#227;&#238;&#240;&#238;&#228;&#229; %s1_city: %d2 / %d3</Russian>
+		<English>Great merchants in %s1_city: %d2 / %d3</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_EUROPEAN_COLONIES_CONQUERED</Tag>
+		<Russian>&#199;&#224;&#226;&#238;&#229;&#226;&#224;&#237;&#238; &#229;&#226;&#240;&#238;&#239;&#229;&#233;&#241;&#234;&#232;&#245; &#234;&#238;&#235;&#238;&#237;&#232;&#233;: %d1 / %d2</Russian>
+		<English>European colonies conquered: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_AVAILABLE_SPICE_RESOURCES</Tag>
+		<Russian>&#196;&#238;&#241;&#242;&#243;&#239;&#237;&#251;&#229; &#240;&#229;&#241;&#243;&#240;&#241;&#251; &#239;&#240;&#255;&#237;&#238;&#241;&#242;&#229;&#233;: %d1 / %d2</Russian>
+		<English>Available spice resources: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_RICHEST_CIVILIZATION</Tag>
+		<Russian>&#193;&#238;&#227;&#224;&#242;&#229;&#233;&#248;&#224;&#255; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#255;: </Russian>
+		<English>Richest civilization: </English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_COLONIAL_RESOURCES</Tag>
+		<Russian>&#196;&#238;&#241;&#242;&#243;&#239;&#237;&#251;&#245; &#234;&#238;&#235;&#238;&#237;&#232;&#224;&#235;&#252;&#237;&#251;&#245; &#240;&#229;&#241;&#243;&#240;&#241;&#238;&#226;: %d1 / %d2</Russian>
+		<English>Available colonial resources: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_EXTRA_EUROPEAN_COLONIES</Tag>
+		<Russian>&#202;&#238;&#235;&#238;&#237;&#232;&#233; &#226; &#193;&#240;&#224;&#231;&#232;&#235;&#232;&#233;, &#192;&#244;&#240;&#232;&#234;&#229; &#232; &#192;&#231;&#232;&#232;: %d1 / %d2</Russian>
+		<English>Colonies in Brazil, Africa and Asia: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NO_SOUTH_AMERICAN_COLONIES</Tag>
+		<Russian>&#205;&#229; &#228;&#238;&#239;&#243;&#241;&#242;&#232;&#242;&#252; &#229;&#226;&#240;&#238;&#239;&#229;&#233;&#241;&#234;&#232;&#245; &#234;&#238;&#235;&#238;&#237;&#232;&#233; &#226; &#222;&#230;&#237;&#238;&#233; &#192;&#236;&#229;&#240;&#232;&#234;&#229; (&#234;&#240;&#238;&#236;&#229; &#193;&#240;&#224;&#231;&#232;&#235;&#232;&#232;)</Russian>
+		<English>No European colonies in South America (except Brazil)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_CITIES_INFLUENTIAL_CULTURE</Tag>
+		<Russian>&#202;&#238;&#235;&#232;&#247;&#229;&#241;&#242;&#226;&#238; &#227;&#238;&#240;&#238;&#228;&#238;&#226; &#241; &#226;&#235;&#232;&#255;&#242;&#229;&#235;&#252;&#237;&#238;&#233; &#234;&#243;&#235;&#252;&#242;&#243;&#240;&#238;&#233;: %d1 / %d2</Russian>
+		<English>Cities with influential culture: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_MEDITERRANEAN_TERRITORY</Tag>
+		<Russian>&#210;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#255; &#241;&#240;&#229;&#228;&#232;&#231;&#229;&#236;&#237;&#238;&#236;&#238;&#240;&#252;&#255;: %s1 / %s2%%</Russian>
+		<English>Mediterranean territory: %s1 / %s2%%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_CITIES_RAZED</Tag>
+		<Russian>&#208;&#224;&#231;&#238;&#240;&#229;&#237;&#238; &#227;&#238;&#240;&#238;&#228;&#238;&#226;: %d1 / %d2</Russian>
+		<English>Cities razed: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_MOSQUES_BUILT</Tag>
+		<Russian>&#207;&#238;&#241;&#242;&#240;&#238;&#229;&#237;&#238; &#236;&#229;&#247;&#229;&#242;&#229;&#233;: %d1 / %d2</Russian>
+		<English>Mosques built: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ENSLAVED_UNITS</Tag>
+		<Russian>&#207;&#238;&#240;&#224;&#225;&#238;&#249;&#229;&#237;&#238; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#232;&#245; &#238;&#242;&#240;&#255;&#228;&#238;&#226;: %d1 / %d2</Russian>
+		<English>Enslaved units: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NO_CENTRAL_AMERICAN_COLONIES</Tag>
+		<Russian>&#205;&#229;&#242; &#229;&#226;&#240;&#238;&#239;&#229;&#233;&#241;&#234;&#232;&#245; &#234;&#238;&#235;&#238;&#237;&#232;&#233; &#226; &#214;&#229;&#237;&#242;&#240;&#224;&#235;&#252;&#237;&#238;&#233; &#192;&#236;&#229;&#240;&#232;&#234;&#229;, &#222;&#230;&#237;&#251;&#245; &#209;&#216;&#192; &#232; &#237;&#224; &#202;&#224;&#240;&#232;&#225;&#224;&#245;</Russian>
+		<English>No European colonies in Central America, Southern USA and the Caribbean</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_WONDERS_CAPITAL</Tag>
+		<Russian>&#215;&#243;&#228;&#229;&#241; &#226; &#241;&#242;&#238;&#235;&#232;&#246;&#229;: %d1 / %d2</Russian>
+		<English>Wonders in capital: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_EASTERN_MEDITERRANEAN</Tag>
+		<Russian>&#194;&#238;&#241;&#242;&#238;&#247;&#237;&#238;&#229; &#209;&#240;&#229;&#228;&#232;&#231;&#229;&#236;&#237;&#238;&#236;&#238;&#240;&#252;&#229;</Russian>
+		<English>Eastern Mediterranean</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_BLACK_SEA</Tag>
+		<Russian>&#215;&#229;&#240;&#237;&#238;&#229; &#236;&#238;&#240;&#229;</Russian>
+		<English>Black Sea</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CAIRO</Tag>
+		<Russian>&#202;&#224;&#232;&#240;</Russian>
+		<English>Cairo</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_MECCA</Tag>
+		<Russian>&#204;&#229;&#234;&#234;&#224;</Russian>
+		<English>Mecca</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_BAGHDAD</Tag>
+		<Russian>&#193;&#224;&#227;&#228;&#224;&#228;</Russian>
+		<English>Baghdad</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_VIENNA</Tag>
+		<Russian>&#194;&#229;&#237;&#224;</Russian>
+		<English>Vienna</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_MOST_POWERFUL_CIV</Tag>
+		<Russian>&#209;&#224;&#236;&#224;&#255; &#236;&#238;&#249;&#237;&#224;&#255; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#255;:</Russian>
+		<English>Most powerful civilization: </English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NO_SOUTH_ASIAN_COLONIES</Tag>
+		<Russian>&#205;&#229;&#242; &#232;&#237;&#238;&#241;&#242;&#240;&#224;&#237;&#237;&#251;&#245; &#234;&#238;&#235;&#238;&#237;&#232;&#233; &#226; &#222;&#230;&#237;&#238;&#233; &#192;&#231;&#232;&#232;</Russian>
+		<English>No foreign colonies in South Asia</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NO_NORTH_AMERICAN_COLONIES</Tag>
+		<Russian>&#205;&#229;&#242; &#229;&#226;&#240;&#238;&#239;&#229;&#233;&#241;&#234;&#232;&#245; &#234;&#238;&#235;&#238;&#237;&#232;&#233; &#226; &#209;&#229;&#226;&#229;&#240;&#237;&#238;&#233; &#232; &#246;&#229;&#237;&#242;&#240;&#224;&#235;&#252;&#237;&#238;&#233; &#192;&#236;&#229;&#240;&#232;&#234;&#229; &#232; &#237;&#224; &#202;&#224;&#240;&#232;&#225;&#224;&#245;</Russian>
+		<English>No European colonies in North and Central America and the Caribbean</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_OIL_SECURED</Tag>
+		<Russian>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#232;&#240;&#243;&#229;&#236;&#251;&#229; &#232;&#241;&#242;&#238;&#247;&#237;&#232;&#234;&#232; &#237;&#229;&#244;&#242;&#232;: %d1 / %d2</Russian>
+		<English>Oil resources secured: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_DECCAN</Tag>
+		<Russian>&#196;&#229;&#234;&#224;&#237;</Russian>
+		<English>Deccan</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_SRIVIJAYA</Tag>
+		<Russian>&#216;&#240;&#232;&#226;&#232;&#228;&#230;&#224;&#255;</Russian>
+		<English>Srivijaya</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TRADE_GOLD</Tag>
+		<Russian>&#199;&#238;&#235;&#238;&#242;&#224; &#238;&#242; &#242;&#238;&#240;&#227;&#238;&#226;&#235;&#232;: %d1 / %d2</Russian>
+		<English>Gold from trade: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NO_CITIES</Tag>
+		<Russian>&#205;&#229; &#238;&#241;&#237;&#238;&#226;&#224;&#237;&#238; &#237;&#232; &#238;&#228;&#237;&#238;&#227;&#238; &#227;&#238;&#240;&#238;&#228;&#224;!</Russian>
+		<English>No cities founded yet!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CITY_SIZE</Tag>
+		<Russian>%s1_city: %d2 / %d3</Russian>
+		<English>%s1_city: %d2 / %d3</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CHRISTIAN_CATHEDRALS</Tag>
+		<Russian>&#207;&#238;&#241;&#242;&#240;&#238;&#229;&#237;&#238; &#245;&#240;&#232;&#241;&#242;&#232;&#224;&#237;&#241;&#234;&#232;&#245; &#241;&#238;&#225;&#238;&#240;&#238;&#226;: %d1 / %d2</Russian>
+		<English>Christian Cathedrals built: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_GREAT_PEOPLE_IN_CITY_MOORS</Tag>
+		<Russian>&#194;&#229;&#235;&#232;&#234;&#232;&#245; &#239;&#240;&#238;&#240;&#238;&#234;&#238;&#226;, &#243;&#247;&#229;&#237;&#251;&#245; &#232; &#232;&#237;&#230;&#229;&#237;&#229;&#240;&#238;&#226; &#226; &#227;&#238;&#240;&#238;&#228;&#229;  %s1_city: %d2 / %d3</Russian>
+		<English>Great prophets, scientists and engineers in %s1_city: %d2 / %d3</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_IBERIA</Tag>
+		<Russian>&#200;&#225;&#229;&#240;&#232;&#255;: %d1 / %d2</Russian>
+		<English>Iberia: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_MAGHREB_MOORS</Tag>
+		<Russian>&#204;&#224;&#227;&#240;&#229;&#225;: %d1 / %d2</Russian>
+		<English>Maghreb: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_WEST_AFRICA</Tag>
+		<Russian>&#199;&#224;&#239;&#224;&#228;&#237;&#224;&#255; &#192;&#244;&#240;&#232;&#234;&#224;: %d1 / %d2</Russian>
+		<English>West Africa: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_BEST_COMMERCE_CITY</Tag>
+		<Russian>&#193;&#238;&#235;&#252;&#248;&#229; &#226;&#241;&#229;&#227;&#238; &#234;&#238;&#236;&#236;&#229;&#240;&#246;&#232;&#232; &#226;: %s1_city</Russian>
+		<English>Most commerce in: %s1_city</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_APOSTOLIC_VOTE_PERCENT</Tag>
+		<Russian>&#195;&#238;&#235;&#238;&#241;&#238;&#226; &#226; &#192;&#239;&#238;&#241;&#242;&#238;&#235;&#252;&#241;&#234;&#238;&#236; &#196;&#226;&#238;&#240;&#246;&#229;: %s1 / %s2%%</Russian>
+		<English>Votes in the Apostolic Palace: %s1 / %s2%%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_SLAVES_TRADED</Tag>
+		<Russian>&#199;&#238;&#235;&#238;&#242;&#224; &#238;&#242; &#242;&#238;&#240;&#227;&#238;&#226;&#235;&#232; &#240;&#224;&#225;&#224;&#236;&#232;: %d1 / %d2</Russian>
+		<English>Gold from slave trade: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CITIES_ACQUIRED</Tag>
+		<Russian>&#194;&#235;&#224;&#228;&#229;&#237;&#232;&#229; &#227;&#238;&#240;&#238;&#228;&#224;&#236;&#232;: %d1 / %d2</Russian>
+		<English>Cities acquired: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_GREAT_PROPHETS_SETTLED</Tag>
+		<Russian>&#194;&#229;&#235;&#232;&#234;&#232;&#245; &#239;&#240;&#238;&#240;&#238;&#234;&#238;&#226; &#239;&#238;&#241;&#229;&#235;&#229;&#237;&#238; &#226; &#227;&#238;&#240;&#238;&#228;&#229; %s1_city: %d2 / %d3</Russian>
+		<English>Great prophets settled in %s1_city: %d2 / %d3</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_SANKORE_PROPHETS</Tag>
+		<Russian>&#194;&#229;&#235;&#232;&#234;&#232;&#245; &#239;&#240;&#238;&#240;&#238;&#234;&#238;&#226; &#239;&#238;&#241;&#229;&#235;&#229;&#237;&#238; &#226; &#227;&#238;&#240;&#238;&#228;&#229; &#209;&#224;&#237;&#234;&#238;&#240;: %d1 / %d2</Russian>
+		<English>Great prophets settled in the Sankore city: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_TEMPLES</Tag>
+		<English>Pagan Temples: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_ALTARS</Tag>
+		<English>Sacrificial Altars: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_TAMBOS</Tag>
+		<English>Tambos: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ANDEAN_ROAD</Tag>
+		<English>Road along the Andean Coast in your territory</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_SOUTH_AMERICAN_TERRITORY</Tag>
+		<English>South American territory: %s1 / %s2%%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CENTRAL_AMERICAN_CITIES</Tag>
+		<English>Central America: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_WESTERN_NORTH_AMERICA_CITIES</Tag>
+		<English>Western North America: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_LARGEST_RELIGION_CIV</Tag>
+		<English>Civilization with the largest Catholic population: </English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_IMPROVEMENTS</Tag>
+		<English>%s1: %d2 / %d3</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NATIONAL_PARK_CAPITAL</Tag>
+		<English>National Park in capital</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_GREAT_GENERALS_CAPITAL</Tag>
+		<English>Great Generals in capital: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_HIGHEST_COMMERCE_PER_CAPITA</Tag>
+		<English>Highest commerce per capita: %s1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_GREAT_GENERALS</Tag>
+		<English>Great Generals created: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_STATE_RELIGION_CATHEDRALS</Tag>
+		<English>%s1 Cathedrals built: %d2 / %d3</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_GREAT_ARTISTS_SETTLED</Tag>
+		<English>Great artists settled in %s1: %d2 / %d3</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NO_COLONIES_PERU</Tag>
+		<English>No colonies in Peru</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NO_COLONIES_GRAN_COLOMBIA</Tag>
+		<English>No colonies in Gran Colombia</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NO_COLONIES_GUAYANAS</Tag>
+		<English>No colonies in the Guayanas</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NO_COLONIES_CARIBBEAN</Tag>
+		<English>No colonies in the Caribbean</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CONTROL_SOUTH_AMERICA</Tag>
+		<English>South America</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TRADE_GOLD_RESOURCES</Tag>
+		<English>Gold from trading resources: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_PROTESTANT_MERCHANTS</Tag>
+		<English>Protestant great merchants: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_PROTESTANT_ENGINEERS</Tag>
+		<English>Protestant great engineers: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_PROTESTANT_CIVS</Tag>
+		<English>Protestant or secular civilizations: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_POPE_TURNS</Tag>
+		<English>Turns as Pope: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CATHOLIC_SAINTS</Tag>
+		<English>Catholic great prophets: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CATHOLIC_WORLD_TERRITORY</Tag>
+		<English>Territory controlled by Catholic civilizations: %s1 / %s2%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ORTHODOX_CATHEDRALS</Tag>
+		<English>Orthodox cathedrals: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ORTHODOX_CULTURE_CITIES</Tag>
+		<English>Top five Orthodox cities: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CITY_GREAT_PEOPLE</Tag>
+		<English>Great people in %s1: %d2 / %d3</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NO_CATHOLICS</Tag>
+		<English>No Catholic civilizations</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CITY_DIFFERENT_GREAT_PEOPLE</Tag>
+		<English>Different great people in %s1: %d2 / %d3</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_GOLDEN_AGE_TURNS</Tag>
+		<English>Golden age turns: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_HINDU_LARGEST_CITIES</Tag>
+		<English>Top five Hindu cities: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_PEACE_TURNS</Tag>
+		<English>Turns spent at peace: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_HAPPINESS_TURNS</Tag>
+		<English>Turns with highest approval rating: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NO_BAD_RELATIONS</Tag>
+		<English>No furious or annoyed relations</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_FRIENDLY_CIVS</Tag>
+		<English>Friendly civilizations: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CHINESE_SHRINE_INCOME</Tag>
+		<English>Combined shrine income: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TAOIST_CIVS</Tag>
+		<English>Other Taoist civilizations: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_HOLY_CITY_WONDERS</Tag>
+		<English>Wonders in %s1: %d2 / %d3</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_LEGENDARY_CULTURE_CITY</Tag>
+		<English>Legendary culture in %s1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CONTROL_HOLY_CITY</Tag>
+		<English>Control %s1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_PAGAN_TEMPLES_WORLD</Tag>
+		<English>Pagan temples in the world: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_NONRELIGIOUS_WONDERS</Tag>
+		<English>Controlled nonreligious wonders: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_POLYTHEISM_NEVER_RELIGION</Tag>
+		<English>Never more than half of all cities with a religion</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_DIFFERENT_TEMPLES</Tag>
+		<English>Temples of different religions: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_SECULAR_UNIVERSITIES</Tag>
+		<English>Universities in secular civilizations: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_PIRACY</Tag>
+		<English>Gold from piracy: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_HEALTH_TURNS</Tag>
+		<English>Turns with highest life expectancy rating: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CONTROL_NUM_UNITS</Tag>
+		<English>Number of melee and gunpowder units: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_</Tag>
+		<English></English>
+	</TEXT>
+</Civ4GameText>

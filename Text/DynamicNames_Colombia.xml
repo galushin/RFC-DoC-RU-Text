@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_COLOMBIA_DESC</Tag>
+		<Russian>&#202;&#238;&#235;&#243;&#236;&#225;&#232;&#233;&#246;&#251;</Russian>
+		<English>The Colombians</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_COLOMBIA_DESC_PEOPLES</Tag>
+		<Russian>&#205;&#224;&#240;&#238;&#228;&#251; &#202;&#238;&#235;&#243;&#236;&#225;&#232;&#232;</Russian>
+		<English>Colombian Peoples</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_COLOMBIA_DESC_DEFAULT</Tag>
+		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#205;&#238;&#226;&#238;&#233; &#195;&#240;&#224;&#237;&#224;&#228;&#251;</Russian>
+		<English>Kingdom of New Granada</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_COLOMBIA_DESC_DEMOCRATIC</Tag>
+		<Russian>&#202;&#238;&#235;&#243;&#236;&#225;&#232;&#233;&#241;&#234;&#224;&#255; &#240;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<English>Republic of Colombia</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_COLOMBIA_DESC_COMMUNIST</Tag>
+		<Russian>&#202;&#238;&#235;&#243;&#236;&#225;&#232;&#233;&#241;&#234;&#224;&#255; &#241;&#238;&#246;&#232;&#224;&#235;&#232;&#241;&#242;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#240;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<English>Socialist Republic of Colombia</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_COLOMBIA_DESC_FASCIST</Tag>
+		<Russian>&#202;&#238;&#235;&#243;&#236;&#225;&#232;&#233;&#241;&#234;&#224;&#255; &#245;&#243;&#237;&#242;&#224;</Russian>
+		<English>Colombian Junta</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_COLOMBIA_EMPIRE</Tag>
+		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#194;&#229;&#235;&#232;&#234;&#224;&#255; &#202;&#238;&#235;&#243;&#236;&#225;&#232;&#255;</Russian>
+		<English>Empire of Gran Colombia</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_COLOMBIA_SPANISH_VASSAL</Tag>
+		<Russian>&#194;&#232;&#246;&#229;&#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#205;&#238;&#226;&#238;&#233; &#195;&#240;&#224;&#237;&#224;&#228;&#251;</Russian>
+		<English>Viceroyalty of New Granada</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_COLOMBIA_SOVIET_VASSAL</Tag>
+		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#202;&#238;&#235;&#243;&#236;&#225;&#232;&#255;</Russian>
+		<English>Soviet Colombia</English>
+		</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_COLOMBIA_NAZI_VASSAL</Tag>
+		<Russian>&#195;&#229;&#240;&#236;&#224;&#237;&#241;&#234;&#224;&#255; &#202;&#238;&#235;&#243;&#236;&#225;&#232;&#255;</Russian>
+		<English>German Colombia</English>
+		</TEXT>
+</Civ4GameText>

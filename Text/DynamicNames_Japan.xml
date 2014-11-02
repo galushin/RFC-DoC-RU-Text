@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_DESC</Tag>
+		<Russian>&#223;&#239;&#238;&#237;&#246;&#251;</Russian>
+		<English>The Japanese</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_DESC_PEOPLES</Tag>
+		<Russian>&#205;&#224;&#240;&#238;&#228; &#223;&#236;&#224;&#242;&#238;</Russian>
+		<English>Yamato Peoples</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_DESC_DEFAULT</Tag>
+		<Russian>&#223;&#239;&#238;&#237;&#241;&#234;&#232;&#233; &#209;&#229;&#227;&#243;&#237;&#224;&#242;</Russian>
+		<English>Japanese Shogunate</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_DESC_DEMOCRATIC</Tag>
+		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#223;&#239;&#238;&#237;&#232;&#255;</Russian>
+		<English>Republic of Japan</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_DESC_FASCIST</Tag>
+		<Russian>&#194;&#229;&#235;&#232;&#234;&#224;&#255; &#223;&#239;&#238;&#237;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Empire of Greater Japan</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_DESC_COMMUNIST</Tag>
+		<Russian>&#205;&#224;&#240;&#238;&#228;&#237;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#223;&#239;&#238;&#237;&#232;&#255;</Russian>
+		<English>People's Republic of Japan</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_EMPIRE</Tag>
+		<Russian>&#223;&#239;&#238;&#237;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Empire of Japan</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPANESE_VASSAL_GENERIC</Tag>
+		<Russian>Co-Prosperity %s1</Russian>
+		<English>Co-Prosperity %s1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_JAPANESE_VASSAL</Tag>
+		<Russian>&#208;&#229;&#238;&#240;&#227;&#224;&#237;&#232;&#231;&#238;&#226;&#224;&#237;&#237;&#238;&#229; &#237;&#224;&#246;&#232;&#238;&#237;&#224;&#235;&#252;&#237;&#238;&#229; &#239;&#240;&#224;&#226;&#232;&#242;&#229;&#235;&#252;&#241;&#242;&#226;&#238; &#202;&#232;&#242;&#224;&#255;</Russian>
+		<English>Reorganized National Government of China</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KOREA_JAPANESE_VASSAL</Tag>
+		<Russian>&#195;&#229;&#237;&#229;&#240;&#224;&#235;-&#227;&#243;&#225;&#229;&#240;&#237;&#224;&#242;&#238;&#240; &#200;&#231;&#225;&#240;&#224;&#237;&#237;&#251;&#245;</Russian>
+		<English>Governor-General of Chosen</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_JAPANESE_VASSAL</Tag>
+		<Russian>Co-Prosperity Kampuchea</Russian>
+		<English>Co-Prosperity Kampuchea</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTECS_JAPANESE_VASSAL</Tag>
+		<Russian>Co-Prosperity Mexico</Russian>
+		<English>Co-Prosperity Mexico</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MONGOLIA_JAPANESE_VASSAL</Tag>
+		<Russian>&#206;&#225;&#250;&#229;&#228;&#232;&#237;¸&#237;&#237;&#238;&#229; &#224;&#226;&#242;&#238;&#237;&#238;&#236;&#237;&#238;&#229; &#239;&#240;&#224;&#226;&#232;&#242;&#229;&#235;&#252;&#241;&#242;&#226;&#238; &#204;&#253;&#237;&#246;&#231;&#255;&#237;&#224;</Russian>
+		<English>Mengjiang United Autonomous Government</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_SOVIET_VASSAL</Tag>
+		<Russian>Far Eastern Republic</Russian>
+		<English>Far Eastern Republic</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_NAZI_VASSAL</Tag>
+		<Russian>&#195;&#229;&#240;&#236;&#224;&#237;&#241;&#234;&#224;&#255; &#223;&#239;&#238;&#237;&#232;&#255;</Russian>
+		<English>German Japan</English>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NETHERLANDS_DESC</Tag>
+		<Russian>&#195;&#238;&#235;&#235;&#224;&#237;&#228;&#246;&#251;</Russian>
+		<English>The Dutch</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NETHERLANDS_DESC_PEOPLES</Tag>
+		<Russian>&#195;&#238;&#235;&#235;&#224;&#237;&#228;&#246;&#251;</Russian>
+		<English>Dutch Peoples</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NETHERLANDS_DESC_DEFAULT</Tag>
+		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#205;&#232;&#228;&#229;&#240;&#235;&#224;&#237;&#228;&#238;&#226;</Russian>
+		<English>Kingdom of the Netherlands</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NETHERLANDS_DESC_DEMOCRATIC</Tag>
+		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#209;&#229;&#236;&#232; &#206;&#225;&#250;&#229;&#228;&#232;&#237;&#229;&#237;&#237;&#251;&#245; &#205;&#232;&#230;&#237;&#232;&#245; &#199;&#229;&#236;&#229;&#235;&#252;</Russian>
+		<English>Republic of the Seven United Netherlands</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NETHERLANDS_DESC_COMMUNIST</Tag>
+		<Russian>&#196;&#229;&#236;&#238;&#234;&#240;&#224;&#242;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#205;&#232;&#228;&#229;&#240;&#235;&#224;&#237;&#228;&#251;</Russian>
+		<English>Democratic Republic of the Netherlands</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NETHERLANDS_DESC_FASCIST</Tag>
+		<Russian>&#195;&#238;&#235;&#235;&#224;&#237;&#228;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Dutch Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NETHERLANDS_EMPIRE</Tag>
+		<Russian>&#195;&#238;&#235;&#235;&#224;&#237;&#228;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Dutch Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NETHERLANDS_UNITED_KINGDOM</Tag>
+		<Russian>&#206;&#225;&#250;&#229;&#228;&#232;&#237;&#229;&#237;&#237;&#238;&#229; &#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#205;&#232;&#228;&#229;&#240;&#235;&#224;&#237;&#228;&#251;</Russian>
+		<English>United Kingdom of the Netherlands</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NETHERLANDS_EXILE</Tag>
+		<Russian>&#195;&#238;&#235;&#235;&#224;&#237;&#228;&#241;&#234;&#238;&#229; &#239;&#240;&#224;&#226;&#232;&#242;&#229;&#235;&#252;&#241;&#242;&#226;&#238; &#226; &#232;&#231;&#227;&#237;&#224;&#237;&#232;&#232;</Russian>
+		<English>Dutch Government in Exile</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NETHERLANDS_SOVIET_VASSAL</Tag>
+		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#232;&#229; &#205;&#232;&#228;&#229;&#240;&#235;&#224;&#237;&#228;&#251;</Russian>
+		<English>Soviet Netherlands</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NETHERLANDS_NAZI_VASSAL</Tag>
+		<Russian>&#208;&#229;&#233;&#245;&#241;&#227;&#224;&#243; &#195;&#238;&#235;&#235;&#224;&#237;&#228;&#232;&#255;</Russian>
+		<English>Reichsgau Holland</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDONESIA_DUTCH_VASSAL</Tag>
+		<Russian>&#195;&#238;&#235;&#235;&#224;&#237;&#228;&#241;&#234;&#224;&#255; &#206;&#241;&#242;-&#200;&#237;&#228;&#232;&#255;</Russian>
+		<English>Dutch East Indies</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_DUTCH_VASSAL</Tag>
+		<Russian>&#195;&#238;&#235;&#235;&#224;&#237;&#228;&#241;&#234;&#224;&#255; &#199;&#224;&#239;&#224;&#228;&#237;&#224;&#255; &#192;&#244;&#240;&#232;&#234;&#224;</Russian>
+		<English>Dutch West Africa</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_DUTCH_VASSAL</Tag>
+		<Russian>&#195;&#238;&#235;&#235;&#224;&#237;&#228;&#241;&#234;&#224;&#255; &#194;&#238;&#241;&#242;&#238;&#247;&#237;&#224;&#255; &#192;&#244;&#240;&#232;&#234;&#224;</Russian>
+		<English>Dutch East Africa</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTECS_DUTCH_VASSAL</Tag>
+		<Russian>&#195;&#238;&#235;&#235;&#224;&#237;&#228;&#241;&#234;&#224;&#255; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<English>Dutch Mexico</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_DUTCH_VASSAL</Tag>
+		<Russian>&#195;&#238;&#235;&#235;&#224;&#228;&#241;&#234;&#238;&#229; &#207;&#229;&#240;&#243;</Russian>
+		<English>Dutch Peru</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_DUTCH_VASSAL</Tag>
+		<Russian>&#195;&#238;&#235;&#235;&#224;&#237;&#228;&#241;&#234;&#232;&#233; &#222;&#234;&#238;&#242;&#224;&#237;</Russian>
+		<English>Dutch Yucat&#225;n</English>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_DESC</Tag>
+		<Russian>&#202;&#232;&#242;&#224;&#233;&#246;&#251;</Russian>
+		<English>The Chinese</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_DESC_PEOPLES</Tag>
+		<Russian>&#205;&#224;&#240;&#238;&#228;&#251; &#213;&#224;&#237;&#252;</Russian>
+		<English>Han Peoples</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_DESC_DEFAULT</Tag>
+		<Russian>&#209;&#240;&#229;&#228;&#232;&#237;&#237;&#238;&#229; &#246;&#224;&#240;&#241;&#242;&#226;&#238; &#202;&#232;&#242;&#224;&#233;</Russian>
+		<English>Middle Kingdom of China</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_DESC_COMMUNIST</Tag>
+		<Russian>&#202;&#232;&#242;&#224;&#233;&#241;&#234;&#224;&#255; &#205;&#224;&#240;&#238;&#228;&#237;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<English>People's Republic of China</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_DESC_FASCIST</Tag>
+		<Russian>&#205;&#224;&#246;&#232;&#238;&#237;&#224;&#235;&#232;&#241;&#242;&#232;&#247;&#229;&#241;&#234;&#232;&#233; &#202;&#232;&#242;&#224;&#233;</Russian>
+		<English>Nationalist China</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_DESC_DEMOCRATIC</Tag>
+		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#202;&#232;&#242;&#224;&#233;</Russian>
+		<English>Republic of China</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_ZHOU</Tag>
+		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#215;&#230;&#238;&#243;</Russian>
+		<English>Zhou Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_HAN</Tag>
+		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#213;&#224;&#237;&#252;</Russian>
+		<English>Han Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_QIN</Tag>
+		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#214;&#232;&#237;&#252;</Russian>
+		<English>Qin Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_SUI</Tag>
+		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#209;&#243;&#233;</Russian>
+		<English>Sui Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_TANG</Tag>
+		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#210;&#224;&#237;</Russian>
+		<English>Tang Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_SONG</Tag>
+		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#209;&#243;&#237;</Russian>
+		<English>Song Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_MING</Tag>
+		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#204;&#232;&#237;</Russian>
+		<English>Ming Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_QING</Tag>
+		<Russian>&#196;&#232;&#237;&#224;&#241;&#242;&#232;&#255; &#214;&#232;&#237;</Russian>
+		<English>Qing Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EGYPT_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Haixi State</Russian>
+		<English>Tributary Haixi State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Shendu State</Russian>
+		<English>Tributary Shendu State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BABYLONIA_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Tiaozhi State</Russian>
+		<English>Tributary Tiaozhi State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GREECE_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Greek State</Russian>
+		<English>Tributary Greek State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Anxi State</Russian>
+		<English>Tributary Anxi State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CARTHAGE_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Phoenician State</Russian>
+		<English>Tributary Phoenician State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ROME_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Daqin State</Russian>
+		<English>Tributary Daqin State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_JAPAN_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Wo State</Russian>
+		<English>Tributary Wo State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Ethiopian State</Russian>
+		<English>Tributary Ethiopian State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KOREA_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Chaoxian State</Russian>
+		<English>Tributary Chaoxian State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Mayan State</Russian>
+		<English>Tributary Mayan State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BYZANTIUM_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Daqin State</Russian>
+		<English>Tributary Daqin State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIKINGS_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Viking State</Russian>
+		<English>Tributary Viking State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ARABIA_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Dashi State</Russian>
+		<English>Tributary Dashi State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Gaomian State</Russian>
+		<English>Tributary Gaomian State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDONESIA_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Indonesian State</Russian>
+		<English>Tributary Indonesian State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SPAIN_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Spanish State</Russian>
+		<English>Tributary Spanish State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_CHINESE_VASSAL</Tag>
+		<Russian>Tributary French State</Russian>
+		<English>Tributary French State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ENGLAND_CHINESE_VASSAL</Tag>
+		<Russian>Tributary English State</Russian>
+		<English>Tributary English State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_CHINESE_VASSAL</Tag>
+		<Russian>Tributary German State</Russian>
+		<English>Tributary German State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Russian State</Russian>
+		<English>Tributary Russian State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NETHERLANDS_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Dutch State</Russian>
+		<English>Tributary Dutch State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MALI_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Malian State</Russian>
+		<English>Tributary Malian State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PORTUGAL_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Portuguese State</Russian>
+		<English>Tributary Portuguese State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Incan State</Russian>
+		<English>Tributary Incan State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MONGOLIA_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Meng State</Russian>
+		<English>Tributary Meng State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTECS_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Aztec State</Russian>
+		<English>Tributary Aztec State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TURKEY_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Tujue State</Russian>
+		<English>Tributary Tujue State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AMERICA_CHINESE_VASSAL</Tag>
+		<Russian>Tributary American State</Russian>
+		<English>Tributary American State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_THAILAND_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Thai State</Russian>
+		<English>Tributary Thai State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MUGHALS_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Mughal State</Russian>
+		<English>Tributary Mughal State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TIBET_CHINESE_VASSAL</Tag>
+		<Russian>Tributary Xizang State</Russian>
+		<English>Tributary Xizang State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_SOVIET_VASSAL</Tag>
+		<Russian>&#202;&#232;&#242;&#224;&#233;&#241;&#234;&#224;&#255; &#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<English>Chinese Soviet Republic</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CHINA_NAZI_VASSAL</Tag>
+		<Russian>&#208;&#229;&#233;&#245;&#241;&#234;&#238;&#236;&#232;&#241;&#241;&#224;&#240;&#232;&#224;&#242; &#202;&#232;&#242;&#224;&#233;</Russian>
+		<English>Reichskommissariat China</English>
+	</TEXT>
+</Civ4GameText>

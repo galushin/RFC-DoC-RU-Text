@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAMILS_DESC</Tag>
+		<Russian>&#210;&#224;&#236;&#232;&#235;&#251;</Russian>
+		<English>The Tamils</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAMILS_DESC_PEOPLES</Tag>
+		<Russian>&#196;&#240;&#224;&#226;&#232;&#228;&#251;</Russian>
+		<English>Dravidian Peoples</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAMILS_DESC_DEFAULT</Tag>
+		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#215;&#238;&#235;&#224;</Russian>
+		<English>Chola Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAMILS_DESC_DEMOCRATIC</Tag>
+		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#210;&#224;&#236;&#232;&#235;-&#205;&#224;&#228;&#243;</Russian>
+		<English>Republic of Tamil Nadu</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAMILS_DESC_COMMUNIST</Tag>
+		<Russian>&#210;&#224;&#236;&#232;&#235;&#252;&#241;&#234;&#224;&#255; &#205;&#224;&#240;&#238;&#228;&#237;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<English>Tamil People's Republic</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAMILS_DESC_FASCIST</Tag>
+		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#196;&#240;&#224;&#226;&#232;&#228;&#238;&#226;</Russian>
+		<English>Dravidian Empire</English>
+	</TEXT>
+</Civ4GameText>

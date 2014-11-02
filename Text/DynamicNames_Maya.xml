@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_DESC</Tag>
+		<Russian>&#204;&#224;&#233;&#255;</Russian>
+		<English>The Maya</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_DESC_PEOPLES</Tag>
+		<Russian>&#205;&#224;&#240;&#238;&#228;&#251; &#204;&#224;&#233;&#255;</Russian>
+		<English>Maya Peoples</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_DESC_DEFAULT</Tag>
+		<Russian>&#195;&#238;&#240;&#238;&#228;&#224;-&#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#224; &#204;&#224;&#233;&#255;</Russian>
+		<English>Mayan City-States</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_DESC_DEMOCRATIC</Tag>
+		<Russian>&#212;&#229;&#228;&#229;&#240;&#224;&#242;&#232;&#226;&#237;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#204;&#224;&#233;&#255;</Russian>
+		<English>Mayan Federal Republic</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_DESC_COMMUNIST</Tag>
+		<Russian>&#209;&#226;&#238;&#225;&#238;&#228;&#237;&#238;&#229; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238; &#204;&#224;&#233;&#255;</Russian>
+		<English>Mayan Free State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_DESC_FASCIST</Tag>
+		<Russian>&#213;&#243;&#237;&#242;&#224; &#204;&#224;&#233;&#255;</Russian>
+		<English>Mayan Junta</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_SOVIET_VASSAL</Tag>
+		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#232;&#233; &#222;&#234;&#224;&#242;&#224;&#237;</Russian>
+		<English>Soviet Yucat&#225;n</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_NAZI_VASSAL</Tag>
+		<Russian>&#195;&#229;&#240;&#236;&#224;&#237;&#241;&#234;&#232;&#233; &#222;&#234;&#224;&#242;&#224;&#237;</Russian>
+		<English>German Yucat&#225;n</English>
+	</TEXT>
+</Civ4GameText>

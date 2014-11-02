@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOORS_DESC</Tag>
+		<Russian>&#204;&#224;&#226;&#240;&#251;</Russian>
+		<English>The Moors</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOORS_DESC_PEOPLES</Tag>
+		<Russian>&#205;&#224;&#240;&#238;&#228;&#251; &#192;&#237;&#228;&#224;&#235;&#243;&#241;&#232;&#232;</Russian>
+		<English>Andalusian Peoples</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOORS_DESC_DEFAULT</Tag>
+		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#204;&#224;&#240;&#238;&#234;&#234;&#238;</Russian>
+		<English>Kingdom of Morocco</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOORS_DESC_DEMOCRATIC</Tag>
+		<Russian>Moroccan Republic</Russian>
+		<English>Moroccan Republic</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOORS_DESC_COMMUNIST</Tag>
+		<Russian>Socialist Republic of Morocco</Russian>
+		<English>Socialist Republic of Morocco</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOORS_DESC_FASCIST</Tag>
+		<Russian>Moroccan State</Russian>
+		<English>Moroccan State</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOORS_NAZI_VASSAL</Tag>
+		<Russian>German Maghreb</Russian>
+		<English>German Maghreb</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOORS_SOVIET_VASSAL</Tag>
+		<Russian>Soviet Morocco</Russian>
+		<English>Soviet Morocco</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOORS_CALIPHATE</Tag>
+		<Russian>Caliphate of Córdoba</Russian>
+		<English>Caliphate of Córdoba</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOORS_ALMOHAD_EMPIRE</Tag>
+		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#192;&#235;&#252;&#236;&#238;&#245;&#224;&#228;&#238;&#226;</Russian>
+		<English>Almohad Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOORS_ALMOHAD_CALIPHATE</Tag>
+		<Russian>&#213;&#224;&#235;&#232;&#244;&#224;&#242; &#192;&#235;&#252;&#236;&#238;&#245;&#224;&#228;&#238;&#226;</Russian>
+		<English>Almohad Caliphate</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOORS_CORDOBA</Tag>
+		<Russian>&#221;&#236;&#232;&#240;&#224;&#242; &#202;&#238;&#240;&#228;&#238;&#225;&#224;</Russian>
+		<English>Emirate of Cordoba</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOORS_TAIFAS</Tag>
+		<Russian>&#210;&#224;&#233;&#244;&#251; &#192;&#237;&#228;&#224;&#235;&#243;&#241;&#232;&#232;</Russian>
+		<English>Andalusian Taifas</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ARABIA_MOORISH_VASSAL</Tag>
+		<Russian>Emirate of Hejaz</Russian>
+		<English>Emirate of Hejaz</English>
+	</TEXT>
+</Civ4GameText>

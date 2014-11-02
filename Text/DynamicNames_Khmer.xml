@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_DESC</Tag>
+		<Russian>&#202;&#245;&#236;&#229;&#240;&#251;</Russian>
+		<English>The Khmer</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NANZHAO_ADJECTIVE</Tag>
+		<Russian>&#205;&#224;&#237;&#252;&#247;&#230;&#224;&#238;</Russian>
+		<English>Nanzhao</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NANZHAO_SHORT_DESC</Tag>
+		<Russian>&#205;&#224;&#237;&#252;&#247;&#230;&#224;&#238;</Russian>
+		<English>Nanzhao</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIETNAM_ADJECTIVE</Tag>
+		<Russian>&#194;&#252;&#229;&#242;&#237;&#224;&#236;&#246;&#251;</Russian>
+		<English>Vietnamese</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VIETNAM_SHORT_DESC</Tag>
+		<Russian>&#194;&#252;&#229;&#242;&#237;&#224;&#236;</Russian>
+		<English>Vietnam</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BURMA_ADJECTIVE</Tag>
+		<Russian>&#193;&#232;&#240;&#236;&#224;&#237;&#246;&#251;</Russian>
+		<English>Burmese</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BURMA_ADJECTIVE</Tag>
+		<Russian>&#193;&#232;&#240;&#236;&#224;</Russian>
+		<English>Burma</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_DESC_PEOPLES</Tag>
+		<Russian>&#202;&#245;&#236;&#229;&#240;&#251;</Russian>
+		<English>Khmer Peoples</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_DESC_DEFAULT</Tag>
+		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#202;&#224;&#236;&#225;&#238;&#228;&#230;&#224;</Russian>
+		<English>Kingdom of Cambodia</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_DESC_DEMOCRATIC</Tag>
+		<Russian>&#202;&#245;&#236;&#239;&#229;&#240;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<English>Republic of Cambodia</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_DESC_COMMUNIST</Tag>
+		<Russian>&#205;&#224;&#240;&#238;&#228;&#237;&#224;&#255; &#240;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#202;&#224;&#236;&#239;&#243;&#247;&#232;&#255;</Russian>
+		<English>Democratic Kampuchea</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_DESC_FASCIST</Tag>
+		<Russian>&#205;&#224;&#246;&#232;&#238;&#237;&#224;&#235;&#232;&#241;&#242;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#202;&#224;&#236;&#239;&#243;&#247;&#232;&#255;</Russian>
+		<English>Nationalist Kampuchea</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_EMPIRE</Tag>
+		<Russian>&#202;&#245;&#236;&#229;&#240;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Khmer Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_VIETNAM</Tag>
+		<Russian>&#196;&#224;&#233;&#226;&#252;&#229;&#242;</Russian>
+		<English>Dai Viet</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_BURMA</Tag>
+		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#193;&#232;&#240;&#236;&#224;</Russian>
+		<English>Kingdom of Burma</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_NANZHAO</Tag>
+		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#205;&#224;&#237;&#252;&#247;&#230;&#224;&#238;</Russian>
+		<English>Kingdom of Nanzhao</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_SOVIET_VASSAL</Tag>
+		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#202;&#224;&#236;&#239;&#243;&#247;&#232;&#255;</Russian>
+		<English>Soviet Kampuchea</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_NAZI_VASSAL</Tag>
+		<Russian>&#195;&#229;&#240;&#236;&#224;&#237;&#241;&#234;&#232;&#233; &#200;&#237;&#228;&#238;&#234;&#232;&#242;&#224;&#233;</Russian>
+		<English>German Indochina</English>
+	</TEXT>
+</Civ4GameText>
