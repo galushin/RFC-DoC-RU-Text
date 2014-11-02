@@ -101,6 +101,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_MOST_CULTURED_CITY_VALUE</Tag>
+		<Russian>Most cultured city: %s1_city (%d2 / %d3)</Russian>
 		<English>Most cultured city: %s1_city (%d2 / %d3)</English>
 	</TEXT>
 	<TEXT>
@@ -160,14 +161,17 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ROME_CONTROL_FRANCE</Tag>
+		<Russian>Gaul: %d1 / %d2</Russian>
 		<English>Gaul: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ROME_CONTROL_ENGLAND</Tag>
+		<Russian>Britain: %d1 / %d2</Russian>
 		<English>Britain: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ROME_CONTROL_CARTHAGE</Tag>
+		<Russian>Africa: %d1 / %d2</Russian>
 		<English>Africa: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
@@ -382,6 +386,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_RUSSIA_CONTROL_SIBERIA</Tag>
+		<Russian>Cities in Siberia: %d1 / %d2</Russian>
 		<English>Cities in Siberia: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
@@ -596,210 +601,262 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NUM_TEMPLES</Tag>
+		<Russian>Pagan Temples: %d1 / %d2</Russian>
 		<English>Pagan Temples: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NUM_ALTARS</Tag>
+		<Russian>Sacrificial Altars: %d1 / %d2</Russian>
 		<English>Sacrificial Altars: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NUM_TAMBOS</Tag>
+		<Russian>Tambos: %d1 / %d2</Russian>
 		<English>Tambos: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ANDEAN_ROAD</Tag>
+		<Russian>Road along the Andean Coast in your territory</Russian>
 		<English>Road along the Andean Coast in your territory</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_SOUTH_AMERICAN_TERRITORY</Tag>
+		<Russian>South American territory: %s1 / %s2%%</Russian>
 		<English>South American territory: %s1 / %s2%%</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CENTRAL_AMERICAN_CITIES</Tag>
+		<Russian>Central America: %d1 / %d2</Russian>
 		<English>Central America: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_WESTERN_NORTH_AMERICA_CITIES</Tag>
+		<Russian>Western North America: %d1 / %d2</Russian>
 		<English>Western North America: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_LARGEST_RELIGION_CIV</Tag>
+		<Russian>Civilization with the largest Catholic population: </Russian>
 		<English>Civilization with the largest Catholic population: </English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NUM_IMPROVEMENTS</Tag>
+		<Russian>%s1: %d2 / %d3</Russian>
 		<English>%s1: %d2 / %d3</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NATIONAL_PARK_CAPITAL</Tag>
+		<Russian>National Park in capital</Russian>
 		<English>National Park in capital</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_GREAT_GENERALS_CAPITAL</Tag>
+		<Russian>Great Generals in capital: %d1 / %d2</Russian>
 		<English>Great Generals in capital: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_HIGHEST_COMMERCE_PER_CAPITA</Tag>
+		<Russian>Highest commerce per capita: %s1</Russian>
 		<English>Highest commerce per capita: %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_GREAT_GENERALS</Tag>
+		<Russian>Great Generals created: %d1 / %d2</Russian>
 		<English>Great Generals created: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_STATE_RELIGION_CATHEDRALS</Tag>
+		<Russian>%s1 Cathedrals built: %d2 / %d3</Russian>
 		<English>%s1 Cathedrals built: %d2 / %d3</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_GREAT_ARTISTS_SETTLED</Tag>
+		<Russian>Great artists settled in %s1: %d2 / %d3</Russian>
 		<English>Great artists settled in %s1: %d2 / %d3</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_COLONIES_PERU</Tag>
+		<Russian>No colonies in Peru</Russian>
 		<English>No colonies in Peru</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_COLONIES_GRAN_COLOMBIA</Tag>
+		<Russian>No colonies in Gran Colombia</Russian>
 		<English>No colonies in Gran Colombia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_COLONIES_GUAYANAS</Tag>
+		<Russian>No colonies in the Guayanas</Russian>
 		<English>No colonies in the Guayanas</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_COLONIES_CARIBBEAN</Tag>
+		<Russian>No colonies in the Caribbean</Russian>
 		<English>No colonies in the Caribbean</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CONTROL_SOUTH_AMERICA</Tag>
+		<Russian>South America</Russian>
 		<English>South America</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_TRADE_GOLD_RESOURCES</Tag>
+		<Russian>Gold from trading resources: %d1 / %d2</Russian>
 		<English>Gold from trading resources: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_PROTESTANT_MERCHANTS</Tag>
+		<Russian>Protestant great merchants: %d1 / %d2</Russian>
 		<English>Protestant great merchants: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_PROTESTANT_ENGINEERS</Tag>
+		<Russian>Protestant great engineers: %d1 / %d2</Russian>
 		<English>Protestant great engineers: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_PROTESTANT_CIVS</Tag>
+		<Russian>Protestant or secular civilizations: %d1 / %d2</Russian>
 		<English>Protestant or secular civilizations: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_POPE_TURNS</Tag>
+		<Russian>Turns as Pope: %d1 / %d2</Russian>
 		<English>Turns as Pope: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CATHOLIC_SAINTS</Tag>
+		<Russian>Catholic great prophets: %d1 / %d2</Russian>
 		<English>Catholic great prophets: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CATHOLIC_WORLD_TERRITORY</Tag>
+		<Russian>Territory controlled by Catholic civilizations: %s1 / %s2%</Russian>
 		<English>Territory controlled by Catholic civilizations: %s1 / %s2%</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ORTHODOX_CATHEDRALS</Tag>
+		<Russian>Orthodox cathedrals: %d1 / %d2</Russian>
 		<English>Orthodox cathedrals: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ORTHODOX_CULTURE_CITIES</Tag>
+		<Russian>Top five Orthodox cities: %d1 / %d2</Russian>
 		<English>Top five Orthodox cities: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CITY_GREAT_PEOPLE</Tag>
+		<Russian>Great people in %s1: %d2 / %d3</Russian>
 		<English>Great people in %s1: %d2 / %d3</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_CATHOLICS</Tag>
+		<Russian>No Catholic civilizations</Russian>
 		<English>No Catholic civilizations</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CITY_DIFFERENT_GREAT_PEOPLE</Tag>
+		<Russian>Different great people in %s1: %d2 / %d3</Russian>
 		<English>Different great people in %s1: %d2 / %d3</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_GOLDEN_AGE_TURNS</Tag>
+		<Russian>Golden age turns: %d1 / %d2</Russian>
 		<English>Golden age turns: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_HINDU_LARGEST_CITIES</Tag>
+		<Russian>Top five Hindu cities: %d1 / %d2</Russian>
 		<English>Top five Hindu cities: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_PEACE_TURNS</Tag>
+		<Russian>Turns spent at peace: %d1 / %d2</Russian>
 		<English>Turns spent at peace: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_HAPPINESS_TURNS</Tag>
+		<Russian>Turns with highest approval rating: %d1 / %d2</Russian>
 		<English>Turns with highest approval rating: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_BAD_RELATIONS</Tag>
+		<Russian>No furious or annoyed relations</Russian>
 		<English>No furious or annoyed relations</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_FRIENDLY_CIVS</Tag>
+		<Russian>Friendly civilizations: %d1 / %d2</Russian>
 		<English>Friendly civilizations: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CHINESE_SHRINE_INCOME</Tag>
+		<Russian>Combined shrine income: %d1 / %d2</Russian>
 		<English>Combined shrine income: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_TAOIST_CIVS</Tag>
+		<Russian>Other Taoist civilizations: %d1 / %d2</Russian>
 		<English>Other Taoist civilizations: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_HOLY_CITY_WONDERS</Tag>
+		<Russian>Wonders in %s1: %d2 / %d3</Russian>
 		<English>Wonders in %s1: %d2 / %d3</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_LEGENDARY_CULTURE_CITY</Tag>
+		<Russian>Legendary culture in %s1</Russian>
 		<English>Legendary culture in %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CONTROL_HOLY_CITY</Tag>
+		<Russian>Control %s1</Russian>
 		<English>Control %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NUM_PAGAN_TEMPLES_WORLD</Tag>
+		<Russian>Pagan temples in the world: %d1 / %d2</Russian>
 		<English>Pagan temples in the world: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NUM_NONRELIGIOUS_WONDERS</Tag>
+		<Russian>Controlled nonreligious wonders: %d1 / %d2</Russian>
 		<English>Controlled nonreligious wonders: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_POLYTHEISM_NEVER_RELIGION</Tag>
+		<Russian>Never more than half of all cities with a religion</Russian>
 		<English>Never more than half of all cities with a religion</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_DIFFERENT_TEMPLES</Tag>
+		<Russian>Temples of different religions: %d1 / %d2</Russian>
 		<English>Temples of different religions: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_SECULAR_UNIVERSITIES</Tag>
+		<Russian>Universities in secular civilizations: %d1 / %d2</Russian>
 		<English>Universities in secular civilizations: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_PIRACY</Tag>
+		<Russian>Gold from piracy: %d1 / %d2</Russian>
 		<English>Gold from piracy: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_HEALTH_TURNS</Tag>
+		<Russian>Turns with highest life expectancy rating: %d1 / %d2</Russian>
 		<English>Turns with highest life expectancy rating: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CONTROL_NUM_UNITS</Tag>
+		<Russian>Number of melee and gunpowder units: %d1 / %d2</Russian>
 		<English>Number of melee and gunpowder units: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_</Tag>
+		<Russian></Russian>
 		<English></English>
 	</TEXT>
 </Civ4GameText>
