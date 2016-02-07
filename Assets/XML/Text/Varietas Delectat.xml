@@ -5,9 +5,9 @@
 <!-- -->
 <!-- Game Text - New -->
 <Civ4GameText xmlns="http://www.firaxis.com">
-		
-<TEXT>
+	<TEXT>
 		<Tag>TXT_KEY_UNIT_HORSE_ARCHER</Tag>
+		<Russian>&#194;&#241;&#224;&#228;&#237;&#232;&#234;</Russian>
 		<English>Horseman</English>
 		<French>
 			<Text>Cavalier</Text>
@@ -28,10 +28,11 @@
 			<Text>Jinete</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
-		</Spanish>	
-	</TEXT>	
+		</Spanish>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MACEMAN</Tag>
+		<Russian>&#210;&#255;&#230;&#229;&#235;&#251;&#233; &#239;&#229;&#245;&#238;&#242;&#232;&#237;&#229;&#246;</Russian>
 		<English>Heavy Footman</English>
 		<French>
 			<Text>Fantassin lourd</Text>
@@ -52,10 +53,11 @@
 			<Text>Lacayo pesado</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
-		</Spanish>		
-	</TEXT>		
+		</Spanish>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CUIRASSIER</Tag>
+		<Russian>&#210;&#255;&#230;&#229;&#235;&#251;&#233; &#226;&#241;&#224;&#228;&#237;&#232;&#234;</Russian>
 		<English>Heavy Horseman</English>
 		<French>
 			<Text>Cavalier lourd</Text>
@@ -76,7 +78,6 @@
 			<Text>Jinete pesado</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
-		</Spanish>	
+		</Spanish>
 	</TEXT>
-
 </Civ4GameText>
