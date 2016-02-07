@@ -60,8 +60,8 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILD_SLAVE_PLANTATION</Tag>
-		<Russian>&#207;&#238;&#241;&#242;&#240;&#238;&#232;&#242;&#252; &#240;&#224;&#225;&#241;&#234;&#243;&#254; &#239;&#235;&#224;&#237;&#242;&#224;&#246;&#232;&#254;</Russian>
-		<English>Build Slave Plantation</English>
+		<Russian>Create [LINK=IMPROVEMENT_SLAVE_PLANTATION]Slave Plantation[\LINK]</Russian>
+		<English>Create [LINK=IMPROVEMENT_SLAVE_PLANTATION]Slave Plantation[\LINK]</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_IMPROVEMENT_SLAVE_PLANTATION</Tag>
@@ -813,7 +813,7 @@
 		<Tag>TXT_KEY_HAPPY_SPECIALISTS</Tag>
 		<Russian>%D1_Change[ICON_HAPPY]: "Settled artists entertain us!"</Russian>
 		<English>%D1_Change[ICON_HAPPY]: "Settled artists entertain us!"</English>
-		<German>%D1_Change[ICON_HAPPY]: "Angesiedelte K&#252;nstler unterhalten uns!"</German>
+		<German>%D1_Change[ICON_HAPPY]: "Angesiedelte Künstler unterhalten uns!"</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ANGER_SPECIALISTS</Tag>
@@ -868,7 +868,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_PLAYER_OPTION_MODDER_1_HELP</Tag>
 		<English>The turn in which your UHV goals must be completed is displayed even after the discovery of Calendar.</English>
-		<German>Die Runde, in der Ihre EHS-Ziele erf&#252;llt werden m&#252;ssen, wird auch nach der Entdeckung des Kalenders angezeigt.</German>
+		<German>Die Runde, in der Ihre EHS-Ziele erfüllt werden müssen, wird auch nach der Entdeckung des Kalenders angezeigt.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_UHV_END_TURN</Tag>
@@ -879,7 +879,7 @@
 		<Tag>TXT_KEY_BUILDING_FREE_TECH</Tag>
 		<English>[ICON_BULLET]1 Free Technology From Your Current Or Earlier Eras</English>
 		<French>[ICON_BULLET]1 technologie gratuite</French>
-		<German>[ICON_BULLET]1 freie Technologie aus Ihrer aktuellen oder fr&#252;heren Zeitaltern</German>
+		<German>[ICON_BULLET]1 freie Technologie aus Ihrer aktuellen oder früheren Zeitaltern</German>
 		<Italian>[ICON_BULLET]1 tecnologia gratuita</Italian>
 		<Spanish>[ICON_BULLET]1 tecnolog&#237;a gratis</Spanish>
 	</TEXT>
@@ -887,7 +887,7 @@
 		<Tag>TXT_KEY_BUILDING_FREE_TECHS</Tag>
 		<English>[ICON_BULLET]%d1_Num Free Technologies From Your Current Or Earlier Eras</English>
 		<French>[ICON_BULLET]%d1_Num technologies gratuites</French>
-		<German>[ICON_BULLET]%d1_Num freie Technologien aus Ihrer aktuellen oder fr&#252;heren Zeitaltern</German>
+		<German>[ICON_BULLET]%d1_Num freie Technologien aus Ihrer aktuellen oder früheren Zeitaltern</German>
 		<Italian>[ICON_BULLET]%d1_Num tecnologie gratuite</Italian>
 		<Spanish>[ICON_BULLET]%d1_Num tecnolog&#237;as gratis</Spanish>
 	</TEXT>
@@ -912,17 +912,17 @@
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_ELECTION_COLLECT_TITHE</Tag>
 		<English>Collect Tithe (Requires %d1 of %d2 Total Votes)</English>
-		<German>Den Zehnt eintreiben (Ben&#246;tigt %d1 von insgesamt %d2 Stimmen)</German>
+		<German>Den Zehnt eintreiben (Benötigt %d1 von insgesamt %d2 Stimmen)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_ELECTION_INQUISITION</Tag>
 		<English>Send Inquisition to %s1 (Requires %d2 of %d3 Total Votes)</English>
-		<German>Inquisition nach %s1 entsenden (Ben&#246;tigt %d2 von insgesamt %d3 Stimmen)</German>
+		<German>Inquisition nach %s1 entsenden (Benötigt %d2 von insgesamt %d3 Stimmen)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_ELECTION_EXCOMMUNICATION</Tag>
 		<English>Excommunicate %s1 (Requires %d2 of %d3 Total Votes)</English>
-		<German>%s1 exkommunizieren (Ben&#246;tigt %d2 von insgesamt %d3 Stimmen)</German>
+		<German>%s1 exkommunizieren (Benötigt %d2 von insgesamt %d3 Stimmen)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_ELECTION_FORCE_WAR</Tag>
@@ -942,32 +942,259 @@
 	<TEXT>
 		<Tag>TXT_KEY_HANDICAP_HEIR_HELP</Tag>
 		<English>The Heir difficulty is the right level for beginners. Your cities receive additional happiness and your research, unit production and upkeep costs are lower than those of your AI opponents.</English>
-		<German>Dieser Schwierigkeitsgrad ist die richtige Stufe f&#252;r Anf&#228;nger. Eure St&#228;dte erhalten zus&#228;tzliche Zufriedenheit und Eure Forschungs-, Produktions- und Unterhaltskosten sind geringer als die Eurer KI-Gegner</German>
+		<German>Dieser Schwierigkeitsgrad ist die richtige Stufe für Anfänger. Eure Städte erhalten zusätzliche Zufriedenheit und Eure Forschungs-, Produktions- und Unterhaltskosten sind geringer als die Eurer KI-Gegner</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HANDICAP_REGENT_HELP</Tag>
 		<English>As a Regent, you are facing a fairly balanced challenge and are evenly matched in terms of modifiers with your AI adversaries.</English>
-		<German>Als Regent, Ihr steht einer relativ balancierten Herausforderung gegen&#252;ber und seid auf demselben Level wie Eure KI-Widersacher was Modifikatoren angeht.</German>
+		<German>Als Regent, Ihr steht einer relativ balancierten Herausforderung gegenüber und seid auf demselben Level wie Eure KI-Widersacher was Modifikatoren angeht.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HANDICAP_MONARCH_HELP</Tag>
 		<English>Monarch players play under the same conditions as Regents, but will face more formidable AI opponents.</English>
-		<German>Monarchen-Spieler spielen unter denselben Bedingungen wie Regenten, stehen allerdings st&#228;rkeren KI-Gegnern gegen&#252;ber.</German>
+		<German>Monarchen-Spieler spielen unter denselben Bedingungen wie Regenten, stehen allerdings stärkeren KI-Gegnern gegenüber.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HANDICAP_EMPEROR_HELP</Tag>
 		<English>The Emperor level is for experienced players. You will play under significant research, unit production, upkeep and happiness penalties, while the AI receives even more advantages in these areas.</English>
-		<German>Die Kaiser-Stufe ist f&#252;r erfahrene Spieler. Ihr werdet unter erheblichen Forschungs-, Produktions-, Unterhalts- und Zufriedenheits-Mali, w&#228;hrend die KI in diesen Bereichen noch mehr Vorteile erh&#228;lt.</German>
+		<German>Die Kaiser-Stufe ist für erfahrene Spieler. Ihr werdet unter erheblichen Forschungs-, Produktions-, Unterhalts- und Zufriedenheits-Mali, während die KI in diesen Bereichen noch mehr Vorteile erhält.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HANDICAP_PARAGON_HELP</Tag>
 		<English>Can you beat this game on this level and prove that you are truly a Paragon? Compared to Emperor, your AI adversaries will receive even more unit production and research advantages.</English>
-		<German>K&#246;nnt Ihr dieses Spiel auf diesem Level gewinnen und beweisen, dass ihr wirklich ein Paragon seid? Verglichen mit Kaiser werden Eure KI-Widersacher noch mehr Produktions- und Forschungsvorteile erhalten.</German>
+		<German>Könnt Ihr dieses Spiel auf diesem Level gewinnen und beweisen, dass ihr wirklich ein Paragon seid? Verglichen mit Kaiser werden Eure KI-Widersacher noch mehr Produktions- und Forschungsvorteile erhalten.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_EVENT_RESOURCE_EXHAUSTED</Tag>
 		<English>Our source of [COLOR_HIGHLIGHT_TEXT]%s1_BonusName[COLOR_REVERT] near %s2_CityName has been exhausted!</English>
-		<German>Unser Vorkommen des Bonusguts [COLOR_HIGHLIGHT_TEXT]%s1_BonusName[COLOR_REVERT] in der N&#228;he von %s2_CityName ist aufgebraucht!</German>
+		<German>Unser Vorkommen des Bonusguts [COLOR_HIGHLIGHT_TEXT]%s1_BonusName[COLOR_REVERT] in der Nähe von %s2_CityName ist aufgebraucht!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_CITY_EXPANSION_TURNS</Tag>
+		<English>Border expands in: %d1 Turns</English>
+		<German>Gebietsweiterung in: %d1 Runden</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_OVERFLOW</Tag>
+		<English>Overflow in (%d1, %d2), method: %s3</English>
+		<German>Overflow in (%d1, %d2), method: %s3</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_HIGH_SEA_FISHING_BOATS</Tag>
+		<English>High Sea Fishing Boats</English>
+		<German>Hochsee-Fischerboot</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILD_HIGH_SEA_FISHING_BOATS</Tag>
+		<English>Create [LINK=IMPROVEMENT_HIGH_SEA_FISHING_BOATS]High Sea Fishing Boats[\LINK]</English>
+		<German>Create [LINK=IMPROVEMENT_HIGH_SEA_FISHING_BOATS]High Sea Fishing Boats[\LINK]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_ISLANDS</Tag>
+		<English>Islands</English>
+		<German>Inseln</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BONUS_PEARL</Tag>
+		<English>Pearls</English>
+		<German>Perlen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRADE_ROUTE_MOD_DISTANCE</Tag>
+		<English>%D1%%: from City Distance</English>
+		<German>%D1%%: durch Stadtentfernung</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BONUS_PLOTS</Tag>
+		<English>Improved [LINK=literal]%s1[\LINK] Tiles</English>
+		<German>[LINK=literal]%s1[\LINK]-Gel&#228;ndefelder mit Verbesserung</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_GREAT_SPY</Tag>
+		<English>Great Spy: %d1_Curr/%d2_Need Experience</English>
+		<German>Gro&#223;er Spion: %d1_Curr/%d2_Need Erfahrung</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ESPIONAGE_EXPERIENCE</Tag>
+		<English>Espionage Experience</English>
+		<German>Spionage-Erfahrung</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ADMIN_CENTER</Tag>
+		<English>Administrative Center</English>
+		<German>Verwaltungszentrum</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_STATESMAN</Tag>
+		<English>Statesman</English>
+		<German>Staatsmann</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_STATESMAN</Tag>
+		<English>Great Statesman</English>
+		<German>Großer Staatsmann</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GREAT_STATESMAN</Tag>
+		<English>Great Statesman</English>
+		<German>Großer Staatsmann</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISSION_REFORM_GOVERNMENT</Tag>
+		<English>Reform Government</English>
+		<German>Regierung Reformieren</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_REFORM_GOVERNMENT</Tag>
+		<English>This will order the Great Person to reform your government, allowing you to change civics this turn without any anarchy. It consumes the Great Person.</English>
+		<German>Dies wird die Großen Persönlichkeit veranlassen, Eure Regierung zu reformieren, was Euch erlaubt diese Runde Staatsformen ohne jegliche Anarchie zu wechseln. Die Große Persönlichkeit wird dabei aufgebraucht.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAN_REFORM_GOVERNMENT</Tag>
+		<English>[ICON_BULLET]Can Reform the Government</English>
+		<German>[ICON_BULLET]Kann die Regierung reformieren</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISSION_RESOLVE_CRISIS</Tag>
+		<English>Resolve Crisis</English>
+		<German>Krise Überwinden</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_RESOLVE_CRISIS</Tag>
+		<English>This will order the Great Person to end the anarchy in your civilization and the unrest in all your cities. It consumes the Great Person.</English>
+		<German>Dies wird die Große Persönlichkeit veranlassen, the Anarchie in Eurer Zivilisation sowie den Aufruhr in all Euren Städten zu beenden. Die Große Persönlichkeit wird dabei aufgebraucht.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAN_RESOLVE_CRISIS</Tag>
+		<English>[ICON_BULLET]Can Resolve a Crisis</English>
+		<German>[ICON_BULLET]Kann eine Krise überwinden</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISSION_DIPLOMATIC_MISSION</Tag>
+		<English>Diplomatic Mission</English>
+		<German>Diplomatische Mission</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_DIPLOMATIC_MISSION_WAR</Tag>
+		<English>The Great Person will broker an immediate peace treaty between you and your enemy. It consumes the Great Person.</English>
+		<German>Die Große Persönlichkeit wird einen unmittelbaren Friedensvertrag zwischen Euch und Eurem Feind aushandeln. Die Große Persönlichkeit wird dabei aufgebraucht.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTION_DIPLOMATIC_MISSION_PEACE</Tag>
+		<English>The Great Person will make another civilization forget your past transgressions and improve your relations. It consumes the Great Person.</English>
+		<German>Die Große Persönlichkeit wird eine andere Zivilisation eure Vergehen aus der Vergangenheit vergessen lassen und eure Beziehungen verbessern. Die Große Persönlichkeit wird dabei aufgebraucht.</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAN_DIPLOMATIC_MISSION</Tag>
+		<English>[ICON_BULLET]Can Conduct Diplomatic Missions</English>
+		<German>[ICON_BULLET]Kann diplomatische Missionen durchführen</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_BASE_COST</Tag>
+		<English> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Base Cost:[COLOR_REVERT]</English>
+		<German> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Grundkosten:[COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_EMPIRE_SIZE</Tag>
+		<English> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Empire Size:[COLOR_REVERT]</English>
+		<German> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Reichsgröße:[COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_LEADER_MODIFIER</Tag>
+		<English> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Tech Lead:[COLOR_REVERT]</English>
+		<German> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Technologievorsprung:[COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SPREAD_MODIFIER</Tag>
+		<English> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Tech Spread:[COLOR_REVERT]</English>
+		<German> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Technologieverbreitung:[COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SPAWN_MODIFIER</Tag>
+		<English> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Rise of Civilization:[COLOR_REVERT]</English>
+		<German> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Aufstieg der Zivilisation:[COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MODERNIZATION_MODIFIER</Tag>
+		<English> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Modernization:[COLOR_REVERT]</English>
+		<German> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Modernisierung:[COLOR_REVERT]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_BONUS_PLAYER_TRADE</Tag>
+		<English>Trade</English>
+		<German>Handel</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_BONUS_PLAYER_TRADE</Tag>
+		<English>[ICON_BULLET]Allows Trade of[SPACE]</English>
+		<German>[ICON_BULLET]Erlaubt Handel von:[SPACE]</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_RAINFOREST</Tag>
+		<English>Rainforest</English>
+		<German>Regenwald</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_FOOD_FROM_HEALTH</Tag>
+		<English>[ICON_BULLET]%D1%F2 from Excess Health</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_APOSTOLIC_PALACE_COLLECT_TITHE</Tag>
+		<English>We have collected a tithe of %d1 from the Catholic world.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_STATUE_OF_ZEUS_EFFECT</Tag>
+		<English>[ICON_BULLET]%D1%%[ICON_PRODUCTION] from %s2_unit_or_building with Statue of Zeus</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_GP_BORN_OUTSIDE</Tag>
+		<English>%s1_GPName has been born near %s2_CityName!</English>
+		<German>Die Gro&#223;e Pers&#246;nlichkeit %s1_GPName wurde nahe %s2_CityName geboren!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_SPY_UPGRADED</Tag>
+		<English>Your Spy has reached the status of a Great Spy!</English>
+		<German>Ihr Spion hat den Status eines Gro&#223;en Spions erreicht!</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_NO_FOREIGN_TRADE_MODIFIER</Tag>
+		<English>[ICON_BULLET]No Additional Income from Foreign Trade Routes</English>
+		<German>[ICON_BULLET]Kein zusätzliches Einkommen durch ausländische Handelsrouten</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_NO_UNHAPPINESS_CORPORATION</Tag>
+		<English>[ICON_BULLET]No [ICON_UNHAPPY] from Corporations</English>
+		<German>[ICON_BULLET]Kein [ICON_UNHAPPY] durch Kapitalgesellschaften</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_NO_UNHAPPINESS_CORPORATION_MOD</Tag>
+		<English>[ICON_BULLET]%D1_Mod%% [ICON_UNHAPPY] from Corporations</English>
+		<German>[ICON_BULLET]%D1_Mod%% [ICON_UNHAPPY] durch Kapitalgesellschaften</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_WONDER_PRODUCTION</Tag>
+		<English>[ICON_BULLET]%D1_Mod%% [ICON_PRODUCTION] when building Wonders</English>
+		<German>[ICON_BULLET]%D1_Mod%% [ICON_PRODUCTION] beim Bau von Wundern</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_CAPITAL_TRADE_MODIFIER</Tag>
+		<English>[ICON_BULLET]%D1_Mod%% Income from [ICON_TRADE] going through your Capital</English>
+		<German>[ICON_BULLET]%D1_Mod%% Einkommen durch [ICON_TRADE] durch die Hauptstadt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRADE_ROUTE_MOD_CAPITAL_ROUTE</Tag>
+		<English>%D1_Mod%%: for trading through Capital</English>
+		<German>%D1_Mod%%: durch Handel durch die Hauptstadt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_DEFENSIVE_PACT_TRADE_MODIFIER</Tag>
+		<English>[ICON_BULLET]%D1_Mod%% Income from [ICON_TRADE] with Defensive Pact partners</English>
+		<German>[ICON_BULLET]%D1_Mod%% Einkommen durch [ICON_TRADE] mit Verteidigungsbündnispartnern</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRADE_ROUTE_MOD_DEFENSIVE_PACT</Tag>
+		<English>%D1_Mod%%: for trading with Defensive Pact partner</English>
+		<German>%D1_Mod%%: durch Handel mit einem Verteidigungsbündnispartner</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_</Tag>

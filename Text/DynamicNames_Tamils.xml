@@ -16,8 +16,8 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_DESC_DEFAULT</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#215;&#238;&#235;&#224;</Russian>
-		<English>Chola Empire</English>
+		<Russian>Chola Kingdom</Russian>
+		<English>Chola Kingdom</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_DESC_DEMOCRATIC</Tag>
@@ -33,5 +33,49 @@
 		<Tag>TXT_KEY_CIV_TAMILS_DESC_FASCIST</Tag>
 		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#196;&#240;&#224;&#226;&#232;&#228;&#238;&#226;</Russian>
 		<English>Dravidian Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAMILS_NAZI_VASSAL</Tag>
+		<English>German Dravida</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAMILS_SOVIET_VASSAL</Tag>
+		<English>Soviet Dravida</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAMILS_VIJAYANAGARA</Tag>
+		<English>Kingdom of Vijayanagara</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAMILS_VIJAYANAGARA_EMPIRE</Tag>
+		<English>Vijayanagara Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAMILS_MYSORE</Tag>
+		<English>Kingdom of Mysore</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAMILS_CHOLA_EMPIRE</Tag>
+		<English>Chola Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAMILS_PANDYAN_EMPIRE</Tag>
+		<English>Pandyan Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAMILS_CHERA_EMPIRE</Tag>
+		<English>Chera Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAMILS_PANDYAN_KINGDOM</Tag>
+		<English>Pandyan Kingdom</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAMILS_CHERA_KINGDOM</Tag>
+		<English>Chera Kingdom</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TAMILS_</Tag>
+		<English></English>
 	</TEXT>
 </Civ4GameText>

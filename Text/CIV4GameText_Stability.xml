@@ -259,6 +259,10 @@
 		<English>Overextension</English>
 	</TEXT>
 	<TEXT>
+		<Tag>TXT_KEY_STABILITY_CORE_PERIPHERY_INFO</Tag>
+		<English>Expansion</English>
+	</TEXT>
+	<TEXT>
 		<Tag>TXT_KEY_STABILITY_RAZED_CITIES</Tag>
 		<English>Razed Cities</English>
 	</TEXT>
@@ -347,12 +351,20 @@
 		<English>Unstable Vassals</English>
 	</TEXT>
 	<TEXT>
+		<Tag>TXT_KEY_STABILITY_GOOD_RELATIONS</Tag>
+		<English>Good Relations</English>
+	</TEXT>
+	<TEXT>
 		<Tag>TXT_KEY_STABILITY_BAD_RELATIONS</Tag>
 		<English>Bad Relations</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_WARS_BROTHERS_OF_FAITH</Tag>
 		<English>Fanaticism: Fighting Brothers of Faith</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_WARS_MULTILATERALISM</Tag>
+		<English>Multilateralism: Being at War</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_CONQUERED_CITIES</Tag>
@@ -373,6 +385,14 @@
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_LOST_BATTLES</Tag>
 		<English>Lost Battles</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_WINNING_WARS</Tag>
+		<English>Winning Wars</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_LOSING_WARS</Tag>
+		<English>Losing Wars</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_WAR_WEARINESS</Tag>

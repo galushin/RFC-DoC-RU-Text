@@ -2,6 +2,7 @@
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
 <!-- Game Text - Unit Upgrades for Civilopedia -->
+
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_SEVOPEDIA_TITLE</Tag>
@@ -25,7 +26,7 @@
 		<Tag>TXT_KEY_PEDIA_SCREEN_CONTENTS</Tag>
 		<Russian>Contents</Russian>
 		<English>Contents</English>
-		<French>Mati&#232;res</French>
+		<French>Matières</French>
 		<German>Inhalt</German>
 		<Italian>Contenuto</Italian>
 		<Spanish>Contenido</Spanish>
@@ -34,7 +35,7 @@
 		<Tag>TXT_KEY_PEDIA_CATEGORY_UNIT_UPGRADES</Tag>
 		<Russian>Unit Upgrades</Russian>
 		<English>Unit Upgrades</English>
-		<French>Am&#233;liorations des Unit&#233;s</French>
+		<French>Améliorations des Unités</French>
 		<German>Modernisierungen</German>
 		<Italian>Avanzamenti</Italian>
 		<Spanish>Unit Upgrades</Spanish>
@@ -44,7 +45,7 @@
 		<Russian>Promotion Tree</Russian>
 		<English>Promotion Tree</English>
 		<French>Arborescence des Promotions</French>
-		<German>Bef&#246;rderungsbaum</German>
+		<German>Beförderungsbaum</German>
 		<Italian>Albero Promoz.</Italian>
 		<Spanish>Promotion Tree</Spanish>
 	</TEXT>
@@ -79,8 +80,8 @@
 		<Tag>TXT_KEY_UNIQUE_BUILDINGS</Tag>
 		<Russian>&#211;&#237;&#232;&#234;&#224;&#235;&#252;&#237;&#251;&#229; &#231;&#228;&#224;&#237;&#232;&#255;</Russian>
 		<English>Unique Buildings</English>
-		<French>B&#226;timents Uniques</French>
-		<German>Einzigartige Geb&#228;ude</German>
+		<French>Bâtiments Uniques</French>
+		<German>Einzigartige Gebäude</German>
 		<Italian>Edifici Unici</Italian>
 		<Spanish>Unique Buildings</Spanish>
 	</TEXT>
@@ -88,7 +89,7 @@
 		<Tag>TXT_KEY_PEDIA_FAV_CIVIC_AND_RELIGION</Tag>
 		<Russian>Favorite Civic and Religion</Russian>
 		<English>Favorite Civic and Religion</English>
-		<French>Doctrine et Religion Pr&#233;f&#233;r&#233;e</French>
+		<French>Doctrine et Religion Préférée</French>
 		<German>Bevorzugte Staatsform und Religion</German>
 		<Italian>Forme di governo e Religioni preferite</Italian>
 		<Spanish>Principio y religi&#243;n favoritos</Spanish>

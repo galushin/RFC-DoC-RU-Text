@@ -8,7 +8,7 @@
 		<Tag>TXT_KEY_BUILDING_EMBASSY_EP</Tag>
 		<Russian>[ICON_BULLET] &#210;&#240;&#229;&#225;&#243;&#229;&#242; 10 [ICON_ESPIONAGE] &#239;&#240;&#238;&#242;&#232;&#226; &#253;&#242;&#238;&#233; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#232;</Russian>
 		<English>[ICON_BULLET] Requires 10 [ICON_ESPIONAGE] against this civilization</English>
-		<French>[ICON_BULLET] N&#233;cessite 10 [ICON_ESPIONAGE] contre cette civilisation</French>
+		<French>[ICON_BULLET] Nécessite 10 [ICON_ESPIONAGE] contre cette civilisation</French>
 		<German>[ICON_BULLET] Erfordert 10 [ICON_ESPIONAGE] gegen diese Zivilisation</German>
 		<Italian>[ICON_BULLET] Richiede 10 [ICON_ESPIONAGE] contro questa civilt&#224;.</Italian>
 		<Spanish>[ICON_BULLET] Se necesitan 10 [ICON_ESPIONAGE] contra esta civilizaci&#243;n</Spanish>
@@ -17,8 +17,8 @@
 		<Tag>TXT_KEY_BUILDING_ETH_EMBASSY</Tag>
 		<Russian>&#221;&#244;&#232;&#238;&#239;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
 		<English>Ethiopian Embassy</English>
-		<French>Ambassade &#233;thiopienne</French>
-		<German>&#196;thiopische Botschaft</German>
+		<French>Ambassade éthiopienne</French>
+		<German>Äthiopische Botschaft</German>
 		<Italian>Ambasciata etiope</Italian>
 		<Spanish>Embajada et&#237;ope</Spanish>
 	</TEXT>
@@ -26,7 +26,7 @@
 		<Tag>TXT_KEY_BUILDING_KOR_EMBASSY</Tag>
 		<Russian>&#202;&#238;&#240;&#229;&#233;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
 		<English>Korean Embassy</English>
-		<French>Ambassade &#233;thiopienne</French>
+		<French>Ambassade éthiopienne</French>
 		<German>Koreanische Botschaft</German>
 		<Italian>Ambasciata etiope</Italian>
 		<Spanish>Embajada et&#237;ope</Spanish>
@@ -44,7 +44,7 @@
 		<Tag>TXT_KEY_BUILDING_KHM_EMBASSY</Tag>
 		<Russian>&#207;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238; &#202;&#245;&#236;&#229;&#240;&#238;&#226;</Russian>
 		<English>Khmer Embassy</English>
-		<French>Ambassade khm&#232;re</French>
+		<French>Ambassade khmère</French>
 		<German>Khmerische Botschaft</German>
 		<Italian>Ambasciata khmer</Italian>
 		<Spanish>Embajada j&#233;mer</Spanish>
@@ -53,7 +53,7 @@
 		<Tag>TXT_KEY_BUILDING_INO_EMBASSY</Tag>
 		<Russian>&#200;&#237;&#228;&#238;&#237;&#229;&#231;&#232;&#233;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
 		<English>Indonesian Embassy</English>
-		<French>Ambassade indon&#233;sienne</French>
+		<French>Ambassade indonésienne</French>
 		<German>Indonesische Botschaft</German>
 		<Italian>Ambasciata indonesiana</Italian>
 		<Spanish>Embajada indonesia</Spanish>
@@ -62,8 +62,8 @@
 		<Tag>TXT_KEY_BUILDING_HOL_EMBASSY</Tag>
 		<Russian>&#195;&#238;&#235;&#235;&#224;&#237;&#228;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
 		<English>Dutch Embassy</English>
-		<French>Ambassade n&#233;erlandaise</French>
-		<German>Holl&#228;ndische Botschaft</German>
+		<French>Ambassade néerlandaise</French>
+		<German>Holländische Botschaft</German>
 		<Italian>Ambasciata olandese</Italian>
 		<Spanish>Embajada holandesa</Spanish>
 	</TEXT>
@@ -101,7 +101,7 @@
 		<Tag>TXT_KEY_BUILDING_HRE_EMBASSY</Tag>
 		<Russian>&#207;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238; &#209;&#226;&#255;&#249;&#229;&#237;&#237;&#238;&#233; &#208;&#232;&#236;&#241;&#234;&#238;&#233; &#200;&#236;&#239;&#229;&#240;&#232;&#232;</Russian>
 		<English>Holy Roman Embassy</English>
-		<German>Heilig-R&#246;mische Botschaft</German>
+		<German>Heilig-Römische Botschaft</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_TAM_EMBASSY</Tag>

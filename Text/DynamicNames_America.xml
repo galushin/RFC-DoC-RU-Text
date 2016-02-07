@@ -17,9 +17,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AMERICA_DESC_DEFAULT</Tag>
 		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#202;&#238;&#235;&#243;&#236;&#225;&#232;&#255;</Russian>
-		<!-- better as a monarchist name -->
-		<English>Empire of Columbia</English>
-		<!-- better as a monarchist name -->
+		<English>Empire of Columbia</English>		<!-- better as a monarchist name -->
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AMERICA_DESC_DEMOCRATIC</Tag>
@@ -34,8 +32,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AMERICA_DESC_FASCIST</Tag>
 		<Russian>&#205;&#238;&#226;&#251;&#233; &#236;&#232;&#240;&#238;&#226;&#238;&#233; &#239;&#238;&#240;&#255;&#228;&#238;&#234;</Russian>
-		<English>New World Order</English>
-		<!-- Empire of Columbia previously -->
+		<English>New World Order</English>		<!-- Empire of Columbia previously -->
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AMERICA_CSA</Tag>
@@ -76,5 +73,10 @@
 		<Tag>TXT_KEY_CIV_AZTECS_AMERICAN_VASSAL</Tag>
 		<Russian>&#205;&#238;&#226;&#224;&#255; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
 		<English>New Mexico</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_AMERICAN_VASSAL</Tag>
+		<Russian>American Yucatán</Russian>
+		<English>American Yucatán</English>
 	</TEXT>
 </Civ4GameText>

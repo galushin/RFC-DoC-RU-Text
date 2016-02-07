@@ -780,9 +780,8 @@
 		<English>Turns with highest approval rating: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_VICTORY_NO_BAD_RELATIONS</Tag>
-		<Russian>No furious or annoyed relations</Russian>
-		<English>No furious or annoyed relations</English>
+		<Tag>TXT_KEY_VICTORY_CAUTIOUS_OR_BETTER_RELATIONS</Tag>
+		<English>Cautious or better relations: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_FRIENDLY_CIVS</Tag>
@@ -853,6 +852,62 @@
 		<Tag>TXT_KEY_VICTORY_CONTROL_NUM_UNITS</Tag>
 		<Russian>Number of melee and gunpowder units: %d1 / %d2</Russian>
 		<English>Number of melee and gunpowder units: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ATLANTIC_RAILROAD</Tag>
+		<English>Railroad to an Atlantic port</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_PACIFIC_RAILROAD</Tag>
+		<English>Railroad to a Pacific port</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CONTROL_CANADA</Tag>
+		<English>Canadian territory: %s1 / %s2%%</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CONTROL_CANADA_CITIES</Tag>
+		<English>Controls all cities in Canada</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CANADIAN_PEACE_DEALS</Tag>
+		<English>Peace deals arranged: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_HAWAII</Tag>
+		<English>Hawaii</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NEW_ZEALAND</Tag>
+		<English>New Zealand</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_MARQUESAS</Tag>
+		<English>Marquesas</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_EASTER_ISLAND</Tag>
+		<English>Easter Island</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_BATHS</Tag>
+		<English>Baths: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_NUM_WALLS</Tag>
+		<English>Walls: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TOTAL_POPULATION</Tag>
+		<English>Total population: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_AVERAGE_CULTURE</Tag>
+		<English>Average Culture: %d1 / %d2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TECHS_FIRST_DISCOVERED</Tag>
+		<English>First to discover technologies in the %s1 era: %d2 / %d3</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_</Tag>

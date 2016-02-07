@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="ISO-8859-1" ?>
 <!--
 	Unit Naming Translations
 
 	Copyright (c) 2010 The BUG Mod.
   -->
 <Civ4GameText xmlns="http://www.firaxis.com">
+	
 	<!-- Domain Descriptions -->
+	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_UNIT_NAMING_DOMAIN_LAND</Tag>
 		<Russian>&#205;&#224;&#231;&#229;&#236;&#237;&#251;&#233;</Russian>
@@ -14,7 +16,7 @@
 		<German>Land</German>
 		<Italian>Terrestre</Italian>
 		<Spanish>Terrestre</Spanish>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_UNIT_NAMING_DOMAIN_SEA</Tag>
 		<Russian>&#204;&#238;&#240;&#241;&#234;&#238;&#233;</Russian>
@@ -23,7 +25,7 @@
 		<German>Marine</German>
 		<Italian>Navale</Italian>
 		<Spanish>Naval</Spanish>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_UNIT_NAMING_DOMAIN_AIR</Tag>
 		<Russian>&#194;&#238;&#231;&#228;&#243;&#248;&#237;&#251;&#233;</Russian>
@@ -32,14 +34,15 @@
 		<German>Luft</German>
 		<Italian>Aerea</Italian>
 		<Spanish>A&#233;rea</Spanish>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_UNIT_NAMING_DOMAIN_IMMOBILE</Tag>
 		<Russian>&#209;&#242;&#224;&#246;&#232;&#238;&#237;&#224;&#240;&#237;&#251;&#233;</Russian>
 		<English>Stationary</English>
 		<French>Stationnaire</French>
-		<German>Station&#228;r</German>
+		<German>Stationär</German>
 		<Italian>Stazionario</Italian>
 		<Spanish>Estacionaria</Spanish>
-		</TEXT>
+	</TEXT>
+
 </Civ4GameText>

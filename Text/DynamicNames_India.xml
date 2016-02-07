@@ -41,6 +41,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDIA_MARATHA</Tag>
+		<Russian>Maratha Confederacy</Russian>
+		<English>Maratha Confederacy</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDIA_MARATHA_EMPIRE</Tag>
 		<Russian>&#204;&#224;&#240;&#224;&#242;&#245;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
 		<English>Maratha Empire</English>
 	</TEXT>

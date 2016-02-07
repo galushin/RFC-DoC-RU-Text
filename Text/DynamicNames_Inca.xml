@@ -59,4 +59,14 @@
 		<Russian>Republic of Peru</Russian>
 		<English>Republic of Peru</English>
 	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_NAZI_VASSAL</Tag>
+		<Russian>German Peru</Russian>
+		<English>German Peru</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_SOVIET_VASSAL</Tag>
+		<Russian>Soviet Peru</Russian>
+		<English>Soviet Peru</English>
+	</TEXT>
 </Civ4GameText>

@@ -299,12 +299,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_PER1_EPIC</Tag>
-		<Russian>Control 8% of world territory by 140 AD</Russian>
-		<English>Control 8% of world territory by 140 AD</English>
-		<French>Contrôler 8% du territoire mondial avant 140 ap. J.-C.</French>
-		<German>Kontrollieren Sie bis zum Jahr 140 n. Chr. 8% der Weltkarte</German>
-		<Italian>Devi controllare l'8% del territorio mondiale entro il 140 d.C.</Italian>
-		<Spanish>Controlar el 8% del territorio mundial antes del 140 d. C.</Spanish>
+		<Russian>Control 7% of world territory by 140 AD</Russian>
+		<English>Control 7% of world territory by 140 AD</English>
+		<French>Contrôler 7% du territoire mondial avant 140 ap. J.-C.</French>
+		<German>Kontrollieren Sie bis zum Jahr 140 n. Chr. 7% der Weltkarte</German>
+		<Italian>Devi controllare l'7% del territorio mondiale entro il 140 d.C.</Italian>
+		<Spanish>Controlar el 7% del territorio mundial antes del 140 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_PER1_MARATHON</Tag>
@@ -434,28 +434,28 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_JAP1</Tag>
-		<Russian>&#205;&#224;&#234;&#238;&#239;&#232;&#242;&#252; &#225;&#238;&#235;&#229;&#229; 18000 [ICON_CULTURE] &#226; 1600 &#227;&#238;&#228;&#243;</Russian>
-		<English>Have more than 18000 Culture in 1600 AD</English>
+		<Russian>Have an average city culture of 6000 by 1600 AD without ever losing a city</Russian>
+		<English>Have an average city culture of 6000 by 1600 AD without ever losing a city</English>
 		<French>Avoir plus de 18000 en Culture en 1600 ap. J.-C.</French>
-		<German>Haben Sie im Jahr 1600 n. Chr. mehr als 18.000 Kulturpunkte</German>
+		<German>Erreichen Sie bis zum Jahr 1600 n. Chr. durchschnittlich 6000 Kulturpunkte pro Stadt, ohne jemals eine Stadt zu verlieren</German>
 		<Italian>Devi avere più di 18.000 cultura nel 1600 d.C.</Italian>
 		<Spanish>Conseguir una cultura superior a 18.000 en el 1600 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_JAP1_EPIC</Tag>
-		<Russian>&#205;&#224;&#234;&#238;&#239;&#232;&#242;&#252; &#225;&#238;&#235;&#229;&#229; 27000 [ICON_CULTURE] &#226; 1600 &#227;&#238;&#228;&#243;</Russian>
-		<English>Have more than 27000 Culture in 1600 AD</English>
+		<Russian>Have an average city culture of 9000 by 1600 AD</Russian>		
+		<English>Have an average city culture of 9000 by 1600 AD</English>
 		<French>Avoir plus de 27000 en Culture en 1600 ap. J.-C.</French>
-		<German>Haben Sie im Jahr 1600 n. Chr. mehr als 27.000 Kulturpunkte</German>
+		<German>Haben Sie bis zum Jahr 1600 n. Chr. durchschnittlich 9000 Kulturpunkte in Ihren Städten</German>
 		<Italian>Devi avere più di 27.000 cultura nel 1600 d.C.</Italian>
 		<Spanish>Conseguir una cultura superior a 27.000 en el 1600 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_JAP1_MARATHON</Tag>
-		<Russian>&#205;&#224;&#234;&#238;&#239;&#232;&#242;&#252; &#225;&#238;&#235;&#229;&#229; 54000 [ICON_CULTURE] &#226; 1600 &#227;&#238;&#228;&#243;</Russian>
-		<English>Have more than 54000 Culture in 1600 AD</English>
+		<Russian>Have an average city culture of 18000 by 1600 AD</Russian>
+		<English>Have an average city culture of 18000 by 1600 AD</English>
 		<French>Avoir plus de 54000 en Culture en 1600 ap. J.-C.</French>
-		<German>Haben Sie im Jahr 1600 n. Chr. mehr als 54.000 Kulturpunkte</German>
+		<German>Haben Sie bis zum Jahr 1600 n. Chr. durchschnittlich 18000 Kulturpunkte in Ihren Städten</German>
 		<Italian>Devi avere più di 54.000 cultura nel 1600 d.C.</Italian>
 		<Spanish>Conseguir una cultura superior a 54.000 en el 1600 d. C.</Spanish>
 	</TEXT>
@@ -470,10 +470,10 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_JAP3</Tag>
-		<Russian>&#207;&#229;&#240;&#226;&#251;&#236;&#232; &#231;&#224;&#226;&#229;&#240;&#248;&#232;&#242;&#252; &#228;&#229;&#240;&#229;&#226;&#238; &#242;&#229;&#245;&#237;&#238;&#235;&#238;&#227;&#232;&#233;</Russian>
-		<English>Be the first to complete the tech tree</English>
+		<Russian>Be the first to discover five modern technologies</Russian>
+		<English>Be the first to discover five modern technologies</English>
 		<French>Etre le premier à compléter l'arbre technologique</French>
-		<German>Erforschen Sie vor allen anderen Zivilisationen sämtliche Technologien des Technologiebaums</German>
+		<German>Erforschen Sie als erster fünf Technologien der Moderne</German>
 		<Italian>Devi essere il primo a completare l'albero delle tecnologie</Italian>
 		<Spanish>Ser el primero en completar el &#225;rbol tecnol&#243;gico</Spanish>
 	</TEXT>
@@ -524,10 +524,10 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_SPA3</Tag>
-		<Russian>&#208;&#224;&#241;&#239;&#240;&#238;&#241;&#242;&#240;&#224;&#237;&#232;&#242;&#252; &#234;&#224;&#242;&#238;&#235;&#232;&#246;&#232;&#231;&#236; &#237;&#224; 40% &#237;&#224;&#241;&#229;&#235;&#229;&#237;&#232;&#255; &#236;&#232;&#240;&#224; &#232; &#237;&#229;&#228;&#238;&#239;&#243;&#241;&#242;&#232;&#242;&#252; &#241;&#243;&#249;&#229;&#241;&#242;&#226;&#238;&#226;&#224;&#237;&#232;&#255; &#239;&#240;&#238;&#242;&#229;&#241;&#242;&#224;&#237;&#242;&#241;&#234;&#232;&#245; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#233; &#226; &#197;&#226;&#240;&#238;&#239;&#229; &#226; 1700 &#227;&#238;&#228;&#243; &#237;.&#253;.</Russian>
-		<English>Spread Catholicism to 40% of the world population and allow no Protestant civilizations in Europe in 1700 AD</English>
+		<Russian>Spread Catholicism to 40% of the world population and allow no Protestant civilizations in Europe in 1650 AD</Russian>
+		<English>Spread Catholicism to 40% of the world population and allow no Protestant civilizations in Europe in 1650 AD</English>
 		<French>Aucune ville anglaise, française ou n&#233;erlandaise construite en Amérique en 1700 ap. J.-C.</French>
-		<German>Verbreiten Sie den Katholizismus zu 40% der Weltbevölkerung und erlauben sie im Jahr 1700 n. Chr. keine protestantischen Zivilisationen in Europa</German>
+		<German>Verbreiten Sie den Katholizismus zu 40% der Weltbevölkerung und erlauben sie im Jahr 1650 n. Chr. keine protestantischen Zivilisationen in Europa</German>
 		<Italian>Non permettere alcuna colonia inglese, francese o olandese in America nel 1700 d.C.</Italian>
 		<Spanish>Asegurarse de que no haya ciudades inglesas, francesas o holandesas en América en el 1700 d.C.</Spanish>
 	</TEXT>
@@ -587,10 +587,10 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ENG2</Tag>
-		<Russian>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#232;&#240;&#238;&#226;&#224;&#242;&#252; 25 &#244;&#240;&#232;&#227;&#224;&#237;&#242;&#238;&#226; &#232; &#235;&#232;&#237;&#229;&#233;&#237;&#251;&#245; &#234;&#238;&#240;&#224;&#225;&#235;&#229;&#233; &#226; 1800 &#227;&#238;&#228;&#243; &#232; &#239;&#238;&#242;&#238;&#239;&#232;&#242;&#252; 50 &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#232;&#245; &#234;&#238;&#240;&#224;&#225;&#235;&#229;&#233; &#234; &#253;&#242;&#238;&#236;&#243; &#230;&#229; &#227;&#238;&#228;&#243;</Russian>
-		<English>Control a total of 25 frigates or ships of the line and sink 50 enemy ships in 1800 AD</English>
+		<Russian>Control a total of 25 frigates or ships of the line and sink 50 enemy ships by 1800 AD</Russian>
+		<English>Control a total of 25 frigates or ships of the line and sink 50 enemy ships by 1800 AD</English>
 		<French>Etre le premier à faire le tour du monde</French>
-		<German>Kontrollieren Sie insgesamt 25 Fregatten oder Linienschiffe und versenken Sie 50 gegnerische Schiffe im Jahr 1800 n. Chr.</German>
+		<German>Kontrollieren Sie bis zum Jahr 1800 n. Chr. insgesamt 25 Fregatten oder Linienschiffe und versenken Sie 50 gegnerische Schiffe</German>
 		<Italian>Devi essere il primo a circumnavigare il pianeta</Italian>
 		<Spanish>Ser el primero en circunnavegar el globo</Spanish>
 	</TEXT>
@@ -785,19 +785,19 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AME1</Tag>
-		<Russian>Allow no European colonies in the North and Central America and in the Caribbean and control or vassalize Mexico in 1930 AD</Russian>
-		<English>Allow no European colonies in the North and Central America and in the Caribbean and control or vassalize Mexico in 1930 AD</English>
+		<Russian>Allow no European colonies in the North and Central America and in the Caribbean and control or vassalize Mexico in 1900 AD</Russian>
+		<English>Allow no European colonies in the North and Central America and in the Caribbean and control or vassalize Mexico in 1900 AD</English>
 		<French>Aucune colonie européenne en Amérique septentrionale et centrale ou dans les Caraïbes en 1930 ap. J.-C.</French>
-		<German>Lassen Sie im Jahr 1930 n. Chr. keine europäischen Städte in Nord- und Zentralamerika und in der Karibik zu und kontrollieren oder vassalisieren Sie Mexiko</German>
+		<German>Lassen Sie im Jahr 1900 n. Chr. keine europäischen Städte in Nord- und Zentralamerika und in der Karibik zu und kontrollieren oder vassalisieren Sie Mexiko</German>
 		<Italian>Non permettere alcuna colonia europea in Nord e Centro America e nei Caraibi nel 1930 d.C.</Italian>
 		<Spanish>No permitir colonias europeas en Norte y Centro America y el Caribe en el 1930 d.C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AME2</Tag>
-		<Russian>Build the Statue of Liberty, the Empire State Building, the Pentagon and the United Nations by 2000 AD</Russian>
-		<English>Build the Statue of Liberty, the Empire State Building, the Pentagon and the United Nations by 2000 AD</English>
+		<Russian>Build the Statue of Liberty, the Empire State Building, the Pentagon and the United Nations by 1950 AD</Russian>
+		<English>Build the Statue of Liberty, the Empire State Building, the Pentagon and the United Nations by 1950 AD</English>
 		<French>Construire l'ONU, la Statue de la Liberté et le Pentagone avant 2000 ap. J.-C.</French>
-		<German>Errichten Sie bis zum Jahr 2000 n. Chr. die Freiheitsstatue, das Empire State Building, das Pentagon und the Vereinten Nationen</German>
+		<German>Errichten Sie bis zum Jahr 1950 n. Chr. die Freiheitsstatue, das Empire State Building, das Pentagon und the Vereinten Nationen</German>
 		<Italian>Devi costruire le Nazioni Unite, la Statua della Libert&#224; e il Pentagono entro il 2000 d.C.</Italian>
 		<Spanish>Construir las Naciones Unidas, la Estatua de la Libertad y el Pent&#225;gono antes del 2000 d. C.</Spanish>
 	</TEXT>
@@ -824,9 +824,9 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ITA3</Tag>
-		<Russian>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#232;&#240;&#238;&#226;&#224;&#242;&#252; 65% &#209;&#240;&#229;&#228;&#232;&#231;&#229;&#236;&#237;&#238;&#236;&#238;&#240;&#252;&#255; &#226; 1930 &#227;&#238;&#228;&#243;</Russian>
-		<English>Control 65% of the Mediterranean in 1930 AD</English>
-		<German>Kontrollieren Sie 65% der Mittelmeerküste im Jahr 1930 n. Chr.</German>
+		<Russian>Control 65% of the Mediterranean by 1930 AD</Russian>
+		<English>Control 65% of the Mediterranean by 1930 AD</English>
+		<German>Kontrollieren Sie 65% der Mittelmeerküste bis zum Jahr 1930 n. Chr.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_0</Tag>
@@ -1199,5 +1199,45 @@
 		<Russian>South America</Russian>
 		<English>South America</English>
 		<German>Südamerika</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_AREA_62</Tag>
+		<English>Canada</English>
+		<German>Kanada</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_AREA_63</Tag>
+		<English>Atlantic Coast</English>
+		<German>Atlantikküste</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_AREA_64</Tag>
+		<English>Pacific Coast</English>
+		<German>Pazifikküste</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_AREA_65</Tag>
+		<English>Hawaii</English>
+		<German>Hawaii</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_AREA_66</Tag>
+		<English>New Zealand</English>
+		<German>Neuseeland</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_AREA_67</Tag>
+		<English>Marquesas</English>
+		<German>Marquesas</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_AREA_68</Tag>
+		<English>Easter Island</English>
+		<German>Osterinsel</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_AREA_</Tag>
+		<English></English>
+		<German></German>
 	</TEXT>
 </Civ4GameText>

@@ -202,7 +202,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>la National Gallery</Text>
+			<Text>La Galeria Nacional</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -1130,9 +1130,15 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_HELP_HIMEJI_CASTLE</Tag>
-		<Russian>[ICON_BULLET]New melee and archery units start with City Garrison I and Drill I[NEWLINE][ICON_BULLET]Amount of [ICON_GOLD]looted doubled</Russian>
-		<English>[ICON_BULLET]New melee and archery units start with City Garrison I and Drill I[NEWLINE][ICON_BULLET]Amount of [ICON_GOLD]looted doubled</English>
-		<German>[ICON_BULLET]Neue Nahkampf- und Pfeil- und Bogeneinheiten starten mit Garnison I und Drill I[NEWLINE][ICON_BULLET]Menge des geplünderten [ICON_GOLD]verdoppelt</German>
+		<Russian>[ICON_BULLET]City defense increases culture output in all cities[NEWLINE][ICON_BULLET]+1[ICON_CULTURE] per level of every fully fortified unit in the city</Russian>
+		<English>[ICON_BULLET]City defense increases culture output in all cities[NEWLINE][ICON_BULLET]+1[ICON_CULTURE] per level of every fully fortified unit in the city</English>
+		<German>[ICON_BULLET]Stadtverteidigung erhöht Kulturausstoß in allen Städten[NEWLINE][ICON_BULLET]+1[ICON_CULTURE] pro Level für jede vollständig befestigte Einheit in der Stadt</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_HELP_HIMEJI_UNIT_CULTURE</Tag>
+		<Russian>[ICON_BULLET]%D1%F2 from Fortified Units</Russian>
+		<English>[ICON_BULLET]%D1%F2 from Fortified Units</English>
+		<German>[ICON_BULLET]%D1%F2 durch befestigte Einheiten</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_PORCELAIN_TOWER</Tag>
@@ -1142,9 +1148,9 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_HELP_PORCELAIN_TOWER</Tag>
-		<Russian>[ICON_BULLET]All trade routes are counted as foreign and intercontinental</Russian>
-		<English>[ICON_BULLET]All trade routes are counted as foreign and intercontinental</English>
-		<German>[ICON_BULLET]All Handelsrouten werden als ausländische und Überseerouten gewertet</German>
+		<Russian>[ICON_BULLET]All trade routes are counted as foreign</Russian>
+		<English>[ICON_BULLET]All trade routes are counted as foreign</English>
+		<German>[ICON_BULLET]All Handelsrouten werden als ausländisch gewertet</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_HARMANDIR_SAHIB</Tag>
@@ -1532,8 +1538,9 @@
 		<Spanish>El [COLOR_BUILDING_TEXT]Gran Faro[COLOR_REVERT] a&#241;ade dos rutas comerciales a todas las ciudades costeras. El [COLOR_BUILDING_TEXT]Gran Faro[COLOR_REVERT] tambi&#233;n aumenta las probabilidades de que en su ciudad se genere un [COLOR_UNIT_TEXT]Gran mercader[COLOR_REVERT].</Spanish>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_BUILDING_MOAI_STATUES_STRATEGY</Tag>
-		<English>The [COLOR_BUILDING_TEXT]Great Cothan[COLOR_REVERT] add a bonus production to every water tile in the city in which it's constructed. It also increases the chances of a [COLOR_UNIT_TEXT]Great Merchant[COLOR_REVERT] appearing. The [COLOR_BUILDING_TEXT]Great Cothan[COLOR_REVERT] requires you to have the Pantheon civic active.</English>
+		<Tag>TXT_KEY_BUILDING_GREAT_COTHON_STRATEGY</Tag>
+		<Russian>The [COLOR_BUILDING_TEXT]Great Cothon[COLOR_REVERT] add a bonus production to every water tile in the city in which it's constructed. It also increases the chances of a [COLOR_UNIT_TEXT]Great Merchant[COLOR_REVERT] appearing. The [COLOR_BUILDING_TEXT]Great Cothan[COLOR_REVERT] requires you to have the Pantheon civic active.</Russian>
+		<English>The [COLOR_BUILDING_TEXT]Great Cothon[COLOR_REVERT] add a bonus production to every water tile in the city in which it's constructed. It also increases the chances of a [COLOR_UNIT_TEXT]Great Merchant[COLOR_REVERT] appearing. The [COLOR_BUILDING_TEXT]Great Cothan[COLOR_REVERT] requires you to have the Pantheon civic active.</English>
 		<French>Les [COLOR_BUILDING_TEXT]statues moa&#239;[COLOR_REVERT] conf&#232;rent un bonus de production &#224; chaque case d'eau de la ville qui les abrite. Elles augmentent &#233;galement les chances d'apparition d'un [COLOR_UNIT_TEXT]proph&#232;te illustre[COLOR_REVERT].</French>
 		<German>Die [COLOR_BUILDING_TEXT]Moai-Statuen[COLOR_REVERT] gew&#228;hren jedem Wasser-Gel&#228;ndefeld einer Stadt einen Produktionsbonus und erh&#246;hen die Chancen auf den Erhalt eines [COLOR_UNIT_TEXT]Gro&#223;en Propheten[COLOR_REVERT].</German>
 		<Italian>La [COLOR_BUILDING_TEXT]Statua Moai[COLOR_REVERT] d&#224; un bonus alla produzione per ogni casella d'acqua nella citt&#224; in cui &#232; costruita. Aumenta inoltre le probabilit&#224; che appaia un [COLOR_UNIT_TEXT]Grande Profeta[COLOR_REVERT].</Italian>
@@ -1876,5 +1883,14 @@ The name Khajuraho, ancient "Kharjuravahaka", is derived from the Sanskrit words
 		<German>Der [COLOR_BUILDING_TEXT]Nationalpark[COLOR_REVERT] befreit die Bev&#246;lkerung einer Stadt von allen Krankheiten. Dar&#252;ber hinaus gew&#228;hrt er einen Spezialisten f&#252;r jeden [COLOR_HIGHLIGHT_TEXT]Naturpark[COLOR_REVERT] innerhalb des Stadtgebiets und erh&#246;ht die Chancen auf den Erhalt eines [COLOR_UNIT_TEXT]Gro&#223;en Wissenschaftlers[COLOR_REVERT].</German>
 		<Italian>Costruisci il [COLOR_BUILDING_TEXT]Parco nazionale[COLOR_REVERT] per far fronte alla mancanza di salute della popolazione della tua citt&#224;. Fornisce inoltre uno specialista per ogni [COLOR_HIGHLIGHT_TEXT]Riserva forestale[COLOR_REVERT] nel raggio della citt&#224; e aumenta le probabilit&#224; che appaia un [COLOR_UNIT_TEXT]Grande Scienziato[COLOR_REVERT] nella tua citt&#224;.</Italian>
 		<Spanish>Construye el [COLOR_BUILDING_TEXT]Parque nacional[COLOR_REVERT] para eliminar toda la insalubridad de la poblaci&#243;n de la ciudad. Tambi&#233;n proporciona un especialista gratis por cada [COLOR_HIGHLIGHT_TEXT]Reserva forestal[COLOR_REVERT] que haya en su radio urbano y aumenta la probabilidad de que pueda aparecer un [COLOR_UNIT_TEXT]gran cient&#237;fico[COLOR_REVERT] en la ciudad.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CN_TOWER</Tag>
+		<Russian>CN Tower</Russian>
+		<English>CN Tower</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOAI_STATUES_HELP</Tag>
+		<English>Requires 20 Water Tiles in City Radius[NEWLINE][ICON_BULLET]+2 [ICON_PRODUCTION] for Water Improvements</English>
 	</TEXT>
 </Civ4GameText>

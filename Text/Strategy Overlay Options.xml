@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="ISO-8859-1" ?>
 <!--
 	Strategy Overlay
 	Options Game Text
@@ -8,110 +8,110 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__ENABLED_TEXT</Tag>
+		<Russian>Enabled</Russian>
 		<English>Enabled</English>
-		<French>Activ&#233;</French>
+		<French>Activé</French>
 		<German>Aktivieren</German>
 		<Italian>Attivata</Italian>
 		<Spanish>Enabled</Spanish>
-		<Russian>Enabled</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__ENABLED_HOVER</Tag>
+		<Russian>When checked, the shortcut keys and features of the Strategy Layer are activated.</Russian>
 		<English>When checked, the shortcut keys and features of the Strategy Layer are activated.</English>
 		<French>When checked, the shortcut keys and features of the Strategy Layer are activated.</French>
-		<German>Aktiviert die Tastenkombinationen und F&#228;higkeiten des Strategie-Overlays</German>
-		<Italian>Quando &#232; selezionato, vengono attivate le scorciatoie da tastiera e le funzionalit&#224; del Livello Strategico.</Italian>
+		<German>Aktiviert die Tastenkombinationen und Fähigkeiten des Strategie-Overlays</German>
+		<Italian>Quando è selezionato, vengono attivate le scorciatoie da tastiera e le funzionalità del Livello Strategico.</Italian>
 		<Spanish>When checked, the shortcut keys and features of the Strategy Layer are activated.</Spanish>
-		<Russian>When checked, the shortcut keys and features of the Strategy Layer are activated.</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__SHOWDOTMAP_TEXT</Tag>
+		<Russian>Show Dot Map</Russian>
 		<English>Show Dot Map</English>
 		<French>Show Dot Map</French>
 		<German>Overlay-Karte anzeigen</German>
 		<Italian>Mostra la Mappa di posizionamento</Italian>
 		<Spanish>Show Dot Map</Spanish>
-		<Russian>Show Dot Map</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__SHOWDOTMAP_HOVER</Tag>
+		<Russian>When checked, the city-planning dot map layer is shown overlaying the terrain.</Russian>
 		<English>When checked, the city-planning dot map layer is shown overlaying the terrain.</English>
 		<French>When checked, the city-planning dot map layer is shown overlaying the terrain.</French>
-		<German>L&#228;sst die Overlay-Karte zur Planung von Stadtgr&#252;ndungen das Gel&#228;nde &#252;berlagern</German>
-		<Italian>Quando &#232; selezionato, il livello di pianificazione delle Citt&#224; detto "Mappa di posizionamento" viene mostrato come sovrapposto al terreno.</Italian>
+		<German>Lässt die Overlay-Karte zur Planung von Stadtgründungen das Gelände überlagern</German>
+		<Italian>Quando è selezionato, il livello di pianificazione delle Città detto "Mappa di posizionamento" viene mostrato come sovrapposto al terreno.</Italian>
 		<Spanish>When checked, the city-planning dot map layer is shown overlaying the terrain.</Spanish>
-		<Russian>When checked, the city-planning dot map layer is shown overlaying the terrain.</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__DOTMAPDRAWDOTS_TEXT</Tag>
+		<Russian>Draw City Dots</Russian>
 		<English>Draw City Dots</English>
 		<French>Draw City Dots</French>
-		<German>St&#228;dte markieren</German>
-		<Italian>Disegna le icone per le Citt&#224;</Italian>
+		<German>Städte markieren</German>
+		<Italian>Disegna le icone per le Città</Italian>
 		<Spanish>Draw City Dots</Spanish>
-		<Russian>Draw City Dots</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__DOTMAPDRAWDOTS_HOVER</Tag>
+		<Russian>When checked, an icon is drawn in the center of the borders of planned cities.</Russian>
 		<English>When checked, an icon is drawn in the center of the borders of planned cities.</English>
 		<French>When checked, an icon is drawn in the center of the borders of planned cities.</French>
-		<German>Zeigt im Zentrum der Grenzen von geplanten St&#228;dten ein Symbol an</German>
-		<Italian>Quando &#232; selezionato, viene disegnata un'icona al centro delle aree di posizionamento delle citt&#224;.</Italian>
+		<German>Zeigt im Zentrum der Grenzen von geplanten Städten ein Symbol an</German>
+		<Italian>Quando è selezionato, viene disegnata un'icona al centro delle aree di posizionamento delle città.</Italian>
 		<Spanish>When checked, an icon is drawn in the center of the borders of planned cities.</Spanish>
-		<Russian>When checked, an icon is drawn in the center of the borders of planned cities.</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__DOTMAPDOTICON_TEXT</Tag>
+		<Russian>City Dot Icon</Russian>
 		<English>City Dot Icon</English>
 		<French>City Dot Icon</French>
-		<German>St&#228;dtesymbol</German>
-		<Italian>Icona delle Citt&#224;</Italian>
+		<German>Städtesymbol</German>
+		<Italian>Icona delle Città</Italian>
 		<Spanish>City Dot Icon</Spanish>
-		<Russian>City Dot Icon</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__DOTMAPDOTICON_HOVER</Tag>
+		<Russian>The index number of the icon to be placed in the center of the borders of planned cities.</Russian>
 		<English>The index number of the icon to be placed in the center of the borders of planned cities.</English>
 		<French>The index number of the icon to be placed in the center of the borders of planned cities.</French>
-		<German>Die Indexnummer des Symbols, das im Zentrum der Grenzen von geplanten St&#228;dten angezeigt werden soll</German>
-		<Italian>Indica il numero d'indice dell'icona che deve essere posizionata al centro delle aree di posizionamento delle citt&#224;.</Italian>
+		<German>Die Indexnummer des Symbols, das im Zentrum der Grenzen von geplanten Städten angezeigt werden soll</German>
+		<Italian>Indica il numero d'indice dell'icona che deve essere posizionata al centro delle aree di posizionamento delle città.</Italian>
 		<Spanish>The index number of the icon to be placed in the center of the borders of planned cities.</Spanish>
-		<Russian>The index number of the icon to be placed in the center of the borders of planned cities.</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__DOTMAPBRIGHTNESS_TEXT</Tag>
+		<Russian>Brightness</Russian>
 		<English>Brightness</English>
 		<French>Brightness</French>
 		<German>Transparenz</German>
 		<Italian>Trasparenza</Italian>
 		<Spanish>Brightness</Spanish>
-		<Russian>Brightness</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__DOTMAPBRIGHTNESS_HOVER</Tag>
+		<Russian>Determines the brightness of planned cities.</Russian>
 		<English>Determines the brightness of planned cities.</English>
 		<French>Determines the brightness of planned cities.</French>
 		<German>Bestimmt den Grad der Transparenz, in der geplante Stadtkreuze erscheinen sollen</German>
-		<Italian>Determina la trasparenza delle Citt&#224; posizionate.</Italian>
+		<Italian>Determina la trasparenza delle Città posizionate.</Italian>
 		<Spanish>Determines the brightness of planned cities.</Spanish>
-		<Russian>Determines the brightness of planned cities.</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__DOTMAPHIGHLIGHTBRIGHTNESS_TEXT</Tag>
+		<Russian>Highlight Brightness</Russian>
 		<English>Highlight Brightness</English>
 		<French>Highlight Brightness</French>
 		<German>Transparenz beim Platzieren</German>
 		<Italian>Trasparenza di selezione</Italian>
 		<Spanish>Highlight Brightness</Spanish>
-		<Russian>Highlight Brightness</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__DOTMAPHIGHLIGHTBRIGHTNESS_HOVER</Tag>
+		<Russian>Determines the brightness of the highlighted city being placed.</Russian>
 		<English>Determines the brightness of the highlighted city being placed.</English>
 		<French>Determines the brightness of the highlighted city being placed.</French>
 		<German>Bestimmt den Grad der Transparenz, in der das zu platzierende Stadtkreuz erscheinen soll</German>
-		<Italian>Determina la trasparenza della Citt&#224; selezionata che viene posizionata.</Italian>
+		<Italian>Determina la trasparenza della Città selezionata che viene posizionata.</Italian>
 		<Spanish>Determines the brightness of the highlighted city being placed.</Spanish>
-		<Russian>Determines the brightness of the highlighted city being placed.</Russian>
-		</TEXT>
+	</TEXT>
 </Civ4GameText>

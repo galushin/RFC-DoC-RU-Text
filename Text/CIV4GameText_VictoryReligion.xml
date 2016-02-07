@@ -8,282 +8,282 @@
 		<Tag>TXT_KEY_VICTORY_RELIGIOUS</Tag>
 		<Russian>Religious</Russian>
 		<English>Religious</English>
-		<German>Religi&#246;s</German>
-		</TEXT>
+		<German>Religiös</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_RELIGIOUS_VICTORY</Tag>
 		<Russian>Religious Victory:</Russian>
 		<English>Religious Victory:</English>
-		<German>Religi&#246;ser Sieg:</German>
-		</TEXT>
+		<German>Religiöser Sieg:</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_SCREEN_FULFILLED</Tag>
 		<Russian>Fulfilled:</Russian>
 		<English>Fulfilled:</English>
-		<German>Erf&#252;llt:</German>
-		</TEXT>
+		<German>Erfüllt:</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_NO_RELIGIOUS_GOALS</Tag>
 		<Russian>You lack a state religion with religious goals!</Russian>
 		<English>You lack a state religion with religious goals!</English>
-		<German>Euch fehlt eine Staatsreligion mit religi&#246;sen Zielen!</German>
-		</TEXT>
+		<German>Euch fehlt eine Staatsreligion mit religiösen Zielen!</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_PRO1</Tag>
 		<Russian>Enlightenment: Be first to discover Liberalism, Constitution and Economics</Russian>
 		<English>Enlightenment: Be first to discover Liberalism, Constitution and Economics</English>
-		<German>Aufkl&#228;rung: Entdecken Sie als erstes den Liberalismus, die Verfassung und Wirtschaftswissenschaften</German>
-		</TEXT>
+		<German>Aufklärung: Entdecken Sie als erstes den Liberalismus, die Verfassung und Wirtschaftswissenschaften</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_PRO2</Tag>
 		<Russian>Work Ethic: Make sure five great merchants and five great engineers are settled in Protestant civilizations</Russian>
 		<English>Work Ethic: Make sure five great merchants and five great engineers are settled in Protestant civilizations</English>
-		<German>Arbeitsmoral: Stellen Sie sicher, dass f&#252;nf gro&#223;e H&#228;ndler und f&#252;nf gro&#223;e Ingeneure in protestantischen Zivilisation angesiedelt sind</German>
-		</TEXT>
+		<German>Arbeitsmoral: Stellen Sie sicher, dass fünf große Händler und fünf große Ingeneure in protestantischen Zivilisation angesiedelt sind</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_PRO3</Tag>
 		<Russian>Religious Freedom: Make sure at least half of all civilizations are Protestant or secular</Russian>
 		<English>Religious Freedom: Make sure at least half of all civilizations are Protestant or secular</English>
-		<German>Religi&#246;se Freiheit: Stellen Sie sicher, dass mindestens die H&#228;lfte aller Zivilisationen protestantisch oder s&#228;kular sind</German>
-		</TEXT>
+		<German>Religiöse Freiheit: Stellen Sie sicher, dass mindestens die Hälfte aller Zivilisationen protestantisch oder säkular sind</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_CAT1</Tag>
 		<Russian>Holy See: Be Pope for 100 turns</Russian>
 		<English>Holy See: Be Pope for 100 turns</English>
 		<German>Heiliger Stuhl: Halten Sie 100 Runden lang das Papstamt</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_CAT1_EPIC</Tag>
 		<Russian>Holy See: Be Pope for 150 turns</Russian>
 		<English>Holy See: Be Pope for 150 turns</English>
 		<German>Heiliger Stuhl: Halten Sie 150 Runden lang das Papstamt</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_CAT1_MARATHON</Tag>
 		<Russian>Holy See: Be Pope for 300 turns</Russian>
 		<English>Holy See: Be Pope for 300 turns</English>
 		<German>Heiliger Stuhl: Halten Sie 300 Runden lang das Papstamt</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_CAT2</Tag>
 		<Russian>Holy Land: Control the Catholic shrine and make sure that at least 12 great prophets are settled in Catholic civilizations</Russian>
 		<English>Holy Land: Control the Catholic shrine and make sure that at least 12 great prophets are settled in Catholic civilizations</English>
-		<German>Heiliges Land: Kontrollieren Sie den katholischen Schrein und stellen Sie sicher, dass mindestens 12 gro&#223;e Propheten in katholischen Zivilisationen angesiedelt sind</German>
-		</TEXT>
+		<German>Heiliges Land: Kontrollieren Sie den katholischen Schrein und stellen Sie sicher, dass mindestens 12 große Propheten in katholischen Zivilisationen angesiedelt sind</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_CAT3</Tag>
 		<Russian>Holy Mission: Make sure at least 50% of world territory is controlled by Catholic civilizations</Russian>
 		<English>Holy Mission: Make sure at least 50% of world territory is controlled by Catholic civilizations</English>
 		<German>Heilige Mission: Stellen Sie sicher, dass mindestens 50% des Weltgebiets von katholischen Zivilisationen kontrolliert wird</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_ORT1</Tag>
 		<Russian>Patriarchates: Build four Orthodox Cathedrals</Russian>
 		<English>Patriarchates: Build four Orthodox Cathedrals</English>
 		<German>Patriarchate: Bauen Sie vier orthodoxe Kathedralen</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_ORT2</Tag>
 		<Russian>Iconography: Make sure the five most cultured cities in the world are Orthodox</Russian>
 		<English>Iconography: Make sure the five most cultured cities in the world are Orthodox</English>
-		<German>Ikonographie: Stellen Sie sicher, dass die f&#252;nf kultiviertesten St&#228;dte der Welt orthodox sind</German>
-		</TEXT>
+		<German>Ikonographie: Stellen Sie sicher, dass die fünf kultiviertesten Städte der Welt orthodox sind</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_ORT3</Tag>
 		<Russian>Communion: Make sure there are no Catholic civilizations in the world</Russian>
 		<English>Communion: Make sure there are no Catholic civilizations in the world</English>
 		<German>Kommunion: Stellen Sie sicher, dass es in der Welt keine katholischen Zivilisationen gibt</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_ISL1</Tag>
 		<Russian>Shahada: Spread Islam to 50%</Russian>
 		<English>Shahada: Spread Islam to 50%</English>
 		<German>Schahada: Verbreiten Sie den Islam auf 50%</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_ISL2</Tag>
 		<Russian>Hajj: Settle seven great people in the Muslim holy city</Russian>
 		<English>Hajj: Settle seven great people in the Muslim holy city</English>
-		<German>Hadsch: Siedeln Sie sieben gro&#223;e Pers&#246;nlichkeiten in der muslimischen heiligen Stadt an</German>
-		</TEXT>
+		<German>Hadsch: Siedeln Sie sieben große Persönlichkeiten in der muslimischen heiligen Stadt an</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_ISL3</Tag>
 		<Russian>Jihad: Control five shrines</Russian>
 		<English>Jihad: Control five shrines</English>
-		<German>Dschihad: Kontrollieren Sie f&#252;nf Schreine</German>
-		</TEXT>
+		<German>Dschihad: Kontrollieren Sie fünf Schreine</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_HIN1</Tag>
 		<Russian>Varna: Settle five different great people in the Hindu holy city</Russian>
 		<English>Varna: Settle five different great people in the Hindu holy city</English>
-		<German>Varna: Siedeln Sie f&#252;nf verschiedene gro&#223;e Pers&#246;nlichkeiten in der hinduistischen heiligen Stadt an</German>
-		</TEXT>
+		<German>Varna: Siedeln Sie fünf verschiedene große Persönlichkeiten in der hinduistischen heiligen Stadt an</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_HIN2</Tag>
 		<Russian>Artha: Experience 24 turns of golden age</Russian>
 		<English>Artha: Experience 24 turns of golden age</English>
 		<German>Artha: Erleben Sie 24 Runden Goldenes Zeitalter</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_HIN2_EPIC</Tag>
 		<Russian>Artha: Experience 36 turns of golden age</Russian>
 		<English>Artha: Experience 36 turns of golden age</English>
 		<German>Artha: Erleben Sie 36 Runden Goldenes Zeitalter</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_HIN2_MARATHON</Tag>
 		<Russian>Artha: Experience 72 turns of golden age</Russian>
 		<English>Artha: Experience 72 turns of golden age</English>
 		<German>Artha: Erleben Sie 72 Runden Goldenes Zeitalter</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_HIN3</Tag>
 		<Russian>Kama: Make sure the five largest cities in the world are Hindu</Russian>
 		<English>Kama: Make sure the five largest cities in the world are Hindu</English>
-		<German>Kama: Stellen Sie sicher, dass die f&#252;nf gr&#246;&#223;ten St&#228;dte der Welt hinduistisch sind</German>
-		</TEXT>
+		<German>Kama: Stellen Sie sicher, dass die fünf größten Städte der Welt hinduistisch sind</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_BUD1</Tag>
 		<Russian>Sila: Be at peace for 100 turns</Russian>
 		<English>Sila: Be at peace for 100 turns</English>
 		<German>Sila: Haben Sie 100 Runden lang Frieden</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_BUD1_EPIC</Tag>
 		<Russian>Sila: Be at peace for 150 turns</Russian>
 		<English>Sila: Be at peace for 150 turns</English>
 		<German>Sila: Haben Sie 150 Runden lang Frieden</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_BUD1_MARATHON</Tag>
 		<Russian>Sila: Be at peace for 300 turns</Russian>
 		<English>Sila: Be at peace for 300 turns</English>
 		<German>Sila: Haben Sie 300 Runden lang Frieden</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_BUD2</Tag>
 		<Russian>Nirvana: Have the highest approval rating in the world for 100 turns</Russian>
 		<English>Nirvana: Have the highest approval rating in the world for 100 turns</English>
-		<German>Nirwana: Haben Sie 100 Runden lang die h&#246;chste Zustimmungsrate in der Welt</German>
-		</TEXT>
+		<German>Nirwana: Haben Sie 100 Runden lang die höchste Zustimmungsrate in der Welt</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_BUD2_EPIC</Tag>
 		<Russian>Nirvana: Have the highest approval rating in the world for 150 turns</Russian>
 		<English>Nirvana: Have the highest approval rating in the world for 150 turns</English>
-		<German>Nirwana: Haben Sie 150 Runden lang die h&#246;chste Zustimmungsrate in der Welt</German>
-		</TEXT>
+		<German>Nirwana: Haben Sie 150 Runden lang die höchste Zustimmungsrate in der Welt</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_BUD2_MARATHON</Tag>
 		<Russian>Nirvana: Have the highest approval rating in the world for 300 turns</Russian>
 		<English>Nirvana: Have the highest approval rating in the world for 300 turns</English>
-		<German>Nirwana: Haben Sie 300 Runden lang die h&#246;chste Zustimmungsrate in der Welt</German>
-		</TEXT>
+		<German>Nirwana: Haben Sie 300 Runden lang die höchste Zustimmungsrate in der Welt</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_BUD3</Tag>
 		<Russian>Middle Way: Have cautious or better relations with all civilizations</Russian>
 		<English>Middle Way: Have cautious or better relations with all civilizations</English>
 		<German>Mittlerer Weg: Haben Sie mit allen Zivilisationen vorsichtige oder bessere Beziehungen</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_CON1</Tag>
 		<Russian>Harmony: Have friendly relations with five civilizations</Russian>
 		<English>Harmony: Have friendly relations with five civilizations</English>
-		<German>Harmonie: Haben Sie freundliche Beziehungen mit f&#252;nf Zivilisationen</German>
-		</TEXT>
+		<German>Harmonie: Haben Sie freundliche Beziehungen mit fünf Zivilisationen</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_CON2</Tag>
 		<Russian>Ritual: Have five wonders in the Confucian holy city</Russian>
 		<English>Ritual: Have five wonders in the Confucian holy city</English>
-		<German>Ritual: Haben Sie f&#252;nf Wunder in der konfuzianistischen heiligen Stadt</German>
-		</TEXT>
+		<German>Ritual: Haben Sie fünf Wunder in der konfuzianistischen heiligen Stadt</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_CON3</Tag>
 		<Russian>Loyalty: Control an army of 200 non-obsolete melee or gunpowder units</Russian>
 		<English>Loyalty: Control an army of 200 non-obsolete melee or gunpowder units</English>
-		<German>Loyalit&#228;t: Kontrollieren Sie eine Armee as 200 nicht-veralteten Nahkampf- oder Schie&#223;pulver-Einheiten</German>
-		</TEXT>
+		<German>Loyalität: Kontrollieren Sie eine Armee as 200 nicht-veralteten Nahkampf- oder Schießpulver-Einheiten</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_TAO1</Tag>
 		<Russian>Compassion: Have the highest life expectancy rating in the world for 100 turns</Russian>
 		<English>Compassion: Have the highest life expectancy rating in the world for 100 turns</English>
-		<German>Mitgef&#252;hl: Haben Sie 100 Runden lang die h&#246;chste Lebenserwartung in der Welt</German>
-		</TEXT>
+		<German>Mitgefühl: Haben Sie 100 Runden lang die höchste Lebenserwartung in der Welt</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_TAO1_EPIC</Tag>
 		<Russian>Compassion: Have the highest life expectancy rating in the world for 150 turns</Russian>
 		<English>Compassion: Have the highest life expectancy rating in the world for 150 turns</English>
-		<German>Mitgef&#252;hl: Haben Sie 150 Runden lang die h&#246;chste Lebenserwartung in der Welt</German>
-		</TEXT>
+		<German>Mitgefühl: Haben Sie 150 Runden lang die höchste Lebenserwartung in der Welt</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_TAO1_MARATHON</Tag>
 		<Russian>Compassion: Have the highest life expectancy rating in the world for 300 turns</Russian>
 		<English>Compassion: Have the highest life expectancy rating in the world for 300 turns</English>
-		<German>Mitgef&#252;hl: Haben Sie 300 Runden lang die h&#246;chste Lebenserwartung in der Welt</German>
-		</TEXT>
+		<German>Mitgefühl: Haben Sie 300 Runden lang die höchste Lebenserwartung in der Welt</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_TAO2</Tag>
 		<Russian>Moderation: Control the Confucian and Taoist shrines and combine their income to 40 gold</Russian>
 		<English>Moderation: Control the Confucian and Taoist shrines and combine their income to 40 gold</English>
-		<German>M&#228;&#223;igung: Kontrollieren Sie den konfuzianistischen und den taoistischen Schrein und kombinieren Sie ihr Einkommen zu 40 Gold</German>
-		</TEXT>
+		<German>Mäßigung: Kontrollieren Sie den konfuzianistischen und den taoistischen Schrein und kombinieren Sie ihr Einkommen zu 40 Gold</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_TAO3</Tag>
 		<Russian>Humility: Have legendary culture in the Taoist holy city</Russian>
 		<English>Humility: Have legendary culture in the Taoist holy city</English>
-		<German>Bescheidenheit: Haben Sie legend&#228;re Kultur in der taoistischen heiligen Stadt</German>
-		</TEXT>
+		<German>Bescheidenheit: Haben Sie legendäre Kultur in der taoistischen heiligen Stadt</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_ZOR1</Tag>
 		<Russian>Adar: Acquire six incense resources</Russian>
 		<English>Adar: Acquire six incense resources</English>
 		<German>Adar: Erwerben Sie sechs Weihrauch-Ressourcen</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_ZOR2</Tag>
 		<Russian>Mathra: Spread Zoroastrianism to 20%</Russian>
 		<English>Mathra: Spread Zoroastrianism to 20%</English>
 		<German>Mathra: Verbreiten Sie den Zoroastrianismus auf 20%</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_ZOR3</Tag>
 		<Russian>Shahnameh: Have legendary culture in the Zoroastrian holy city</Russian>
 		<English>Shahnameh: Have legendary culture in the Zoroastrian holy city</English>
-		<German>Schahnameh: Haben Sie legend&#228;re Kultur in der zoroastrischen heiligen Stadt</German>
-		</TEXT>
+		<German>Schahnameh: Haben Sie legendäre Kultur in der zoroastrischen heiligen Stadt</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_POL1</Tag>
 		<Russian>Make sure there are 15 pagan temples in the world</Russian>
 		<English>Make sure there are 15 pagan temples in the world</English>
 		<German>Stellen Sie sicher, dass es 15 heidnische Tempel in der Welt gibt</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_POL2</Tag>
 		<Russian>Control ten wonders that require no state religion</Russian>
 		<English>Control ten wonders that require no state religion</English>
 		<German>Kontrollieren Sie zehn Wunder, die keine Staatsreligion erfordern</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_POL3</Tag>
 		<Russian>Don't allow more than half of your cities to have a religion</Russian>
 		<English>Don't allow more than half of your cities to have a religion</English>
-		<German>Erlauben Sie nicht mehr als der H&#228;lfte ihrer St&#228;dte, eine Religion zu haben</German>
-		</TEXT>
+		<German>Erlauben Sie nicht mehr als der Hälfte ihrer Städte, eine Religion zu haben</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_SEC1</Tag>
 		<Russian>Tolerance: Control the temples of seven different religions</Russian>
 		<English>Tolerance: Control the temples of seven different religions</English>
 		<German>Toleranz: Kontrollieren Sie die Tempel von sieben verschiedenen Religionen</German>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_SEC2</Tag>
 		<Russian>Humanism: Make sure there are 20 universities controlled by secular civilizations</Russian>
 		<English>Humanism: Make sure there are 20 universities controlled by secular civilizations</English>
-		<German>Humanismus: Stellen Sie sicher, dass es 20 von s&#228;kularen Zivilisationen kontrollierte Universit&#228;ten gibt</German>
-		</TEXT>
+		<German>Humanismus: Stellen Sie sicher, dass es 20 von säkularen Zivilisationen kontrollierte Universitäten gibt</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_URV_SEC3</Tag>
 		<Russian>Modernization: Be the first to enter the Industrial and Modern eras</Russian>
 		<English>Modernization: Be the first to enter the Industrial and Modern eras</English>
-		<German>Modernisierung: Erreichen Sie als erster die industrielle und moderne &#196;ras</German>
-		</TEXT>
+		<German>Modernisierung: Erreichen Sie als erster die industrielle und moderne Äras</German>
+	</TEXT>
 </Civ4GameText>

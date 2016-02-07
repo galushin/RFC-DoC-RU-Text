@@ -50,10 +50,10 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_KHM2</Tag>
-		<Russian>All land units can move through jungles</Russian>
-		<English>All land units can move through jungles</English>
+		<Russian>All land units can move through jungles and rainforests, can build farms on rainforest</Russian>
+		<English>All land units can move through jungles and rainforests, can build farms on rainforest</English>
 		<French>Toutes les unités terrestres peuvent se déplacer à travers la jungle</French>
-		<German>Fortbewegung auf Dschungel-Gelände für alle Landeinheiten</German>
+		<German>Landeinheiten können Dschungel und Regenwald durchqueren, kann Farmen in Regenwald errichten</German>
 		<Italian>Tutte le unit&#224; di terra si possono muovere attraverso la giungla</Italian>
 		<Spanish>Todas las unidades terrestres se pueden mover a trav&#233;s de las junglas</Spanish>
 	</TEXT>
@@ -217,8 +217,8 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_KON2</Tag>
-		<English>Jungles and marshes yield extra food and production and cause no unhealthiness</English>
-		<German>Dschungel und Marschen geben zusätzliche Nahrung und Produktion und verursachen keine Krankheit</German>
+		<English>Jungles, rainforests and marshes yield extra food and production and cause no unhealthiness</English>
+		<German>Dschungel, Regenwälder und Marschen geben zusätzliche Nahrung und Produktion und verursachen keine Krankheit</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_TIB</Tag>
@@ -269,5 +269,29 @@
 		<Tag>TXT_KEY_UP_COL2</Tag>
 		<English>No City Resistance on Conquest in Latin America</English>
 		<German>Keinen Widerstand in eroberten Städten in Lateinamerika</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_CAN</Tag>
+		<English>The Power of Multiculturalism:</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_CAN2</Tag>
+		<English>Immigrants bring [ICON_GREATPEOPLE] to your cities</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_PLY</Tag>
+		<English>The Power of Navigation:</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_PLY2</Tag>
+		<English>No penalties for cultural expansion over Ocean tiles</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_HAR</Tag>
+		<English>The Power of Sanitation:</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_HAR2</Tag>
+		<English>Positive health contributes to city growth during the Ancient era</English>
 	</TEXT>
 </Civ4GameText>

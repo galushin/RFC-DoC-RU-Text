@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="ISO-8859-1" ?>
 <!--
 	Color Translations
 
@@ -13,7 +13,7 @@
 		<German>Rot</German>
 		<Italian>Rosso</Italian>
 		<Spanish>Rojo</Spanish>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_YELLOW</Tag>
 		<Russian>Yellow</Russian>
@@ -22,25 +22,25 @@
 		<German>Gelb</German>
 		<Italian>Giallo</Italian>
 		<Spanish>Amarillo</Spanish>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_GREEN</Tag>
 		<Russian>Green</Russian>
 		<English>Green</English>
 		<French>Vert</French>
-		<German>Gr&#252;n</German>
+		<German>Grün</German>
 		<Italian>Verde</Italian>
 		<Spanish>Verde</Spanish>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_CYAN</Tag>
 		<Russian>Cyan</Russian>
 		<English>Cyan</English>
 		<French>Cyan</French>
-		<German>T&#252;rkis</German>
+		<German>Türkis</German>
 		<Italian>Azzurro</Italian>
 		<Spanish>Ci&#225;nico</Spanish>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_BLUE</Tag>
 		<Russian>Blue</Russian>
@@ -49,7 +49,7 @@
 		<German>Blau</German>
 		<Italian>Blu</Italian>
 		<Spanish>Azul</Spanish>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_MAGENTA</Tag>
 		<Russian>Magenta</Russian>
@@ -58,25 +58,25 @@
 		<German>Magenta</German>
 		<Italian>Magenta</Italian>
 		<Spanish>Magenta</Spanish>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_WHITE</Tag>
 		<Russian>White</Russian>
 		<English>White</English>
 		<French>Blanc</French>
-		<German>Wei&#223;</German>
+		<German>Weiß</German>
 		<Italian>Bianco</Italian>
 		<Spanish>Blanco</Spanish>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_LIGHT_GREY</Tag>
 		<Russian>Light Grey</Russian>
 		<English>Light Grey</English>
-		<French>Gris P&#226;le</French>
+		<French>Gris Pâle</French>
 		<German>Hellgrau</German>
 		<Italian>Grigio Chiaro</Italian>
 		<Spanish>Gris Ligero</Spanish>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_GREY</Tag>
 		<Russian>Grey</Russian>
@@ -85,16 +85,16 @@
 		<German>Grau</German>
 		<Italian>Grigio</Italian>
 		<Spanish>Gris</Spanish>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_DARK_GREY</Tag>
 		<Russian>Dark Grey</Russian>
 		<English>Dark Grey</English>
-		<French>Gris Fonc&#233;</French>
+		<French>Gris Foncé</French>
 		<German>Dunkelgrau</German>
 		<Italian>Grigio Scuro</Italian>
 		<Spanish>Gris Oscuro</Spanish>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_BLACK</Tag>
 		<Russian>Black</Russian>
@@ -103,5 +103,5 @@
 		<German>Schwarz</German>
 		<Italian>Nero</Italian>
 		<Spanish>Negro</Spanish>
-		</TEXT>
+	</TEXT>
 </Civ4GameText>

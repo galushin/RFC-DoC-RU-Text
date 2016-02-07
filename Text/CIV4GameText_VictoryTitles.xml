@@ -6,800 +6,842 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_UHV_EGY1_TITLE</Tag>
-		<English>Valley of Kings</English>
-		<German>Tal der K&#246;nige</German>
 		<Russian>Valley of Kings</Russian>
-		</TEXT>
+		<English>Valley of Kings</English>
+		<German>Tal der Könige</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_EGY2_TITLE</Tag>
+		<Russian>Monuments on the Nile</Russian>
 		<English>Monuments on the Nile</English>
 		<German>Monumente am Nil</German>
-		<Russian>Monuments on the Nile</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_EGY3_TITLE</Tag>
+		<Russian>The Ptolemaic Dynasty</Russian>
 		<English>The Ptolemaic Dynasty</English>
 		<German>Die Ptolemaische Dynastie</German>
-		<Russian>The Ptolemaic Dynasty</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_CHI1_TITLE</Tag>
+		<Russian>Mandate of Heaven</Russian>
 		<English>Mandate of Heaven</English>
 		<German>Mandat des Himmels</German>
-		<Russian>Mandate of Heaven</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_CHI2_TITLE</Tag>
-		<English>The Four Great Inventions</English>
-		<German>Die Vier Gro&#223;en Erfindungen</German>
 		<Russian>The Four Great Inventions</Russian>
-		</TEXT>
+		<English>The Four Great Inventions</English>
+		<German>Die Vier Großen Erfindungen</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_CHI3_TITLE</Tag>
+		<Russian>Ten Thousand Years</Russian>
 		<English>Ten Thousand Years</English>
 		<German>Zehntausend Jahre</German>
-		<Russian>Ten Thousand Years</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BAB1_TITLE</Tag>
+		<Russian>Hammurabi's Code</Russian>
 		<English>Hammurabi's Code</English>
 		<German>Der Kodex von Hammurabi</German>
-		<Russian>Hammurabi's Code</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BAB2_TITLE</Tag>
+		<Russian>The Fertile Crescent</Russian>
 		<English>The Fertile Crescent</English>
 		<German>Der fruchtbare Halbmond</German>
-		<Russian>The Fertile Crescent</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BAB3_TITLE</Tag>
+		<Russian>The Tower of Babel</Russian>
 		<English>The Tower of Babel</English>
 		<German>Der Turm von Babel</German>
-		<Russian>The Tower of Babel</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GRE1_TITLE</Tag>
+		<Russian>The School of Hellas</Russian>
 		<English>The School of Hellas</English>
 		<German>Die Schule von Hellas</German>
-		<Russian>The School of Hellas</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GRE2_TITLE</Tag>
-		<English>Wonders of the Aegean</English>
-		<German>Wunder der &#196;g&#228;is</German>
 		<Russian>Wonders of the Aegean</Russian>
-		</TEXT>
+		<English>Wonders of the Aegean</English>
+		<German>Wunder der Ägäis</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GRE3_TITLE</Tag>
+		<Russian>Alexander's Empire</Russian>
 		<English>Alexander's Empire</English>
 		<German>Alexanders Reich</German>
-		<Russian>Alexander's Empire</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_IND1_TITLE</Tag>
+		<Russian>The Dharmic Religions</Russian>
 		<English>The Dharmic Religions</English>
 		<German>Die Dharmischen Religionen</German>
-		<Russian>The Dharmic Religions</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_IND2_TITLE</Tag>
+		<Russian>Land of Temples</Russian>
 		<English>Land of Temples</English>
 		<German>Land der Tempel</German>
-		<Russian>Land of Temples</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_IND3_TITLE</Tag>
-		<English>Sacred Rivers</English>
-		<German>Heilige Fl&#252;sse</German>
 		<Russian>Sacred Rivers</Russian>
-		</TEXT>
+		<English>Sacred Rivers</English>
+		<German>Heilige Flüsse</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_PER1_TITLE</Tag>
-		<English>The First Empire</English>
-		<German>Das erste Gro&#223;reich</German>
 		<Russian>The First Empire</Russian>
-		</TEXT>
+		<English>The First Empire</English>
+		<German>Das erste Großreich</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_PER2_TITLE</Tag>
+		<Russian>Seven Wonders of the World</Russian>
 		<English>Seven Wonders of the World</English>
 		<German>Die Sieben Weltwunder</German>
-		<Russian>Seven Wonders of the World</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_PER3_TITLE</Tag>
+		<Russian>Land of Religions</Russian>
 		<English>Land of Religions</English>
 		<German>Land der Religionen</German>
-		<Russian>Land of Religions</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_CAR1_TITLE</Tag>
+		<Russian>New Tyre</Russian>
 		<English>New Tyre</English>
 		<German>Das neue Tyrus</German>
-		<Russian>New Tyre</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_CAR2_TITLE</Tag>
+		<Russian>The Punic Wars</Russian>
 		<English>The Punic Wars</English>
 		<German>Die punischen Kriege</German>
-		<Russian>The Punic Wars</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_CAR3_TITLE</Tag>
-		<English>Traders in Purple</English>
-		<German>Purpurh&#228;ndlers</German>
 		<Russian>Traders in Purple</Russian>
-		</TEXT>
+		<English>Traders in Purple</English>
+		<German>Purpurhändlers</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ROM1_TITLE</Tag>
+		<Russian>Bread and Circuses</Russian>
 		<English>Bread and Circuses</English>
 		<German>Brot und Spiele</German>
-		<Russian>Bread and Circuses</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ROM2_TITLE</Tag>
+		<Russian>Pax Romana</Russian>
 		<English>Pax Romana</English>
 		<German>Pax Romana</German>
-		<Russian>Pax Romana</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ROM3_TITLE</Tag>
+		<Russian>Classical Scholarship</Russian>
 		<English>Classical Scholarship</English>
 		<German>Klassisches Gelehrtentum</German>
-		<Russian>Classical Scholarship</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_TAM1_TITLE</Tag>
-		<English>The Sangam Period</English>
-		<German>Die Sangam-&#196;ra</German>
 		<Russian>The Sangam Period</Russian>
-		</TEXT>
+		<English>The Sangam Period</English>
+		<German>Die Sangam-Ära</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_TAM2_TITLE</Tag>
+		<Russian>The Chola Empire</Russian>
 		<English>The Chola Empire</English>
 		<German>Das Chola-Reich</German>
-		<Russian>The Chola Empire</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_TAM3_TITLE</Tag>
+		<Russian>Indian Ocean Trade</Russian>
 		<English>Indian Ocean Trade</English>
 		<German>Der Indische Ozean-Handel</German>
-		<Russian>Indian Ocean Trade</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ETH1_TITLE</Tag>
+		<Russian>Prester John</Russian>
 		<English>Prester John</English>
 		<German>Presbyter Johannes</German>
-		<Russian>Prester John</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ETH2_TITLE</Tag>
-		<English>Incense Road</English>
-		<German>Weihrauchstra&#223;e</German>
 		<Russian>Incense Road</Russian>
-		</TEXT>
+		<English>Incense Road</English>
+		<German>Weihrauchstraße</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ETH3_TITLE</Tag>
+		<Russian>Resisting the Scramble</Russian>
 		<English>Resisting the Scramble</English>
 		<German>Dem Wettlauf Widerstand leisten</German>
-		<Russian>Resisting the Scramble</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_KOR1_TITLE</Tag>
+		<Russian>Palman Daejanggyeong and Gukjagam</Russian>
 		<English>Palman Daejanggyeong and Gukjagam</English>
 		<German>Palman Daejanggyeong und Gukjagam</German>
-		<Russian>Palman Daejanggyeong and Gukjagam</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_KOR2_TITLE</Tag>
+		<Russian>Choe Yun-ui</Russian>
 		<English>Choe Yun-ui</English>
 		<German>Choe Yun-ui</German>
-		<Russian>Choe Yun-ui</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_KOR3_TITLE</Tag>
+		<Russian>Yi Sun-sin</Russian>
 		<English>Yi Sun-sin</English>
 		<German>Yi Sun-sin</German>
-		<Russian>Yi Sun-sin</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MAY1_TITLE</Tag>
+		<Russian>The Sun</Russian>
 		<English>The Sun</English>
 		<German>Die Sonne</German>
-		<Russian>The Sun</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MAY2_TITLE</Tag>
-		<English>The Gods</English>
-		<German>Die G&#246;tter</German>
 		<Russian>The Gods</Russian>
-		</TEXT>
+		<English>The Gods</English>
+		<German>Die Götter</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MAY3_TITLE</Tag>
+		<Russian>The Stars</Russian>
 		<English>The Stars</English>
 		<German>Die Sterne</German>
-		<Russian>The Stars</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BYZ1_TITLE</Tag>
+		<Russian>Crossroads of the World</Russian>
 		<English>Crossroads of the World</English>
 		<German>Wegkreuzung der Welt</German>
-		<Russian>Crossroads of the World</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BYZ2_TITLE</Tag>
+		<Russian>City of the World's Desire</Russian>
 		<English>City of the World's Desire</English>
 		<German>Stadt der weltlichen Begierden</German>
-		<Russian>City of the World's Desire</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BYZ3_TITLE</Tag>
+		<Russian>The Eternal Empire</Russian>
 		<English>The Eternal Empire</English>
 		<German>Das ewige Imperium</German>
-		<Russian>The Eternal Empire</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_JAP1_TITLE</Tag>
+		<Russian>Tranquility and Peace</Russian>
 		<English>Tranquility and Peace</English>
 		<German>Ruhe und Frieden</German>
-		<Russian>Tranquility and Peace</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_JAP2_TITLE</Tag>
+		<Russian>All the World Under One Roof</Russian>
 		<English>All the World Under One Roof</English>
 		<German>Die gesamte Welt unter einem Dach</German>
-		<Russian>All the World Under One Roof</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_JAP3_TITLE</Tag>
-		<English>Flying Geese Paradigm</English>
-		<German>Flugg&#228;nsemodell</German>
 		<Russian>Flying Geese Paradigm</Russian>
-		</TEXT>
+		<English>Flying Geese Paradigm</English>
+		<German>Fluggänsemodell</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_VIK1_TITLE</Tag>
+		<Russian>Norman Conquests</Russian>
 		<English>Norman Conquests</English>
 		<German>Normannische Eroberungen</German>
-		<Russian>Norman Conquests</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_VIK2_TITLE</Tag>
+		<Russian>Vinland Saga</Russian>
 		<English>Vinland Saga</English>
 		<German>Die Vinland-Saga</German>
-		<Russian>Vinland Saga</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_VIK3_TITLE</Tag>
+		<Russian>Danegeld</Russian>
 		<English>Danegeld</English>
 		<German>Danegeld</German>
-		<Russian>Danegeld</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ARA1_TITLE</Tag>
+		<Russian>Ijtihad</Russian>
 		<English>Ijtihad</English>
 		<German>Ischtihad</German>
-		<Russian>Ijtihad</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ARA2_TITLE</Tag>
+		<Russian>Jihad</Russian>
 		<English>Jihad</English>
 		<German>Dschihad</German>
-		<Russian>Jihad</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ARA3_TITLE</Tag>
+		<Russian>Dawah</Russian>
 		<English>Dawah</English>
 		<German>Dawah</German>
-		<Russian>Dawah</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_TIB1_TITLE</Tag>
+		<Russian>The Tibetan Empire</Russian>
 		<English>The Tibetan Empire</English>
 		<German>Das tibetanische Reich</German>
-		<Russian>The Tibetan Empire</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_TIB2_TITLE</Tag>
+		<Russian>Tibetan Buddhism</Russian>
 		<English>Tibetan Buddhism</English>
 		<German>Tibetan Buddhism</German>
-		<Russian>Tibetan Buddhism</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_TIB3_TITLE</Tag>
+		<Russian>The Dalai Lamas</Russian>
 		<English>The Dalai Lamas</English>
 		<German>Die Dalai Lamas</German>
-		<Russian>The Dalai Lamas</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_KHM1_TITLE</Tag>
+		<Russian>Angkor Wat</Russian>
 		<English>Angkor Wat</English>
 		<German>Angkor Wat</German>
-		<Russian>Angkor Wat</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_KHM2_TITLE</Tag>
+		<Russian>Thom Baray</Russian>
 		<English>Thom Baray</English>
 		<German>Thom Baray</German>
-		<Russian>Thom Baray</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_KHM3_TITLE</Tag>
+		<Russian>Preah Srei</Russian>
 		<English>Preah Srei</English>
 		<German>Preah Srei</German>
-		<Russian>Preah Srei</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_INO1_TITLE</Tag>
+		<Russian>Prosperous Excellence</Russian>
 		<English>Prosperous Excellence</English>
 		<German>Florierende Vortrefflichkeit</German>
-		<Russian>Prosperous Excellence</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_INO2_TITLE</Tag>
-		<English>Emerald of the Equator</English>
-		<German>Smaragd des &#196;quators</German>
 		<Russian>Emerald of the Equator</Russian>
-		</TEXT>
+		<English>Emerald of the Equator</English>
+		<German>Smaragd des Äquators</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_INO3_TITLE</Tag>
+		<Russian>National Awakening</Russian>
 		<English>National Awakening</English>
 		<German>Nationales Erwachen</German>
-		<Russian>National Awakening</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MOO1_TITLE</Tag>
+		<Russian>Caliphate of Al-Andalus</Russian>
 		<English>Caliphate of Al-Andalus</English>
 		<German>Kaliphat von Al-Andalus</German>
-		<Russian>Caliphate of Al-Andalus</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MOO2_TITLE</Tag>
+		<Russian>Jewel of the World</Russian>
 		<English>Jewel of the World</English>
 		<German>Juwel der Welt</German>
-		<Russian>Jewel of the World</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MOO3_TITLE</Tag>
-		<English>Barbary Corsairs</English>
-		<German>Korsaren der Barbareskenk&#252;ste</German>
 		<Russian>Barbary Corsairs</Russian>
-		</TEXT>
+		<English>Barbary Corsairs</English>
+		<German>Korsaren der Barbareskenküste</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_SPA1_TITLE</Tag>
+		<Russian>Plus Ultra</Russian>
 		<English>Plus Ultra</English>
 		<German>Plus Ultra</German>
-		<Russian>Plus Ultra</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_SPA2_TITLE</Tag>
+		<Russian>The Treasure Fleet</Russian>
 		<English>The Treasure Fleet</English>
 		<German>Die Schatzflotte</German>
-		<Russian>The Treasure Fleet</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_SPA3_TITLE</Tag>
+		<Russian>Soldiers of God</Russian>
 		<English>Soldiers of God</English>
 		<German>Soldaten Gottes</German>
-		<Russian>Soldiers of God</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_FRA1_TITLE</Tag>
+		<Russian>Ancien Regime</Russian>
 		<English>Ancien Regime</English>
 		<German>Ancien Regime</German>
-		<Russian>Ancien Regime</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_FRA2_TITLE</Tag>
+		<Russian>The Napoleonic Empire</Russian>
 		<English>The Napoleonic Empire</English>
 		<German>Das Napoleonische Reich</German>
-		<Russian>The Napoleonic Empire</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_FRA3_TITLE</Tag>
+		<Russian>City of Lights</Russian>
 		<English>City of Lights</English>
 		<German>Stadt der Lichter</German>
-		<Russian>City of Lights</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ENG1_TITLE</Tag>
+		<Russian>The Sun Never Sets</Russian>
 		<English>The Sun Never Sets</English>
 		<German>Die Sonne geht niemals unter</German>
-		<Russian>The Sun Never Sets</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ENG2_TITLE</Tag>
+		<Russian>Britannia Rule the Waves</Russian>
 		<English>Britannia Rule the Waves</English>
 		<German>Britannia Rule the Waves</German>
-		<Russian>Britannia Rule the Waves</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ENG3_TITLE</Tag>
+		<Russian>The Industrial Revolution</Russian>
 		<English>The Industrial Revolution</English>
 		<German>Die industrielle Revolution</German>
-		<Russian>The Industrial Revolution</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_HRE1_TITLE</Tag>
+		<Russian>Translatio Imperii</Russian>
 		<English>Translatio Imperii</English>
 		<German>Translatio Imperii</German>
-		<Russian>Translatio Imperii</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_HRE2_TITLE</Tag>
+		<Russian>The Reformation</Russian>
 		<English>The Reformation</English>
 		<German>Die Reformation</German>
-		<Russian>The Reformation</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_HRE3_TITLE</Tag>
+		<Russian>City of Music</Russian>
 		<English>City of Music</English>
 		<German>Stadt der Musik</German>
-		<Russian>City of Music</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_RUS1_TITLE</Tag>
+		<Russian>Eastward Expansion</Russian>
 		<English>Eastward Expansion</English>
 		<German>Expansion nach Osten</German>
-		<Russian>Eastward Expansion</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_RUS2_TITLE</Tag>
+		<Russian>The Cold War</Russian>
 		<English>The Cold War</English>
 		<German>Der Kalte Krieg</German>
-		<Russian>The Cold War</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_RUS3_TITLE</Tag>
+		<Russian>The Iron Curtain</Russian>
 		<English>The Iron Curtain</English>
 		<German>Der Eiserne Vorhang</German>
-		<Russian>The Iron Curtain</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MAL1_TITLE</Tag>
-		<English>The Great Hajj</English>
-		<German>Die gro&#223;e Hadsch</German>
 		<Russian>The Great Hajj</Russian>
-		</TEXT>
+		<English>The Great Hajj</English>
+		<German>Die große Hadsch</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MAL2_TITLE</Tag>
+		<Russian>The Madrassah of Timbuktu</Russian>
 		<English>The Madrassah of Timbuktu</English>
 		<German>Die Madrasah von Timbuktu</German>
-		<Russian>The Madrassah of Timbuktu</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MAL3_TITLE</Tag>
+		<Russian>Caravans of the Sahara</Russian>
 		<English>Caravans of the Sahara</English>
 		<German>Karawanen der Sahara</German>
-		<Russian>Caravans of the Sahara</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_POL1_TITLE</Tag>
+		<Russian>The Folwark System</Russian>
 		<English>The Folwark System</English>
 		<German>Das Folwark-System</German>
-		<Russian>The Folwark System</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_POL2_TITLE</Tag>
+		<Russian>Golden Liberty</Russian>
 		<English>Golden Liberty</English>
 		<German>Goldene Freiheit</German>
-		<Russian>Golden Liberty</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_POL3_TITLE</Tag>
+		<Russian>The Commonwealth</Russian>
 		<English>The Commonwealth</English>
 		<German>Die Adelsrepublik</German>
-		<Russian>The Commonwealth</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_POR1_TITLE</Tag>
+		<Russian>Cartaz</Russian>
 		<English>Cartaz</English>
 		<German>Cartaz</German>
-		<Russian>Cartaz</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_POR2_TITLE</Tag>
+		<Russian>Age of Discovery</Russian>
 		<English>Age of Discovery</English>
 		<German>Zeitalter der Entdeckungen</German>
-		<Russian>Age of Discovery</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_POR3_TITLE</Tag>
+		<Russian>Treaty of Tordesilhas</Russian>
 		<English>Treaty of Tordesilhas</English>
 		<German>Vertrag von Tordesilhas</German>
-		<Russian>Treaty of Tordesilhas</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_INC1_TITLE</Tag>
-		<English>Andean Road System</English>
-		<German>Das Anden-Stra&#223;ensystem</German>
 		<Russian>Andean Road System</Russian>
-		</TEXT>
+		<English>Andean Road System</English>
+		<German>Das Anden-Straßensystem</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_INC2_TITLE</Tag>
+		<Russian>Sierra de la Plata</Russian>
 		<English>Sierra de la Plata</English>
 		<German>Sierra de la Plata</German>
-		<Russian>Sierra de la Plata</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_INC3_TITLE</Tag>
+		<Russian>Eight Incan Regions</Russian>
 		<English>Eight Incan Regions</English>
 		<German>Acht Regionen der Inka</German>
-		<Russian>Eight Incan Regions</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ITA1_TITLE</Tag>
+		<Russian>Renaissance Architecture</Russian>
 		<English>Renaissance Architecture</English>
 		<German>Architektur der Renaissance</German>
-		<Russian>Renaissance Architecture</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ITA2_TITLE</Tag>
+		<Russian>Renaissance Art</Russian>
 		<English>Renaissance Art</English>
 		<German>Kunst der Renaissance</German>
-		<Russian>Renaissance Art</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ITA3_TITLE</Tag>
+		<Russian>Mare Nostrum</Russian>
 		<English>Mare Nostrum</English>
 		<German>Mare Nostrum</German>
-		<Russian>Mare Nostrum</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MON1_TITLE</Tag>
+		<Russian>The Yuan Dynasty</Russian>
 		<English>The Yuan Dynasty</English>
 		<German>Die Yuan-Dynastie</German>
-		<Russian>The Yuan Dynasty</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MON2_TITLE</Tag>
-		<English>The Scourge of God</English>
-		<German>Die Gei&#223;el Gottes</German>
 		<Russian>The Scourge of God</Russian>
-		</TEXT>
+		<English>The Scourge of God</English>
+		<German>Die Geißel Gottes</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MON3_TITLE</Tag>
+		<Russian>Pax Mongolica</Russian>
 		<English>Pax Mongolica</English>
 		<German>Pax Mongolica</German>
-		<Russian>Pax Mongolica</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AZT1_TITLE</Tag>
-		<English>Floating Gardens</English>
-		<German>Schwimmende G&#228;rten</German>
 		<Russian>Floating Gardens</Russian>
-		</TEXT>
+		<English>Floating Gardens</English>
+		<German>Schwimmende Gärten</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AZT2_TITLE</Tag>
+		<Russian>Human Sacrifice</Russian>
 		<English>Human Sacrifice</English>
 		<German>Menschenopfer</German>
-		<Russian>Human Sacrifice</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AZT3_TITLE</Tag>
-		<English>European Flower Wars</English>
-		<German>Europ&#228;ische Blumenkriege</German>
 		<Russian>European Flower Wars</Russian>
-		</TEXT>
+		<English>European Flower Wars</English>
+		<German>Europäische Blumenkriege</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MUG1_TITLE</Tag>
+		<Russian>Muhammad ibn Tughluq</Russian>
 		<English>Muhammad ibn Tughluq</English>
 		<German>Muhammad ibn Tughluq</German>
-		<Russian>Muhammad ibn Tughluq</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MUG2_TITLE</Tag>
+		<Russian>Shah Akbar</Russian>
 		<English>Shah Akbar</English>
 		<German>Schah Akbar</German>
-		<Russian>Shah Akbar</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MUG3_TITLE</Tag>
+		<Russian>Shah Jahan</Russian>
 		<English>Shah Jahan</English>
 		<German>Schah Dschahan</German>
-		<Russian>Shah Jahan</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_TUR1_TITLE</Tag>
+		<Russian>The Golden Apple</Russian>
 		<English>The Golden Apple</English>
 		<German>Der Goldene Apfel</German>
-		<Russian>The Golden Apple</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_TUR2_TITLE</Tag>
+		<Russian>Empire on three Continents</Russian>
 		<English>Empire on three Continents</English>
 		<German>Reich der drei Kontinente</German>
-		<Russian>Empire on three Continents</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_TUR3_TITLE</Tag>
-		<English>The Tulip Period</English>
-		<German>Die Tulpen-&#196;ra</German>
 		<Russian>The Tulip Period</Russian>
-		</TEXT>
+		<English>The Tulip Period</English>
+		<German>Die Tulpen-Ära</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_THA1_TITLE</Tag>
-		<English>The King and I</English>
-		<German>Der K&#246;nig und ich</German>
 		<Russian>The King and I</Russian>
-		</TEXT>
+		<English>The King and I</English>
+		<German>Der König und ich</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_THA2_TITLE</Tag>
+		<Russian>Venice of the East</Russian>
 		<English>Venice of the East</English>
 		<German>Venedig des Ostens</German>
-		<Russian>Venice of the East</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_THA3_TITLE</Tag>
+		<Russian>The Circle of Power</Russian>
 		<English>The Circle of Power</English>
 		<German>Der Kreis der Macht</German>
-		<Russian>The Circle of Power</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_KON1_TITLE</Tag>
+		<Russian>Catholic Congo</Russian>
 		<English>Catholic Congo</English>
 		<German>Katholisches Kongo</German>
-		<Russian>Catholic Congo</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_KON2_TITLE</Tag>
+		<Russian>The Middle Passage</Russian>
 		<English>The Middle Passage</English>
 		<German>Die Mittlere Passage</German>
-		<Russian>The Middle Passage</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_KON3_TITLE</Tag>
+		<Russian>Industrial Africa</Russian>
 		<English>Industrial Africa</English>
 		<German>Industrielles Afrika</German>
-		<Russian>Industrial Africa</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_IRA1_TITLE</Tag>
-		<English>European Embassies</English>
-		<German>Europ&#228;ische Botschaften</German>
 		<Russian>European Embassies</Russian>
-		</TEXT>
+		<English>European Embassies</English>
+		<German>Europäische Botschaften</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_IRA2_TITLE</Tag>
+		<Russian>Nader Shah</Russian>
 		<English>Nader Shah</English>
 		<German>Nadir Schah</German>
-		<Russian>Nader Shah</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_IRA3_TITLE</Tag>
+		<Russian>Half of the World</Russian>
 		<English>Half of the World</English>
 		<German>Die halbe Welt</German>
-		<Russian>Half of the World</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_HOL1_TITLE</Tag>
+		<Russian>Financial Center of the World</Russian>
 		<English>Financial Center of the World</English>
 		<German>Finanzielles Zentrum der Welt</German>
-		<Russian>Financial Center of the World</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_HOL2_TITLE</Tag>
-		<English>Colonial Rivalry</English>
-		<German>Koloniale Rivalit&#228;t</German>
 		<Russian>Colonial Rivalry</Russian>
-		</TEXT>
+		<English>Colonial Rivalry</English>
+		<German>Koloniale Rivalität</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_HOL3_TITLE</Tag>
-		<English>The Dutch East India Company</English>
-		<German>Die Niederl&#228;nische Ostindien-Kompanie</German>
 		<Russian>The Dutch East India Company</Russian>
-		</TEXT>
+		<English>The Dutch East India Company</English>
+		<German>Die Niederlänische Ostindien-Kompanie</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GER1_TITLE</Tag>
+		<Russian>Dichter und Denker</Russian>
 		<English>Dichter und Denker</English>
 		<German>Dichter und Denker</German>
-		<Russian>Dichter und Denker</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GER2_TITLE</Tag>
+		<Russian>Lebensraum</Russian>
 		<English>Lebensraum</English>
 		<German>Lebensraum</German>
-		<Russian>Lebensraum</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GER3_TITLE</Tag>
+		<Russian>Vorsprung durch Technik</Russian>
 		<English>Vorsprung durch Technik</English>
 		<German>Vorsprung durch Technik</German>
-		<Russian>Vorsprung durch Technik</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AME1_TITLE</Tag>
+		<Russian>Manifest Destiny</Russian>
 		<English>Manifest Destiny</English>
 		<German>Manifest Destiny</German>
-		<Russian>Manifest Destiny</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AME2_TITLE</Tag>
+		<Russian>The American Dream</Russian>
 		<English>The American Dream</English>
 		<German>Der amerikanische Traum</German>
-		<Russian>The American Dream</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AME3_TITLE</Tag>
+		<Russian>The World's Policeman</Russian>
 		<English>The World's Policeman</English>
 		<German>Die Weltpolizei</German>
-		<Russian>The World's Policeman</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ARG1_TITLE</Tag>
+		<Russian>The Argentinian Paradox</Russian>
 		<English>The Argentinian Paradox</English>
 		<German>Das argentinische Paradox</German>
-		<Russian>The Argentinian Paradox</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ARG2_TITLE</Tag>
+		<Russian>Tango and Poetry</Russian>
 		<English>Tango and Poetry</English>
 		<German>Tango und Dichtung</German>
-		<Russian>Tango and Poetry</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ARG3_TITLE</Tag>
+		<Russian>Peronism</Russian>
 		<English>Peronism</English>
 		<German>Peronismus</German>
-		<Russian>Peronism</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MEX1_TITLE</Tag>
+		<Russian>Church and State</Russian>
 		<English>Church and State</English>
 		<German>Kirche und Staat</German>
-		<Russian>Church and State</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MEX2_TITLE</Tag>
-		<English>Revolutionary Leaders</English>
-		<German>Revolutionsf&#252;hrer</German>
 		<Russian>Revolutionary Leaders</Russian>
-		</TEXT>
+		<English>Revolutionary Leaders</English>
+		<German>Revolutionsführer</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MEX3_TITLE</Tag>
-		<English>The City of Palaces</English>
-		<German>Die Stadt der Pal&#228;ste</German>
 		<Russian>The City of Palaces</Russian>
-		</TEXT>
+		<English>The City of Palaces</English>
+		<German>Die Stadt der Paläste</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_COL1_TITLE</Tag>
+		<Russian>The Boliver Doctrine</Russian>
 		<English>The Boliver Doctrine</English>
 		<German>Die Bolivar-Doktrin</German>
-		<Russian>The Boliver Doctrine</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_COL2_TITLE</Tag>
-		<English>United States of South America</English>
-		<German>Vereinigte Staaten von S&#252;damerika</German>
 		<Russian>United States of South America</Russian>
-		</TEXT>
+		<English>United States of South America</English>
+		<German>Vereinigte Staaten von Südamerika</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_COL3_TITLE</Tag>
-		<English>Auge del Caf&#233;</English>
-		<German>Auge del Caf&#233;</German>
-		<Russian>Auge del Caf&#233;</Russian>
-		</TEXT>
+		<Russian>Auge del Café</Russian>
+		<English>Auge del Café</English>
+		<German>Auge del Café</German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BRA1_TITLE</Tag>
+		<Russian>The Golden Law</Russian>
 		<English>The Golden Law</English>
 		<German>Das goldene Gesetz</German>
-		<Russian>The Golden Law</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BRA2_TITLE</Tag>
+		<Russian>Maracana, Cristo Redentor, Itaipu</Russian>
 		<English>Maracana, Cristo Redentor, Itaipu</English>
 		<German>Maracana, Cristo Redentor, Itaipu</German>
-		<Russian>Maracana, Cristo Redentor, Itaipu</Russian>
-		</TEXT>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BRA3_TITLE</Tag>
+		<Russian>Pindorama</Russian>
 		<English>Pindorama</English>
 		<German>Pindorama</German>
-		<Russian>Pindorama</Russian>
-		</TEXT>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_CAN1_TITLE</Tag>
+		<English>A Mari Usque Ad Mare</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_CAN2_TITLE</Tag>
+		<English>Great White North</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_CAN3_TITLE</Tag>
+		<English>Peacekeeping</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_PLY1_TITLE</Tag>
+		<English>Oceanic Navigators</English>
+		<German></German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_PLY2_TITLE</Tag>
+		<English>The Polynesian Triangle</English>
+		<German></German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_PLY3_TITLE</Tag>
+		<English>Rano Raraku</English>
+		<German></German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_HAR1_TITLE</Tag>
+		<English>Trade Networks</English>
+		<German></German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_HAR2_TITLE</Tag>
+		<English>Architecture</English>
+		<German></German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_HAR3_TITLE</Tag>
+		<English>Urban Planning</English>
+		<German></German>
+	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV__TITLE</Tag>
+		<Russian></Russian>
 		<English></English>
 		<German></German>
-		<Russian/>
-		</TEXT>
+	</TEXT>
 </Civ4GameText>

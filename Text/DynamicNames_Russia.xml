@@ -35,6 +35,11 @@
 		<English>Panslavic Empire</English>
 	</TEXT>
 	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_NAZI_VASSAL</Tag>
+		<Russian>Reichskommissariat Moskowien</Russian>
+		<English>Reichskommissariat Moskowien</English>
+	</TEXT>
+	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_EMPIRE</Tag>
 		<Russian>&#208;&#238;&#241;&#241;&#232;&#233;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
 		<English>Russian Empire</English>
@@ -45,7 +50,7 @@
 		<English>Grand Duchy of Muscovy</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_CIV_AMERICAN_RUSSIAN_VASSAL</Tag>
+		<Tag>TXT_KEY_CIV_AMERICA_RUSSIAN_VASSAL</Tag>
 		<Russian>&#208;&#243;&#241;&#241;&#234;&#224;&#255; &#192;&#236;&#229;&#240;&#232;&#234;&#224;</Russian>
 		<English>Russian America</English>
 	</TEXT>

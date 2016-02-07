@@ -590,9 +590,9 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_SHIVAJI</Tag>
-		<Russian>Shivaji Bhosle</Russian>
-		<English>Shivaji Bhosle</English>
-		<German>Shivaji Bhosle</German>
+		<Russian>Shahuji</Russian>
+		<English>Shahuji</English>
+		<German>Shahuji</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_BAIBARS</Tag>
@@ -628,6 +628,11 @@
 		<Tag>TXT_KEY_LEADER_TOKUGAWA</Tag>
 		<English>Oda Nobunaga</English>
 		<German>Oda Nobunaga</German>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KRISHNA_DEVA_RAYA</Tag>
+		<English>Krishna Deva Raya</English>
+		<German>Krishna Deva Raya</German>
 	</TEXT>
 
 
