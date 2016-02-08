@@ -46,14 +46,17 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CARTHAGE_DESC_DEMOCRATIC</Tag>
+		<Russian>&#207;&#243;&#237;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
 		<English>Punic Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CARTHAGE_DESC_COMMUNIST</Tag>
+		<Russian>&#205;&#224;&#240;&#238;&#228;&#237;&#224;&#255; &#207;&#243;&#237;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
 		<English>Punic People's Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CARTHAGE_DESC_FASCIST</Tag>
+		<Russian>&#205;&#238;&#226;&#224;&#255; &#202;&#224;&#240;&#244;&#224;&#227;&#229;&#237;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
 		<English>New Carthaginian Empire</English>
 	</TEXT>
 	<TEXT>

@@ -56,6 +56,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_DESC_DEFAULT</Tag>
+		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#200;&#242;&#224;&#235;&#232;&#255;</Russian>
 		<English>Kingdom of Italy</English>
 	</TEXT>
 	<TEXT>
@@ -210,7 +211,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_ROMAN_VASSAL</Tag>
-		<Russian>Province of Gaetulia</Russian>
+		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#195;&#229;&#242;&#243;&#235;&#232;&#255;</Russian>
 		<English>Province of Gaetulia</English>
 	</TEXT>
 	<TEXT>

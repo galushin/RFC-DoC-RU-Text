@@ -6,19 +6,19 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_EMBASSY_PEDIA</Tag>
-		<Russian>Diplomacy has been a common practice for millennia, but for the majority of human history, ambassadors were sent only for specific negotiations and would return immediately after their mission concluded. Modern diplomacy's origins can be traced to the states of Northern Italy in the early Renaissance, where the first embassies - permanent diplomatic stations - were established. Beginning in the city of Milan, this trend would spread across Europe and eventually, the world.</Russian>
+		<Russian>&#196;&#232;&#239;&#235;&#238;&#236;&#224;&#242;&#232;&#255; &#225;&#251;&#235;&#224; &#238;&#225;&#249;&#229;&#232;&#231;&#226;&#229;&#241;&#242;&#237;&#238;&#233; &#239;&#240;&#224;&#234;&#242;&#232;&#234;&#238;&#233; &#237;&#224; &#239;&#240;&#238;&#242;&#255;&#230;&#229;&#237;&#232;&#232; &#242;&#251;&#241;&#255;&#247;&#229;&#235;&#229;&#242;&#232;&#233;, &#237;&#238; &#225;&#238;&#235;&#252;&#248;&#243;&#254; &#247;&#224;&#241;&#242;&#252; &#232;&#241;&#242;&#238;&#240;&#232;&#232; &#247;&#229;&#235;&#238;&#226;&#229;&#247;&#229;&#241;&#242;&#226;&#224; &#239;&#238;&#241;&#235;&#251; &#238;&#242;&#239;&#240;&#224;&#226;&#235;&#255;&#235;&#232;&#241;&#252; &#226; &#239;&#243;&#242;&#252; &#242;&#238;&#235;&#252;&#234;&#238; &#228;&#235;&#255; &#234;&#238;&#237;&#234;&#240;&#229;&#242;&#237;&#251;&#245; &#239;&#229;&#240;&#229;&#227;&#238;&#226;&#238;&#240;&#238;&#226; &#232; &#226;&#238;&#231;&#226;&#240;&#224;&#249;&#224;&#235;&#232;&#241;&#252; &#237;&#229;&#236;&#229;&#228;&#235;&#229;&#237;&#237;&#238; &#239;&#238;&#241;&#235;&#229; &#238;&#234;&#238;&#237;&#247;&#224;&#237;&#232;&#255; &#241;&#226;&#238;&#229;&#233; &#236;&#232;&#241;&#241;&#232;&#232;. &#202;&#238;&#240;&#237;&#232; &#241;&#238;&#226;&#240;&#229;&#236;&#229;&#237;&#237;&#238;&#233; &#236;&#238;&#230;&#237;&#238; &#239;&#240;&#238;&#241;&#235;&#229;&#228;&#232;&#242;&#252; &#226; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#224;&#245; &#241;&#229;&#226;&#229;&#240;&#237;&#238;&#233; &#200;&#242;&#224;&#235;&#232;&#232; &#226; &#237;&#224;&#247;&#224;&#235;&#229; &#208;&#229;&#237;&#229;&#241;&#241;&#224;&#237;&#241;&#224;, &#227;&#228;&#229; &#225;&#251;&#235;&#232; &#238;&#241;&#237;&#238;&#226;&#224;&#237;&#251; &#239;&#229;&#240;&#226;&#251;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#224; - &#239;&#238;&#241;&#242;&#238;&#255;&#237;&#237;&#251;&#229; &#228;&#232;&#239;&#235;&#238;&#236;&#224;&#242;&#232;&#247;&#229;&#241;&#234;&#232;&#229; &#239;&#240;&#229;&#228;&#241;&#242;&#224;&#226;&#232;&#242;&#229;&#235;&#252;&#241;&#242;&#226;&#224;. &#205;&#224;&#247;&#224;&#226;&#248;&#232;&#241;&#252; &#226; &#204;&#232;&#235;&#224;&#237;&#229;, &#253;&#242;&#224; &#242;&#240;&#224;&#228;&#232;&#246;&#232;&#255; &#240;&#224;&#241;&#239;&#240;&#238;&#241;&#242;&#240;&#224;&#237;&#232;&#235;&#224;&#241;&#252; &#239;&#238; &#226;&#241;&#229;&#233; &#197;&#226;&#240;&#238;&#239;&#229; &#232;, &#241;&#238; &#226;&#240;&#229;&#236;&#229;&#237;&#229;&#236;, &#239;&#238; &#226;&#241;&#229;&#236;&#243; &#236;&#232;&#240;&#243;.</Russian>
 		<English>Diplomacy has been a common practice for millennia, but for the majority of human history, ambassadors were sent only for specific negotiations and would return immediately after their mission concluded. Modern diplomacy's origins can be traced to the states of Northern Italy in the early Renaissance, where the first embassies - permanent diplomatic stations - were established. Beginning in the city of Milan, this trend would spread across Europe and eventually, the world.</English>
-		<French>La diplomatie est une pratique courante depuis des millénaires mais pendant très longtemps, les ambassadeurs n'étaient envoyés que pour des négociations spécifiques et repartaient une fois leur mission achevée. Les origines de la diplomatie moderne remontent au début de la Renaissance, dans les états du nord de l'Italie, où les premières ambassades permanentes furent créées. Cette tendance, née à Milan, s'étendra à l'Europe, puis au monde entier.</French>
-		<German>Die Diplomatie ist schon seit Jahrtausenden allgemein gängige Praxis, allerdings war es die meiste Zeit der Menschheitsgeschichte üblich, dass Diplomaten bzw. Botschafter ausschließlich für bestimmte Verhandlungen in fremde Länder entsandt wurden und nach Erfüllung ihrer Mission umgehend wieder in ihre Heimat zurückkehrten. Die Ursprünge der modernen Diplomatie gehen auf die norditalienischen Stadtstaaten der frühen Renaissance zurück, wo seinerzeit erste Botschaftsgebäude als ständige diplomatische Vertretungen eingerichtet wurden. Ausgehend von der Stadt Mailand wurde diese Tradition bald in ganz Europa und schließlich auch weltweit übernommen.</German>
+		<French>La diplomatie est une pratique courante depuis des mill&#233;naires mais pendant tr&#232;s longtemps, les ambassadeurs n'&#233;taient envoy&#233;s que pour des n&#233;gociations sp&#233;cifiques et repartaient une fois leur mission achev&#233;e. Les origines de la diplomatie moderne remontent au d&#233;but de la Renaissance, dans les &#233;tats du nord de l'Italie, o&#249; les premi&#232;res ambassades permanentes furent cr&#233;&#233;es. Cette tendance, n&#233;e &#224; Milan, s'&#233;tendra &#224; l'Europe, puis au monde entier.</French>
+		<German>Die Diplomatie ist schon seit Jahrtausenden allgemein g&#228;ngige Praxis, allerdings war es die meiste Zeit der Menschheitsgeschichte &#252;blich, dass Diplomaten bzw. Botschafter ausschlie&#223;lich f&#252;r bestimmte Verhandlungen in fremde L&#228;nder entsandt wurden und nach Erf&#252;llung ihrer Mission umgehend wieder in ihre Heimat zur&#252;ckkehrten. Die Urspr&#252;nge der modernen Diplomatie gehen auf die norditalienischen Stadtstaaten der fr&#252;hen Renaissance zur&#252;ck, wo seinerzeit erste Botschaftsgeb&#228;ude als st&#228;ndige diplomatische Vertretungen eingerichtet wurden. Ausgehend von der Stadt Mailand wurde diese Tradition bald in ganz Europa und schlie&#223;lich auch weltweit &#252;bernommen.</German>
 		<Italian>La diplomazia si pratica da millenni ma, per la maggior parte dei casi nella storia umana, gli ambasciatori erano inviati solo per specifici negoziati e tornavano immediatamente dopo aver terminato la propria missione. Le origini della diplomazia moderna si possono far risalire agli stati del nord Italia nel primo Rinascimento, quando furono stabilite le prime stazioni diplomatiche fisse, le ambasciate. Cominciato nella citt&#224; di Milano, questo costume si sarebbe diffuso in tutta Europa e, successivamente, nel mondo.</Italian>
-		<Spanish>La diplomacia lleva siendo pr&#225;ctica común desde hace milenios pero, durante la mayor parte de la historia, solo se enviaban embajadores con misiones concretas que regresaban al t&#233;rmino de sus negociaciones. Los or&#237;genes de la diplomacia moderna se encuentran en los estados del norte de Italia, a comienzos del Renacimiento, con el establecimiento de las primeras embajadas, o misiones diplom&#225;ticas permanentes. Esta moda que se inici&#243; en Mil&#225;n no tardar&#237;a en extenderse por toda Europa y, m&#225;s tarde, por todo el mundo.</Spanish>
+		<Spanish>La diplomacia lleva siendo pr&#225;ctica com&#250;n desde hace milenios pero, durante la mayor parte de la historia, solo se enviaban embajadores con misiones concretas que regresaban al t&#233;rmino de sus negociaciones. Los or&#237;genes de la diplomacia moderna se encuentran en los estados del norte de Italia, a comienzos del Renacimiento, con el establecimiento de las primeras embajadas, o misiones diplom&#225;ticas permanentes. Esta moda que se inici&#243; en Mil&#225;n no tardar&#237;a en extenderse por toda Europa y, m&#225;s tarde, por todo el mundo.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_EMBASSY_ABILITY</Tag>
 		<Russian>[ICON_BULLET] &#211;&#241;&#242;&#224;&#237;&#224;&#226;&#235;&#232;&#226;&#224;&#229;&#242; &#239;&#238;&#241;&#242;&#238;&#255;&#237;&#237;&#251;&#233; &#234;&#238;&#237;&#242;&#224;&#234;&#242; &#234; &#228;&#224;&#237;&#237;&#238;&#233; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#229;&#233;</Russian>
 		<English>[ICON_BULLET] Establishes permanent contact with this civilization</English>
 		<French>[ICON_BULLET] Etablit un contact permanent avec cette civilisation</French>
-		<German>[ICON_BULLET] Gewährleistet den ständigen Kontakt mit dieser Zivilisation</German>
+		<German>[ICON_BULLET] Gew&#228;hrleistet den st&#228;ndigen Kontakt mit dieser Zivilisation</German>
 		<Italian>[ICON_BULLET] Stabilisce un contatto permanente con questa civilt&#224;.</Italian>
 		<Spanish>[ICON_BULLET] Establece contacto permanente con esta civilizaci&#243;n</Spanish>
 	</TEXT>
@@ -27,7 +27,7 @@
 		<Russian>&#211;&#241;&#242;&#224;&#237;&#224;&#226;&#235;&#232;&#226;&#224;&#229;&#242; &#239;&#238;&#241;&#242;&#238;&#255;&#237;&#237;&#251;&#233; &#234;&#238;&#237;&#242;&#224;&#234;&#242; &#241; &#228;&#240;&#243;&#227;&#238;&#233; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#229;&#233;</Russian>
 		<English>Establishes permanent contact with other civilizations</English>
 		<French>Etablit un contact permanent avec d'autres civilisations</French>
-		<German>Gewährleistet den ständigen Kontakt mit anderen Zivilisationen</German>
+		<German>Gew&#228;hrleistet den st&#228;ndigen Kontakt mit anderen Zivilisationen</German>
 		<Italian>Stabilisce un contatto permanente con altre civilt&#224;.</Italian>
 		<Spanish>Establece contacto permanente con otras civilizaciones</Spanish>
 	</TEXT>
@@ -35,7 +35,7 @@
 		<Tag>TXT_KEY_EMBASSY_ESTABLISHED</Tag>
 		<Russian>%s1 &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238; &#225;&#251;&#235;&#238; &#238;&#241;&#237;&#238;&#226;&#224;&#237;&#238; &#226;</Russian>
 		<English>A %s1 embassy has been established in</English>
-		<French>Une ambassade %s1:2 a été établie à</French>
+		<French>Une ambassade %s1:2 a &#233;t&#233; &#233;tablie &#224;</French>
 		<German>Es wurde eine %s1 Botschaft errichtet, und zwar in</German>
 		<Italian>Un'ambasciata %s1:2 &#232; stata aperta a</Italian>
 		<Spanish>El imperio %s1 ha abierto una embajada en</Spanish>
@@ -44,8 +44,8 @@
 		<Tag>TXT_KEY_BUILDING_EGY_EMBASSY</Tag>
 		<Russian>&#197;&#227;&#232;&#239;&#229;&#242;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
 		<English>Egyptian Embassy</English>
-		<French>Ambassade égyptienne</French>
-		<German>Ägyptische Botschaft</German>
+		<French>Ambassade &#233;gyptienne</French>
+		<German>&#196;gyptische Botschaft</German>
 		<Italian>Ambasciata egiziana</Italian>
 		<Spanish>Embajada egipcia</Spanish>
 	</TEXT>
@@ -108,7 +108,7 @@
 		<Russian>&#208;&#232;&#236;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
 		<English>Roman Embassy</English>
 		<French>Ambassade romaine</French>
-		<German>Römische Botschaft</German>
+		<German>R&#246;mische Botschaft</German>
 		<Italian>Ambasciata romana</Italian>
 		<Spanish>Embajada romana</Spanish>
 	</TEXT>
@@ -152,8 +152,8 @@
 		<Tag>TXT_KEY_BUILDING_FRA_EMBASSY</Tag>
 		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
 		<English>French Embassy</English>
-		<French>Ambassade française</French>
-		<German>Französische Botschaft</German>
+		<French>Ambassade fran&#231;aise</French>
+		<German>Franz&#246;sische Botschaft</German>
 		<Italian>Ambasciata francese</Italian>
 		<Spanish>Embajada francesa</Spanish>
 	</TEXT>
@@ -198,7 +198,7 @@
 		<Russian>&#210;&#243;&#240;&#229;&#246;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
 		<English>Turkish Embassy</English>
 		<French>Ambassade turque</French>
-		<German>Türkische Botschaft</German>
+		<German>T&#252;rkische Botschaft</German>
 		<Italian>Ambasciata turca</Italian>
 		<Spanish>Embajada turca</Spanish>
 	</TEXT>
@@ -224,7 +224,7 @@
 		<Tag>TXT_KEY_BUILDING_AZT_EMBASSY</Tag>
 		<Russian>&#192;&#246;&#242;&#229;&#234;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
 		<English>Aztec Embassy</English>
-		<French>Ambassade aztèque</French>
+		<French>Ambassade azt&#232;que</French>
 		<German>Aztekische Botschaft</German>
 		<Italian>Ambasciata azteca</Italian>
 		<Spanish>Embajada azteca</Spanish>
@@ -233,7 +233,7 @@
 		<Tag>TXT_KEY_BUILDING_AME_EMBASSY</Tag>
 		<Russian>&#192;&#236;&#229;&#240;&#232;&#234;&#224;&#237;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
 		<English>American Embassy</English>
-		<French>Ambassade américaine</French>
+		<French>Ambassade am&#233;ricaine</French>
 		<German>Amerikanische Botschaft</German>
 		<Italian>Ambasciata americana</Italian>
 		<Spanish>Embajada estadounidense</Spanish>

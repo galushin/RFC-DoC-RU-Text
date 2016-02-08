@@ -37,14 +37,17 @@ Der Zoroastrismus ist eine Schriftreligion und basiert auf der heiligen Schrift 
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_REFORMATION</Tag>
+		<Russian>[ICON_BULLET]Founding Protestantism triggers the Reformation</Russian>
 		<English>[ICON_BULLET]Founding Protestantism triggers the Reformation</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_FOUND_ORTHODOXY</Tag>
+		<Russian>[ICON_BULLET]Founded when the Apostolic Palace is built</Russian>
 		<English>[ICON_BULLET]Founded when the Apostolic Palace is built</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_FOUND_BUDDHISM</Tag>
+		<Russian>[ICON_BULLET]Founded when a Hindu Temple is built</Russian>
 		<English>[ICON_BULLET]Founded when a Hindu Temple is built</English>
 	</TEXT>
 </Civ4GameText>

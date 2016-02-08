@@ -46,18 +46,18 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_EXILE</Tag>
-		<Russian>Free France</Russian>
+		<Russian>&#209;&#226;&#238;&#225;&#238;&#228;&#237;&#224;&#255; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
 		<English>Free France</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_LOUISIANA</Tag>
-		<Russian>Kingdom of Louisiana</Russian>
+		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#203;&#243;&#232;&#231;&#232;&#224;&#237;&#224;</Russian>
 		<English>Kingdom of Louisiana</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_QUEBEC</Tag>
-		<Russian>Kingdom of Québec</Russian>
-		<English>Kingdom of Québec</English>
+		<English>Kingdom of Quï¿½bec</English>
+		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#202;&#226;&#229;&#225;&#229;&#234;</Russian>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_NAZI_VASSAL</Tag>
@@ -71,7 +71,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRENCH_VASSAL_GENERIC</Tag>
-		<Russian>French %s1</Russian>
+		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#224;&#255; %s1</Russian>
 		<English>French %s1</English>
 	</TEXT>
 	<TEXT>
@@ -166,7 +166,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_FRENCH_VASSAL</Tag>
-		<Russian>Duchy of Warsaw</Russian>
+		<Russian>&#195;&#229;&#240;&#246;&#238;&#227;&#241;&#242;&#226;&#238; &#194;&#224;&#240;&#248;&#224;&#226;&#241;&#234;&#238;&#229;</Russian>
 		<English>Duchy of Warsaw</English>
 	</TEXT>
 	<TEXT>

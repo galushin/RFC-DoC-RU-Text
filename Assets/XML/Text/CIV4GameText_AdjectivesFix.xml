@@ -907,7 +907,7 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_CIV_JUDAISM_ADJECTIVE</Tag>
-		<Russian>Protestant</Russian>
+		<Russian>&#207;&#240;&#238;&#242;&#229;&#241;&#242;&#224;&#237;&#242;&#251;</Russian>
 		<English>
 			<Text>Protestant</Text>
 			<Gender>Male</Gender>
@@ -936,7 +936,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHRISTIANITY_ADJECTIVE</Tag>
-		<Russian>Catholic</Russian>
+		<Russian>&#202;&#224;&#242;&#238;&#235;&#232;&#234;&#232;</Russian>
 		<English>
 			<Text>Catholic</Text>
 			<Gender>Male</Gender>
