@@ -6,12 +6,12 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_DESC</Tag>
-		<Russian>The Mandinka</Russian>
+		<Russian>&#204;&#224;&#237;&#228;&#232;&#237;&#234;&#224;</Russian>
 		<English>The Mandinka</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_ADJECTIVE</Tag>
-		<Russian>Mande</Russian>
+		<Russian>&#204;&#224;&#235;&#232;&#233;&#246;&#251;</Russian>
 		<English>Mande</English>
 	</TEXT>
 	<TEXT>
@@ -26,7 +26,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_DESC_PEOPLES</Tag>
-		<Russian>Mandinka Peoples</Russian>
+		<Russian>&#205;&#224;&#240;&#238;&#228; &#236;&#224;&#237;&#228;&#232;&#237;&#234;&#224;</Russian>
 		<English>Mandinka Peoples</English>
 	</TEXT>
 	<TEXT>

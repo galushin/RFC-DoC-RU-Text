@@ -51,6 +51,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_CASTILIAN_EMPIRE</Tag>
+		<Russian>&#202;&#224;&#241;&#242;&#232;&#235;&#252;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
 		<English>Castilian Empire</English>
 	</TEXT>
 	<TEXT>
@@ -75,7 +76,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPANISH_VASSAL_GENERIC</Tag>
-		<Russian>Viceroyalty of %s1</Russian>
+		<Russian>&#194;&#232;&#246;&#229;&#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; %s1</Russian>
 		<English>Viceroyalty of %s1</English>
 	</TEXT>
 	<TEXT>
@@ -90,7 +91,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MAYA_SPANISH_VASSAL</Tag>
-		<Russian>Dicesis of Yucat&#225;n</Russian>
+		<Russian>&#192;&#240;&#245;&#232;&#229;&#239;&#224;&#240;&#245;&#232;&#255; &#222;&#234;&#224;&#242;&#224;&#237;&#224;</Russian>
 		<English>Dicesis of Yucat&#225;n</English>
 	</TEXT>
 	<TEXT>
@@ -115,7 +116,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_SPANISH_VASSAL</Tag>
-		<Russian>Spanish Protectorate of Morocco</Russian>
+		<Russian>&#200;&#241;&#239;&#224;&#237;&#241;&#234;&#232;&#233; &#207;&#240;&#238;&#242;&#229;&#234;&#242;&#238;&#240;&#224;&#242; &#204;&#238;&#240;&#238;&#234;&#234;&#238;</Russian>
 		<English>Spanish Protectorate of Morocco</English>
 	</TEXT>
 	<TEXT>
