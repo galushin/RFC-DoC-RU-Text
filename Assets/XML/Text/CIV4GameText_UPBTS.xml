@@ -6,18 +6,18 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_UP_ETH</Tag>
-		<Russian>The Power of Sovereignty:</Russian>
+		<Russian>&#209;&#232;&#235;&#224; &#241;&#243;&#226;&#229;&#240;&#229;&#237;&#232;&#242;&#229;&#242;&#224;:</Russian>
 		<English>The Power of Sovereignty:</English>
-		<French>Le Pouvoir de la Souveraineté :</French>
-		<German>Die Macht der Souveränität:</German>
+		<French>Le Pouvoir de la Souverainet&#233; :</French>
+		<German>Die Macht der Souver&#228;nit&#228;t:</German>
 		<Italian>Il potere della sovranit&#224;:</Italian>
 		<Spanish>El poder de la soberan&#237;a:</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_ETH2</Tag>
 		<English>Land units receive +10% additional strength within cultural borders</English>
-		<French>Les villes éthiopiennes ne peuvent pas être exigées dans un congrès</French>
-		<German>Landeinheiten erhalten +10% zusätzliche Stärke innerhalb kultureller Grenzen</German>
+		<French>Les villes &#233;thiopiennes ne peuvent pas &#234;tre exig&#233;es dans un congr&#232;s</French>
+		<German>Landeinheiten erhalten +10% zus&#228;tzliche St&#228;rke innerhalb kultureller Grenzen</German>
 		<Italian>Le citt&#224; etiopi non possono essere richieste durante un congresso</Italian>
 		<Spanish>No se pueden pedir ciudades et&#237;opes en un Congreso</Spanish>
 	</TEXT>
@@ -34,14 +34,14 @@
 		<Tag>TXT_KEY_UP_MAY2</Tag>
 		<Russian>-40% &#241;&#242;&#238;&#232;&#236;&#238;&#241;&#242;&#252; &#232;&#241;&#241;&#235;&#229;&#228;&#238;&#226;&#224;&#237;&#232;&#233; &#228;&#238; &#237;&#224;&#247;&#224;&#235;&#224; &#209;&#240;&#229;&#228;&#237;&#232;&#245; &#194;&#229;&#234;&#238;&#226;</Russian>
 		<English>-40% research cost until beginning of the Middle Ages</English>
-		<French>-40% sur les coûts de recherche jusqu'à la fin du Moyen Age</French>
+		<French>-40% sur les co&#251;ts de recherche jusqu'&#224; la fin du Moyen Age</French>
 		<German>-40% Forschungskosten bis zum Anfang des Mittelalters</German>
 		<Italian>-40% ai costi di ricerca fino alla fine del Medioevo</Italian>
 		<Spanish>-40% al coste de investigaci&#243;n hasta el final de la Edad Media</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_KHM</Tag>
-		<Russian>The Power of Monsoons:</Russian>
+		<Russian>&#209;&#232;&#235;&#224; &#236;&#243;&#241;&#241;&#238;&#237;&#238;&#226;:</Russian>
 		<English>The Power of Monsoons:</English>
 		<French>Le Pouvoir des Moussons :</French>
 		<German>Die Macht des Monsuns:</German>
@@ -50,16 +50,16 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_KHM2</Tag>
-		<Russian>All land units can move through jungles and rainforests, can build farms on rainforest</Russian>
+		<Russian>&#194;&#241;&#229; &#237;&#224;&#231;&#229;&#236;&#237;&#251;&#229; &#229;&#228;&#229;&#237;&#232;&#246;&#232; &#236;&#238;&#227;&#243; &#239;&#229;&#240;&#229;&#236;&#229;&#249;&#224;&#242;&#252;&#241;&#255; &#247;&#229;&#240;&#229;&#231; &#228;&#230;&#243;&#237;&#227;&#235;&#232; &#232; &#242;&#240;&#238;&#239;&#232;&#247;&#229;&#241;&#234;&#232;&#229; &#235;&#229;&#241;&#224;, &#236;&#238;&#230;&#237;&#238; &#241;&#242;&#240;&#238;&#232;&#242;&#252; &#244;&#229;&#240;&#236;&#251; &#226; &#242;&#240;&#238;&#239;&#232;&#247;&#229;&#241;&#234;&#232;&#245; &#235;&#229;&#241;&#224;&#245;</Russian>
 		<English>All land units can move through jungles and rainforests, can build farms on rainforest</English>
-		<French>Toutes les unités terrestres peuvent se déplacer à travers la jungle</French>
-		<German>Landeinheiten können Dschungel und Regenwald durchqueren, kann Farmen in Regenwald errichten</German>
+		<French>Toutes les unit&#233;s terrestres peuvent se d&#233;placer &#224; travers la jungle</French>
+		<German>Landeinheiten k&#246;nnen Dschungel und Regenwald durchqueren, kann Farmen in Regenwald errichten</German>
 		<Italian>Tutte le unit&#224; di terra si possono muovere attraverso la giungla</Italian>
 		<Spanish>Todas las unidades terrestres se pueden mover a trav&#233;s de las junglas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_HOL</Tag>
-		<Russian>The Power of Trading Companies:</Russian>
+		<Russian>&#209;&#232;&#235;&#224; &#242;&#238;&#240;&#227;&#238;&#226;&#251;&#245; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#233;:</Russian>
 		<English>The Power of Trading Companies:</English>
 		<French>Le Pouvoir des Entreprises Commerciales :</French>
 		<German>Die Macht der Handelsgesellschaften:</German>
@@ -68,16 +68,16 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_HOL2</Tag>
-		<Russian>Doubled yield and commerce from the trading company corporation</Russian>
+		<Russian>&#211;&#228;&#226;&#238;&#229;&#237;&#237;&#224;&#255; &#238;&#242;&#228;&#224;&#247;&#224; &#238;&#242; &#242;&#238;&#240;&#227;&#238;&#226;&#238;&#233; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#232;</Russian>
 		<English>Doubled yield and commerce from the trading company corporation</English>
-		<French>Toutes les unités en mer peuvent entrer sur un territoire ennemi</French>
+		<French>Toutes les unit&#233;s en mer peuvent entrer sur un territoire ennemi</French>
 		<German>Doppeltes Einkommen durch Handelsgesellschaften</German>
 		<Italian>Tutte le unit&#224; marittime possono entrare in territorio nemico</Italian>
 		<Spanish>Todas las unidades mar&#237;timas pueden entrar en territorio enemigo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_POR</Tag>
-		<Russian>The Power of Exploration:</Russian>
+		<Russian>&#209;&#232;&#235;&#224; &#232;&#241;&#241;&#235;&#229;&#228;&#238;&#226;&#224;&#237;&#232;&#255;:</Russian>
 		<English>The Power of Exploration:</English>
 		<French>Le Pouvoir de l'Exploration :</French>
 		<German>Die Macht des Kundschaftens:</German>
@@ -87,22 +87,22 @@
 	<TEXT>
 		<Tag>TXT_KEY_UP_POR2</Tag>
 		<English>Ocean Trade allowed with Optics, reduced instability for overseas colonies</English>
-		<French>Toutes les unités en mer ont un champ de vision élargi</French>
-		<German>Ozeanhandel ermöglicht durch Optik, verringerte Instabilität durch Übersee-Kolonien</German>
-		<Italian>Tutte le unit&#224; marine hanno un raggio visivo più ampio</Italian>
+		<French>Toutes les unit&#233;s en mer ont un champ de vision &#233;largi</French>
+		<German>Ozeanhandel erm&#246;glicht durch Optik, verringerte Instabilit&#228;t durch &#220;bersee-Kolonien</German>
+		<Italian>Tutte le unit&#224; marine hanno un raggio visivo pi&#249; ampio</Italian>
 		<Spanish>Todas las unidades mar&#237;timas tienen un alcance de visibilidad superior</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_ITA</Tag>
-		<Russian>The Power of Renaissance:</Russian>
+		<Russian>&#209;&#232;&#235;&#224; &#253;&#239;&#238;&#245;&#232; &#194;&#238;&#231;&#240;&#238;&#230;&#228;&#229;&#237;&#232;&#255;:</Russian>
 		<English>The Power of Renaissance:</English>
 		<German>Die Macht der Renaissance:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_ITA2</Tag>
-		<Russian>Free specialist in all of your cities until the Industrial Age</Russian>
+		<Russian>&#209;&#226;&#238;&#225;&#238;&#228;&#237;&#251;&#233; &#241;&#239;&#229;&#246;&#232;&#224;&#235;&#232;&#241;&#242; &#226;&#238; &#226;&#241;&#229;&#245; &#226;&#224;&#248;&#232;&#245; &#227;&#238;&#240;&#238;&#228;&#224;&#245; &#228;&#238; &#232;&#237;&#228;&#243;&#241;&#242;&#240;&#232;&#224;&#235;&#252;&#237;&#238;&#233; &#253;&#239;&#238;&#245;&#232;</Russian>
 		<English>Free specialist in all of your cities until the Industrial Age</English>
-		<German>Zusätzlicher Spezialist in allen Städten bis zum Industriezeitalter</German>
+		<German>Zus&#228;tzlicher Spezialist in allen St&#228;dten bis zum Industriezeitalter</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_BYZ</Tag>
@@ -112,19 +112,19 @@
 	<TEXT>
 		<Tag>TXT_KEY_UP_BYZ2</Tag>
 		<English>Double gold value in trades, spies can bribe barbarian units</English>
-		<German>Doppelter Wert von Gold beim Handeln, Spione können barbarische Einheiten bestechen</German>
+		<German>Doppelter Wert von Gold beim Handeln, Spione k&#246;nnen barbarische Einheiten bestechen</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_KOR</Tag>
-		<Russian>The Power of Kobuksons:</Russian>
+		<Russian>&#209;&#232;&#235;&#224; &#234;&#238;&#225;&#243;&#234;&#241;&#238;&#237;&#238;&#226; (&#234;&#238;&#240;&#224;&#225;&#235;&#252;-&#247;&#229;&#240;&#229;&#239;&#224;&#245;&#224;):</Russian>
 		<English>The Power of Kobuksons:</English>
 		<German>Die Macht der Kobuksons:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_KOR2</Tag>
-		<Russian>Free Drill I and Drill II promotions for all naval units</Russian>
+		<Russian>&#194;&#241;&#229; &#236;&#238;&#240;&#241;&#234;&#232;&#229; &#238;&#242;&#240;&#255;&#228;&#251; &#239;&#238;&#235;&#243;&#247;&#224;&#254;&#242; &#204;&#243;&#248;&#242;&#240;&#224; I &#232; &#204;&#243;&#248;&#242;&#240;&#224; II </Russian>
 		<English>Free Drill I and Drill II promotions for all naval units</English>
-		<German>Alle Marineeinheiten erhalten die Drill I und Drill II Beförderung</German>
+		<German>Alle Marineeinheiten erhalten die Drill I und Drill II Bef&#246;rderung</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_INO</Tag>
@@ -134,7 +134,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UP_INO2</Tag>
 		<English>Additional gold from foreign ships passing through your core</English>
-		<German>Zusätzliches Gold von ausländischen Schiffen, die unser Kerngebiet passieren</German>
+		<German>Zus&#228;tzliches Gold von ausl&#228;ndischen Schiffen, die unser Kerngebiet passieren</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_THA</Tag>
@@ -144,19 +144,19 @@
 	<TEXT>
 		<Tag>TXT_KEY_UP_THA2</Tag>
 		<English>Can use twice as many units to generate military happiness</English>
-		<German>Kann zweimal soviele militärische Einheiten einsetzen, um Zufriedenheit zu generieren</German>
+		<German>Kann zweimal soviele milit&#228;rische Einheiten einsetzen, um Zufriedenheit zu generieren</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_IRA</Tag>
-		<Russian>The Power of Safaviyya:</Russian>
+		<Russian>&#209;&#232;&#235;&#224; &#241;&#243;&#244;&#232;&#231;&#236;&#224;:</Russian>
 		<English>The Power of Safaviyya:</English>
 		<German>Die Macht der Safaviyya:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_IRA2</Tag>
-		<Russian>Religious buildings produce +2 [ICON_CULTURE] and +2 [ICON_RESEARCH]</Russian>
+		<Russian>&#208;&#229;&#235;&#232;&#227;&#232;&#238;&#231;&#237;&#251;&#229; &#239;&#238;&#241;&#242;&#240;&#238;&#233;&#234;&#232; &#228;&#224;&#254;&#242; +2 [ICON_CULTURE] &#232; +2 [ICON_RESEARCH]</Russian>
 		<English>Religious buildings produce +2 [ICON_CULTURE] and +2 [ICON_RESEARCH]</English>
-		<German>Religiöse Gebäude produzieren +2 [ICON_CULTUE] und +2 [ICON_RESEARCH]</German>
+		<German>Religi&#246;se Geb&#228;ude produzieren +2 [ICON_CULTUE] und +2 [ICON_RESEARCH]</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_HRE</Tag>
@@ -166,17 +166,17 @@
 	<TEXT>
 		<Tag>TXT_KEY_UP_HRE2</Tag>
 		<English>Double construction speed of state religion buildings</English>
-		<German>Doppelte Baugeschwindigkeit für Gebäude der Staatsreligion</German>
+		<German>Doppelte Baugeschwindigkeit f&#252;r Geb&#228;ude der Staatsreligion</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_MUG</Tag>
-		<Russian>The Power of Tolerance:</Russian>
+		<Russian>&#209;&#232;&#235;&#224; &#242;&#229;&#240;&#239;&#232;&#236;&#238;&#241;&#242;&#232;:</Russian>
 		<English>The Power of Tolerance:</English>
 		<German>Die Macht der Toleranz:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_MUG2</Tag>
-		<Russian>No unhappiness from non-state religions</Russian>
+		<Russian>&#205;&#229;&#241;&#247;&#224;&#241;&#242;&#252;&#229; &#232;&#231;-&#231;&#224; &#237;&#229;&#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#229;&#237;&#237;&#238;&#233; &#240;&#229;&#235;&#232;&#227;&#232;&#232;</Russian>
 		<English>No unhappiness from non-state religions</English>
 		<German>Keine Unzufriedenheit durch Nicht-Staatsreligionen</German>
 	</TEXT>
@@ -188,7 +188,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UP_TAM2</Tag>
 		<English>Extra commerce on coast and ocean tiles</English>
-		<German>Zusätzlicher Kommerz auf Küsten- und Ozeanfeldern</German>
+		<German>Zus&#228;tzlicher Kommerz auf K&#252;sten- und Ozeanfeldern</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_POL</Tag>
@@ -198,17 +198,17 @@
 	<TEXT>
 		<Tag>TXT_KEY_UP_POL2</Tag>
 		<English>Additional food and commerce during Golden Ages</English>
-		<German>Zusätzliche Nahrung und Kommerz durch Goldene Zeitalter</German>
+		<German>Zus&#228;tzliche Nahrung und Kommerz durch Goldene Zeitalter</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_MOO</Tag>
 		<English>The Power of Irrigation:</English>
-		<German>Die Macht der Bewässerung:</German>
+		<German>Die Macht der Bew&#228;sserung:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_MOO2</Tag>
 		<English>Improvements that yield food give one extra food on plains tiles until the Renaissance</English>
-		<German>Verbesserungen, die Nahrung produzieren, geben eine zusätzliche Nahrungseinheit auf Ebenenfeldern bis zur Renaissance</German>
+		<German>Verbesserungen, die Nahrung produzieren, geben eine zus&#228;tzliche Nahrungseinheit auf Ebenenfeldern bis zur Renaissance</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_KON</Tag>
@@ -218,7 +218,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UP_KON2</Tag>
 		<English>Jungles, rainforests and marshes yield extra food and production and cause no unhealthiness</English>
-		<German>Dschungel, Regenwälder und Marschen geben zusätzliche Nahrung und Produktion und verursachen keine Krankheit</German>
+		<German>Dschungel, Regenw&#228;lder und Marschen geben zus&#228;tzliche Nahrung und Produktion und verursachen keine Krankheit</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_TIB</Tag>
@@ -228,7 +228,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UP_TIB2</Tag>
 		<English>Can train unlimited missionaries; Missionaries can enter foreign territory</English>
-		<German>Kann unbegrenzt Missionare ausbilden; Missionare können fremdes Territorium betreten</German>
+		<German>Kann unbegrenzt Missionare ausbilden; Missionare k&#246;nnen fremdes Territorium betreten</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_MEX</Tag>
@@ -238,7 +238,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UP_MEX2</Tag>
 		<English>Can build farms on hills</English>
-		<German>Kann Farmen auf Hügeln errichten</German>
+		<German>Kann Farmen auf H&#252;geln errichten</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_BRA</Tag>
@@ -248,7 +248,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UP_BRA2</Tag>
 		<English>Sugar counts as oil for Oil Industry</English>
-		<German>Zucker zählt als Öl für die Ölindustrie</German>
+		<German>Zucker z&#228;hlt als &#214;l f&#252;r die &#214;lindustrie</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_ARG</Tag>
@@ -258,7 +258,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UP_ARG2</Tag>
 		<English>Great Generals can start Golden Ages</English>
-		<German>Große Generäle können Goldene Zeitalter auslösen</German>
+		<German>Gro&#223;e Gener&#228;le k&#246;nnen Goldene Zeitalter ausl&#246;sen</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_COL</Tag>
@@ -268,7 +268,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_UP_COL2</Tag>
 		<English>No City Resistance on Conquest in Latin America</English>
-		<German>Keinen Widerstand in eroberten Städten in Lateinamerika</German>
+		<German>Keinen Widerstand in eroberten St&#228;dten in Lateinamerika</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_CAN</Tag>
