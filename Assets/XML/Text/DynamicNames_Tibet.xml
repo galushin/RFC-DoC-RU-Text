@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,32 +6,32 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TIBET_DESC</Tag>
-		<Russian>&#210;&#232;&#225;&#229;&#242;&#246;&#251;</Russian>
+		<Russian>Тибетцы</Russian>
 		<English>The Tibetans</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TIBET_DESC_PEOPLES</Tag>
-		<Russian>&#210;&#232;&#225;&#229;&#242;&#241;&#234;&#232;&#229; &#237;&#224;&#240;&#238;&#228;&#251;</Russian>
+		<Russian>Тибетские народы</Russian>
 		<English>Tibetan Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TIBET_DESC_DEFAULT</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#210;&#232;&#225;&#229;&#242;</Russian>
+		<Russian>Королевство Тибет</Russian>
 		<English>Kingdom of Tibet</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TIBET_EMPIRE</Tag>
-		<Russian>&#210;&#232;&#225;&#229;&#242;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Тибетская империя</Russian>
 		<English>Tibetan Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TIBET_DESC_DEMOCRATIC</Tag>
-		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#210;&#232;&#225;&#229;&#242;</Russian>
+		<Russian>Республика Тибет</Russian>
 		<English>Republic of Tibet</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TIBET_DESC_COMMUNIST</Tag>
-		<Russian>&#205;&#224;&#240;&#238;&#228;&#237;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#210;&#232;&#225;&#229;&#242;</Russian>
+		<Russian>Народная Республика Тибет</Russian>
 		<English>People's Republic of Tibet</English>
 	</TEXT>
 	<TEXT>
@@ -46,7 +46,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TIBET_DESC_FASCIST</Tag>
-		<Russian>&#210;&#232;&#225;&#229;&#242;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Тибетская Империя</Russian>
 		<English>Tibetan Empire</English>
 	</TEXT>
 </Civ4GameText>

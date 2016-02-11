@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!--
 	BUFFY
 	Options Game Text
@@ -9,20 +9,20 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_BUFFY__ENABLED_TEXT</Tag>
-		<Russian>&#208;&#224;&#231;&#240;&#229;&#248;&#232;&#242;&#252;</Russian>
+		<Russian>Разрешить</Russian>
 		<English>Enabled</English>
-		<French>Activ�</French>
+		<French>Activé</French>
 		<German>Aktivieren</German>
 		<Italian>Attivato</Italian>
 		<Spanish>Enabled</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_BUFFY__ENABLED_HOVER</Tag>
-		<Russian>&#197;&#241;&#235;&#232; &#226;&#251;&#225;&#240;&#224;&#237;&#238;, &#242;&#238; BUFFY &#240;&#224;&#225;&#238;&#242;&#224;&#229;&#242;.</Russian>
+		<Russian>Если выбрано, то BUFFY работает.</Russian>
 		<English>When checked, BUFFY is in operation.</English>
 		<French>When checked, BUFFY is in operation.</French>
 		<German>Aktiviert BUFFY</German>
-		<Italian>Quando � selezionato, il BUFFY Mod � attivo.</Italian>
+		<Italian>Quando è selezionato, il BUFFY Mod è attivo.</Italian>
 		<Spanish>When checked, BUFFY is in operation.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -30,7 +30,7 @@
 		<Russian>Warnings on Dawn of Man</Russian>
 		<English>Warnings on Dawn of Man</English>
 		<French>Warnings on Dawn of Man</French>
-		<German>BUFFY-Warnungen bei Gr�ndung der Zivilisation</German>
+		<German>BUFFY-Warnungen bei Gründung der Zivilisation</German>
 		<Italian>Mostra gli avvertimenti in 'Dawn of Man'</Italian>
 		<Spanish>Warnings on Dawn of Man</Spanish>
 	</TEXT>
@@ -39,8 +39,8 @@
 		<Russian>When checked, BUFFY warnings are shown on the Dawn of Man screen.</Russian>
 		<English>When checked, BUFFY warnings are shown on the Dawn of Man screen.</English>
 		<French>When checked, BUFFY warnings are shown on the Dawn of Man screen.</French>
-		<German>Zeigt die BUFFY-Warnungen beim Bildschirm "Gr�ndung der Zivilisation"</German>
-		<Italian>Quando � selezionato, mostra gli avvenimenti del BUFFY Mod nella schermata 'Dawn of Man'.</Italian>
+		<German>Zeigt die BUFFY-Warnungen beim Bildschirm "Gründung der Zivilisation"</German>
+		<Italian>Quando è selezionato, mostra gli avvenimenti del BUFFY Mod nella schermata 'Dawn of Man'.</Italian>
 		<Spanish>When checked, BUFFY warnings are shown on the Dawn of Man screen.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -58,7 +58,7 @@
 		<English>When checked, BUFFY warnings are shown on the Settings tab of the Victory Screen.</English>
 		<French>When checked, BUFFY warnings are shown on the Settings tab of the Victory Screen.</French>
 		<German>Zeigt die BUFFY-Warnungen beim Bildschirm "Einstellungen"</German>
-		<Italian>Quando � selezionato, mostra gli avvenimenti del BUFFY Mod nella schermata delle Impostazioni.</Italian>
+		<Italian>Quando è selezionato, mostra gli avvenimenti del BUFFY Mod nella schermata delle Impostazioni.</Italian>
 		<Spanish>When checked, BUFFY warnings are shown on the Settings tab of the Victory Screen.</Spanish>
 	</TEXT>
 </Civ4GameText>

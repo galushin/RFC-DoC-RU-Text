@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!--
 	BULL City Bar
 	Options Game Text
@@ -21,8 +21,8 @@
 		<Russian>When checked, places an airport icon above the city bars of cities that have an airport.</Russian>
 		<English>When checked, places an airport icon above the city bars of cities that have an airport.</English>
 		<French>When checked, places an airport icon above the city bars of cities that have an airport.</French>
-		<German>Zeigt ein Flughafen-Symbol neben Städten an, die über einen Flughafen verfügen</German>
-		<Italian>Quando è selezionato, aggiunge una icona aeroportuale alle città che hanno un Aeroporto.</Italian>
+		<German>Zeigt ein Flughafen-Symbol neben StÃ¤dten an, die Ã¼ber einen Flughafen verfÃ¼gen</German>
+		<Italian>Quando Ã¨ selezionato, aggiunge una icona aeroportuale alle cittÃ  che hanno un Aeroporto.</Italian>
 		<Spanish>When checked, places an airport icon above the city bars of cities that have an airport.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -39,7 +39,7 @@
 		<Russian>When checked, shows how many turns until a city will lose population if it is shrinking.</Russian>
 		<English>When checked, shows how many turns until a city will lose population if it is shrinking.</English>
 		<French>When checked, shows how many turns until a city will lose population if it is shrinking.</French>
-		<German>Zeigt an, in wie vielen Runden eine Stadt einen Bürger verliert, falls ihre Bevölkerung schrumpft</German>
+		<German>Zeigt an, in wie vielen Runden eine Stadt einen BÃ¼rger verliert, falls ihre BevÃ¶lkerung schrumpft</German>
 		<Italian>When checked, shows how many turns until a city will lose population if it is shrinking.</Italian>
 		<Spanish>When checked, shows how many turns until a city will lose population if it is shrinking.</Spanish>
 	</TEXT>
@@ -59,7 +59,7 @@
 		<English>When checked, shows the net health ([ICON_HEALTHY] or [ICON_UNHEALTHY]) for the city.</English>
 		<French>When checked, shows the net health ([ICON_HEALTHY] or [ICON_UNHEALTHY]) for the city.</French>
 		<German>Zeigt die derzeitige Gesundheit ([ICON_HEALTHY] oder [ICON_UNHEALTHY]) einer Stadt an</German>
-		<Italian>Quando è selezionato, mostra la salute risultante([ICON_HEALTHY] o [ICON_UNHEALTHY]) per la città.</Italian>
+		<Italian>Quando Ã¨ selezionato, mostra la salute risultante([ICON_HEALTHY] o [ICON_UNHEALTHY]) per la cittÃ .</Italian>
 		<Spanish>When checked, shows the net health ([ICON_HEALTHY] or [ICON_UNHEALTHY]) for the city.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -68,7 +68,7 @@
 		<English>Happiness</English>
 		<French>Happiness</French>
 		<German>Zufriedenheit</German>
-		<Italian>Felicità</Italian>
+		<Italian>FelicitÃ </Italian>
 		<Spanish>Happiness</Spanish>
 	</TEXT>
 	<TEXT>
@@ -77,7 +77,7 @@
 		<English>When checked, shows the net happiness ([ICON_HAPPY] or [ICON_UNHAPPY]) for the city.</English>
 		<French>When checked, shows the net happiness ([ICON_HAPPY] or [ICON_UNHAPPY]) for the city.</French>
 		<German>Zeigt die derzeitige Zufriedenheit ([ICON_HAPPY] oder [ICON_UNHAPPY]) einer Stadt an</German>
-		<Italian>Quando è selezionato, mostra la felicità risultante ([ICON_HAPPY] o [ICON_UNHAPPY]) per la città.</Italian>
+		<Italian>Quando Ã¨ selezionato, mostra la felicitÃ  risultante ([ICON_HAPPY] o [ICON_UNHAPPY]) per la cittÃ .</Italian>
 		<Spanish>When checked, shows the net happiness ([ICON_HAPPY] or [ICON_UNHAPPY]) for the city.</Spanish>
 	</TEXT>
 	
@@ -95,8 +95,8 @@
 		<Russian>When checked, shows the number of angry population ([ICON_ANGRYPOP]) due to whipping and the number of turns left on the timer.</Russian>
 		<English>When checked, shows the number of angry population ([ICON_ANGRYPOP]) due to whipping and the number of turns left on the timer.</English>
 		<French>When checked, shows the number of angry population ([ICON_ANGRYPOP]) due to whipping and the number of turns left on the timer.</French>
-		<German>Zeigt die Anzahl der wegen Zwangsarbeit unzufriedenen Bürger ([ICON_ANGRYPOP]) und die Anzahl der verbleibenden Runden an, bis diese sich wieder beruhigt haben</German>
-		<Italian>Quando è selezionato, mostra il numero di cittadini adirati ([ICON_ANGRYPOP]) a causa dei sacrifici ed il numero di turni prima che si pacifichino.</Italian>
+		<German>Zeigt die Anzahl der wegen Zwangsarbeit unzufriedenen BÃ¼rger ([ICON_ANGRYPOP]) und die Anzahl der verbleibenden Runden an, bis diese sich wieder beruhigt haben</German>
+		<Italian>Quando Ã¨ selezionato, mostra il numero di cittadini adirati ([ICON_ANGRYPOP]) a causa dei sacrifici ed il numero di turni prima che si pacifichino.</Italian>
 		<Spanish>When checked, shows the number of angry population ([ICON_ANGRYPOP]) due to whipping and the number of turns left on the timer.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -113,7 +113,7 @@
 		<Russian>When checked, shows the number of angry population ([ICON_ANGRYPOP]) due to drafting and the number of turns left on the timer.</Russian>
 		<English>When checked, shows the number of angry population ([ICON_ANGRYPOP]) due to drafting and the number of turns left on the timer.</English>
 		<French>When checked, shows the number of angry population ([ICON_ANGRYPOP]) due to drafting and the number of turns left on the timer.</French>
-		<German>Zeigt die Anzahl der wegen Zwangsrekrutierung unzufriedenen Bürger ([ICON_ANGRYPOP]) und die Anzahl der verbleibenden Runden an, bis diese sich wieder beruhigt haben</German>
+		<German>Zeigt die Anzahl der wegen Zwangsrekrutierung unzufriedenen BÃ¼rger ([ICON_ANGRYPOP]) und die Anzahl der verbleibenden Runden an, bis diese sich wieder beruhigt haben</German>
 		<Italian>When checked, shows the number of angry population ([ICON_ANGRYPOP]) due to drafting and the number of turns left on the timer.</Italian>
 		<Spanish>When checked, shows the number of angry population ([ICON_ANGRYPOP]) due to drafting and the number of turns left on the timer.</Spanish>
 	</TEXT>
@@ -132,8 +132,8 @@
 		<Russian>When checked, shows more detailed information about growth (growing, shrinking, starvation, stagnation).</Russian>
 		<English>When checked, shows more detailed information about growth (growing, shrinking, starvation, stagnation).</English>
 		<French>When checked, shows more detailed information about growth (growing, shrinking, starvation, stagnation).</French>
-		<German>Zeigt detailliertere Informationen über das Wachstum einer Stadt an (Zunahme, Abnahme, Hungersnot, Stagnation).</German>
-		<Italian>Quando è selezionato, mostra più dettagli sulla crescita (crescita, decrescita, carestia, stagnazione).</Italian>
+		<German>Zeigt detailliertere Informationen Ã¼ber das Wachstum einer Stadt an (Zunahme, Abnahme, Hungersnot, Stagnation).</German>
+		<Italian>Quando Ã¨ selezionato, mostra piÃ¹ dettagli sulla crescita (crescita, decrescita, carestia, stagnazione).</Italian>
 		<Spanish>When checked, shows more detailed information about growth (growing, shrinking, starvation, stagnation).</Spanish>
 	</TEXT>
 	<TEXT>
@@ -150,8 +150,8 @@
 		<Russian>When checked, holding CTRL while hovering shows the base (without modifiers) values for most items: production, trade, commerce, maintenance, great people.</Russian>
 		<English>When checked, holding CTRL while hovering shows the base (without modifiers) values for most items: production, trade, commerce, maintenance, great people.</English>
 		<French>When checked, holding CTRL while hovering shows the base (without modifiers) values for most items: production, trade, commerce, maintenance, great people.</French>
-		<German>Zeigt, wenn der Mauszeiger bei gedrückter [STRG]-Taste über eine Stadt bewegt wird, die Basiswerte (ohne Modifikatoren) der folgenden Güter an: Produktion, Handel, Wirtschaft, Unterhalt, Große Persönlichkeiten</German>
-		<Italian>Quando è selezionato, tenendo premuto CTRL mentre si posiziona il cursore su un oggetto ne mostra i valori base (privi di modificatori) di produzione, oro, commercio, mantenimento, grandi personaggi.</Italian>
+		<German>Zeigt, wenn der Mauszeiger bei gedrÃ¼ckter [STRG]-Taste Ã¼ber eine Stadt bewegt wird, die Basiswerte (ohne Modifikatoren) der folgenden GÃ¼ter an: Produktion, Handel, Wirtschaft, Unterhalt, GroÃŸe PersÃ¶nlichkeiten</German>
+		<Italian>Quando Ã¨ selezionato, tenendo premuto CTRL mentre si posiziona il cursore su un oggetto ne mostra i valori base (privi di modificatori) di produzione, oro, commercio, mantenimento, grandi personaggi.</Italian>
 		<Spanish>When checked, holding CTRL while hovering shows the base (without modifiers) values for most items: production, trade, commerce, maintenance, great people.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -168,8 +168,8 @@
 		<Russian>When checked, shows base production (excludes overflow, whipping, and chopping) in addition to the current turn's production.</Russian>
 		<English>When checked, shows base production (excludes overflow, whipping, and chopping) in addition to the current turn's production.</English>
 		<French>When checked, shows base production (excludes overflow, whipping, and chopping) in addition to the current turn's production.</French>
-		<German>Zeigt die Grundproduktion (ohne Überschuss, Zwangsarbeit und Waldrodung) zusätzlich zur Produktion der derzeitigen Runde an</German>
-		<Italian>Quando è selezionato, mostra la produzione base (escluse le quote da surplus, sacrifici e abbattimento alberi) come aggiunta alla produzione del turno corrente.</Italian>
+		<German>Zeigt die Grundproduktion (ohne Ãœberschuss, Zwangsarbeit und Waldrodung) zusÃ¤tzlich zur Produktion der derzeitigen Runde an</German>
+		<Italian>Quando Ã¨ selezionato, mostra la produzione base (escluse le quote da surplus, sacrifici e abbattimento alberi) come aggiunta alla produzione del turno corrente.</Italian>
 		<Spanish>When checked, shows base production (excludes overflow, whipping, and chopping) in addition to the current turn's production.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -177,7 +177,7 @@
 		<Russian>Building Actual Effects</Russian>
 		<English>Building Actual Effects</English>
 		<French>Building Actual Effects</French>
-		<German>Effektive Gebäudeerträge</German>
+		<German>Effektive GebÃ¤udeertrÃ¤ge</German>
 		<Italian>Building Actual Effects</Italian>
 		<Spanish>Building Actual Effects</Spanish>
 	</TEXT>
@@ -186,7 +186,7 @@
 		<Russian>When checked and a city is constructing a building, the actual yield of [ICON_COMMERCE], [ICON_HAPPY], [ICON_HEALTHY], and [ICON_GREATPEOPLE] it will produce are displayed.</Russian>
 		<English>When checked and a city is constructing a building, the actual yield of [ICON_COMMERCE], [ICON_HAPPY], [ICON_HEALTHY], and [ICON_GREATPEOPLE] it will produce are displayed.</English>
 		<French>When checked and a city is constructing a building, the actual yield of [ICON_COMMERCE], [ICON_HAPPY], [ICON_HEALTHY], and [ICON_GREATPEOPLE] it will produce are displayed.</French>
-		<German>Zeigt die effektiven Erträge von [ICON_COMMERCE], [ICON_HAPPY], [ICON_HEALTHY] und [ICON_GREATPEOPLE] eines Gebäudes an, das gerade errichtet wird</German>
+		<German>Zeigt die effektiven ErtrÃ¤ge von [ICON_COMMERCE], [ICON_HAPPY], [ICON_HEALTHY] und [ICON_GREATPEOPLE] eines GebÃ¤udes an, das gerade errichtet wird</German>
 		<Italian>When checked and a city is constructing a building, the actual yield of [ICON_COMMERCE], [ICON_HAPPY], [ICON_HEALTHY], and [ICON_GREATPEOPLE] it will produce are displayed.</Italian>
 		<Spanish>When checked and a city is constructing a building, the actual yield of [ICON_COMMERCE], [ICON_HAPPY], [ICON_HEALTHY], and [ICON_GREATPEOPLE] it will produce are displayed.</Spanish>
 	</TEXT>
@@ -205,8 +205,8 @@
 		<Russian>When checked, shows the cost ([ICON_CITIZEN] or [ICON_GOLD]) and overflow ([ICON_PRODUCTION] and [ICON_GOLD]) for hurrying (whip and/or buy) the item being produced.</Russian>
 		<English>When checked, shows the cost ([ICON_CITIZEN] or [ICON_GOLD]) and overflow ([ICON_PRODUCTION] and [ICON_GOLD]) for hurrying (whip and/or buy) the item being produced.</English>
 		<French>When checked, shows the cost ([ICON_CITIZEN] or [ICON_GOLD]) and overflow ([ICON_PRODUCTION] and [ICON_GOLD]) for hurrying (whip and/or buy) the item being produced.</French>
-		<German>Zeigt die Kosten ([ICON_CITIZEN] oder [ICON_GOLD]) und Überschüsse ([ICON_PRODUCTION] und [ICON_GOLD]) einer Beschleunigung (Zwangsarbeit und/oder Kauf) der derzeitigen Produktion an</German>
-		<Italian>Quando è selezionato, mostra il costo ([ICON_CITIZEN] o [ICON_GOLD]) ed il surplus ([ICON_PRODUCTION] e [ICON_GOLD]) per l'accelerazione (da sacrifici e/o pagamenti) per l'oggetto in produzione.</Italian>
+		<German>Zeigt die Kosten ([ICON_CITIZEN] oder [ICON_GOLD]) und ÃœberschÃ¼sse ([ICON_PRODUCTION] und [ICON_GOLD]) einer Beschleunigung (Zwangsarbeit und/oder Kauf) der derzeitigen Produktion an</German>
+		<Italian>Quando Ã¨ selezionato, mostra il costo ([ICON_CITIZEN] o [ICON_GOLD]) ed il surplus ([ICON_PRODUCTION] e [ICON_GOLD]) per l'accelerazione (da sacrifici e/o pagamenti) per l'oggetto in produzione.</Italian>
 		<Spanish>When checked, shows the cost ([ICON_CITIZEN] or [ICON_GOLD]) and overflow ([ICON_PRODUCTION] and [ICON_GOLD]) for hurrying (whip and/or buy) the item being produced.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -223,8 +223,8 @@
 		<Russian>When checked, includes the current turn's production when calculating overflow ([ICON_PRODUCTION] and/or [ICON_GOLD]) from hurrying with the whip.</Russian>
 		<English>When checked, includes the current turn's production when calculating overflow ([ICON_PRODUCTION] and/or [ICON_GOLD]) from hurrying with the whip.</English>
 		<French>When checked, includes the current turn's production when calculating overflow ([ICON_PRODUCTION] and/or [ICON_GOLD]) from hurrying with the whip.</French>
-		<German>Bezieht [ICON_PRODUCTION] einer Stadt aus der aktuellen Runde in die Berechnung des Produktionsüberschusses ([ICON_PRODUCTION] und/oder [ICON_GOLD]) ein, der aus der Produktionsbeschleunigung durch Zwangsarbeit entsteht</German>
-		<Italian>Quando è selezionato, include il turno corrente quando calcola il surplus ([ICON_PRODUCTION] e/o [ICON_GOLD]) per l'accelerazione da sacrifici.</Italian>
+		<German>Bezieht [ICON_PRODUCTION] einer Stadt aus der aktuellen Runde in die Berechnung des ProduktionsÃ¼berschusses ([ICON_PRODUCTION] und/oder [ICON_GOLD]) ein, der aus der Produktionsbeschleunigung durch Zwangsarbeit entsteht</German>
+		<Italian>Quando Ã¨ selezionato, include il turno corrente quando calcola il surplus ([ICON_PRODUCTION] e/o [ICON_GOLD]) per l'accelerazione da sacrifici.</Italian>
 		<Spanish>When checked, includes the current turn's production when calculating overflow ([ICON_PRODUCTION] and/or [ICON_GOLD]) from hurrying with the whip.</Spanish>
 	</TEXT>
 	
@@ -242,8 +242,8 @@
 		<Russian>When checked, shows breakdowns for trade: total, foreign, and foreign overseas. Each includes those after it: foreign includes foreign overseas, and total includes both foreign and foreign overseas.</Russian>
 		<English>When checked, shows breakdowns for trade: total, foreign, and foreign overseas. Each includes those after it: foreign includes foreign overseas, and total includes both foreign and foreign overseas.</English>
 		<French>When checked, shows breakdowns for trade: total, foreign, and foreign overseas. Each includes those after it: foreign includes foreign overseas, and total includes both foreign and foreign overseas.</French>
-		<German>Zeigt eine Aufschlüsselung des Handels in "Gesamt", "Ausland" und "Übersee" an, wobei der Wert für "Ausland" jenen für "Übersee" einschließt und "Gesamt" wiederum beide Werte in sich vereint</German>
-		<Italian>Quando è selezionato, mostra dei subtotali per il commercio: totale, estero, ed oltremare. Quello estero include quello d'oltremare, e quello totale include entrambi.</Italian>
+		<German>Zeigt eine AufschlÃ¼sselung des Handels in "Gesamt", "Ausland" und "Ãœbersee" an, wobei der Wert fÃ¼r "Ausland" jenen fÃ¼r "Ãœbersee" einschlieÃŸt und "Gesamt" wiederum beide Werte in sich vereint</German>
+		<Italian>Quando Ã¨ selezionato, mostra dei subtotali per il commercio: totale, estero, ed oltremare. Quello estero include quello d'oltremare, e quello totale include entrambi.</Italian>
 		<Spanish>When checked, shows breakdowns for trade: total, foreign, and foreign overseas. Each includes those after it: foreign includes foreign overseas, and total includes both foreign and foreign overseas.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -261,7 +261,7 @@
 		<English>When checked, the total commerce ([ICON_COMMERCE]) is shown before the individual commerce types ([ICON_GOLD], [ICON_RESEARCH], [ICON_CULTURE], and [ICON_ESPIONAGE]).</English>
 		<French>When checked, the total commerce ([ICON_COMMERCE]) is shown before the individual commerce types ([ICON_GOLD], [ICON_RESEARCH], [ICON_CULTURE], and [ICON_ESPIONAGE]).</French>
 		<German>Zeigt das gesamte Wirtschaftseinkommen ([ICON_COMMERCE]) vor den einzelnen Einkommensarten ([ICON_GOLD], [ICON_RESEARCH], [ICON_CULTURE] und [ICON_ESPIONAGE]) an</German>
-		<Italian>Quando è selezionato, mostra l'oro totale ([ICON_COMMERCE]) prima dei singoli tipi ([ICON_GOLD], [ICON_RESEARCH], [ICON_CULTURE], e [ICON_ESPIONAGE]).</Italian>
+		<Italian>Quando Ã¨ selezionato, mostra l'oro totale ([ICON_COMMERCE]) prima dei singoli tipi ([ICON_GOLD], [ICON_RESEARCH], [ICON_CULTURE], e [ICON_ESPIONAGE]).</Italian>
 		<Spanish>When checked, the total commerce ([ICON_COMMERCE]) is shown before the individual commerce types ([ICON_GOLD], [ICON_RESEARCH], [ICON_CULTURE], and [ICON_ESPIONAGE]).</Spanish>
 	</TEXT>
 	
@@ -270,7 +270,7 @@
 		<Russian>Building Icons</Russian>
 		<English>Building Icons</English>
 		<French>Building Icons</French>
-		<German>Gebäude-Symbole</German>
+		<German>GebÃ¤ude-Symbole</German>
 		<Italian>Icone di edifici</Italian>
 		<Spanish>Building Icons</Spanish>
 	</TEXT>
@@ -279,8 +279,8 @@
 		<Russian>When checked, the list of buildings is shown using icons instead of their names.</Russian>
 		<English>When checked, the list of buildings is shown using icons instead of their names.</English>
 		<French>When checked, the list of buildings is shown using icons instead of their names.</French>
-		<German>Zeigt die Liste der Gebäude mit Symbolen statt Text an</German>
-		<Italian>Quando è selezionato, la lista degli edifici viene visualizzata con le rispettive icone invece dei nomi.</Italian>
+		<German>Zeigt die Liste der GebÃ¤ude mit Symbolen statt Text an</German>
+		<Italian>Quando Ã¨ selezionato, la lista degli edifici viene visualizzata con le rispettive icone invece dei nomi.</Italian>
 		<Spanish>When checked, the list of buildings is shown using icons instead of their names.</Spanish>
 	</TEXT>
 	
@@ -299,7 +299,7 @@
 		<English>When checked, shows the number of turns until the city's borders expand due to culture ([ICON_CULTURE]).</English>
 		<French>When checked, shows the number of turns until the city's borders expand due to culture ([ICON_CULTURE]).</French>
 		<German>Zeigt die Anzahl der Runden an, bis sich die Kulturgrenzen ([ICON_CULTURE]) einer Stadt erweitern</German>
-		<Italian>Quando è selezionato, mostra il numero di turni mancanti per la successiva espansione culturale ([ICON_CULTURE]).</Italian>
+		<Italian>Quando Ã¨ selezionato, mostra il numero di turni mancanti per la successiva espansione culturale ([ICON_CULTURE]).</Italian>
 		<Spanish>When checked, shows the number of turns until the city's borders expand due to culture ([ICON_CULTURE]).</Spanish>
 	</TEXT>
 	<TEXT>
@@ -307,7 +307,7 @@
 		<Russian>Great Person Turns</Russian>
 		<English>Great Person Turns</English>
 		<French>Great Person Turns</French>
-		<German>Große Persönlichkeiten</German>
+		<German>GroÃŸe PersÃ¶nlichkeiten</German>
 		<Italian>Turni dei Grandi Personaggi</Italian>
 		<Spanish>Great Person Turns</Spanish>
 	</TEXT>
@@ -316,8 +316,8 @@
 		<Russian>When checked, shows the number of turns until the city will create the next great person ([ICON_GREATPEOPLE]).</Russian>
 		<English>When checked, shows the number of turns until the city will create the next great person ([ICON_GREATPEOPLE]).</English>
 		<French>When checked, shows the number of turns until the city will create the next great person ([ICON_GREATPEOPLE]).</French>
-		<German>Zeigt die Anzahl der Runden an, bis eine Stadt eine Große Persönlichkeit ([ICON_GREATPEOPLE]) hervorbringt</German>
-		<Italian>Quando è selezionato, mostra il numero di turni necessario perchè la città generi il successivo Grande Personaggio([ICON_GREATPEOPLE]).</Italian>
+		<German>Zeigt die Anzahl der Runden an, bis eine Stadt eine GroÃŸe PersÃ¶nlichkeit ([ICON_GREATPEOPLE]) hervorbringt</German>
+		<Italian>Quando Ã¨ selezionato, mostra il numero di turni necessario perchÃ¨ la cittÃ  generi il successivo Grande Personaggio([ICON_GREATPEOPLE]).</Italian>
 		<Spanish>When checked, shows the number of turns until the city will create the next great person ([ICON_GREATPEOPLE]).</Spanish>
 	</TEXT>
 	
@@ -335,8 +335,8 @@
 		<Russian>When checked, shows icons for the city's specialists (both citizens and settled great people).</Russian>
 		<English>When checked, shows icons for the city's specialists (both citizens and settled great people).</English>
 		<French>When checked, shows icons for the city's specialists (both citizens and settled great people).</French>
-		<German>Zeigt Symbole für die Spezialisten einer Stadt ab (sowohl für Bürger als auch für niedergelassene Große Persönlichkeiten)</German>
-		<Italian>Quando è selezionato, mostra delle icone per gli Specialisti in città (sia i Cittadini Specialisti che i Grandi Personaggi trasformati in Super-Specialisti).</Italian>
+		<German>Zeigt Symbole fÃ¼r die Spezialisten einer Stadt ab (sowohl fÃ¼r BÃ¼rger als auch fÃ¼r niedergelassene GroÃŸe PersÃ¶nlichkeiten)</German>
+		<Italian>Quando Ã¨ selezionato, mostra delle icone per gli Specialisti in cittÃ  (sia i Cittadini Specialisti che i Grandi Personaggi trasformati in Super-Specialisti).</Italian>
 		<Spanish>When checked, shows icons for the city's specialists (both citizens and settled great people).</Spanish>
 	</TEXT>
 	<TEXT>
@@ -345,7 +345,7 @@
 		<English>Revolt Chance</English>
 		<French>Revolt Chance</French>
 		<German>Unruhe-Wahrscheinlichkeit</German>
-		<Italian>Possibilità di Rivolta</Italian>
+		<Italian>PossibilitÃ  di Rivolta</Italian>
 		<Spanish>Revolt Chance</Spanish>
 	</TEXT>
 	<TEXT>
@@ -354,7 +354,7 @@
 		<English>When checked, shows the probability that the city will revolt due to cultural pressure.</English>
 		<French>When checked, shows the probability that the city will revolt due to cultural pressure.</French>
 		<German>Zeigt die Wahrscheinlichkeit an, dass in einer Stadt auf Grund von kulturellem Druck Unruhen ausbrechen</German>
-		<Italian>Quando è selezionato, mostra la probabilità che la Città si rivolti a causa della pressione culturale.</Italian>
+		<Italian>Quando Ã¨ selezionato, mostra la probabilitÃ  che la CittÃ  si rivolti a causa della pressione culturale.</Italian>
 		<Spanish>When checked, shows the probability that the city will revolt due to cultural pressure.</Spanish>
 	</TEXT>
 	
@@ -372,8 +372,8 @@
 		<Russian>When checked, hides the instructions for selecting cities and showing base values to make room for the new information.</Russian>
 		<English>When checked, hides the instructions for selecting cities and showing base values to make room for the new information.</English>
 		<French>When checked, hides the instructions for selecting cities and showing base values to make room for the new information.</French>
-		<German>Verbirgt die Hinweise zur Auswahl von Städten und zur Anzeige der Basiswerte, um Platz für die neuen Informationen zu schaffen</German>
-		<Italian>Quando è selezionato, nasconde le istruzioni per la selezione delle Città e mostra i valori base per fare posto alle nuove informazioni.</Italian>
+		<German>Verbirgt die Hinweise zur Auswahl von StÃ¤dten und zur Anzeige der Basiswerte, um Platz fÃ¼r die neuen Informationen zu schaffen</German>
+		<Italian>Quando Ã¨ selezionato, nasconde le istruzioni per la selezione delle CittÃ  e mostra i valori base per fare posto alle nuove informazioni.</Italian>
 		<Spanish>When checked, hides the instructions for selecting cities and showing base values to make room for the new information.</Spanish>
 	</TEXT>
 

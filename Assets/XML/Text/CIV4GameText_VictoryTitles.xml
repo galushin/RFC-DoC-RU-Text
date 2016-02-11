@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -8,7 +8,7 @@
 		<Tag>TXT_KEY_UHV_EGY1_TITLE</Tag>
 		<Russian>Valley of Kings</Russian>
 		<English>Valley of Kings</English>
-		<German>Tal der Könige</German>
+		<German>Tal der KÃ¶nige</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_EGY2_TITLE</Tag>
@@ -32,7 +32,7 @@
 		<Tag>TXT_KEY_UHV_CHI2_TITLE</Tag>
 		<Russian>The Four Great Inventions</Russian>
 		<English>The Four Great Inventions</English>
-		<German>Die Vier Großen Erfindungen</German>
+		<German>Die Vier GroÃŸen Erfindungen</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_CHI3_TITLE</Tag>
@@ -68,7 +68,7 @@
 		<Tag>TXT_KEY_UHV_GRE2_TITLE</Tag>
 		<Russian>Wonders of the Aegean</Russian>
 		<English>Wonders of the Aegean</English>
-		<German>Wunder der Ägäis</German>
+		<German>Wunder der Ã„gÃ¤is</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GRE3_TITLE</Tag>
@@ -92,13 +92,13 @@
 		<Tag>TXT_KEY_UHV_IND3_TITLE</Tag>
 		<Russian>Sacred Rivers</Russian>
 		<English>Sacred Rivers</English>
-		<German>Heilige Flüsse</German>
+		<German>Heilige FlÃ¼sse</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_PER1_TITLE</Tag>
 		<Russian>The First Empire</Russian>
 		<English>The First Empire</English>
-		<German>Das erste Großreich</German>
+		<German>Das erste GroÃŸreich</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_PER2_TITLE</Tag>
@@ -128,7 +128,7 @@
 		<Tag>TXT_KEY_UHV_CAR3_TITLE</Tag>
 		<Russian>Traders in Purple</Russian>
 		<English>Traders in Purple</English>
-		<German>Purpurhändlers</German>
+		<German>PurpurhÃ¤ndlers</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ROM1_TITLE</Tag>
@@ -152,7 +152,7 @@
 		<Tag>TXT_KEY_UHV_TAM1_TITLE</Tag>
 		<Russian>The Sangam Period</Russian>
 		<English>The Sangam Period</English>
-		<German>Die Sangam-Ära</German>
+		<German>Die Sangam-Ã„ra</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_TAM2_TITLE</Tag>
@@ -176,7 +176,7 @@
 		<Tag>TXT_KEY_UHV_ETH2_TITLE</Tag>
 		<Russian>Incense Road</Russian>
 		<English>Incense Road</English>
-		<German>Weihrauchstraße</German>
+		<German>WeihrauchstraÃŸe</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ETH3_TITLE</Tag>
@@ -212,7 +212,7 @@
 		<Tag>TXT_KEY_UHV_MAY2_TITLE</Tag>
 		<Russian>The Gods</Russian>
 		<English>The Gods</English>
-		<German>Die Götter</German>
+		<German>Die GÃ¶tter</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MAY3_TITLE</Tag>
@@ -254,7 +254,7 @@
 		<Tag>TXT_KEY_UHV_JAP3_TITLE</Tag>
 		<Russian>Flying Geese Paradigm</Russian>
 		<English>Flying Geese Paradigm</English>
-		<German>Fluggänsemodell</German>
+		<German>FluggÃ¤nsemodell</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_VIK1_TITLE</Tag>
@@ -338,7 +338,7 @@
 		<Tag>TXT_KEY_UHV_INO2_TITLE</Tag>
 		<Russian>Emerald of the Equator</Russian>
 		<English>Emerald of the Equator</English>
-		<German>Smaragd des Äquators</German>
+		<German>Smaragd des Ã„quators</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_INO3_TITLE</Tag>
@@ -362,7 +362,7 @@
 		<Tag>TXT_KEY_UHV_MOO3_TITLE</Tag>
 		<Russian>Barbary Corsairs</Russian>
 		<English>Barbary Corsairs</English>
-		<German>Korsaren der Barbareskenküste</German>
+		<German>Korsaren der BarbareskenkÃ¼ste</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_SPA1_TITLE</Tag>
@@ -458,7 +458,7 @@
 		<Tag>TXT_KEY_UHV_MAL1_TITLE</Tag>
 		<Russian>The Great Hajj</Russian>
 		<English>The Great Hajj</English>
-		<German>Die große Hadsch</German>
+		<German>Die groÃŸe Hadsch</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MAL2_TITLE</Tag>
@@ -512,7 +512,7 @@
 		<Tag>TXT_KEY_UHV_INC1_TITLE</Tag>
 		<Russian>Andean Road System</Russian>
 		<English>Andean Road System</English>
-		<German>Das Anden-Straßensystem</German>
+		<German>Das Anden-StraÃŸensystem</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_INC2_TITLE</Tag>
@@ -554,7 +554,7 @@
 		<Tag>TXT_KEY_UHV_MON2_TITLE</Tag>
 		<Russian>The Scourge of God</Russian>
 		<English>The Scourge of God</English>
-		<German>Die Geißel Gottes</German>
+		<German>Die GeiÃŸel Gottes</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MON3_TITLE</Tag>
@@ -566,7 +566,7 @@
 		<Tag>TXT_KEY_UHV_AZT1_TITLE</Tag>
 		<Russian>Floating Gardens</Russian>
 		<English>Floating Gardens</English>
-		<German>Schwimmende Gärten</German>
+		<German>Schwimmende GÃ¤rten</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AZT2_TITLE</Tag>
@@ -578,7 +578,7 @@
 		<Tag>TXT_KEY_UHV_AZT3_TITLE</Tag>
 		<Russian>European Flower Wars</Russian>
 		<English>European Flower Wars</English>
-		<German>Europäische Blumenkriege</German>
+		<German>EuropÃ¤ische Blumenkriege</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MUG1_TITLE</Tag>
@@ -614,13 +614,13 @@
 		<Tag>TXT_KEY_UHV_TUR3_TITLE</Tag>
 		<Russian>The Tulip Period</Russian>
 		<English>The Tulip Period</English>
-		<German>Die Tulpen-Ära</German>
+		<German>Die Tulpen-Ã„ra</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_THA1_TITLE</Tag>
 		<Russian>The King and I</Russian>
 		<English>The King and I</English>
-		<German>Der König und ich</German>
+		<German>Der KÃ¶nig und ich</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_THA2_TITLE</Tag>
@@ -656,7 +656,7 @@
 		<Tag>TXT_KEY_UHV_IRA1_TITLE</Tag>
 		<Russian>European Embassies</Russian>
 		<English>European Embassies</English>
-		<German>Europäische Botschaften</German>
+		<German>EuropÃ¤ische Botschaften</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_IRA2_TITLE</Tag>
@@ -680,13 +680,13 @@
 		<Tag>TXT_KEY_UHV_HOL2_TITLE</Tag>
 		<Russian>Colonial Rivalry</Russian>
 		<English>Colonial Rivalry</English>
-		<German>Koloniale Rivalität</German>
+		<German>Koloniale RivalitÃ¤t</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_HOL3_TITLE</Tag>
 		<Russian>The Dutch East India Company</Russian>
 		<English>The Dutch East India Company</English>
-		<German>Die Niederlänische Ostindien-Kompanie</German>
+		<German>Die NiederlÃ¤nische Ostindien-Kompanie</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GER1_TITLE</Tag>
@@ -752,13 +752,13 @@
 		<Tag>TXT_KEY_UHV_MEX2_TITLE</Tag>
 		<Russian>Revolutionary Leaders</Russian>
 		<English>Revolutionary Leaders</English>
-		<German>Revolutionsführer</German>
+		<German>RevolutionsfÃ¼hrer</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MEX3_TITLE</Tag>
 		<Russian>The City of Palaces</Russian>
 		<English>The City of Palaces</English>
-		<German>Die Stadt der Paläste</German>
+		<German>Die Stadt der PalÃ¤ste</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_COL1_TITLE</Tag>
@@ -770,13 +770,13 @@
 		<Tag>TXT_KEY_UHV_COL2_TITLE</Tag>
 		<Russian>United States of South America</Russian>
 		<English>United States of South America</English>
-		<German>Vereinigte Staaten von Südamerika</German>
+		<German>Vereinigte Staaten von SÃ¼damerika</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_COL3_TITLE</Tag>
-		<Russian>Auge del Café</Russian>
-		<English>Auge del Café</English>
-		<German>Auge del Café</German>
+		<Russian>Auge del CafÃ©</Russian>
+		<English>Auge del CafÃ©</English>
+		<German>Auge del CafÃ©</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BRA1_TITLE</Tag>

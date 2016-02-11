@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -10,62 +10,62 @@
 		<Tag>TXT_KEY_CONCEPT_MERCENARIES_PEDIA</Tag>
 		<Russian>[H1]Mercenaries[\H1][PARAGRAPH:2]Mercenaries are soldiers who fight primarily for private gain, usually with little regard for ideological, national, political, or moral considerations. However, when the term is used to refer to a soldier in a regular national army, it is usually considered an insult.[PARAGRAPH:2][PARAGRAPH:2]Mercenaries have seen regular deployment in battle since the time of Ancient Egypt and Carthage, up through the 16th century, including the famous Swiss Guard and the Landsknechts. In the game, Mercenaries can be hired only until the discovery of Nationalism, which changed the conception of armies and caused a rapid decline in Mercenary usage.[PARAGRAPH:2]</Russian>
 		<English>[H1]Mercenaries[\H1][PARAGRAPH:2]Mercenaries are soldiers who fight primarily for private gain, usually with little regard for ideological, national, political, or moral considerations. However, when the term is used to refer to a soldier in a regular national army, it is usually considered an insult.[PARAGRAPH:2][PARAGRAPH:2]Mercenaries have seen regular deployment in battle since the time of Ancient Egypt and Carthage, up through the 16th century, including the famous Swiss Guard and the Landsknechts. In the game, Mercenaries can be hired only until the discovery of Nationalism, which changed the conception of armies and caused a rapid decline in Mercenary usage.[PARAGRAPH:2]</English>
-		<French>[H1]Mercenaires[\H1][PARAGRAPH:2]Les mercenaires sont des soldats qui se battent avant tout pour leur profit personnel, et n'ont que peu de consid&#233;rations id&#233;ologiques, territoriales, politiques ou morales. Lorsque ce terme est utilis&#233; pour un soldat d'une arm&#233;e r&#233;guli&#232;re, c'est en g&#233;n&#233;ral insultant.[PARAGRAPH:2][PARAGRAPH:2]Les mercenaires ont souvent &#233;t&#233; employ&#233;s depuis l'&#233;poque de l'Egypte ancienne et de Carthage, jusqu'au 16e si&#232;cle, avec les c&#233;l&#232;bres Gardes Suisses et les Lansquenets. Vous pouvez recruter des mercenaires jusqu'&#224; la d&#233;couverte du nationalisme, qui modifie la conception des arm&#233;es et entra&#238;ne un rapide d&#233;clin de l'utilisation des mercenaires.[PARAGRAPH:2]</French>
-		<German>[H1]S&#246;ldner[\H1][PARAGRAPH:2]S&#246;ldner sind K&#228;mpfer, die meist ohne jede R&#252;cksicht auf ideologische, patriotische, politische oder moralische &#220;berlegungen in erster Linie ihre pers&#246;nlichen Interessen verfolgen. Manchmal wird der Begriff auch als Bezeichnung f&#252;r Soldaten verwendet, die in einer regul&#228;ren nationalen Armee ihren Dienst verrichten, in diesem Fall ist er jedoch in aller Regel als Beleidigung zu verstehen.[PARAGRAPH:2][PARAGRAPH:2]Der Einsatz von S&#246;ldnern in der Schlacht war seit der Zeit des antiken &#196;gyptens und Karthagos bis ins 16. Jahrhundert, beispielsweise mit der Schweizergarde und den Landsknechten, weit verbreitet. Im Spiel k&#246;nnen S&#246;ldner bis zur Entdeckung des "Nationalismus" angeheuert werden, der das Prinzip des strukturellen Aufbaus einer Armee so stark ver&#228;nderte, dass er das Ende des S&#246;ldnertums einl&#228;utete.[PARAGRAPH:2]</German>
-		<Italian>[H1]Mercenari[\H1][PARAGRAPH:2]I mercenari sono soldati che combattono principalmente per un tornaconto privato, di solito senza considerazioni di ordine ideologico, nazionale, politico o morale. Per&#242; quando il termine viene utilizzato riferendosi a un soldato di un regolare esercito nazionale, &#232; considerato un insulto.[PARAGRAPH:2][PARAGRAPH:2]I mercenari sono stati impiegati in battaglia fin dai tempi dell'antico Egitto e di Cartagine fino al sedicesimo secolo, e tra l'altro includono i famosi Lanzichenecchi e la Guardia Svizzera. Nel gioco i mercenari possono essere assoldati solo fino alla scoperta del nazionalismo, che ha rivoluzionato la concezione degli eserciti e ha causato un rapido declino nell'utilizzo di truppe a pagamento.[PARAGRAPH:2]</Italian>
-		<Spanish>[H1]Mercenarios[\H1][PARAGRAPH:2]Los mercenarios son soldados a los que no les interesan las consideraciones ideol&#243;gicas, nacionales, pol&#237;ticas ni morales y que combaten fundamentalmente en busca de un beneficio propio. Sin embargo, cuando se utiliza este t&#233;rmino para referirse a un soldado de un ej&#233;rcito permanente, suele considerarse un insulto.[PARAGRAPH:2][PARAGRAPH:2]Los mercenarios han participado en guerras con regularidad desde la &#233;poca del antiguo Egipto y Cartago hasta el siglo XVI, como la famosa Guardia Suiza y los Lansquenetes. En el juego, solo se pueden contratar mercenarios hasta el descubrimiento del nacionalismo, que cambi&#243; la concepci&#243;n de los ej&#233;rcitos y provoc&#243; un r&#225;pido declive del empleo de mercenarios.[PARAGRAPH:2]</Spanish>
+		<French>[H1]Mercenaires[\H1][PARAGRAPH:2]Les mercenaires sont des soldats qui se battent avant tout pour leur profit personnel, et n'ont que peu de considйrations idйologiques, territoriales, politiques ou morales. Lorsque ce terme est utilisй pour un soldat d'une armйe rйguliиre, c'est en gйnйral insultant.[PARAGRAPH:2][PARAGRAPH:2]Les mercenaires ont souvent йtй employйs depuis l'йpoque de l'Egypte ancienne et de Carthage, jusqu'au 16e siиcle, avec les cйlиbres Gardes Suisses et les Lansquenets. Vous pouvez recruter des mercenaires jusqu'а la dйcouverte du nationalisme, qui modifie la conception des armйes et entraоne un rapide dйclin de l'utilisation des mercenaires.[PARAGRAPH:2]</French>
+		<German>[H1]Sцldner[\H1][PARAGRAPH:2]Sцldner sind Kдmpfer, die meist ohne jede Rьcksicht auf ideologische, patriotische, politische oder moralische Ьberlegungen in erster Linie ihre persцnlichen Interessen verfolgen. Manchmal wird der Begriff auch als Bezeichnung fьr Soldaten verwendet, die in einer regulдren nationalen Armee ihren Dienst verrichten, in diesem Fall ist er jedoch in aller Regel als Beleidigung zu verstehen.[PARAGRAPH:2][PARAGRAPH:2]Der Einsatz von Sцldnern in der Schlacht war seit der Zeit des antiken Дgyptens und Karthagos bis ins 16. Jahrhundert, beispielsweise mit der Schweizergarde und den Landsknechten, weit verbreitet. Im Spiel kцnnen Sцldner bis zur Entdeckung des "Nationalismus" angeheuert werden, der das Prinzip des strukturellen Aufbaus einer Armee so stark verдnderte, dass er das Ende des Sцldnertums einlдutete.[PARAGRAPH:2]</German>
+		<Italian>[H1]Mercenari[\H1][PARAGRAPH:2]I mercenari sono soldati che combattono principalmente per un tornaconto privato, di solito senza considerazioni di ordine ideologico, nazionale, politico o morale. Perт quando il termine viene utilizzato riferendosi a un soldato di un regolare esercito nazionale, и considerato un insulto.[PARAGRAPH:2][PARAGRAPH:2]I mercenari sono stati impiegati in battaglia fin dai tempi dell'antico Egitto e di Cartagine fino al sedicesimo secolo, e tra l'altro includono i famosi Lanzichenecchi e la Guardia Svizzera. Nel gioco i mercenari possono essere assoldati solo fino alla scoperta del nazionalismo, che ha rivoluzionato la concezione degli eserciti e ha causato un rapido declino nell'utilizzo di truppe a pagamento.[PARAGRAPH:2]</Italian>
+		<Spanish>[H1]Mercenarios[\H1][PARAGRAPH:2]Los mercenarios son soldados a los que no les interesan las consideraciones ideolуgicas, nacionales, polнticas ni morales y que combaten fundamentalmente en busca de un beneficio propio. Sin embargo, cuando se utiliza este tйrmino para referirse a un soldado de un ejйrcito permanente, suele considerarse un insulto.[PARAGRAPH:2][PARAGRAPH:2]Los mercenarios han participado en guerras con regularidad desde la йpoca del antiguo Egipto y Cartago hasta el siglo XVI, como la famosa Guardia Suiza y los Lansquenetes. En el juego, solo se pueden contratar mercenarios hasta el descubrimiento del nacionalismo, que cambiу la concepciуn de los ejйrcitos y provocу un rбpido declive del empleo de mercenarios.[PARAGRAPH:2]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARIES_SCREEN_TITLE</Tag>
-		<Russian>&#211;&#239;&#240;&#224;&#226;&#235;&#229;&#237;&#232;&#229; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#224;&#236;&#232;</Russian>
+		<Russian>Управление наемниками</Russian>
 		<English>Mercenary Manager</English>
 		<French>Responsable des mercenaires</French>
-		<German>S&#246;ldner-Verwaltung</German>
+		<German>Sцldner-Verwaltung</German>
 		<Italian>Gestione mercenari</Italian>
 		<Spanish>Gestor de mercenarios</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_SCREEN_TITLE</Tag>
-		<Russian>&#205;&#224;&#229;&#236;&#237;&#232;&#234;&#232;</Russian>
+		<Russian>Наемники</Russian>
 		<English>Mercenaries</English>
 		<French>Mercenaires</French>
-		<German>S&#246;ldner</German>
+		<German>Sцldner</German>
 		<Italian>Mercenari</Italian>
 		<Spanish>Mercenarios</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_GROUPS_SCREEN_TITLE</Tag>
-		<Russian>&#195;&#240;&#243;&#239;&#239;&#224; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#238;&#226;</Russian>
+		<Russian>Группа наемников</Russian>
 		<English>Mercenary Groups</English>
 		<French>Groupes de mercenaires</French>
-		<German>S&#246;ldner-Gruppen</German>
+		<German>Sцldner-Gruppen</German>
 		<Italian>Gruppi mercenari</Italian>
 		<Spanish>Grupos de mercenarios</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_CONTRACTS_SCREEN_TITLE</Tag>
-		<Russian>&#202;&#238;&#237;&#242;&#240;&#224;&#234;&#242;&#251; &#241; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#224;&#236;&#232;</Russian>
+		<Russian>Контракты с наемниками</Russian>
 		<English>Mercenary Contracts</English>
 		<French>Contrats de mercenaires</French>
-		<German>S&#246;ldner-Vertr&#228;ge</German>
+		<German>Sцldner-Vertrдge</German>
 		<Italian>Contratti mercenari</Italian>
 		<Spanish>Contratos de mercenarios</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AVAILABLE_MERCENARIES</Tag>
-		<Russian>&#196;&#238;&#241;&#242;&#243;&#239;&#237;&#251;&#229; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#232;</Russian>
+		<Russian>Доступные наемники</Russian>
 		<English>Available Mercenaries</English>
 		<French>Mercenaires disponibles</French>
-		<German>Verf&#252;gbare S&#246;ldner</German>
+		<German>Verfьgbare Sцldner</German>
 		<Italian>Mercenari disponibili</Italian>
 		<Spanish>Mercenarios disponibles</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AVAILABLE_MERCENARY_GROUPS</Tag>
-		<Russian>&#196;&#238;&#241;&#242;&#243;&#239;&#237;&#251;&#229; &#227;&#240;&#243;&#239;&#239;&#251; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#238;&#226;</Russian>
+		<Russian>Доступные группы наемников</Russian>
 		<English>Available Mercenary Groups</English>
 		<French>Groupes de mercenaires disponibles</French>
-		<German>Verf&#252;gbare S&#246;ldner-Gruppen</German>
+		<German>Verfьgbare Sцldner-Gruppen</German>
 		<Italian>Gruppi mercenari disponibili</Italian>
 		<Spanish>Grupos de mercenarios disponibles</Spanish>
 	</TEXT>
@@ -73,86 +73,86 @@
 		<Tag>TXT_KEY_UNITS_CONTRACTED_OUT</Tag>
 		<Russian>Units Contracted Out</Russian>
 		<English>Units Contracted Out</English>
-		<French>Unit&#233;s sous contrat</French>
+		<French>Unitйs sous contrat</French>
 		<German>Ausgeschiedene Einheiten</German>
-		<Italian>Unit&#224; assegnate</Italian>
+		<Italian>Unitа assegnate</Italian>
 		<Spanish>Unidades subcontratadas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HIRED_MERCENARIES</Tag>
-		<Russian>&#205;&#224;&#237;&#255;&#242;&#251;&#229; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#232;</Russian>
+		<Russian>Нанятые наемники</Russian>
 		<English>Hired Mercenaries</English>
-		<French>Mercenaires recrut&#233;s</French>
-		<German>Angeheuerte S&#246;ldner</German>
+		<French>Mercenaires recrutйs</French>
+		<German>Angeheuerte Sцldner</German>
 		<Italian>Mercenari assoldati</Italian>
 		<Spanish>Mercenarios contratados</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HIRED_MERCENARY_GROUPS</Tag>
-		<Russian>&#205;&#224;&#237;&#255;&#242;&#251;&#229; &#227;&#240;&#243;&#239;&#239;&#251; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#238;&#226;</Russian>
+		<Russian>Нанятые группы наемников</Russian>
 		<English>Hired Mercenary Groups</English>
-		<French>Groupes de mercenaires recrut&#233;s</French>
-		<German>Angeheuerte S&#246;ldner-Gruppen</German>
+		<French>Groupes de mercenaires recrutйs</French>
+		<German>Angeheuerte Sцldner-Gruppen</German>
 		<Italian>Gruppi mercenari assoldati</Italian>
 		<Spanish>Grupos de mercenarios contratados</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_AVAILABLE_UNITS</Tag>
-		<Russian>&#196;&#238;&#241;&#242;&#243;&#239;&#237;&#251;&#229; &#238;&#242;&#240;&#255;&#228;&#251;</Russian>
+		<Russian>Доступные отряды</Russian>
 		<English>Available Units</English>
-		<French>Unit&#233;s disponibles</French>
-		<German>Verf&#252;gbare Einheiten</German>
-		<Italian>Unit&#224; disponibili</Italian>
+		<French>Unitйs disponibles</French>
+		<German>Verfьgbare Einheiten</German>
+		<Italian>Unitа disponibili</Italian>
 		<Spanish>Unidades disponibles</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_INFORMATION</Tag>
-		<Russian>&#200;&#237;&#244;&#238;&#240;&#236;&#224;&#246;&#232;&#255; &#238; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#229;</Russian>
+		<Russian>Информация о наемнике</Russian>
 		<English>Mercenary Information</English>
 		<French>Informations sur les mercenaires</French>
-		<German>S&#246;ldner-Informationen</German>
+		<German>Sцldner-Informationen</German>
 		<Italian>Informazioni sui mercenari</Italian>
-		<Spanish>Informaci&#243;n de mercenarios</Spanish>
+		<Spanish>Informaciуn de mercenarios</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_GROUP_INFORMATION</Tag>
-		<Russian>&#200;&#237;&#244;&#238;&#240;&#236;&#224;&#246;&#232;&#255; &#238; &#227;&#240;&#243;&#239;&#239;&#229; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#238;&#226;</Russian>
+		<Russian>Информация о группе наемников</Russian>
 		<English>Mercenary Group Information</English>
 		<French>Informations sur les groupes de mercenaires</French>
-		<German>S&#246;ldner-Gruppen-Informationen</German>
+		<German>Sцldner-Gruppen-Informationen</German>
 		<Italian>Informazioni sui gruppi mercenari</Italian>
-		<Spanish>Informaci&#243;n del grupo de mercenarios</Spanish>
+		<Spanish>Informaciуn del grupo de mercenarios</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_INFORMATION</Tag>
-		<Russian>&#200;&#237;&#244;&#238;&#240;&#236;&#224;&#246;&#232;&#255; &#238;&#225; &#238;&#242;&#240;&#255;&#228;&#229;</Russian>
+		<Russian>Информация об отряде</Russian>
 		<English>Unit Information</English>
-		<French>Informations d'unit&#233;</French>
+		<French>Informations d'unitй</French>
 		<German>Einheiten-Informationen</German>
-		<Italian>Informazioni sulle unit&#224;</Italian>
-		<Spanish>Informaci&#243;n de la unidad</Spanish>
+		<Italian>Informazioni sulle unitа</Italian>
+		<Spanish>Informaciуn de la unidad</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FINANCIAL_ADVISOR_MERCENARY_MAINTENANCE_COST</Tag>
-		<Russian>&#209;&#242;&#238;&#232;&#236;&#238;&#241;&#242;&#252; &#241;&#238;&#228;&#229;&#240;&#230;&#224;&#237;&#232;&#255; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#238;&#226;</Russian>
+		<Russian>Стоимость содержания наемников</Russian>
 		<English>Mercenary Maintenance Cost</English>
-		<French>Co&#251;t d'entretien des mercenaires</French>
-		<German>S&#246;ldner-Unterhaltskosten</German>
+		<French>Coыt d'entretien des mercenaires</French>
+		<German>Sцldner-Unterhaltskosten</German>
 		<Italian>Costo mantenimento mercenari</Italian>
 		<Spanish>Coste de mantenimiento de mercenarios</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FINANCIAL_ADVISOR_MERCENARY_CONTRACT_INCOME</Tag>
-		<Russian>&#196;&#238;&#245;&#238;&#228; &#238;&#242; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#238;&#226;</Russian>
+		<Russian>Доход от наемников</Russian>
 		<English>Mercenary Contract Income</English>
 		<French>Revenu du contrat de mercenaire</French>
-		<German>S&#246;ldner-Vertragseinnahmen</German>
+		<German>Sцldner-Vertragseinnahmen</German>
 		<Italian>Entrata contratto mercenari</Italian>
 		<Spanish>Ingresos de contratos de mercenarios</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_SELFPRESERVATION1</Tag>
-		<Russian>&#200;&#237;&#241;&#242;&#232;&#237;&#234;&#242; &#241;&#224;&#236;&#238;&#241;&#238;&#245;&#240;&#224;&#237;&#229;&#237;&#232;&#255; I</Russian>
+		<Russian>Инстинкт самосохранения I</Russian>
 		<English>Self Preservation I</English>
 		<French>
 			<Text>Survei I</Text>
@@ -170,14 +170,14 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Autopreservaci&#243;n I</Text>
+			<Text>Autopreservaciуn I</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_SELFPRESERVATION2</Tag>
-		<Russian>&#200;&#237;&#241;&#242;&#232;&#237;&#234;&#242; &#241;&#224;&#236;&#238;&#241;&#238;&#245;&#240;&#224;&#237;&#229;&#237;&#232;&#255; II</Russian>
+		<Russian>Инстинкт самосохранения II</Russian>
 		<English>Self Preservation II</English>
 		<French>
 			<Text>Survie II</Text>
@@ -195,14 +195,14 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Autopreservaci&#243;n II</Text>
+			<Text>Autopreservaciуn II</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_SELFPRESERVATION3</Tag>
-		<Russian>&#200;&#237;&#241;&#242;&#232;&#237;&#234;&#242; &#241;&#224;&#236;&#238;&#241;&#238;&#245;&#240;&#224;&#237;&#229;&#237;&#232;&#255; III</Russian>
+		<Russian>Инстинкт самосохранения III</Russian>
 		<English>Self Preservation III</English>
 		<French>
 			<Text>Survie III</Text>
@@ -220,14 +220,14 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Autopreservaci&#243;n III</Text>
+			<Text>Autopreservaciуn III</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_MERCENARY</Tag>
-		<Russian>&#205;&#224;&#229;&#236;&#237;&#232;&#234;</Russian>
+		<Russian>Наемник</Russian>
 		<English>Mercenary</English>
 		<French>
 			<Text>Mercenaire</Text>
@@ -235,7 +235,7 @@
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>S&#246;ldner</Text>
+			<Text>Sцldner</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
@@ -252,7 +252,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CONCEPT_MERCENARIES</Tag>
-		<Russian>&#205;&#224;&#229;&#236;&#237;&#232;&#234;&#232;</Russian>
+		<Russian>Наемники</Russian>
 		<English>Mercenaries</English>
 		<French>
 			<Text>Mercenaires</Text>
@@ -260,7 +260,7 @@
 			<Plural>1</Plural>
 		</French>
 		<German>
-			<Text>S&#246;ldner</Text>
+			<Text>Sцldner</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</German>
@@ -277,12 +277,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARIES_DISABLED</Tag>
-		<Russian>&#205;&#224;&#246;&#232;&#238;&#237;&#224;&#235;&#232;&#231;&#236; &#232;&#231;&#236;&#229;&#237;&#232;&#235; &#234;&#238;&#237;&#246;&#229;&#239;&#246;&#232;&#254; &#224;&#240;&#236;&#232;&#254;: &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#232; &#225;&#238;&#235;&#252;&#248;&#229; &#237;&#229; &#228;&#238;&#241;&#242;&#243;&#239;&#237;&#251;!</Russian>
+		<Russian>Национализм изменил концепцию армию: наемники больше не доступны!</Russian>
 		<English>Nationalism has changed the conception of armies: Mercenaries no longer fit in!</English>
-		<French>Le Nationalisme a chang&#233; la conception des arm&#233;es : les mercenaires ne sont plus utilis&#233;s !</French>
-		<German>Der Nationalismus ver&#228;nderte das Prinzip des strukturellen Aufbaus einer Armee so grundlegend, dass S&#246;ldner nicht mehr in das Konzept passen.</German>
-		<Italian>Il nazionalismo ha cambiato la concezione degli eserciti: non c'&#232; pi&#249; posto per i mercenari!</Italian>
-		<Spanish>El nacionalismo ha cambiado la concepci&#243;n de los ej&#233;rcitos: �los mercenarios ya no encajan en ellos!</Spanish>
+		<French>Le Nationalisme a changй la conception des armйes : les mercenaires ne sont plus utilisйs !</French>
+		<German>Der Nationalismus verдnderte das Prinzip des strukturellen Aufbaus einer Armee so grundlegend, dass Sцldner nicht mehr in das Konzept passen.</German>
+		<Italian>Il nazionalismo ha cambiato la concezione degli eserciti: non c'и piщ posto per i mercenari!</Italian>
+		<Spanish>El nacionalismo ha cambiado la concepciуn de los ejйrcitos: ¡los mercenarios ya no encajan en ellos!</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_GOLD_TURN</Tag>
@@ -295,14 +295,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERC_KOREA_ADJECTIVE</Tag>
-		<Russian>&#202;&#238;&#240;&#229;&#233;&#246;&#251;</Russian>
+		<Russian>Корейцы</Russian>
 		<English>
 			<Text>Korean</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</English>
 		<French>
-			<Text>Cor&#233;ens</Text>
+			<Text>Corйens</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</French>
@@ -324,7 +324,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERC_ZULU_ADJECTIVE</Tag>
-		<Russian>&#199;&#243;&#235;&#243;&#241;&#241;&#251;</Russian>
+		<Russian>Зулуссы</Russian>
 		<English>
 			<Text>Zulu</Text>
 			<Gender>Male</Gender>
@@ -336,7 +336,7 @@
 			<Plural>1</Plural>
 		</French>
 		<German>
-			<Text>Zulul&#228;ndisch</Text>
+			<Text>Zululдndisch</Text>
 			<Gender>Neuter</Gender>
 			<Plural>0</Plural>
 		</German>
@@ -346,14 +346,14 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>zul&#250;</Text>
+			<Text>zulъ</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERC_CELT_ADJECTIVE</Tag>
-		<Russian>&#202;&#229;&#235;&#252;&#242;&#251;</Russian>
+		<Russian>Кельты</Russian>
 		<English>
 			<Text>Celtic</Text>
 			<Gender>Male</Gender>
@@ -382,487 +382,487 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_NEW_MERCENARIES</Tag>
-		<Russian>&#207;&#238;&#255;&#226;&#232;&#235;&#232;&#241;&#252; &#237;&#238;&#226;&#251;&#229; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#232;.</Russian>
+		<Russian>Появились новые наемники.</Russian>
 		<English>There are new mercenaries available for hiring.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_NUBIAN</Tag>
-		<Russian>&#205;&#243;&#225;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Нубийцы</Russian>
 		<English>Nubian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_NUMIDIAN</Tag>
-		<Russian>&#205;&#243;&#236;&#232;&#228;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Нумидийцы</Russian>
 		<English>Numidian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_BERBER</Tag>
-		<Russian>&#193;&#229;&#240;&#225;&#229;&#240;</Russian>
+		<Russian>Бербер</Russian>
 		<English>Berber</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_HYKSOS</Tag>
-		<Russian>&#195;&#232;&#234;&#241;&#238;&#241;&#251;</Russian>
+		<Russian>Гиксосы</Russian>
 		<English>Hyksos</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_SABEAN</Tag>
-		<Russian>&#209;&#224;&#225;&#229;&#233;</Russian>
+		<Russian>Сабей</Russian>
 		<English>Sabean</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_GAULISH</Tag>
-		<Russian>&#195;&#224;&#235;&#235;&#251;</Russian>
+		<Russian>Галлы</Russian>
 		<English>Gaulish</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_CELTIC</Tag>
-		<Russian>&#202;&#229;&#235;&#252;&#242;&#251;</Russian>
+		<Russian>Кельты</Russian>
 		<English>Celtic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_BRITON</Tag>
-		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#246;&#251;</Russian>
+		<Russian>Британцы</Russian>
 		<English>Briton</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_ILLYRIAN</Tag>
-		<Russian>&#200;&#235;&#235;&#232;&#240;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Иллирийцы</Russian>
 		<English>Illyrian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_IBERIAN</Tag>
-		<Russian>&#200;&#225;&#229;&#240;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Иберийцы</Russian>
 		<English>Iberian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_DACIAN</Tag>
-		<Russian>&#196;&#224;&#234;&#232;</Russian>
+		<Russian>Даки</Russian>
 		<English>Dacian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_THRACIAN</Tag>
-		<Russian>&#212;&#240;&#224;&#234;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Фракийцы</Russian>
 		<English>Thracian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_ETRUSCAN</Tag>
-		<Russian>&#221;&#242;&#240;&#243;&#241;&#234;&#232;</Russian>
+		<Russian>Этруски</Russian>
 		<English>Etruscan</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_KIMMERIAN</Tag>
-		<Russian>&#202;&#232;&#236;&#236;&#229;&#240;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Киммерийцы</Russian>
 		<English>Kimmerian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_GOTHIC</Tag>
-		<Russian>&#195;&#238;&#242;&#251;</Russian>
+		<Russian>Готы</Russian>
 		<English>Gothic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_BURGUNDIAN</Tag>
-		<Russian>&#193;&#243;&#240;&#227;&#243;&#237;&#228;&#251;</Russian>
+		<Russian>Бургунды</Russian>
 		<English>Burgundian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_VANDAL</Tag>
-		<Russian>&#194;&#224;&#237;&#228;&#224;&#235;&#251;</Russian>
+		<Russian>Вандалы</Russian>
 		<English>Vandal</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_MINOAN</Tag>
-		<Russian>&#204;&#232;&#237;&#238;&#233;&#246;&#251;</Russian>
+		<Russian>Минойцы</Russian>
 		<English>Minoan</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_ASSYRIAN</Tag>
-		<Russian>&#192;&#241;&#241;&#232;&#240;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>&#192;ссирийцы</Russian>
 		<English>Assyrian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_SUMERIAN</Tag>
-		<Russian>&#216;&#243;&#236;&#229;&#240;&#251;</Russian>
+		<Russian>Шумеры</Russian>
 		<English>Sumerian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_JUDEAN</Tag>
-		<Russian>&#200;&#243;&#228;&#229;&#233;&#246;&#251;</Russian>
+		<Russian>Иудейцы</Russian>
 		<English>Judean</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_NABATEAN</Tag>
-		<Russian>&#205;&#224;&#225;&#224;&#242;&#229;&#233;&#246;&#251;</Russian>
+		<Russian>Набатейцы</Russian>
 		<English>Nabatean</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_HITTITE</Tag>
-		<Russian>&#213;&#229;&#242;&#242;&#251;</Russian>
+		<Russian>Хетты</Russian>
 		<English>Hittite</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_HURRIAN</Tag>
-		<Russian>&#213;&#243;&#240;&#240;&#232;&#242;&#251;</Russian>
+		<Russian>Хурриты</Russian>
 		<English>Hurrian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_KASSITE</Tag>
-		<Russian>&#202;&#224;&#241;&#241;&#232;&#242;&#251;</Russian>
+		<Russian>Касситы</Russian>
 		<English>Kassite</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_ELAMITE</Tag>
-		<Russian>&#221;&#235;&#224;&#236;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Эламийцы</Russian>
 		<English>Elamite</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_PHILISTINE</Tag>
-		<Russian>&#212;&#232;&#235;&#232;&#241;&#242;&#232;&#236;&#235;&#255;&#237;&#229;</Russian>
+		<Russian>Филистимляне</Russian>
 		<English>Philistine</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_LYDIAN</Tag>
-		<Russian>&#203;&#232;&#228;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Лидийцы</Russian>
 		<English>Lydian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_PARTHIAN</Tag>
-		<Russian>&#207;&#224;&#240;&#244;&#255;&#237;&#229;</Russian>
+		<Russian>Парфяне</Russian>
 		<English>Parthian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_BACTRIAN</Tag>
-		<Russian>&#193;&#224;&#234;&#242;&#240;&#232;&#224;&#237;&#229;</Russian>
+		<Russian>Бактриане</Russian>
 		<English>Bactrian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_XIONGNU</Tag>
-		<Russian>&#213;&#243;&#237;&#237;&#243;</Russian>
+		<Russian>Хунну</Russian>
 		<English>Xiongnu</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_YUEZHI</Tag>
-		<Russian>&#222;&#253;&#247;&#230;&#232;</Russian>
+		<Russian>Юэчжи</Russian>
 		<English>Yuezhi</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_MANCHU</Tag>
-		<Russian>&#204;&#224;&#237;&#252;&#247;&#230;&#243;&#240;&#251;</Russian>
+		<Russian>Маньчжуры</Russian>
 		<English>Manchu</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_HAN</Tag>
-		<Russian>&#213;&#224;&#237;&#252;</Russian>
+		<Russian>Хань</Russian>
 		<English>Han</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_AINU</Tag>
-		<Russian>&#192;&#233;&#237;&#251;</Russian>
+		<Russian>&#192;йны</Russian>
 		<English>Ainu</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_YAMATO</Tag>
-		<Russian>&#223;&#236;&#224;&#242;&#238;</Russian>
+		<Russian>Ямато</Russian>
 		<English>Yamato</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_TIBETAN</Tag>
-		<Russian>&#210;&#232;&#225;&#229;&#242;&#246;&#251;</Russian>
+		<Russian>Тибетцы</Russian>
 		<English>Tibetan</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_ARYAN</Tag>
-		<Russian>&#192;&#240;&#232;&#232;</Russian>
+		<Russian>&#192;рии</Russian>
 		<English>Aryan</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_HARAPPAN</Tag>
-		<Russian>&#213;&#224;&#240;&#224;&#239;&#239;&#251;</Russian>
+		<Russian>Хараппы</Russian>
 		<English>Harappan</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_DRAVIDIAN</Tag>
-		<Russian>&#196;&#240;&#224;&#226;&#232;&#228;&#251;</Russian>
+		<Russian>Дравиды</Russian>
 		<English>Dravidian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_KUSHAN</Tag>
-		<Russian>&#202;&#243;&#248;&#224;&#237;&#251;</Russian>
+		<Russian>Кушаны</Russian>
 		<English>Kushan</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_BACTRIAN</Tag>
-		<Russian>&#193;&#224;&#234;&#242;&#240;&#232;&#224;&#237;&#251;</Russian>
+		<Russian>Бактрианы</Russian>
 		<English>Bactrian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_TAMIL</Tag>
-		<Russian>&#210;&#224;&#236;&#232;&#235;&#251;</Russian>
+		<Russian>Тамилы</Russian>
 		<English>Tamil</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_TOLTEC</Tag>
-		<Russian>&#210;&#238;&#235;&#252;&#242;&#229;&#234;&#232;</Russian>
+		<Russian>Тольтеки</Russian>
 		<English>Toltec</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_ZAPOTEC</Tag>
-		<Russian>&#209;&#224;&#239;&#238;&#242;&#229;&#234;&#232;</Russian>
+		<Russian>Сапотеки</Russian>
 		<English>Zapotec</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_OLMEC</Tag>
-		<Russian>&#206;&#235;&#252;&#236;&#229;&#234;&#232;</Russian>
+		<Russian>Ольмеки</Russian>
 		<English>Olmec</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_APACHE</Tag>
-		<Russian>&#192;&#239;&#224;&#248;</Russian>
+		<Russian>&#192;паш</Russian>
 		<English>Apache</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_CHEYENNE</Tag>
-		<Russian>&#216;&#224;&#233;&#229;&#237;&#237;</Russian>
+		<Russian>Шайенн</Russian>
 		<English>Cheyenne</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_SIOUX</Tag>
-		<Russian>&#209;&#232;&#243;</Russian>
+		<Russian>Сиу</Russian>
 		<English>Sioux</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_IROQUOIS</Tag>
-		<Russian>&#200;&#240;&#238;&#234;&#229;&#231;&#251;</Russian>
+		<Russian>Ирокезы</Russian>
 		<English>Iroquois</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_CHAN_CHAN</Tag>
-		<Russian>&#204;&#238;&#247;&#229;</Russian>
+		<Russian>Моче</Russian>
 		<English>Moche</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_GUARANI</Tag>
-		<Russian>&#195;&#243;&#224;&#240;&#224;&#237;&#232;</Russian>
+		<Russian>Гуарани</Russian>
 		<English>Guarani</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_NAZCAN</Tag>
-		<Russian>&#205;&#224;&#241;&#234;&#232;</Russian>
+		<Russian>Наски</Russian>
 		<English>Nazcan</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_CIRCASSIAN</Tag>
-		<Russian>&#215;&#229;&#240;&#234;&#229;&#241;&#251;</Russian>
+		<Russian>Черкесы</Russian>
 		<English>Circassian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_ARABIAN</Tag>
-		<Russian>&#192;&#240;&#224;&#225;&#251;</Russian>
+		<Russian>&#192;рабы</Russian>
 		<English>Arabian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_IRAQI</Tag>
-		<Russian>&#200;&#240;&#224;&#234;&#246;&#251;</Russian>
+		<Russian>Иракцы</Russian>
 		<English>Iraqi</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_KHWAREZMID</Tag>
-		<Russian>&#213;&#238;&#240;&#229;&#231;&#236;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Хорезмийцы</Russian>
 		<English>Khwarezmid</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_KHAZAR</Tag>
-		<Russian>&#213;&#224;&#231;&#224;&#240;&#251;</Russian>
+		<Russian>Хазары</Russian>
 		<English>Khazar</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_OMANI</Tag>
-		<Russian>&#206;&#236;&#224;&#237;&#246;&#251;</Russian>
+		<Russian>Оманцы</Russian>
 		<English>Omani</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_SELJUK</Tag>
-		<Russian>&#209;&#229;&#235;&#252;&#228;&#230;&#243;&#234;&#232;</Russian>
+		<Russian>Сельджуки</Russian>
 		<English>Seljuk</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_IRANIAN</Tag>
-		<Russian>&#200;&#240;&#224;&#237;&#246;&#251;</Russian>
+		<Russian>Иранцы</Russian>
 		<English>Iranian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_KURDISH</Tag>
-		<Russian>&#202;&#243;&#240;&#228;&#251;</Russian>
+		<Russian>Курды</Russian>
 		<English>Kurdish</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_MOORISH</Tag>
-		<Russian>&#204;&#224;&#226;&#240;&#251;</Russian>
+		<Russian>Мавры</Russian>
 		<English>Moorish</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_VARANGIAN</Tag>
-		<Russian>&#194;&#224;&#240;&#255;&#227;&#232;</Russian>
+		<Russian>Варяги</Russian>
 		<English>Varangian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_RUS</Tag>
-		<Russian>&#208;&#243;&#241;&#241;&#234;&#232;&#229;</Russian>
+		<Russian>Русские</Russian>
 		<English>Rus</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_SWISS</Tag>
-		<Russian>&#216;&#226;&#229;&#233;&#246;&#224;&#240;&#246;&#251;</Russian>
+		<Russian>Швейцарцы</Russian>
 		<English>Swiss</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_SCOTS</Tag>
-		<Russian>&#216;&#238;&#242;&#235;&#224;&#237;&#228;&#246;&#251;</Russian>
+		<Russian>Шотландцы</Russian>
 		<English>Scottish</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_IRISH</Tag>
-		<Russian>&#200;&#240;&#235;&#224;&#237;&#228;&#246;&#251;</Russian>
+		<Russian>Ирландцы</Russian>
 		<English>Irish</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_SICILIAN</Tag>
-		<Russian>&#209;&#232;&#246;&#232;&#235;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Сицилийцы</Russian>
 		<English>Sicilian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_NORMAN</Tag>
-		<Russian>&#205;&#238;&#240;&#236;&#224;&#237;&#228;&#246;&#251;</Russian>
+		<Russian>Нормандцы</Russian>
 		<English>Norman</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_BOHEMIAN</Tag>
-		<Russian>&#193;&#238;&#227;&#229;&#236;&#246;&#251;</Russian>
+		<Russian>Богемцы</Russian>
 		<English>Bohemian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_HUNGARIAN</Tag>
-		<Russian>&#194;&#229;&#237;&#227;&#240;&#251;</Russian>
+		<Russian>Венгры</Russian>
 		<English>Hungarian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_POLISH</Tag>
-		<Russian>&#207;&#238;&#235;&#255;&#234;&#232;</Russian>
+		<Russian>Поляки</Russian>
 		<English>Polish</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_LOMBARD</Tag>
-		<Russian>&#203;&#238;&#236;&#225;&#224;&#240;&#228;&#246;&#251;</Russian>
+		<Russian>Ломбардцы</Russian>
 		<English>Lombard</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_OCCITAN</Tag>
-		<Russian>&#206;&#234;&#241;&#232;&#242;&#224;&#237;&#246;&#251;</Russian>
+		<Russian>Окситанцы</Russian>
 		<English>Occitan</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_CATALAN</Tag>
-		<Russian>&#202;&#224;&#242;&#224;&#235;&#238;&#237;&#246;&#251;</Russian>
+		<Russian>Каталонцы</Russian>
 		<English>Catalan</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_SLAVIC</Tag>
-		<Russian>&#209;&#235;&#224;&#226;&#255;&#237;&#229;</Russian>
+		<Russian>Славяне</Russian>
 		<English>Slavic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_BULGAR</Tag>
-		<Russian>&#193;&#243;&#235;&#227;&#224;&#240;&#251;</Russian>
+		<Russian>Булгары</Russian>
 		<English>Bulgar</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_TARTAR</Tag>
-		<Russian>&#210;&#224;&#242;&#224;&#240;&#251;</Russian>
+		<Russian>Татары</Russian>
 		<English>Tartar</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_UZBEK</Tag>
-		<Russian>&#211;&#231;&#225;&#229;&#234;&#232;</Russian>
+		<Russian>Узбеки</Russian>
 		<English>Uzbek</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_BURMESE</Tag>
-		<Russian>&#193;&#232;&#240;&#236;&#224;&#237;&#246;&#251;</Russian>
+		<Russian>Бирманцы</Russian>
 		<English>Burmese</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_THAI</Tag>
-		<Russian>&#210;&#224;&#233;&#246;&#251;</Russian>
+		<Russian>Тайцы</Russian>
 		<English>Thai</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_KHMER</Tag>
-		<Russian>&#202;&#245;&#236;&#229;&#240;&#251;</Russian>
+		<Russian>Кхмеры</Russian>
 		<English>Khmer</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_MALAY</Tag>
-		<Russian>&#204;&#224;&#235;&#224;&#233;&#246;&#251;</Russian>
+		<Russian>Малайцы</Russian>
 		<English>Malay</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_JAVANESE</Tag>
-		<Russian>&#223;&#226;&#224;&#237;&#246;&#251;</Russian>
+		<Russian>Яванцы</Russian>
 		<English>Javanese</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_POLYNESIAN</Tag>
-		<Russian>&#207;&#238;&#235;&#232;&#237;&#229;&#231;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Полинезийцы</Russian>
 		<English>Polynesian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_VIETNAMESE</Tag>
-		<Russian>&#194;&#252;&#229;&#242;&#237;&#224;&#236;&#246;&#251;</Russian>
+		<Russian>Вьетнамцы</Russian>
 		<English>Vietnamese</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_RAJPUT</Tag>
-		<Russian>&#208;&#224;&#228;&#230;&#239;&#243;&#242;&#251;</Russian>
+		<Russian>Раджпуты</Russian>
 		<English>Rajput</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_PASHTUN</Tag>
-		<Russian>&#207;&#243;&#248;&#242;&#243;&#237;&#251;</Russian>
+		<Russian>Пуштуны</Russian>
 		<English>Pashtun</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_SIKH</Tag>
-		<Russian>&#209;&#232;&#234;&#245;&#232;</Russian>
+		<Russian>Сикхи</Russian>
 		<English>Sikh</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_BENGAL</Tag>
-		<Russian>&#193;&#229;&#237;&#227;&#224;&#235;&#252;&#246;&#251;</Russian>
+		<Russian>Бенгальцы</Russian>
 		<English>Bengal</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_ZULU</Tag>
-		<Russian>&#199;&#243;&#235;&#243;&#241;&#251;</Russian>
+		<Russian>Зулусы</Russian>
 		<English>Zulu</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_BANTU</Tag>
-		<Russian>&#193;&#224;&#237;&#242;&#243;</Russian>
+		<Russian>Банту</Russian>
 		<English>Bantu</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_SUAHELI</Tag>
-		<Russian>&#209;&#243;&#224;&#245;&#232;&#235;&#232;</Russian>
+		<Russian>Суахили</Russian>
 		<English>Suaheli</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_ASHANTI</Tag>
-		<Russian>&#192;&#248;&#224;&#237;&#242;&#232;</Russian>
+		<Russian>&#192;шанти</Russian>
 		<English>Ashanti</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MERCENARY_SONGHAI</Tag>
-		<Russian>&#209;&#238;&#237;&#227;&#224;&#233;</Russian>
+		<Russian>Сонгай</Russian>
 		<English>Songhai</English>
 	</TEXT>
 </Civ4GameText>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!--
 	Text strings for the BUG DLL
 
@@ -13,7 +13,7 @@
 		<Russian>[NEWLINE]Hold &lt;CTRL&gt; to see base values.</Russian>
 		<English>[NEWLINE]Hold &lt;CTRL&gt; to see base values.</English>
 		<French>[NEWLINE]Hold &lt;CTRL&gt; to see base values.</French>
-		<German>[NEWLINE][BOLD]&lt;STRG&gt;[\BOLD] drücken, um die Basiswerte zu sehen</German>
+		<German>[NEWLINE][BOLD]&lt;STRG&gt;[\BOLD] drÃ¼cken, um die Basiswerte zu sehen</German>
 		<Italian>[NEWLINE]Tieni premuto &lt;CTRL&gt; per visualizzare i valori base.</Italian>
 		<Spanish>[NEWLINE]Hold &lt;CTRL&gt; to see base values.</Spanish>
 	</TEXT>
@@ -42,7 +42,7 @@
 		<Tag>TXT_KEY_CITY_BAR_FOOD_SHRINK</Tag>
 		<Russian>[NEWLINE]%d1 [ICON_BAD_FOOD]/Turn[NEWLINE][COLOR_YELLOW]Shrinking: %d2/%d3 [ICON_FOOD] (%d4 [NUM4:Turn:Turns])[COLOR_REVERT]</Russian>
 		<English>[NEWLINE]%d1 [ICON_BAD_FOOD]/Turn[NEWLINE][COLOR_YELLOW]Shrinking: %d2/%d3 [ICON_FOOD] (%d4 [NUM4:Turn:Turns])[COLOR_REVERT]</English>
-		<French>[NEWLINE]%d1 [ICON_BAD_FOOD]/tour[NEWLINE][COLOR_YELLOW]Rétrécissement : %d2/%d3 [ICON_FOOD] (%d4 [NUM4:tour:tours])[COLOR_REVERT]</French>
+		<French>[NEWLINE]%d1 [ICON_BAD_FOOD]/tour[NEWLINE][COLOR_YELLOW]RÃ©trÃ©cissement : %d2/%d3 [ICON_FOOD] (%d4 [NUM4:tour:tours])[COLOR_REVERT]</French>
 		<German>[NEWLINE]%d1 [ICON_BAD_FOOD]/Runde[NEWLINE][COLOR_YELLOW]Schrumpfung: %d2/%d3 [ICON_FOOD] (%d4 [NUM4:Runde:Runden])[COLOR_REVERT]</German>
 		<Italian>[NEWLINE]%d1 [ICON_BAD_FOOD]/Turno[NEWLINE][COLOR_YELLOW]Crescita: %d2/%d3 [ICON_FOOD] (%d4 [NUM4:turno:turni])[COLOR_REVERT]</Italian>
 		<Spanish>[NEWLINE]%d1 [ICON_BAD_FOOD]/turno[NEWLINE][COLOR_YELLOW]Crecimiento: %d2/%d3 [ICON_FOOD] (%d4 [NUM4:turno:turnos])[COLOR_REVERT]</Spanish>
@@ -115,7 +115,7 @@
 		<Russian>The Total Commerce from Domestic Trade Routes</Russian>
 		<English>The Total Commerce from Domestic Trade Routes</English>
 		<French>The Total Commerce from Domestic Trade Routes</French>
-		<German>Gesamteinkommen durch inländische Handelsverbindungen</German>
+		<German>Gesamteinkommen durch inlÃ¤ndische Handelsverbindungen</German>
 		<Italian>Commercio totale dalle rotte commerciali interne</Italian>
 		<Spanish>The Total Commerce from Domestic Trade Routes</Spanish>
 	</TEXT>
@@ -124,7 +124,7 @@
 		<Russian>The Total Commerce from Foreign Trade Routes</Russian>
 		<English>The Total Commerce from Foreign Trade Routes</English>
 		<French>The Total Commerce from Foreign Trade Routes</French>
-		<German>Gesamteinkommen durch ausländische Handelsverbindungen</German>
+		<German>Gesamteinkommen durch auslÃ¤ndische Handelsverbindungen</German>
 		<Italian>Commercio totale dalle rotte commerciali estere</Italian>
 		<Spanish>The Total Commerce from Foreign Trade Routes</Spanish>
 	</TEXT>
@@ -165,7 +165,7 @@
 		<English>[COLOR_NEGATIVE_TEXT]Will lose %d1[ICON_PRODUCTION] this turn[COLOR_REVERT]</English>
 		<French>[COLOR_NEGATIVE_TEXT]Will lose %d1[ICON_PRODUCTION] this turn[COLOR_REVERT]</French>
 		<German>[COLOR_NEGATIVE_TEXT]%d1[ICON_PRODUCTION] gehen in dieser Runde verloren[COLOR_REVERT]</German>
-		<Italian>[COLOR_NEGATIVE_TEXT]Perderà %d1[ICON_PRODUCTION] questo turno[COLOR_REVERT]</Italian>
+		<Italian>[COLOR_NEGATIVE_TEXT]PerderÃ  %d1[ICON_PRODUCTION] questo turno[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_NEGATIVE_TEXT]Will lose %d1[ICON_PRODUCTION] this turn[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
@@ -174,7 +174,7 @@
 		<English>[COLOR_WARNING_TEXT]Will lose %d1[ICON_PRODUCTION] if not produced this turn[COLOR_REVERT]</English>
 		<French>[COLOR_WARNING_TEXT]Will lose %d1[ICON_PRODUCTION] if not produced this turn[COLOR_REVERT]</French>
 		<German>[COLOR_WARNING_TEXT]%d1[ICON_PRODUCTION] gehen verloren, falls nicht in dieser Runde produziert wird[COLOR_REVERT]</German>
-		<Italian>[COLOR_WARNING_TEXT]Perderà %d1[ICON_PRODUCTION] se non viene prodotto questo turno [COLOR_REVERT]</Italian>
+		<Italian>[COLOR_WARNING_TEXT]PerderÃ  %d1[ICON_PRODUCTION] se non viene prodotto questo turno [COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]Will lose %d1[ICON_PRODUCTION] if not produced this turn[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
@@ -183,7 +183,7 @@
 		<English>[COLOR_NEGATIVE_TEXT]Will lose %d1[ICON_PRODUCTION] in %d2 [NUM2:turn:turns][COLOR_REVERT]</English>
 		<French>[COLOR_NEGATIVE_TEXT]Will lose %d1[ICON_PRODUCTION] in %d2 [NUM2:turn:turns][COLOR_REVERT]</French>
 		<German>[COLOR_NEGATIVE_TEXT]%d1[ICON_PRODUCTION] gehen in %d2 [NUM2:Runde:Runden] verloren[COLOR_REVERT]</German>
-		<Italian>[COLOR_NEGATIVE_TEXT]Perderà %d1[ICON_PRODUCTION] in %d2 [NUM2:turno:turni][COLOR_REVERT]</Italian>
+		<Italian>[COLOR_NEGATIVE_TEXT]PerderÃ  %d1[ICON_PRODUCTION] in %d2 [NUM2:turno:turni][COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_NEGATIVE_TEXT]Will lose %d1[ICON_PRODUCTION] in %d2 [NUM2:turn:turns][COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
@@ -191,8 +191,8 @@
 		<Russian>[COLOR_WARNING_TEXT]Will lose %d1[ICON_PRODUCTION] if not produced for %d2 [NUM2:turn:turns][COLOR_REVERT]</Russian>
 		<English>[COLOR_WARNING_TEXT]Will lose %d1[ICON_PRODUCTION] if not produced for %d2 [NUM2:turn:turns][COLOR_REVERT]</English>
 		<French>[COLOR_WARNING_TEXT]Will lose %d1[ICON_PRODUCTION] if not produced for %d2 [NUM2:turn:turns][COLOR_REVERT]</French>
-		<German>[COLOR_WARNING_TEXT]%d1[ICON_PRODUCTION] gehen verloren, falls für %d2 [NUM2:Runde:Runden] nicht produziert wird[COLOR_REVERT]</German>
-		<Italian>[COLOR_WARNING_TEXT]Perderà  %d1[ICON_PRODUCTION] se non viene prodotto per %d2 [NUM2:turno:turni][COLOR_REVERT]</Italian>
+		<German>[COLOR_WARNING_TEXT]%d1[ICON_PRODUCTION] gehen verloren, falls fÃ¼r %d2 [NUM2:Runde:Runden] nicht produziert wird[COLOR_REVERT]</German>
+		<Italian>[COLOR_WARNING_TEXT]PerderÃ   %d1[ICON_PRODUCTION] se non viene prodotto per %d2 [NUM2:turno:turni][COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_WARNING_TEXT]Will lose %d1[ICON_PRODUCTION] if not produced for %d2 [NUM2:turn:turns][COLOR_REVERT]</Spanish>
 	</TEXT>
 
@@ -211,17 +211,17 @@
 		<Tag>TXT_KEY_AT_WAR_WITH_YOU</Tag>
 		<Russian>[ICON_BULLET][COLOR_YELLOW]You are at war![COLOR_REVERT]</Russian>
 		<English>[ICON_BULLET][COLOR_YELLOW]You are at war![COLOR_REVERT]</English>
-		<French>[ICON_BULLET][COLOR_YELLOW]Vous êtes en guerre![COLOR_REVERT]</French>
+		<French>[ICON_BULLET][COLOR_YELLOW]Vous Ãªtes en guerre![COLOR_REVERT]</French>
 		<German>[ICON_BULLET][COLOR_YELLOW]Im Krieg mit Euch![COLOR_REVERT]</German>
-		<Italian>[ICON_BULLET][COLOR_YELLOW]Si è in guerra![COLOR_REVERT]</Italian>
-		<Spanish>[ICON_BULLET][COLOR_YELLOW]Usted está en guerra![COLOR_REVERT]</Spanish>
+		<Italian>[ICON_BULLET][COLOR_YELLOW]Si Ã¨ in guerra![COLOR_REVERT]</Italian>
+		<Spanish>[ICON_BULLET][COLOR_YELLOW]Usted estÃ¡ en guerra![COLOR_REVERT]</Spanish>
 	</TEXT>
 	
 	<TEXT>
 		<Tag>TXT_KEY_PEACE_TREATY_WITH</Tag>
 		<Russian>[ICON_BULLET][COLOR_CYAN]Peace Treaty with %s1_player[COLOR_REVERT]</Russian>
 		<English>[ICON_BULLET][COLOR_CYAN]Peace Treaty with %s1_player[COLOR_REVERT]</English>
-		<French>[ICON_BULLET][COLOR_CYAN]Trait&#233; de paix avec %s1_player[COLOR_REVERT]</French>
+		<French>[ICON_BULLET][COLOR_CYAN]TraitÐ¹ de paix avec %s1_player[COLOR_REVERT]</French>
 		<German>[ICON_BULLET][COLOR_CYAN]Friedensvertrag mit %s1_player[COLOR_REVERT]</German>
 		<Italian>[ICON_BULLET][COLOR_CYAN]Trattato di pace con %s1_player[COLOR_REVERT]</Italian>
 		<Spanish>[ICON_BULLET][COLOR_CYAN]Tratado de paz con %s1_player[COLOR_REVERT]</Spanish>
@@ -230,7 +230,7 @@
 		<Tag>TXT_KEY_PEACE_TREATY_WITH_YOU</Tag>
 		<Russian>[ICON_BULLET][COLOR_CYAN]You have a Peace Treaty[COLOR_REVERT]</Russian>
 		<English>[ICON_BULLET][COLOR_CYAN]You have a Peace Treaty[COLOR_REVERT]</English>
-		<French>[ICON_BULLET][COLOR_CYAN]Vous disposez d'un trait&#233; de paix[COLOR_REVERT]</French>
+		<French>[ICON_BULLET][COLOR_CYAN]Vous disposez d'un traitÐ¹ de paix[COLOR_REVERT]</French>
 		<German>[ICON_BULLET][COLOR_CYAN]Friedensvertrag mit Euch[COLOR_REVERT]</German>
 		<Italian>[ICON_BULLET][COLOR_CYAN]Si dispone di un trattato di pace[COLOR_REVERT]</Italian>
 		<Spanish>[ICON_BULLET][COLOR_CYAN]Ustedes tiene un tratado de paz[COLOR_REVERT]</Spanish>
@@ -251,14 +251,14 @@
 		<English>[ICON_BULLET][COLOR_YELLOW]%s1_player is Worst Enemy[COLOR_REVERT]</English>
 		<French>[ICON_BULLET][COLOR_YELLOW]%s1_player est pire ennemi[COLOR_REVERT]</French>
 		<German>[ICON_BULLET][COLOR_YELLOW]Erzfeind: %s1_player[COLOR_REVERT]</German>
-		<Italian>[ICON_BULLET][COLOR_YELLOW]%s1_player è peggiore ostile[COLOR_REVERT]</Italian>
+		<Italian>[ICON_BULLET][COLOR_YELLOW]%s1_player Ã¨ peggiore ostile[COLOR_REVERT]</Italian>
 		<Spanish>[ICON_BULLET][COLOR_YELLOW]%s1_player es peor enemigo[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_WORST_ENEMY_IS_YOU</Tag>
 		<Russian>[ICON_BULLET][COLOR_YELLOW]You are Worst Enemy[COLOR_REVERT]</Russian>
 		<English>[ICON_BULLET][COLOR_YELLOW]You are Worst Enemy[COLOR_REVERT]</English>
-		<French>[ICON_BULLET][COLOR_YELLOW]Vous êtes pire ennemi[COLOR_REVERT]</French>
+		<French>[ICON_BULLET][COLOR_YELLOW]Vous Ãªtes pire ennemi[COLOR_REVERT]</French>
 		<German>[ICON_BULLET][COLOR_YELLOW]Euer Erzfeind[COLOR_REVERT]</German>
 		<Italian>[ICON_BULLET][COLOR_YELLOW]Tu sei peggiore ostile[COLOR_REVERT]</Italian>
 		<Spanish>[ICON_BULLET][COLOR_YELLOW]Usted es peor enemigo[COLOR_REVERT]</Spanish>
@@ -268,8 +268,8 @@
 		<Tag>TXT_KEY_DEFENSIVE_PACT_WITH</Tag>
 		<Russian>[ICON_BULLET][COLOR_BLUE]Defensive Pact with %s1_player[COLOR_REVERT]</Russian>
 		<English>[ICON_BULLET][COLOR_BLUE]Defensive Pact with %s1_player[COLOR_REVERT]</English>
-		<French>[ICON_BULLET][COLOR_BLUE]Défensive pacte avec %s1_player[COLOR_REVERT]</French>
-		<German>[ICON_BULLET][COLOR_BLUE]Verteidigungsbündnis mit %s1_player[COLOR_REVERT]</German>
+		<French>[ICON_BULLET][COLOR_BLUE]DÃ©fensive pacte avec %s1_player[COLOR_REVERT]</French>
+		<German>[ICON_BULLET][COLOR_BLUE]VerteidigungsbÃ¼ndnis mit %s1_player[COLOR_REVERT]</German>
 		<Italian>[ICON_BULLET][COLOR_BLUE]Difensive patto con %s1_player[COLOR_REVERT]</Italian>
 		<Spanish>[ICON_BULLET][COLOR_BLUE]Pacto defensivo con %s1_player[COLOR_REVERT]</Spanish>
 	</TEXT>
@@ -277,8 +277,8 @@
 		<Tag>TXT_KEY_DEFENSIVE_PACT_WITH_YOU</Tag>
 		<Russian>[ICON_BULLET][COLOR_BLUE]You have a Defensive Pact[COLOR_REVERT]</Russian>
 		<English>[ICON_BULLET][COLOR_BLUE]You have a Defensive Pact[COLOR_REVERT]</English>
-		<French>[ICON_BULLET][COLOR_BLUE]Vous disposez d'un pacte défensif[COLOR_REVERT]</French>
-		<German>[ICON_BULLET][COLOR_BLUE]Verteidigungsbündnis mit Euch[COLOR_REVERT]</German>
+		<French>[ICON_BULLET][COLOR_BLUE]Vous disposez d'un pacte dÃ©fensif[COLOR_REVERT]</French>
+		<German>[ICON_BULLET][COLOR_BLUE]VerteidigungsbÃ¼ndnis mit Euch[COLOR_REVERT]</German>
 		<Italian>[ICON_BULLET][COLOR_BLUE]Si dispone di un patto di difesa[COLOR_REVERT]</Italian>
 		<Spanish>[ICON_BULLET][COLOR_BLUE]Ustedes tiene un pacto defensivo[COLOR_REVERT]</Spanish>
 	</TEXT>
@@ -289,7 +289,7 @@
 		<Tag>TXT_KEY_MISC_SPEEDS_UP</Tag>
 		<Russian>[NEWLINE][ICON_BULLET]Speeds up[SPACE]</Russian>
 		<English>[NEWLINE][ICON_BULLET]Speeds up[SPACE]</English>
-		<French>[NEWLINE][ICON_BULLET]Accélère[SPACE]</French>
+		<French>[NEWLINE][ICON_BULLET]AccÃ©lÃ¨re[SPACE]</French>
 		<German>[NEWLINE][ICON_BULLET]Beschleunigt[SPACE]</German>
 		<Italian>[NEWLINE][ICON_BULLET]Accelera[SPACE]</Italian>
 		<Spanish>[NEWLINE][ICON_BULLET]Acelera[SPACE]</Spanish>
@@ -298,7 +298,7 @@
 		<Tag>TXT_KEY_MISC_SPED_UP_BY</Tag>
 		<Russian>[NEWLINE][ICON_BULLET]Sped up by[SPACE]</Russian>
 		<English>[NEWLINE][ICON_BULLET]Sped up by[SPACE]</English>
-		<French>[NEWLINE][ICON_BULLET]Accélérée par[SPACE]</French>
+		<French>[NEWLINE][ICON_BULLET]AccÃ©lÃ©rÃ©e par[SPACE]</French>
 		<German>[NEWLINE][ICON_BULLET]Beschleunigt durch[SPACE]</German>
 		<Italian>[NEWLINE][ICON_BULLET]Accelerato da[SPACE]</Italian>
 		<Spanish>[NEWLINE][ICON_BULLET]Acelerado por[SPACE]</Spanish>
@@ -323,7 +323,7 @@
 		<Russian>Set %s1_CmrcType Rate to %d2_Value%%</Russian>
 		<English>Set %s1_CmrcType Rate to %d2_Value%%</English>
 		<French>Augmente la production (Taux : %s1_CmrcType) de %d2_Value%%</French>
-		<German>Anteil für %s1_CmrcType auf %d2_Value%% ändern</German>
+		<German>Anteil fÃ¼r %s1_CmrcType auf %d2_Value%% Ã¤ndern</German>
 		<Italian>Aumenta il %s1_CmrcType del %d2_Value%%</Italian>
 		<Spanish>Aumentar ritmo de %s1_CmrcType a %d2_Value%%</Spanish>
 	</TEXT>
@@ -384,8 +384,8 @@
 		<Tag>TXT_KEY_MISC_HELP_WORKED_TILES_YIELD</Tag>
 		<Russian>[ICON_BULLET]%D1%F2 from Worked Tiles</Russian>
 		<English>[ICON_BULLET]%D1%F2 from Worked Tiles</English>
-		<French>[ICON_BULLET]%D1%F2 en raison des Cases Travaillées</French>
-		<German>[ICON_BULLET]%D1%F2 durch bearbeitete Geländefelder</German>
+		<French>[ICON_BULLET]%D1%F2 en raison des Cases TravaillÃ©es</French>
+		<German>[ICON_BULLET]%D1%F2 durch bearbeitete GelÃ¤ndefelder</German>
 		<Italian>[ICON_BULLET]%D1%F2 dalle caselle lavorate</Italian>
 		<Spanish>[ICON_BULLET]%D1 %F2 por Azulejos Trabajados</Spanish>
 	</TEXT>
@@ -406,16 +406,16 @@
 		<Russian>[ICON_BULLET]%D1[ICON_EATENFOOD] for Population</Russian>
 		<English>[ICON_BULLET]%D1[ICON_EATENFOOD] for Population</English>
 		<French>[ICON_BULLET]%D1[ICON_EATENFOOD] pour la population</French>
-		<German>[ICON_BULLET]%D1[ICON_EATENFOOD] für Bevölkerung</German>
+		<German>[ICON_BULLET]%D1[ICON_EATENFOOD] fÃ¼r BevÃ¶lkerung</German>
 		<Italian>[ICON_BULLET]%D1[ICON_EATENFOOD] per la popolazione</Italian>
-		<Spanish>[ICON_BULLET]%D1[ICON_EATENFOOD] Por poblaci&#243;n</Spanish>
+		<Spanish>[ICON_BULLET]%D1[ICON_EATENFOOD] Por poblaciÑƒn</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_HELP_SPOILED_FOOD</Tag>
 		<Russian>[ICON_BULLET]%D1[ICON_EATENFOOD] for Health</Russian>
 		<English>[ICON_BULLET]%D1[ICON_EATENFOOD] for Health</English>
-		<French>[ICON_BULLET]%D1[ICON_EATENFOOD] pour la Sant&#233;</French>
-		<German>[ICON_BULLET]%D1[ICON_EATENFOOD] für Gesundheit</German>
+		<French>[ICON_BULLET]%D1[ICON_EATENFOOD] pour la SantÐ¹</French>
+		<German>[ICON_BULLET]%D1[ICON_EATENFOOD] fÃ¼r Gesundheit</German>
 		<Italian>[ICON_BULLET]%D1[ICON_EATENFOOD] per la salute</Italian>
 		<Spanish>[ICON_BULLET]%D1[ICON_EATENFOOD] Por salud</Spanish>
 	</TEXT>
@@ -442,7 +442,7 @@
 		<Tag>TXT_KEY_MISC_HELP_TOTAL_FOOD_CONSUMED</Tag>
 		<Russian>-----------------------[NEWLINE]Total Food Consumed: %d1[ICON_EATENFOOD]</Russian>
 		<English>-----------------------[NEWLINE]Total Food Consumed: %d1[ICON_EATENFOOD]</English>
-		<French>-----------------------[NEWLINE]Nourriture totale consommé : %d1[ICON_EATENFOOD]</French>
+		<French>-----------------------[NEWLINE]Nourriture totale consommÃ© : %d1[ICON_EATENFOOD]</French>
 		<German>-----------------------[NEWLINE]Insgesamt verbrauchte Nahrung: %d1[ICON_EATENFOOD]</German>
 		<Italian>-----------------------[NEWLINE]Cibo totale consumato: %d1[ICON_EATENFOOD]</Italian>
 		<Spanish>-----------------------[NEWLINE]Alimento total consumido: %d1[ICON_EATENFOOD]</Spanish>
@@ -480,7 +480,7 @@
 		<Russian>Net Food: %D1[ICON_FOOD] for %s2_production_type</Russian>
 		<English>Net Food: %D1[ICON_FOOD] for %s2_production_type</English>
 		<French>Nourriture nette : %D1[ICON_FOOD] pour %s2_production_type</French>
-		<German>Nettoertrag Nahrung: %D1[ICON_FOOD] für %s2_production_type</German>
+		<German>Nettoertrag Nahrung: %D1[ICON_FOOD] fÃ¼r %s2_production_type</German>
 		<Italian>Cibo netto: %D1[ICON_FOOD] per %s2_production_type</Italian>
 		<Spanish>Alimento neto: %D1[ICON_FOOD] por %s2_production_type</Spanish>
 	</TEXT>
@@ -521,8 +521,8 @@
 		<Tag>TXT_KEY_MISC_HELP_BUILDING_DEFENSE</Tag>
 		<Russian>[ICON_BULLET]%D1%%[ICON_DEFENSE] from Buildings</Russian>
 		<English>[ICON_BULLET]%D1%%[ICON_DEFENSE] from Buildings</English>
-		<French>[ICON_BULLET]%D1%%[ICON_DEFENSE] en raison des b&#226;timents</French>
-		<German>[ICON_BULLET]%D1%%[ICON_DEFENSE] durch Gebäude</German>
+		<French>[ICON_BULLET]%D1%%[ICON_DEFENSE] en raison des bÐ²timents</French>
+		<German>[ICON_BULLET]%D1%%[ICON_DEFENSE] durch GebÃ¤ude</German>
 		<Italian>[ICON_BULLET]%D1%%[ICON_DEFENSE] dagli edifici</Italian>
 		<Spanish>[ICON_BULLET]%D1%%[ICON_DEFENSE] por edificios</Spanish>
 	</TEXT>
@@ -557,7 +557,7 @@
 		<Tag>TXT_KEY_MISC_HELP_TOTAL_DEFENSE</Tag>
 		<Russian>Total Defense: %D1%%[ICON_DEFENSE]</Russian>
 		<English>Total Defense: %D1%%[ICON_DEFENSE]</English>
-		<French>D&#233;fense totale : %D1%%[ICON_DEFENSE]</French>
+		<French>DÐ¹fense totale : %D1%%[ICON_DEFENSE]</French>
 		<German>Brutto-Verteidigungswert: %D1%%[ICON_DEFENSE]</German>
 		<Italian>Difesa totale: %D1%%[ICON_DEFENSE]</Italian>
 		<Spanish>Defensa total: %D1%%[ICON_DEFENSE]</Spanish>
@@ -575,7 +575,7 @@
 		<Tag>TXT_KEY_MISC_HELP_NET_DEFENSE</Tag>
 		<Russian>Net Defense: %D1%%[ICON_DEFENSE]</Russian>
 		<English>Net Defense: %D1%%[ICON_DEFENSE]</English>
-		<French>D&#233;fense nette : %D1%%[ICON_DEFENSE]</French>
+		<French>DÐ¹fense nette : %D1%%[ICON_DEFENSE]</French>
 		<German>Netto-Verteidigungswert: %D1%%[ICON_DEFENSE]</German>
 		<Italian>Difesa netto: %D1%%[ICON_DEFENSE]</Italian>
 		<Spanish>Defensa neto: %D1%%[ICON_DEFENSE]</Spanish>
@@ -585,7 +585,7 @@
 		<Tag>TXT_KEY_MISC_HELP_TOTAL_BOMBARD_DEFENSE</Tag>
 		<Russian>Total Bombard Defense: %d1%%[ICON_DEFENSE]</Russian>
 		<English>Total Bombard Defense: %d1%%[ICON_DEFENSE]</English>
-		<French>D&#233;fense bombardement totale : %d1%%[ICON_DEFENSE]</French>
+		<French>DÐ¹fense bombardement totale : %d1%%[ICON_DEFENSE]</French>
 		<German>Brutto-Verteidigungswert (Bombardierung): %d1%%[ICON_DEFENSE]</German>
 		<Italian>Difesa bombardmento totale: %d1%%[ICON_DEFENSE]</Italian>
 		<Spanish>Defensa bombardear total: %d1%%[ICON_DEFENSE]</Spanish>
@@ -597,8 +597,8 @@
 		<Tag>TXT_KEY_MISC_HURRY_OVERFLOW</Tag>
 		<Russian>[ICON_BULLET]%s1 Overflow</Russian>
 		<English>[ICON_BULLET]%s1 Overflow</English>
-		<French>[ICON_BULLET]%s1 Exc&#233;dent</French>
-		<German>[ICON_BULLET]%s1 Überschuss</German>
+		<French>[ICON_BULLET]%s1 ExcÐ¹dent</French>
+		<German>[ICON_BULLET]%s1 Ãœberschuss</German>
 		<Italian>[ICON_BULLET]%s1 Eccedenza</Italian>
 		<Spanish>[ICON_BULLET]%s1 Exceso</Spanish>
 	</TEXT>
@@ -621,7 +621,7 @@
 		<French>Commerce Domestique</French>
 		<German>Binnenhandel</German>
 		<Italian>Commercio Domestico</Italian>
-		<Spanish>Comercio Doméstico</Spanish>
+		<Spanish>Comercio DomÃ©stico</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_FOREIGN_TRADE_HEADING</Tag>
@@ -639,7 +639,7 @@
 		<French>Pas de Commerce avec %%s1_PlyrName of %s2_CivName</French>
 		<German>Kein Handel mit %%s1_PlyrName (%s2_CivName)</German>
 		<Italian>Nessun commercio con %%s1_PlyrName (%s2_CivName)</Italian>
-		<Spanish>Ningún Comercio con %%s1_PlyrName of %s2_CivName</Spanish>
+		<Spanish>NingÃºn Comercio con %%s1_PlyrName of %s2_CivName</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_TOTAL_TRADE_YIELD</Tag>
@@ -674,7 +674,7 @@
 		<Russian>[NEWLINE][ICON_BULLET]They are dead</Russian>
 		<English>[NEWLINE][ICON_BULLET]They are dead</English>
 		<French>[NEWLINE][ICON_BULLET]They are dead</French>
-		<German>[NEWLINE][ICON_BULLET]Zivilisation ist ausgelöscht</German>
+		<German>[NEWLINE][ICON_BULLET]Zivilisation ist ausgelÃ¶scht</German>
 		<Italian>[NEWLINE][ICON_BULLET]Scomparsi</Italian>
 		<Spanish>[NEWLINE][ICON_BULLET]They are dead</Spanish>
 	</TEXT>
@@ -692,7 +692,7 @@
 		<Russian>[NEWLINE][ICON_BULLET]You have not signed an Open Borders agreement</Russian>
 		<English>[NEWLINE][ICON_BULLET]You have not signed an Open Borders agreement</English>
 		<French>[NEWLINE][ICON_BULLET]You have not signed an Open Borders agreement</French>
-		<German>[NEWLINE][ICON_BULLET]Kein Abkommen über "Offene Grenzen"</German>
+		<German>[NEWLINE][ICON_BULLET]Kein Abkommen Ã¼ber "Offene Grenzen"</German>
 		<Italian>[NEWLINE][ICON_BULLET]Non avete siglato un Accordo di Libero Scambio</Italian>
 		<Spanish>[NEWLINE][ICON_BULLET]You have not signed an Open Borders agreement</Spanish>
 	</TEXT>
@@ -701,7 +701,7 @@
 		<Russian>[NEWLINE][ICON_BULLET]Your Civics don't allow Foreign Trade</Russian>
 		<English>[NEWLINE][ICON_BULLET]Your Civics don't allow Foreign Trade</English>
 		<French>[NEWLINE][ICON_BULLET]Your Civics don't allow Foreign Trade</French>
-		<German>[NEWLINE][ICON_BULLET]Eure Gesellschaftsform erlaubt keinen Außenhandel</German>
+		<German>[NEWLINE][ICON_BULLET]Eure Gesellschaftsform erlaubt keinen AuÃŸenhandel</German>
 		<Italian>[NEWLINE][ICON_BULLET]La tua Forma di Governo non consente il Commercio Estero</Italian>
 		<Spanish>[NEWLINE][ICON_BULLET]Your civics don't allow Foreign Trade</Spanish>
 	</TEXT>
@@ -710,7 +710,7 @@
 		<Russian>[NEWLINE][ICON_BULLET]Their Civics don't allow Foreign Trade</Russian>
 		<English>[NEWLINE][ICON_BULLET]Their Civics don't allow Foreign Trade</English>
 		<French>[NEWLINE][ICON_BULLET]Their Civics don't allow Foreign Trade</French>
-		<German>[NEWLINE][ICON_BULLET]Deren Gesellschaftsform erlaubt keinen Außenhandel</German>
+		<German>[NEWLINE][ICON_BULLET]Deren Gesellschaftsform erlaubt keinen AuÃŸenhandel</German>
 		<Italian>[NEWLINE][ICON_BULLET]La loro Forma di Governo non consente il Commercio Estero</Italian>
 		<Spanish>[NEWLINE][ICON_BULLET]Their Civics don't allow Foreign Trade</Spanish>
 	</TEXT>
@@ -816,7 +816,7 @@
 		<Russian>You can draft %d1 [NUM1:unit:units] this turn</Russian>
 		<English>You can draft %d1 [NUM1:unit:units] this turn</English>
 		<French>You can draft %d1 [NUM1:unit:units] this turn</French>
-		<German>Ihr könnt in dieser Runde noch %d1 [NUM1:Einheit:Einheiten] rekrutieren</German>
+		<German>Ihr kÃ¶nnt in dieser Runde noch %d1 [NUM1:Einheit:Einheiten] rekrutieren</German>
 		<Italian>You can draft %d1 [NUM1:unit:units] this turn</Italian>
 		<Spanish>You can draft %d1 [NUM1:unit:units] this turn</Spanish>
 	</TEXT>
@@ -825,7 +825,7 @@
 		<Russian>[COLOR_NEGATIVE_TEXT]You cannot draft any more units this turn[COLOR_REVERT]</Russian>
 		<English>[COLOR_NEGATIVE_TEXT]You cannot draft any more units this turn[COLOR_REVERT]</English>
 		<French>[COLOR_NEGATIVE_TEXT]You cannot draft any more units this turn[COLOR_REVERT]</French>
-		<German>[COLOR_NEGATIVE_TEXT]Ihr könnt in dieser Runde keine weitere Einheit rekrutieren[COLOR_REVERT]</German>
+		<German>[COLOR_NEGATIVE_TEXT]Ihr kÃ¶nnt in dieser Runde keine weitere Einheit rekrutieren[COLOR_REVERT]</German>
 		<Italian>[COLOR_NEGATIVE_TEXT]You cannot draft any more units this turn[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_NEGATIVE_TEXT]You cannot draft any more units this turn[COLOR_REVERT]</Spanish>
 	</TEXT>
@@ -836,10 +836,10 @@
 		<Tag>TXT_KEY_BUG_PRECLEARING_FEATURE_BONUS</Tag>
 		<Russian>Clearing a %s1_FeatName will create %d2_Num [ICON_PRODUCTION] for %s3_CityName.</Russian>
 		<English>Clearing a %s1_FeatName will create %d2_Num [ICON_PRODUCTION] for %s3_CityName.</English>
-		<French>Le d&#233;frichage de %s1_FeatName fera rapport %d2_Num [ICON_PRODUCTION] &#224; %s3_CityName.</French>
-		<German>Bei Entfernung der Geländeart %s1_FeatName wird die Stadt %s3_CityName %d2_Num [ICON_PRODUCTION] erhalten.</German>
-		<Italian>Sgombrando una casella di %s1_FeatName si &#232; creerà %d2_Num [ICON_PRODUCTION] per %s3_CityName.</Italian>
-		<Spanish>Despejar [NUM1:el:la:los:las] %s1_FeatName generará %d2_Num [ICON_PRODUCTION] para %s3_CityName.</Spanish>
+		<French>Le dÐ¹frichage de %s1_FeatName fera rapport %d2_Num [ICON_PRODUCTION] Ð° %s3_CityName.</French>
+		<German>Bei Entfernung der GelÃ¤ndeart %s1_FeatName wird die Stadt %s3_CityName %d2_Num [ICON_PRODUCTION] erhalten.</German>
+		<Italian>Sgombrando una casella di %s1_FeatName si Ð¸ creerÃ  %d2_Num [ICON_PRODUCTION] per %s3_CityName.</Italian>
+		<Spanish>Despejar [NUM1:el:la:los:las] %s1_FeatName generarÃ¡ %d2_Num [ICON_PRODUCTION] para %s3_CityName.</Spanish>
 	</TEXT>
 
 <!-- Delete/Fortify/Sleep All Units Actions -->
@@ -849,8 +849,8 @@
 		<Russian>[SPACE](&lt;ALT&gt; for All Units of the active unit's type)</Russian>
 		<English>[SPACE](&lt;ALT&gt; for All Units of the active unit's type)</English>
 		<French>[SPACE](&lt;ALT&gt; for All Units of the active unit's type)</French>
-		<German>[SPACE](&lt;ALT&gt; für alle Einheiten des aktiven Einheitentyps)</German>
-		<Italian>[SPACE](&lt;ALT&gt; per tutte le Unità del tipo dell'Unità attiva)</Italian>
+		<German>[SPACE](&lt;ALT&gt; fÃ¼r alle Einheiten des aktiven Einheitentyps)</German>
+		<Italian>[SPACE](&lt;ALT&gt; per tutte le UnitÃ  del tipo dell'UnitÃ  attiva)</Italian>
 		<Spanish>[SPACE](&lt;ALT&gt; para todas las unidades del mismo tipo que la unidad activa)</Spanish>
 	</TEXT>
 
@@ -874,7 +874,7 @@
 		<Russian>[COLOR_NEGATIVE_TEXT]You have already chosen your free tech(s)[COLOR_REVERT]</Russian>
 		<English>[COLOR_NEGATIVE_TEXT]You have already chosen your free tech(s)[COLOR_REVERT]</English>
 		<French>[COLOR_NEGATIVE_TEXT]You have already chosen your free tech(s)[COLOR_REVERT]</French>
-		<German>[COLOR_NEGATIVE_TEXT]Freie Technologie(n) schon gewählt[COLOR_REVERT]</German>
+		<German>[COLOR_NEGATIVE_TEXT]Freie Technologie(n) schon gewÃ¤hlt[COLOR_REVERT]</German>
 		<Italian>[COLOR_NEGATIVE_TEXT]You have already chosen your free tech(s)[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_NEGATIVE_TEXT]You have already chosen your free tech(s)[COLOR_REVERT]</Spanish>
 	</TEXT>
@@ -886,7 +886,7 @@
 		<Russian>Fractional Trade Routes</Russian>
 		<English>Fractional Trade Routes</English>
 		<French>Fractional Trade Routes</French>
-		<German>Gestückelte Handelsverbindungen</German>
+		<German>GestÃ¼ckelte Handelsverbindungen</German>
 		<Italian>Fractional Trade Routes</Italian>
 		<Spanish>Fractional Trade Routes</Spanish>
 	</TEXT>
@@ -922,7 +922,7 @@
 		<Russian>Global Warming</Russian>
 		<English>Global Warming</English>
 		<French>Global Warming</French>
-		<German>Globale Erwärmung</German>
+		<German>Globale ErwÃ¤rmung</German>
 		<Italian>Global Warming</Italian>
 		<Spanish>Global Warming</Spanish>
 	</TEXT>

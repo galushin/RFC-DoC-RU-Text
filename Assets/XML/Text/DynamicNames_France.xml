@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,202 +6,202 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_DESC</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#251;</Russian>
+		<Russian>Французы</Russian>
 		<English>The French</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_DESC_PEOPLES</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#234;&#232;</Russian>
+		<Russian>Франки</Russian>
 		<English>Frankish Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_DESC_DEFAULT</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<Russian>Королевство Франция</Russian>
 		<English>Kingdom of France</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_DESC_DEMOCRATIC</Tag>
-		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<Russian>Республика Франция</Russian>
 		<English>French Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_DESC_COMMUNIST</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#224;&#255; &#202;&#238;&#236;&#236;&#243;&#237;&#224;</Russian>
+		<Russian>Французская Коммуна</Russian>
 		<English>French Commune</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_DESC_FASCIST</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#238;&#229; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Французское государство</Russian>
 		<English>French State</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_EMPIRE</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Французская Империя</Russian>
 		<English>French Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_FRANKISH_EMPIRE</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#212;&#240;&#224;&#237;&#234;&#238;&#226;</Russian>
+		<Russian>Империя Франков</Russian>
 		<English>Frankish Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_EXILE</Tag>
-		<Russian>&#209;&#226;&#238;&#225;&#238;&#228;&#237;&#224;&#255; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<Russian>Свободная Франция</Russian>
 		<English>Free France</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_LOUISIANA</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#203;&#243;&#232;&#231;&#232;&#224;&#237;&#224;</Russian>
+		<Russian>Королевство Луизиана</Russian>
 		<English>Kingdom of Louisiana</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_QUEBEC</Tag>
-		<English>Kingdom of Qu�bec</English>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#202;&#226;&#229;&#225;&#229;&#234;</Russian>
+		<English>Kingdom of Quï¿½bec</English>
+		<Russian>Королевство Квебек</Russian>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_NAZI_VASSAL</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#232;&#255; &#194;&#232;&#248;&#232;</Russian>
+		<Russian>Франция Виши</Russian>
 		<English>Vichy France</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_SOVIET_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<Russian>Советская Франция</Russian>
 		<English>Soviet France</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRENCH_VASSAL_GENERIC</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#224;&#255; %s1</Russian>
+		<Russian>Французская %s1</Russian>
 		<English>French %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_FRENCH_VASSAL</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#232;&#233; &#236;&#224;&#237;&#228;&#224;&#242; &#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<Russian>Французский мандат Египет</Russian>
 		<English>French Mandate of Egypt</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BABYLONIA_FRENCH_VASSAL</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#232;&#233; &#236;&#224;&#237;&#228;&#224;&#242; &#204;&#229;&#230;&#228;&#243;&#240;&#229;&#247;&#252;&#229;</Russian>
+		<Russian>Французский мандат Междуречье</Russian>
 		<English>French Mandate of Mesopotamia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_FRENCH_VASSAL</Tag>
-		<Russian>&#196;&#229;&#239;&#224;&#240;&#242;&#224;&#236;&#229;&#237;&#242;&#251; &#195;&#240;&#229;&#246;&#232;&#232;</Russian>
+		<Russian>Департаменты Греции</Russian>
 		<English>Departments of Greece</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_FRENCH_VASSAL</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#232;&#233; &#236;&#224;&#237;&#228;&#224;&#242; &#207;&#229;&#240;&#241;&#232;&#255;</Russian>
+		<Russian>Французский мандат Персия</Russian>
 		<English>French Mandate of Persia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PHOENICIA_FRENCH_VASSAL</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#232;&#233; &#236;&#224;&#237;&#228;&#224;&#242; &#203;&#232;&#226;&#224;&#237;</Russian>
+		<Russian>Французский мандат Ливан</Russian>
 		<English>French Mandate of Lebanon</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_FRENCH_VASSAL</Tag>
-		<Russian>&#214;&#232;&#231;&#224;&#235;&#252;&#239;&#232;&#237;&#241;&#234;&#224;&#255; &#240;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Цизальпинская республика</Russian>
 		<English>Cisalpine Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ETHIOPIA_FRENCH_VASSAL</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#224;&#255; &#194;&#238;&#241;&#242;&#238;&#247;&#237;&#224;&#255; &#192;&#244;&#240;&#232;&#234;&#224;</Russian>
+		<Russian>Французская Восточная &#192;фрика</Russian>
 		<English>French East Africa</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MAYA_FRENCH_VASSAL</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#232;&#233; &#222;&#234;&#224;&#242;&#224;&#237;</Russian>
-		<English>French Yucat&#225;n</English>
+		<Russian>Французский Юкатан</Russian>
+		<English>French Yucatбn</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_FRENCH_VASSAL</Tag>
-		<Russian>&#203;&#224;&#242;&#232;&#237;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Латинская Империя</Russian>
 		<English>Latin Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_FRENCH_VASSAL</Tag>
-		<Russian>&#196;&#229;&#239;&#224;&#240;&#242;&#224;&#236;&#229;&#237;&#242; &#209;&#234;&#224;&#237;&#228;&#232;&#237;&#224;&#226;&#232;&#255;</Russian>
+		<Russian>Департамент Скандинавия</Russian>
 		<English>Department of Scandinavia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_FRENCH_VASSAL</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#232;&#233; &#236;&#224;&#237;&#228;&#224;&#242; &#192;&#240;&#224;&#226;&#232;&#255;</Russian>
+		<Russian>Французский мандат &#192;равия</Russian>
 		<English>French Mandate of Arabia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLAND_FRENCH_VASSAL</Tag>
-		<Russian>&#195;&#229;&#240;&#246;&#238;&#227;&#241;&#242;&#226;&#238; &#205;&#238;&#240;&#236;&#224;&#237;&#228;&#232;&#255;</Russian>
+		<Russian>Герцогство Нормандия</Russian>
 		<English>Duchy of Normandy</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KHMER_FRENCH_VASSAL</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#232;&#233; &#200;&#237;&#228;&#238;&#234;&#232;&#242;&#224;&#233;</Russian>
+		<Russian>Французский Индокитай</Russian>
 		<English>French Indochina</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_FRENCH_VASSAL</Tag>
-		<Russian>&#200;&#241;&#239;&#224;&#237;&#241;&#234;&#224;&#255; &#204;&#224;&#240;&#234;&#224;</Russian>
+		<Russian>Испанская Марка</Russian>
 		<English>Spanish March</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GERMANY_FRENCH_VASSAL</Tag>
-		<Russian>&#208;&#229;&#233;&#237;&#241;&#234;&#232;&#233; &#241;&#238;&#254;&#231;</Russian>
+		<Russian>Рейнский союз</Russian>
 		<English>Confederation of the Rhine</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_FRENCH_VASSAL</Tag>
-		<Russian>&#196;&#229;&#239;&#224;&#240;&#242;&#224;&#236;&#229;&#237;&#242;&#251; &#208;&#238;&#241;&#241;&#232;&#232;</Russian>
+		<Russian>Департаменты России</Russian>
 		<English>Departments of Russia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NETHERLANDS_FRENCH_VASSAL</Tag>
-		<Russian>&#193;&#224;&#242;&#224;&#226;&#241;&#234;&#224;&#255; &#240;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Батавская республика</Russian>
 		<English>Batavian Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_FRENCH_VASSAL</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#224;&#255; &#199;&#224;&#239;&#224;&#228;&#237;&#224;&#255; &#192;&#244;&#240;&#232;&#234;&#224;</Russian>
+		<Russian>Французская Западная &#192;фрика</Russian>
 		<English>French West Africa</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_FRENCH_VASSAL</Tag>
-		<Russian>&#195;&#229;&#240;&#246;&#238;&#227;&#241;&#242;&#226;&#238; &#194;&#224;&#240;&#248;&#224;&#226;&#241;&#234;&#238;&#229;</Russian>
+		<Russian>Герцогство Варшавское</Russian>
 		<English>Duchy of Warsaw</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_FRENCH_VASSAL</Tag>
-		<Russian>&#196;&#229;&#239;&#224;&#240;&#242;&#224;&#236;&#229;&#237;&#242; &#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#232;&#255;</Russian>
+		<Russian>Департамент Португалия</Russian>
 		<English>Department of Portugal</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INCA_FRENCH_VASSAL</Tag>
-		<Russian>&#192;&#237;&#228;&#241;&#234;&#224;&#255; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<Russian>&#192;ндская Франция</Russian>
 		<English>Andean France</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTECS_FRENCH_VASSAL</Tag>
-		<Russian>&#204;&#229;&#231;&#238;&#224;&#236;&#229;&#240;&#232;&#234;&#224;&#237;&#241;&#234;&#224;&#255; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<Russian>Мезоамериканская Франция</Russian>
 		<English>Mesoamerican France</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MUGHALS_FRENCH_VASSAL</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#232;&#233; &#236;&#224;&#237;&#228;&#224;&#242; &#199;&#224;&#239;&#224;&#228;&#237;&#224;&#255; &#200;&#237;&#228;&#232;&#255;</Russian>
+		<Russian>Французский мандат Западная Индия</Russian>
 		<English>French Mandate of West India</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKEY_FRENCH_VASSAL</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#232;&#233; &#236;&#224;&#237;&#228;&#224;&#242; &#210;&#243;&#240;&#246;&#232;&#255;</Russian>
+		<Russian>Французский мандат Турция</Russian>
 		<English>French Mandate of Turkey</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_THAILAND_FRENCH_VASSAL</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#232;&#233; &#209;&#232;&#224;&#236;</Russian>
+		<Russian>Французский Сиам</Russian>
 		<English>French Siam</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AMERICA_FRENCH_VASSAL</Tag>
-		<Russian>&#205;&#238;&#226;&#224;&#255; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<Russian>Новая Франция</Russian>
 		<English>New France</English>
 	</TEXT>
 </Civ4GameText>

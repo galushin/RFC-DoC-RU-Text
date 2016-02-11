@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!--
 	BUG Core
 	Options Game Text
@@ -23,7 +23,7 @@
 		<Russian>Selects which logging messages get printed to the screen. Each level includes messages of all levels below it.</Russian>
 		<English>Selects which logging messages get printed to the screen. Each level includes messages of all levels below it.</English>
 		<French>Selects which logging messages get printed to the screen. Each level includes messages of all levels below it.</French>
-		<German>Bestimmt, welche Protokoll-Meldungen im Hauptbildschirm angezeigt werden (jede Stufe schließt die Meldungen der Stufe darunter mit ein)</German>
+		<German>Bestimmt, welche Protokoll-Meldungen im Hauptbildschirm angezeigt werden (jede Stufe schlieÃŸt die Meldungen der Stufe darunter mit ein)</German>
 		<Italian>Seleziona quali messaggi di log vengono mostrati sullo schermo. Ogni livello comprende ovviamente tutti i messaggi dei livelli inferiori.</Italian>
 		<Spanish>Selects which logging messages get printed to the screen. Each level includes messages of all levels below it.</Spanish>
 	</TEXT>
@@ -50,7 +50,7 @@
 		<Russian>Selects which logging messages get printed to the PythonDbg.log file. Each level includes messages of all levels below it.</Russian>
 		<English>Selects which logging messages get printed to the PythonDbg.log file. Each level includes messages of all levels below it.</English>
 		<French>Selects which logging messages get printed to the PythonDbg.log file. Each level includes messages of all levels below it.</French>
-		<German>Bestimmt, welche Protokoll-Meldungen in der Datei "PythonDbg.log" gespeichert werden (jede Stufe schließt die Meldungen der Stufe darunter mit ein)</German>
+		<German>Bestimmt, welche Protokoll-Meldungen in der Datei "PythonDbg.log" gespeichert werden (jede Stufe schlieÃŸt die Meldungen der Stufe darunter mit ein)</German>
 		<Italian>Seleziona quali messaggi di log vengono scritti nel file PythonDbg.log. Ogni livello comprende ovviamente tutti i messaggi dei livelli inferiori.</Italian>
 		<Spanish>Selects which logging messages get printed to the PythonDbg.log file. Each level includes messages of all levels below it.</Spanish>
 	</TEXT>
@@ -77,8 +77,8 @@
 		<Russian>When checked, each log file message includes the current time in HH:MM:SS format.</Russian>
 		<English>When checked, each log file message includes the current time in HH:MM:SS format.</English>
 		<French>When checked, each log file message includes the current time in HH:MM:SS format.</French>
-		<German>Fügt jeder ausgegebenen Protokoll-Meldung die aktuelle Uhrzeit im Format "HH:MM:SS" hinzu</German>
-		<Italian>Quando è selezionato, ogni messaggio di log include l'ora corrente (nel formato HH:MM:SS).</Italian>
+		<German>FÃ¼gt jeder ausgegebenen Protokoll-Meldung die aktuelle Uhrzeit im Format "HH:MM:SS" hinzu</German>
+		<Italian>Quando Ã¨ selezionato, ogni messaggio di log include l'ora corrente (nel formato HH:MM:SS).</Italian>
 		<Spanish>When checked, each log file message includes the current time in HH:MM:SS format.</Spanish>
 	</TEXT>
 	
@@ -98,8 +98,8 @@
 		<Russian>When checked, BUG will look for SVN updates and/or releases each time you launch Civilization and notify you when new ones are found.</Russian>
 		<English>When checked, BUG will look for SVN updates and/or releases each time you launch Civilization and notify you when new ones are found.</English>
 		<French>When checked, BUG will look for SVN updates and/or releases each time you launch Civilization and notify you when new ones are found.</French>
-		<German>Lässt die BUG Mod bei jedem Spielstart nach SVN-Updates und/oder neuen offiziellen Versionen suchen und eine Meldung ausgeben, wenn aktuellere Versionen gefunden wurden</German>
-		<Italian>Quando è selezionato, il BUG Mod controllerà la disponibilità di aggiornamenti SVN e/o nuove versioni ogni volta che lancerai Civ4 e ti notificherà ciò che avrà eventualmente trovato.</Italian>
+		<German>LÃ¤sst die BUG Mod bei jedem Spielstart nach SVN-Updates und/oder neuen offiziellen Versionen suchen und eine Meldung ausgeben, wenn aktuellere Versionen gefunden wurden</German>
+		<Italian>Quando Ã¨ selezionato, il BUG Mod controllerÃ  la disponibilitÃ  di aggiornamenti SVN e/o nuove versioni ogni volta che lancerai Civ4 e ti notificherÃ  ciÃ² che avrÃ  eventualmente trovato.</Italian>
 		<Spanish>When checked, BUG will look for SVN updates and/or releases each time you launch Civilization and notify you when new ones are found.</Spanish>
 	</TEXT>
 	<TEXT>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,82 +6,82 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_DESC</Tag>
-		<Russian>&#195;&#240;&#229;&#234;&#232;</Russian>
+		<Russian>Греки</Russian>
 		<English>The Greeks</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_DESC_PEOPLES</Tag>
-		<Russian>&#204;&#232;&#234;&#229;&#237;&#241;&#234;&#232;&#229; &#237;&#224;&#240;&#238;&#228;&#251;</Russian>
+		<Russian>Микенские народы</Russian>
 		<English>Mycenean Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_DESC_DEFAULT</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#195;&#240;&#229;&#246;&#232;&#255;</Russian>
+		<Russian>Королевство Греция</Russian>
 		<English>Kingdom of Greece</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_DESC_DEMOCRATIC</Tag>
-		<Russian>&#195;&#240;&#229;&#247;&#229;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Греческая Республика</Russian>
 		<English>Hellenic Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_DESC_COMMUNIST</Tag>
-		<Russian>&#196;&#229;&#236;&#238;&#234;&#240;&#224;&#242;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#224;&#240;&#236;&#232;&#255; &#195;&#240;&#229;&#246;&#232;&#232;</Russian>
+		<Russian>Демократическая армия Греции</Russian>
 		<English>Democratic Army of Greece</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_DESC_FASCIST</Tag>
-		<Russian>&#195;&#240;&#229;&#247;&#229;&#241;&#234;&#224;&#255; &#245;&#243;&#237;&#242;&#224;</Russian>
+		<Russian>Греческая хунта</Russian>
 		<English>Greek Junta</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_EMPIRE</Tag>
-		<Russian>&#195;&#240;&#229;&#247;&#229;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Греческая Империя</Russian>
 		<English>Greek Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_LEAGUE</Tag>
-		<Russian>&#195;&#240;&#229;&#247;&#229;&#241;&#234;&#224;&#255; &#203;&#232;&#227;&#224;</Russian>
+		<Russian>Греческая Лига</Russian>
 		<English>Greek League</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_CITY_STATES</Tag>
-		<Russian>&#195;&#240;&#229;&#247;&#229;&#241;&#234;&#232;&#229; &#227;&#238;&#240;&#238;&#228;&#224;-&#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#224;</Russian>
+		<Russian>Греческие города-государства</Russian>
 		<English>Greek City-States</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_MACEDONIA_EMPIRE</Tag>
-		<Russian>&#204;&#224;&#234;&#229;&#228;&#238;&#237;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Македонская Империя</Russian>
 		<English>Macedonian Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_MACEDONIA_KINGDOM</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#204;&#224;&#234;&#229;&#228;&#238;&#237;&#232;&#255;</Russian>
+		<Russian>Королевство Македония</Russian>
 		<English>Kingdom of Macedonia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_SOVIET_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#195;&#240;&#229;&#246;&#232;&#255;</Russian>
+		<Russian>Советская Греция</Russian>
 		<English>Soviet Greece</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_NAZI_VASSAL</Tag>
-		<Russian>&#195;&#240;&#229;&#247;&#229;&#241;&#234;&#238;&#229; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Греческое государство</Russian>
 		<English>Hellenic State</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_GREEK_VASSAL</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#209;&#229;&#235;&#229;&#226;&#234;&#232;&#228;&#238;&#226;</Russian>
+		<Russian>Империя Селевкидов</Russian>
 		<English>Seleucid Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_GREEK_VASSAL</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#207;&#242;&#238;&#235;&#238;&#236;&#229;&#229;&#226;</Russian>
+		<Russian>Империя Птоломеев</Russian>
 		<English>Ptolemid Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDIA_GREEK_VASSAL</Tag>
-		<Russian>&#195;&#240;&#229;&#234;&#238;-&#225;&#224;&#234;&#242;&#240;&#232;&#233;&#241;&#234;&#238;&#229; &#246;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Греко-бактрийское царство</Russian>
 		<English>Greco-Bactrian Kingdom</English>
 	</TEXT>
 </Civ4GameText>

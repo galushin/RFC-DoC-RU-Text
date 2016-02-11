@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -35,12 +35,12 @@
 		<Tag>TXT_KEY_CIV_NETHERLANDS_DESC</Tag>
 		<English>Dutch Empire</English>
 		<French>
-			<Text>Empire n&#233;erlandais</Text>
+			<Text>Empire nйerlandais</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>Holl&#228;ndisches Reich:Holl&#228;ndische Reich:Holl&#228;ndischen Reich</Text>
+			<Text>Hollдndisches Reich:Hollдndische Reich:Hollдndischen Reich</Text>
 			<Gender>Neuter:Neuter:Neuter</Gender>
 			<Plural>0:0:0</Plural>
 		</German>
@@ -50,7 +50,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Imperio Holand&#233;s</Text>
+			<Text>Imperio Holandйs</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -83,12 +83,12 @@
 		<Tag>TXT_KEY_CIV_ETHIOPIA_DESC</Tag>
 		<English>Ethiopian Empire</English>
 		<French>
-			<Text>Empire &#233;thiopien</Text>
+			<Text>Empire йthiopien</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>&#196;thiopisches Reich:&#196;thiopische Reich:&#196;thiopischen Reich</Text>
+			<Text>Дthiopisches Reich:Дthiopische Reich:Дthiopischen Reich</Text>
 			<Gender>Neuter:Neuter:Neuter</Gender>
 			<Plural>0:0:0</Plural>
 		</German>
@@ -98,7 +98,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Imperio Et&#237;ope</Text>
+			<Text>Imperio Etнope</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -106,15 +106,15 @@
 -->
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ETHIOPIA_SHORT_DESC</Tag>
-		<Russian>&#221;&#244;&#232;&#238;&#239;&#232;&#255;</Russian>
+		<Russian>Эфиопия</Russian>
 		<English>Ethiopia</English>
 		<French>
-			<Text>&#201;thiopie</Text>
+			<Text>Йthiopie</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</French>
 		<German>
-			<Text>&#196;thiopien</Text>
+			<Text>Дthiopien</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
@@ -124,7 +124,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Etiop&#237;a</Text>
+			<Text>Etiopнa</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -149,7 +149,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Imperio J&#233;mer</Text>
+			<Text>Imperio Jйmer</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -174,7 +174,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Imperio Portugu&#233;s</Text>
+			<Text>Imperio Portuguйs</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -182,7 +182,7 @@
 -->
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_SHORT_DESC</Tag>
-		<Russian>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#232;&#255;</Russian>
+		<Russian>Португалия</Russian>
 		<English>Portugal</English>
 		<French>
 			<Text>Portugal</Text>
@@ -207,7 +207,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_SHORT_DESC</Tag>
-		<Russian>&#194;&#232;&#231;&#224;&#237;&#242;&#232;&#255;</Russian>
+		<Russian>Византия</Russian>
 		<English>Byzantium</English>
 		<French>
 			<Text>Byzance</Text>
@@ -286,7 +286,7 @@
 		<Russian>Aztec</Russian>
 		<English>Aztec</English>
 		<French>
-			<Text>Azt&#232;ques</Text>
+			<Text>Aztиques</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</French>
@@ -336,12 +336,12 @@
 		<Russian>Egypt</Russian>
 		<English>Egypt</English>
 		<French>
-			<Text>&#201;gypte</Text>
+			<Text>Йgypte</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</French>
 		<German>
-			<Text>&#196;gypten</Text>
+			<Text>Дgypten</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
@@ -376,7 +376,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Imperio Ingl&#233;s</Text>
+			<Text>Imperio Inglйs</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -459,10 +459,10 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_SHORT_DESC</Tag>
-		<Russian>&#195;&#240;&#229;&#246;&#232;&#255;</Russian>
+		<Russian>Греция</Russian>
 		<English>Greece</English>
 		<French>
-			<Text>Gr&#232;ce</Text>
+			<Text>Grиce</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</French>
@@ -510,7 +510,7 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDIA_SHORT_DESC</Tag>
-		<Russian>&#200;&#237;&#228;&#232;&#255;</Russian>
+		<Russian>Индия</Russian>
 		<English>India</English>
 		<French>
 			<Text>Inde</Text>
@@ -553,7 +553,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Jap&#243;n</Text>
+			<Text>Japуn</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -610,7 +610,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_SHORT_DESC</Tag>
-		<Russian>&#207;&#229;&#240;&#241;&#232;&#255;</Russian>
+		<Russian>Персия</Russian>
 		<English>Persia</English>
 		<French>
 			<Text>Perse</Text>
@@ -635,7 +635,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_SHORT_DESC</Tag>
-		<Russian>&#208;&#232;&#236;</Russian>
+		<Russian>Рим</Russian>
 		<English>Rome</English>
 		<French>
 			<Text>Rome</Text>
@@ -703,7 +703,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Espa&#241;a</Text>
+			<Text>Espaсa</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -789,7 +789,7 @@
 		<Russian>Protestant</Russian>
 		<English>Protestant</English>
 		<German>
-			<Text>J&#252;disch:j&#252;dischen:j&#252;dische</Text>
+			<Text>Jьdisch:jьdischen:jьdische</Text>
 			<Gender>Neuter:Neuter:Neuter</Gender>
 			<Plural>0:0:0</Plural>
 		</German>
@@ -846,7 +846,7 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>isl&#225;mico:isl&#225;mica:isl&#225;micos:isl&#225;micas</Text>
+			<Text>islбmico:islбmica:islбmicos:islбmicas</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
@@ -875,7 +875,7 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>hind&#250;:hind&#250;:hind&#250;es:hind&#250;es</Text>
+			<Text>hindъ:hindъ:hindъes:hindъes</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
@@ -917,7 +917,7 @@
 			<Plural>0</Plural>
 		</English>
 		<French>
-			<Text>confuc&#233;en:confuc&#233;enne:confuc&#233;ens:confuc&#233;ennes</Text>
+			<Text>confucйen:confucйenne:confucйens:confucйennes</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</French>
@@ -954,7 +954,7 @@
 			<Plural>0</Plural>
 		</English>
 		<French>
-			<Text>tao&#239;ste:tao&#239;ste:tao&#239;stes:tao&#239;stes</Text>
+			<Text>taoпste:taoпste:taoпstes:taoпstes</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</French>
@@ -969,14 +969,14 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>tao&#237;sta:tao&#237;sta:tao&#237;stas:tao&#237;stas</Text>
+			<Text>taoнsta:taoнsta:taoнstas:taoнstas</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BUDDHIST_MISSIONARY</Tag>
-		<Russian>&#193;&#243;&#228;&#228;&#232;&#241;&#242;&#241;&#234;&#232;&#233; &#236;&#232;&#241;&#241;&#232;&#238;&#237;&#229;&#240;</Russian>
+		<Russian>Буддистский миссионер</Russian>
 		<English>Buddhist Missionary</English>
 		<French>
 			<Text>Missionnaire bouddhiste</Text>
@@ -1001,7 +1001,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_BUDDHISM</Tag>
-		<Russian>&#193;&#243;&#228;&#228;&#232;&#231;&#236;</Russian>
+		<Russian>Буддизм</Russian>
 		<English>Buddhism</English>
 		<French>
 			<Text>Bouddhisme</Text>
@@ -1027,7 +1027,7 @@
 	<!-- name of Oromo Warrior changed by Leoreth -->
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ETHIOPIAN_OROMO_WARRIOR</Tag>
-		<Russian>&#192;&#241;&#234;&#224;&#240;&#232;</Russian>
+		<Russian>&#192;скари</Russian>
 		<English>Askari</English>
 		<French>
 			<Text>Askari</Text>
@@ -1040,7 +1040,7 @@
 			<Plural>0</Plural>
 		</German>
 		<Italian>
-			<Text>�scaro:�scari</Text>
+			<Text>Áscaro:Áscari</Text>
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</Italian>
@@ -1054,7 +1054,7 @@
 	<!-- name of Confucianism changed to Zoroastrianism by Leoreth -->
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_ZOROASTRIANISM</Tag>
-		<Russian>&#199;&#238;&#240;&#238;&#224;&#241;&#242;&#240;&#232;&#231;&#236;</Russian>
+		<Russian>Зороастризм</Russian>
 		<English>Zoroastrianism</English>
 		<French>
 			<Text>Zoroastrisme</Text>
@@ -1079,7 +1079,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ZOROASTRIAN_MISSIONARY</Tag>	<!-- missing translations -->
-		<Russian>&#199;&#238;&#240;&#238;&#224;&#241;&#242;&#240;&#232;&#233;&#241;&#234;&#232;&#233; &#236;&#232;&#241;&#241;&#232;&#238;&#237;&#229;&#240;</Russian>
+		<Russian>Зороастрийский миссионер</Russian>
 		<English>Zoroastrian Missionary</English>
 		<French>
 			<Text></Text>
@@ -1105,13 +1105,13 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_ORTHODOXY</Tag>
-		<Russian>&#207;&#240;&#224;&#226;&#238;&#241;&#235;&#224;&#226;&#232;&#229;</Russian>
+		<Russian>Православие</Russian>
 		<English>Orthodoxy</English>
 		<German>Orthodoxie</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ORTHODOX_MISSIONARY</Tag>
-		<Russian>&#207;&#240;&#224;&#226;&#238;&#241;&#235;&#224;&#226;&#237;&#251;&#233; &#236;&#232;&#241;&#241;&#232;&#238;&#237;&#229;&#240;</Russian>
+		<Russian>Православный миссионер</Russian>
 		<English>Orthodox Missionary</English>
 		<German>Orthodoxer Missionar</German>
 	</TEXT>
@@ -1120,17 +1120,17 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_FRENCH_HEAVY_CANNON</Tag>
-		<Russian>&#210;&#255;&#230;&#229;&#235;&#224;&#255; &#239;&#243;&#248;&#234;&#224;</Russian>
+		<Russian>Тяжелая пушка</Russian>
 		<English>Heavy Cannon</English>
 	</TEXT><TEXT>
 		<Tag>TXT_KEY_UNIT_BOMBARD</Tag>
-		<Russian>&#193;&#238;&#236;&#225;&#224;&#240;&#228;&#224;</Russian>
+		<Russian>Бомбарда</Russian>
 		<English>Bombard</English>
 	</TEXT>
 
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_CHINESE_ACADEMY</Tag>
-		<Russian>&#202;&#238;&#237;&#244;&#243;&#246;&#232;&#224;&#237;&#241;&#234;&#224;&#255; &#224;&#234;&#224;&#228;&#229;&#236;&#232;&#255;</Russian>
+		<Russian>Конфуцианская академия</Russian>
 		<English>Confucian Academy</English>
 		<French>
 			<Text></Text>			<!-- missing translation -->
@@ -1155,7 +1155,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_JUDAISM</Tag>
-		<Russian>&#207;&#240;&#238;&#242;&#229;&#241;&#242;&#224;&#237;&#242;&#232;&#231;&#236;</Russian>
+		<Russian>Протестантизм</Russian>
 		<English>Protestantism</English>
 		<French>
 			<Text>Protestantisme</Text>
@@ -1180,7 +1180,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_JEWISH_MISSIONARY</Tag>	<!-- missing translations -->
-		<Russian>&#207;&#240;&#238;&#242;&#229;&#241;&#242;&#224;&#237;&#242;&#241;&#234;&#232;&#233; &#236;&#232;&#241;&#241;&#232;&#238;&#237;&#229;&#240;</Russian>
+		<Russian>Протестантский миссионер</Russian>
 		<English>Protestant Missionary</English>
 		<French>
 			<Text></Text>
@@ -1205,7 +1205,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_PHOENICIAN_BIREME</Tag>	<!-- missing translations -->
-		<Russian>&#193;&#232;&#240;&#229;&#236;&#224;</Russian>
+		<Russian>Бирема</Russian>
 		<English>Bireme</English>
 		<French>
 			<Text></Text>
@@ -1230,7 +1230,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_PHOENICIAN_GLASSMAKER</Tag>	<!-- missing translations -->
-		<Russian>&#209;&#242;&#229;&#234;&#235;&#238;&#228;&#243;&#226;</Russian>
+		<Russian>Стеклодув</Russian>
 		<English>Glassmaker</English>
 		<French>
 			<Text></Text>
@@ -1255,7 +1255,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_GREAT_COTHON</Tag>
-		<Russian>&#194;&#229;&#235;&#232;&#234;&#232;&#233; &#202;&#238;&#242;&#238;&#237;</Russian>
+		<Russian>Великий Котон</Russian>
 		<English>The Great Cothon</English>
 		<French>
 			<Text></Text>
@@ -1263,7 +1263,7 @@
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>Der Gro�e Cothon</Text>
+			<Text>Der Große Cothon</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
@@ -1280,7 +1280,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_STONEHENGE</Tag>	<!-- missing translations -->
-		<Russian>&#194;&#229;&#235;&#232;&#234;&#232;&#233; &#209;&#244;&#232;&#237;&#234;&#241;</Russian>	
+		<Russian>Великий Сфинкс</Russian>	
 		<English>The Great Sphinx</English>
 		<French>
 			<Text></Text>
@@ -1288,7 +1288,7 @@
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>Die Gro�e Sphinx</Text>
+			<Text>Die Große Sphinx</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
@@ -1330,7 +1330,7 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_FEATURE_CAPE_COAST</Tag>	<!-- missing translations -->
-		<Russian>&#204;&#251;&#241;</Russian>
+		<Russian>Мыс</Russian>
 		<English>Cape</English>
 		<French>
 			<Text></Text>
@@ -1356,26 +1356,26 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MACEMAN</Tag>
-		<Russian>&#210;&#255;&#230;&#229;&#235;&#251;&#233; &#236;&#229;&#247;&#237;&#232;&#234;</Russian>
+		<Russian>Тяжелый мечник</Russian>
 		<English>Heavy Swordsman</English>
-		<German>Schwerer Schwertk�mpfer</German>
+		<German>Schwerer Schwertkämpfer</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_LEVY</Tag>
-		<Russian>&#206;&#239;&#238;&#235;&#247;&#229;&#237;&#229;&#246;</Russian>
+		<Russian>Ополченец</Russian>
 		<English>Levy</English>
 		<German>Miliz</German>
 	</TEXT>
 
 	<TEXT>
 		<Tag>TXT_KEY_FOOD_PRODUCED</Tag>
-		<Russian>[ICON_BULLET]&#207;&#240;&#238;&#232;&#231;&#226;&#238;&#228;&#241;&#242;&#226;&#238; &#239;&#238;&#242;&#240;&#229;&#225;&#235;&#255;&#229;&#242; [ICON_FOOD]</Russian>
+		<Russian>[ICON_BULLET]Производство потребляет [ICON_FOOD]</Russian>
 		<English>[ICON_BULLET]Production consumes [ICON_FOOD]</English>
 		<German>[ICON_BULLET]Produktion verbraucht [ICON_FOOD]</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_CORPORATION_REMOVED</Tag>
-		<Russian>[COLOR_HIGHLIGHT_TEXT]%s1_CorpName[COLOR_REVERT] &#239;&#238;&#234;&#232;&#237;&#243;&#235;&#224; &#227;&#238;&#240;&#238;&#228; %s2_CityName.</Russian>
+		<Russian>[COLOR_HIGHLIGHT_TEXT]%s1_CorpName[COLOR_REVERT] покинула город %s2_CityName.</Russian>
 		<English>[COLOR_HIGHLIGHT_TEXT]%s1_CorpName[COLOR_REVERT] has left %s2_CityName.</English>
 		<French>[COLOR_HIGHLIGHT_TEXT]%s1_CorpName[COLOR_REVERT] has left %s2_CityName.</French>
 		<German>[COLOR_HIGHLIGHT_TEXT]%s1_CorpName[COLOR_REVERT] has left %s2_CityName.</German>
@@ -1391,7 +1391,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MUGHAL_SIEGE_ELEPHANT</Tag>
-		<Russian>&#206;&#241;&#224;&#228;&#237;&#251;&#233; &#241;&#235;&#238;&#237;</Russian>
+		<Russian>Осадный слон</Russian>
 		<English>Siege Elephant</English>
 		<German>Belagerungselephant</German>
 	</TEXT>
@@ -1404,26 +1404,26 @@
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_REPUBLIC</Tag>
 		<English>U.N. Resolution #3445 (Global Civic - Republic)</English>
-		<French>R&#233;solution de l'ONU n&#176; 3445 (Doctrine mondiale - libert&#233; d'expression)</French>
+		<French>Rйsolution de l'ONU n&#176; 3445 (Doctrine mondiale - libertй d'expression)</French>
 		<German>U.N.-Resolution Nr. 3445 (Globale Staatsform - Republik)</German>
-		<Italian>Mozione #3445 dell'ONU (Libert&#224; di parola globale)</Italian>
-		<Spanish>Resoluci&#243;n n&#186; 3445 de la ONU (principio mundial - Libertad de expresi&#243;n)</Spanish>
+		<Italian>Mozione #3445 dell'ONU (Libertа di parola globale)</Italian>
+		<Spanish>Resoluciуn n&#186; 3445 de la ONU (principio mundial - Libertad de expresiуn)</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_EGALITARIANISM</Tag>
 		<English>U.N. Resolution #743 (Global Civic - Egalitarianism)</English>
-		<French>R&#233;solution de l'ONU n&#176; 743 (Doctrine mondiale - &#233;mancipation)</French>
+		<French>Rйsolution de l'ONU n&#176; 743 (Doctrine mondiale - йmancipation)</French>
 		<German>U.N.-Resolution Nr. 743 (Globale Staatsform - Egalitarianism)</German>
 		<Italian>Mozione #743 dell'ONU (Emancipazione globale)</Italian>
-		<Spanish>Resoluci&#243;n n&#186; 743 de la ONU (principio mundial - Emancipaci&#243;n)</Spanish>
+		<Spanish>Resoluciуn n&#186; 743 de la ONU (principio mundial - Emancipaciуn)</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_SECULARISM</Tag>
 		<English>U.N. Resolution #427 (Global Civic - Secularism)</English>
-		<French>R&#233;solution de l'ONU n&#176; 427 (Doctrine mondiale - libert&#233; de culte)</French>
+		<French>Rйsolution de l'ONU n&#176; 427 (Doctrine mondiale - libertй de culte)</French>
 		<German>U.N.-Resolution Nr. 427 (Globale Staatsform - Sekularismus)</German>
-		<Italian>Mozione #427 dell'ONU (Libert&#224; di religione globale)</Italian>
-		<Spanish>Resoluci&#243;n n&#186; 427 de la ONU (principio mundial - Libertad religiosa)</Spanish>
+		<Italian>Mozione #427 dell'ONU (Libertа di religione globale)</Italian>
+		<Spanish>Resoluciуn n&#186; 427 de la ONU (principio mundial - Libertad religiosa)</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_SECULARISM</Tag>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Alex Mantzaris (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -7,27 +7,27 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_COLOMBIA_DESC</Tag>
-		<Russian>&#202;&#238;&#235;&#243;&#236;&#225;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Колумбийцы</Russian>
 		<English>The Colombians</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_COLOMBIA_SHORT_DESC</Tag>
-		<Russian>&#202;&#238;&#235;&#243;&#236;&#225;&#232;&#255;</Russian>
+		<Russian>Колумбия</Russian>
 		<English>Colombia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_COLOMBIA_ADJECTIVE</Tag>
-		<Russian>&#202;&#238;&#235;&#243;&#236;&#225;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Колумбийцы</Russian>
 		<English>Colombian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_BOLIVAR</Tag>
-		<Russian>&#193;&#238;&#235;&#232;&#226;&#224;&#240;</Russian>
+		<Russian>Боливар</Russian>
 		<English>Bolivar</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_COLOMBIAN_ALBION_LEGION</Tag>
-		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#232;&#233; &#235;&#229;&#227;&#232;&#238;&#237;</Russian>
+		<Russian>Британский легион</Russian>
 		<English>Albion Legion</English>
 	</TEXT>
 	<TEXT>
@@ -37,7 +37,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_COLOMBIAN_HACIENDA</Tag>
-		<Russian>&#192;&#241;&#252;&#229;&#237;&#228;&#224;</Russian>
+		<Russian>&#192;сьенда</Russian>
 		<English>Hacienda</English>
 	</TEXT>
 	<TEXT>
@@ -47,12 +47,11 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_COL_EMBASSY</Tag>
-		<Russian>&#202;&#238;&#235;&#243;&#236;&#225;&#232;&#233;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Колумбийское посольство</Russian>
 		<English>Colombian Embassy</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_COLOMBIA_PEDIA</Tag>
-		<Russian>[TAB]The territory of what is now Colombia was originally inhabited by indigenous peoples including the Muisca, Quimbaya, and Tairona. The Spanish arrived in 1499 and initiated a period of conquest and colonization ultimately creating the Viceroyalty of New Granada, with its capital at Bogot&#225;.[11] Independence from Spain was won in 1819, but by 1830 "Gran Colombia" had collapsed with the secession of Venezuela and Ecuador. What is now Colombia and Panama emerged as the Republic of New Granada. The new nation experimented with federalism as the Granadine Confederation (1858), and then the United States of Colombia (1863), before the Republic of Colombia was finally declared in 1886. Panama seceded in 1903.[PARAGRAPH:2]Since the 1960s, the country has suffered from an asymmetric low-intensity armed conflict. The conflict escalated in the 1990s, but since 2000 the conflict has decreased considerably.[PARAGRAPH:2]Colombia is ethnically diverse, and the interaction between descendants of the original native inhabitants, Spanish colonists, Africans originally brought to the country as slaves, and 20th-century immigrants from Europe and the Middle East, has produced a rich cultural heritage.[13] This has also been influenced by Colombia's varied geography, and the imposing landscape of the country has resulted in the development of very strong regional identities, in many cases stronger than the national. The majority of the urban centres are located in the highlands of the Andes mountains, but Colombian territory also encompasses Amazon rainforest, tropical grassland and both Caribbean and Pacific coastlines.</Russian>
-		<English>[TAB]The territory of what is now Colombia was originally inhabited by indigenous peoples including the Muisca, Quimbaya, and Tairona. The Spanish arrived in 1499 and initiated a period of conquest and colonization ultimately creating the Viceroyalty of New Granada, with its capital at Bogot�.[11] Independence from Spain was won in 1819, but by 1830 "Gran Colombia" had collapsed with the secession of Venezuela and Ecuador. What is now Colombia and Panama emerged as the Republic of New Granada. The new nation experimented with federalism as the Granadine Confederation (1858), and then the United States of Colombia (1863), before the Republic of Colombia was finally declared in 1886. Panama seceded in 1903.[PARAGRAPH:2]Since the 1960s, the country has suffered from an asymmetric low-intensity armed conflict. The conflict escalated in the 1990s, but since 2000 the conflict has decreased considerably.[PARAGRAPH:2]Colombia is ethnically diverse, and the interaction between descendants of the original native inhabitants, Spanish colonists, Africans originally brought to the country as slaves, and 20th-century immigrants from Europe and the Middle East, has produced a rich cultural heritage.[13] This has also been influenced by Colombia's varied geography, and the imposing landscape of the country has resulted in the development of very strong regional identities, in many cases stronger than the national. The majority of the urban centres are located in the highlands of the Andes mountains, but Colombian territory also encompasses Amazon rainforest, tropical grassland and both Caribbean and Pacific coastlines.</English>
+		<Russian>[TAB]The territory of what is now Colombia was originally inhabited by indigenous peoples including the Muisca, Quimbaya, and Tairona. The Spanish arrived in 1499 and initiated a period of conquest and colonization ultimately creating the Viceroyalty of New Granada, with its capital at Bogotб.[11] Independence from Spain was won in 1819, but by 1830 "Gran Colombia" had collapsed with the secession of Venezuela and Ecuador. What is now Colombia and Panama emerged as the Republic of New Granada. The new nation experimented with federalism as the Granadine Confederation (1858), and then the United States of Colombia (1863), before the Republic of Colombia was finally declared in 1886. Panama seceded in 1903.[PARAGRAPH:2]Since the 1960s, the country has suffered from an asymmetric low-intensity armed conflict. The conflict escalated in the 1990s, but since 2000 the conflict has decreased considerably.[PARAGRAPH:2]Colombia is ethnically diverse, and the interaction between descendants of the original native inhabitants, Spanish colonists, Africans originally brought to the country as slaves, and 20th-century immigrants from Europe and the Middle East, has produced a rich cultural heritage.[13] This has also been influenced by Colombia's varied geography, and the imposing landscape of the country has resulted in the development of very strong regional identities, in many cases stronger than the national. The majority of the urban centres are located in the highlands of the Andes mountains, but Colombian territory also encompasses Amazon rainforest, tropical grassland and both Caribbean and Pacific coastlines.</Russian>
+		<English>[TAB]The territory of what is now Colombia was originally inhabited by indigenous peoples including the Muisca, Quimbaya, and Tairona. The Spanish arrived in 1499 and initiated a period of conquest and colonization ultimately creating the Viceroyalty of New Granada, with its capital at Bogotá.[11] Independence from Spain was won in 1819, but by 1830 "Gran Colombia" had collapsed with the secession of Venezuela and Ecuador. What is now Colombia and Panama emerged as the Republic of New Granada. The new nation experimented with federalism as the Granadine Confederation (1858), and then the United States of Colombia (1863), before the Republic of Colombia was finally declared in 1886. Panama seceded in 1903.[PARAGRAPH:2]Since the 1960s, the country has suffered from an asymmetric low-intensity armed conflict. The conflict escalated in the 1990s, but since 2000 the conflict has decreased considerably.[PARAGRAPH:2]Colombia is ethnically diverse, and the interaction between descendants of the original native inhabitants, Spanish colonists, Africans originally brought to the country as slaves, and 20th-century immigrants from Europe and the Middle East, has produced a rich cultural heritage.[13] This has also been influenced by Colombia's varied geography, and the imposing landscape of the country has resulted in the development of very strong regional identities, in many cases stronger than the national. The majority of the urban centres are located in the highlands of the Andes mountains, but Colombian territory also encompasses Amazon rainforest, tropical grassland and both Caribbean and Pacific coastlines.</English>
 	</TEXT>
-</Civ4GameText>

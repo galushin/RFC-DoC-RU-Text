@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -7,7 +7,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_HORSE_ARCHER</Tag>
-		<Russian>&#194;&#241;&#224;&#228;&#237;&#232;&#234;</Russian>
+		<Russian>Всадник</Russian>
 		<English>Horseman</English>
 		<French>
 			<Text>Cavalier</Text>
@@ -32,7 +32,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MACEMAN</Tag>
-		<Russian>&#210;&#255;&#230;&#229;&#235;&#251;&#233; &#239;&#229;&#245;&#238;&#242;&#232;&#237;&#229;&#246;</Russian>
+		<Russian>Тяжелый пехотинец</Russian>
 		<English>Heavy Footman</English>
 		<French>
 			<Text>Fantassin lourd</Text>
@@ -57,7 +57,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CUIRASSIER</Tag>
-		<Russian>&#210;&#255;&#230;&#229;&#235;&#251;&#233; &#226;&#241;&#224;&#228;&#237;&#232;&#234;</Russian>
+		<Russian>Тяжелый всадник</Russian>
 		<English>Heavy Horseman</English>
 		<French>
 			<Text>Cavalier lourd</Text>

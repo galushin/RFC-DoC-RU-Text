@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!--
   DAS: Text for landmark/sign captioning for random events
   - The tag names for the descriptions are based on the <type> of the events in CIV4EventInfos.xml
@@ -49,7 +49,7 @@
 		<Tag>TXT_KEY_SIGN_EVENT_HORTICULTURE_1</Tag>
 		<Russian>medicine</Russian>
 		<English>medicine</English>
-		<French>médicament</French>
+		<French>mÃ©dicament</French>
 		<German>Medizin</German>
 		<Italian>medicina</Italian>
 		<Spanish>medicina</Spanish>
@@ -58,7 +58,7 @@
 		<Tag>TXT_KEY_SIGN_EVENT_HORTICULTURE_2</Tag>
 		<Russian>medicine</Russian>
 		<English>medicine</English>
-		<French>médicament</French>
+		<French>mÃ©dicament</French>
 		<German>Medizin</German>
 		<Italian>medicina</Italian>
 		<Spanish>medicina</Spanish>
@@ -94,7 +94,7 @@
 		<Tag>TXT_KEY_SIGN_EVENT_SALTPETER_1</Tag>
 		<Russian>saltpeter</Russian>
 		<English>saltpeter</English>
-		<French>salp&#234;tre</French>
+		<French>salpÐºtre</French>
 		<German>Salpeter</German>
 		<Italian>salnitro</Italian>
 		<Spanish>salitre</Spanish>
@@ -103,7 +103,7 @@
 		<Tag>TXT_KEY_SIGN_EVENT_CLUNKER_COAL_1</Tag>
 		<Russian>impurities</Russian>
 		<English>impurities</English>
-		<French>impuret&#233;s</French>
+		<French>impuretÐ¹s</French>
 		<German>Verunreinigungen</German>
 		<Italian>impurezze</Italian>
 		<Spanish>impurezas</Spanish>
@@ -112,7 +112,7 @@
 		<Tag>TXT_KEY_SIGN_EVENT_SOUR_CRUDE_1</Tag>
 		<Russian>impurities</Russian>
 		<English>impurities</English>
-		<French>impuret&#233;s</French>
+		<French>impuretÐ¹s</French>
 		<German>Verunreinigungen</German>
 		<Italian>impurezze</Italian>
 		<Spanish>impurezas</Spanish>
@@ -122,7 +122,7 @@
 		<Russian>truffles</Russian>
 		<English>truffles</English>
 		<French>truffes</French>
-		<German>Trüffel</German>
+		<German>TrÃ¼ffel</German>
 		<Italian>tartufi</Italian>
 		<Spanish>Trufas</Spanish>
 	</TEXT>
@@ -131,7 +131,7 @@
 		<Russian>sea turtles</Russian>
 		<English>sea turtles</English>
 		<French>tortues de mer</French>
-		<German>Meeresschildkröten</German>
+		<German>MeeresschildkrÃ¶ten</German>
 		<Italian>testuggini</Italian>
 		<Spanish>Tortugas marinas</Spanish>
 	</TEXT>
@@ -139,17 +139,17 @@
 		<Tag>TXT_KEY_SIGN_EVENT_TIN_1</Tag>
 		<Russian>Tin</Russian>
 		<English>Tin</English>
-		<French>&#233;tain</French>
+		<French>Ð¹tain</French>
 		<German>Zinn</German>
 		<Italian>stagno</Italian>
-		<Spanish>esta&#241;o</Spanish>
+		<Spanish>estaÑo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SIGN_EVENT_PRAIRIE_DOGS_1</Tag>
 		<Russian>prairie dogs</Russian>
 		<English>prairie dogs</English>
 		<French>chiens de prairie</French>
-		<German>Präriehunde</German>
+		<German>PrÃ¤riehunde</German>
 		<Italian>cani della prateria</Italian>
 		<Spanish>perros de las praderas</Spanish>
 	</TEXT>
@@ -158,7 +158,7 @@
 		<Russian>apple trees</Russian>
 		<English>apple trees</English>
 		<French>pommiers</French>
-		<German>Apfelbäume</German>
+		<German>ApfelbÃ¤ume</German>
 		<Italian>meli</Italian>
 		<Spanish>manzanos</Spanish>
 	</TEXT>
@@ -166,8 +166,8 @@
 		<Tag>TXT_KEY_SIGN_EVENT_FORTY_THIEVES_1</Tag>
 		<Russian>local legend</Russian>
 		<English>local legend</English>
-		<French>l&#233;gende locale</French>
-		<German>örtliche Legende</German>
+		<French>lÐ¹gende locale</French>
+		<German>Ã¶rtliche Legende</German>
 		<Italian>leggenda locale</Italian>
 		<Spanish>leyenda local</Spanish>
 	</TEXT>

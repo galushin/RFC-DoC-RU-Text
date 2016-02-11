@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
 <!-- Game Text - Unit Upgrades for Civilopedia -->
@@ -26,7 +26,7 @@
 		<Tag>TXT_KEY_PEDIA_SCREEN_CONTENTS</Tag>
 		<Russian>Contents</Russian>
 		<English>Contents</English>
-		<French>Mati�res</French>
+		<French>Matières</French>
 		<German>Inhalt</German>
 		<Italian>Contenuto</Italian>
 		<Spanish>Contenido</Spanish>
@@ -35,7 +35,7 @@
 		<Tag>TXT_KEY_PEDIA_CATEGORY_UNIT_UPGRADES</Tag>
 		<Russian>Unit Upgrades</Russian>
 		<English>Unit Upgrades</English>
-		<French>Am�liorations des Unit�s</French>
+		<French>Améliorations des Unités</French>
 		<German>Modernisierungen</German>
 		<Italian>Avanzamenti</Italian>
 		<Spanish>Unit Upgrades</Spanish>
@@ -45,13 +45,13 @@
 		<Russian>Promotion Tree</Russian>
 		<English>Promotion Tree</English>
 		<French>Arborescence des Promotions</French>
-		<German>Bef�rderungsbaum</German>
+		<German>Beförderungsbaum</German>
 		<Italian>Albero Promoz.</Italian>
 		<Spanish>Promotion Tree</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_NATIONAL_WONDERS</Tag>
-		<Russian>&#205;&#224;&#246;&#232;&#238;&#237;&#224;&#235;&#252;&#237;&#251;&#229; &#247;&#243;&#228;&#229;&#241;&#224;</Russian>
+		<Russian>Национальные чудеса</Russian>
 		<English>National Wonders</English>
 		<French>Merveilles Nationales</French>
 		<German>Nationalwunder</German>
@@ -60,7 +60,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_GREAT_WONDERS</Tag>
-		<Russian>&#194;&#229;&#235;&#232;&#234;&#232;&#229; &#247;&#243;&#228;&#229;&#241;&#224;</Russian>
+		<Russian>Великие чудеса</Russian>
 		<English>Great Wonders</English>
 		<French>Merveilles Mondiales</French>
 		<German>Weltwunder</German>
@@ -78,10 +78,10 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIQUE_BUILDINGS</Tag>
-		<Russian>&#211;&#237;&#232;&#234;&#224;&#235;&#252;&#237;&#251;&#229; &#231;&#228;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Уникальные здания</Russian>
 		<English>Unique Buildings</English>
-		<French>B�timents Uniques</French>
-		<German>Einzigartige Geb�ude</German>
+		<French>Bâtiments Uniques</French>
+		<German>Einzigartige Gebäude</German>
 		<Italian>Edifici Unici</Italian>
 		<Spanish>Unique Buildings</Spanish>
 	</TEXT>
@@ -89,9 +89,9 @@
 		<Tag>TXT_KEY_PEDIA_FAV_CIVIC_AND_RELIGION</Tag>
 		<Russian>Favorite Civic and Religion</Russian>
 		<English>Favorite Civic and Religion</English>
-		<French>Doctrine et Religion Pr�f�r�e</French>
+		<French>Doctrine et Religion Préférée</French>
 		<German>Bevorzugte Staatsform und Religion</German>
 		<Italian>Forme di governo e Religioni preferite</Italian>
-		<Spanish>Principio y religi&#243;n favoritos</Spanish>
+		<Spanish>Principio y religiуn favoritos</Spanish>
 	</TEXT>
 </Civ4GameText>

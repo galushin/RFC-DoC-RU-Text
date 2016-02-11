@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,7 +6,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_HISTORICAL</Tag>
-		<Russian>&#200;&#241;&#242;&#238;&#240;&#232;&#247;&#229;&#241;&#234;&#224;&#255;</Russian>
+		<Russian>Историческая</Russian>
 		<English>Historical</English>
 		<French>
 			<Text>Historique</Text>
@@ -24,19 +24,19 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Hist&#243;rica</Text>
+			<Text>Histуrica</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GOALS</Tag>
-		<Russian>&#214;&#229;&#235;&#232; &#232;&#241;&#242;&#238;&#240;&#232;&#247;&#229;&#241;&#234;&#238;&#233; &#239;&#238;&#225;&#229;&#228;&#251;</Russian>
+		<Russian>Цели исторической победы</Russian>
 		<English>Historical Victory goals</English>
 		<French>Objectifs de victoire historique</French>
 		<German>Historische Siegbedingungen</German>
 		<Italian>Obiettivi per le vittorie storiche</Italian>
-		<Spanish>Objetivos de la victoria hist&#243;rica</Spanish>
+		<Spanish>Objetivos de la victoria histуrica</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ICON_BULLET</Tag>
@@ -49,25 +49,25 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_SCREEN_ACCOMPLISHED</Tag>
-		<Russian>&#194;&#251;&#239;&#238;&#235;&#237;&#229;&#237;&#238;:</Russian>
+		<Russian>Выполнено:</Russian>
 		<English>Accomplished:</English>
 		<French>Accompli :</French>
-		<German>Erf�llt:</German>
+		<German>Erfüllt:</German>
 		<Italian>Raggiunti:</Italian>
 		<Spanish>Cumplidos:</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_SCREEN_YES</Tag>
-		<Russian>&#196;&#192;</Russian>
+		<Russian>Д&#192;</Russian>
 		<English>YES</English>
 		<French>OUI</French>
 		<German>JA</German>
-		<Italian>S�</Italian>
-		<Spanish>S�</Spanish>
+		<Italian>SÌ</Italian>
+		<Spanish>SÍ</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_SCREEN_NO</Tag>
-		<Russian>&#205;&#197;&#210;</Russian>
+		<Russian>НЕТ</Russian>
 		<English>NO</English>
 		<French>NON</French>
 		<German>NEIN</German>
@@ -76,25 +76,25 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_SCREEN_NOTYET</Tag>
-		<Russian>&#197;&#249;&#229; &#237;&#229;&#242;</Russian>
+		<Russian>Еще нет</Russian>
 		<English>Not yet</English>
 		<French>Pas encore</French>
 		<German>Noch nicht</German>
 		<Italian>Non ancora</Italian>
-		<Spanish>A�n no</Spanish>
+		<Spanish>Aún no</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_INTERMEDIATE</Tag>
-		<Russian>&#204;&#251; &#226;&#251;&#239;&#238;&#235;&#237;&#232;&#235;&#232; 2 &#232;&#241;&#242;&#238;&#240;&#232;&#247;&#229;&#241;&#234;&#232;&#229; &#246;&#229;&#235;&#232; &#232;&#231; &#242;&#240;�&#245;. &#194; &#237;&#224;&#248;&#229;&#233; &#241;&#242;&#238;&#235;&#232;&#246;&#229; &#225;&#251;&#235;&#224; &#239;&#238;&#241;&#242;&#240;&#238;&#229;&#237;&#224; &#242;&#240;&#232;&#243;&#236;&#244;&#224;&#235;&#252;&#237;&#224;&#255; &#224;&#240;&#234;&#224;</Russian>
+		<Russian>Мы выполнили 2 исторические цели из тр¸х. В нашей столице была построена триумфальная арка</Russian>
 		<English>We have accomplished 2 Historical Goals out of 3. A Triumphal Arch has been built in our capital</English>
-		<French>Nous avons accompli 2 objectifs historiques sur 3. Un Arc de Triomphe a �t� construit dans notre capitale</French>
-		<German>Wir haben 2 von 3 Historischen Siegbedingungen erf�llt. In unserer Hauptstadt wurde ein Triumphbogen erbaut.</German>
-		<Italian>Abbiamo raggiunto 2 obiettivi storici su 3. &#200; stato costruito un arco di trionfo nella nostra capitale</Italian>
-		<Spanish>Hemos conseguido 2 de los 3 objetivos hist&#243;ricos. Se ha erigido un Arco de Triunfo en nuestra capital</Spanish>
+		<French>Nous avons accompli 2 objectifs historiques sur 3. Un Arc de Triomphe a été construit dans notre capitale</French>
+		<German>Wir haben 2 von 3 Historischen Siegbedingungen erfüllt. In unserer Hauptstadt wurde ein Triumphbogen erbaut.</German>
+		<Italian>Abbiamo raggiunto 2 obiettivi storici su 3. И stato costruito un arco di trionfo nella nostra capitale</Italian>
+		<Spanish>Hemos conseguido 2 de los 3 objetivos histуricos. Se ha erigido un Arco de Triunfo en nuestra capital</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_NATIONAL_EPIC</Tag>
-		<Russian>&#210;&#240;&#232;&#243;&#236;&#244;&#224;&#235;&#252;&#237;&#224;&#255; &#224;&#240;&#234;&#224;</Russian>
+		<Russian>Триумфальная арка</Russian>
 		<English>Triumphal Arch</English>
 		<French>
 			<Text>Arc de Triomphe</Text>
@@ -119,12 +119,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_TRIUMPHAL_ARC_HELP</Tag>
-		<Russian>[COLOR_WARNING_TEXT]&#209;&#242;&#240;&#238;&#232;&#242;&#241;&#255; &#224;&#226;&#242;&#238;&#236;&#224;&#242;&#232;&#247;&#229;&#241;&#234;&#232; &#239;&#240;&#232; &#228;&#238;&#241;&#242;&#232;&#230;&#229;&#237;&#232;&#232; 2 &#232;&#241;&#242;&#238;&#240;&#232;&#247;&#229;&#241;&#234;&#232;&#245; &#246;&#229;&#235;&#229;&#233; &#232;&#231; 3[COLOR_REVERT]</Russian>
+		<Russian>[COLOR_WARNING_TEXT]Строится автоматически при достижении 2 исторических целей из 3[COLOR_REVERT]</Russian>
 		<English>[COLOR_WARNING_TEXT]Is automatically built on achievement of 2 Historical Goals out of 3[COLOR_REVERT]</English>
 		<French>[COLOR_WARNING_TEXT]Est automatiquement construit lorsque 2 objectifs historiques sur 3 sont atteints[COLOR_REVERT]</French>
-		<German>[COLOR_WARNING_TEXT]Wird bei Erf�llung von 2 von 3 Historischen Siegbedingungen automatisch erbaut[COLOR_REVERT]</German>
+		<German>[COLOR_WARNING_TEXT]Wird bei Erfüllung von 2 von 3 Historischen Siegbedingungen automatisch erbaut[COLOR_REVERT]</German>
 		<Italian>[COLOR_WARNING_TEXT]Viene automaticamente costruito al raggiungimento di 2 obiettivi storici su 3[COLOR_REVERT]</Italian>
-		<Spanish>[COLOR_WARNING_TEXT]Se construye autom&#225;ticamente tras la consecuci&#243;n de 2 de los 3 objetivos hist&#243;ricos[COLOR_REVERT]</Spanish>
+		<Spanish>[COLOR_WARNING_TEXT]Se construye automбticamente tras la consecuciуn de 2 de los 3 objetivos histуricos[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_EGY1</Tag>
@@ -132,17 +132,17 @@
 		<English>Have more than 500 Culture in 850 BC</English>
 		<French>Avoir plus de 500 en Culture en 850 av. J.-C.</French>
 		<German>Erzielen Sie im Jahr 850 v. Chr. mehr als 500 Kulturpunkte</German>
-		<Italian>Devi avere pi� di 500 cultura nel 850 a.C.</Italian>
+		<Italian>Devi avere più di 500 cultura nel 850 a.C.</Italian>
 		<Spanish>Conseguir una cultura superior a 500 en el 850 a. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_EGY2</Tag>
 		<Russian>Build the Pyramids, the Great Library, and the Great Lighthouse by 100 BC</Russian>
 		<English>Build the Pyramids, the Great Library, and the Great Lighthouse by 100 BC</English>
-		<French>Construire les Pyramides, la Grande Biblioth�que et le Phare avant 100 av. J.-C.</French>
-		<German>Bauen Sie bis zum Jahr 100 v. Chr. die Pyramiden, die Gro�e Bibliothek und den Gro�en Leuchtturm</German>
+		<French>Construire les Pyramides, la Grande Bibliothèque et le Phare avant 100 av. J.-C.</French>
+		<German>Bauen Sie bis zum Jahr 100 v. Chr. die Pyramiden, die Große Bibliothek und den Großen Leuchtturm</German>
 		<Italian>Devi costruire le Piramidi, la Grande Biblioteca e il Grande Faro entro il 100 a.C.</Italian>
-		<Spanish>Construir las Pir&#225;mides, la Gran Biblioteca y el Gran Faro antes del 100 a. C.</Spanish>
+		<Spanish>Construir las Pirбmides, la Gran Biblioteca y el Gran Faro antes del 100 a. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_EGY3</Tag>
@@ -150,7 +150,7 @@
 		<English>Have more than 5000 Culture in 170 AD</English>
 		<French>Avoir plus de 5000 en Culture en 170 ap. J.-C.</French>
 		<German>Erzielen Sie im Jahr 170 n. Chr. mehr als 5.000 Kulturpunkte</German>
-		<Italian>Devi avere pi� di 5000 cultura nel 170 d.C.</Italian>
+		<Italian>Devi avere più di 5000 cultura nel 170 d.C.</Italian>
 		<Spanish>Conseguir una cultura superior a 5.000 en el 170 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -182,7 +182,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_IND2</Tag>
-		<Russian>&#207;&#238;&#241;&#242;&#240;&#238;&#232;&#242;&#252; 20 &#245;&#240;&#224;&#236;&#238;&#226; &#228;&#238; 700 &#227;. &#237;.&#253;.</Russian>
+		<Russian>Построить 20 храмов до 700 г. н.э.</Russian>
 		<English>Build 20 temples by 700 AD</English>
 		<French>Fonder au moins 5 religions</French>
 		<German>Bauen Sie 20 Tempel bis 700 n. Chr.</German>
@@ -191,82 +191,82 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_IND3</Tag>
-		<Russian>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#232;&#240;&#238;&#226;&#224;&#242;&#252; 20% &#237;&#224;&#241;&#229;&#235;&#229;&#237;&#232;&#255; &#236;&#232;&#240;&#224; 1200 AD</Russian>
+		<Russian>Контролировать 20% населения мира 1200 AD</Russian>
 		<English>Control 20% of the world's population in 1200 AD</English>
 		<French>Avoir la population la plus nombreuse en 1200 ap. J.-C.</French>
-		<German>Kontrollieren Sie im Jahr 1200 n. Chr. 20% der Weltbev�lkerung</German>
-		<Italian>Devi avere la pi� grande popolazione al mondo nel 1200 d.C.</Italian>
-		<Spanish>Tener la mayor poblaci&#243;n del mundo en el 1200 d. C.</Spanish>
+		<German>Kontrollieren Sie im Jahr 1200 n. Chr. 20% der Weltbevölkerung</German>
+		<Italian>Devi avere la più grande popolazione al mondo nel 1200 d.C.</Italian>
+		<Spanish>Tener la mayor poblaciуn del mundo en el 1200 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_CHI1</Tag>
-		<Russian>&#207;&#238;&#241;&#242;&#240;&#238;&#232;&#242;&#252; 2 &#234;&#238;&#237;&#244;&#243;&#246;&#232;&#224;&#237;&#241;&#234;&#232;&#229; &#224;&#234;&#224;&#228;&#229;&#236;&#232;&#232; &#232; 2 &#242;&#224;&#238;&#241;&#232;&#241;&#242;&#241;&#234;&#232;&#229; &#239;&#224;&#227;&#238;&#228;&#251; &#234; 1000 &#227;&#238;&#228;&#243; &#237;.&#253;.</Russian>
+		<Russian>Построить 2 конфуцианские академии и 2 таосистские пагоды к 1000 году н.э.</Russian>
 		<English>Build 2 Confucian Academies and 2 Taoist Pagodas by 1000 AD</English>
-		<French>Construire 2 acad�mies confucianistes et 2 pagodes tao�stes avant 1000 ap. J.-C.</French>
+		<French>Construire 2 académies confucianistes et 2 pagodes taoïstes avant 1000 ap. J.-C.</French>
 		<German>Bauen Sie bis zum Jahr 1000 n. Chr. 2 Konfuzianische Akademien und 2 Taoistische Pagoden</German>
 		<Italian>Costruisci due Accademie Confuciane e due Pagode Taoiste entro il 1000 d.C.</Italian>
-		<Spanish>Construir 2 academias confucianas y 2 pagodas tao&#237;stas antes del 1000 d. C.</Spanish>
+		<Spanish>Construir 2 academias confucianas y 2 pagodas taoнstas antes del 1000 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_CHI2</Tag>
-		<Russian>&#207;&#229;&#240;&#226;&#251;&#236;&#232; &#232;&#241;&#241;&#235;&#229;&#228;&#238;&#226;&#224;&#242;&#252; &#242;&#229;&#245;&#237;&#238;&#235;&#238;&#227;&#232;&#232; &#202;&#238;&#236;&#239;&#224;&#241;, &#193;&#243;&#236;&#224;&#227;&#224;, &#207;&#238;&#240;&#238;&#245; &#232; &#207;&#229;&#247;&#224;&#242;&#237;&#251;&#233; &#239;&#240;&#229;&#241;&#241;</Russian>
+		<Russian>Первыми исследовать технологии Компас, Бумага, Порох и Печатный пресс</Russian>
 		<English>Be first to discover Compass, Paper, Gunpowder and Printing Press</English>
 		<French>Ne perdre aucune ville aux barbares ou aux Mongols avant 1400 ap. J.-C.</French>
-		<German>Entdecken Sie als erster Kompass, Papier, Schie�pulver und Druckerpresse</German>
-		<Italian>Barbari o Mongoli non devono conquistare alcuna tua citt&#224; prima del 1400 d.C.</Italian>
-		<Spanish>No perder ciudades ante los b&#225;rbaros ni los mongoles antes del 1400 d. C.</Spanish>
+		<German>Entdecken Sie als erster Kompass, Papier, Schießpulver und Druckerpresse</German>
+		<Italian>Barbari o Mongoli non devono conquistare alcuna tua cittа prima del 1400 d.C.</Italian>
+		<Spanish>No perder ciudades ante los bбrbaros ni los mongoles antes del 1400 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_CHI3</Tag>
-		<Russian>&#207;&#229;&#240;&#229;&#230;&#232;&#242;&#252; 4 &#231;&#238;&#235;&#238;&#242;&#251;&#245; &#226;&#229;&#234;&#224; &#228;&#238; 1800 &#227;&#238;&#228;&#224; &#237;.&#253;.</Russian>
+		<Russian>Пережить 4 золотых века до 1800 года н.э.</Russian>
 		<English>Experience four golden ages by 1800 AD</English>
-		<French>Contr�ler une arm�e de 120 unit�s en 1600 ap. J.-C.</French>
+		<French>Contrôler une armée de 120 unités en 1600 ap. J.-C.</French>
 		<German>Erleben Sie bis zum Jahr 1800 n. Chr. vier goldene Zeitalter</German>
-		<Italian>Comanda un esercito di 120 unit&#224; nel 1600 d.C.</Italian>
-		<Spanish>Controlar un ej&#233;rcito de 120 unidades en el 1600 d. C.</Spanish>
+		<Italian>Comanda un esercito di 120 unitа nel 1600 d.C.</Italian>
+		<Spanish>Controlar un ejйrcito de 120 unidades en el 1600 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GRE1</Tag>
-		<Russian>&#207;&#229;&#240;&#226;&#251;&#236;&#232; &#232;&#241;&#241;&#235;&#229;&#228;&#238;&#226;&#224;&#242;&#252; &#242;&#229;&#245;&#237;&#238;&#235;&#238;&#227;&#232;&#232; &#203;&#232;&#242;&#229;&#240;&#224;&#242;&#243;&#240;&#224;, &#196;&#240;&#224;&#236;&#224; &#232; &#212;&#232;&#235;&#238;&#241;&#238;&#244;&#232;&#255;</Russian>
+		<Russian>Первыми исследовать технологии Литература, Драма и Философия</Russian>
 		<English>Be the first to discover Literature, Drama and Philosophy</English>
-		<French>Etre le premier � d�couvrir la Litt�rature, le Th��tre et la Philosophie</French>
+		<French>Etre le premier à découvrir la Littérature, le Théâtre et la Philosophie</French>
 		<German>Erforschen Sie vor allen anderen Zivilisationen die Technologien Literatur, Drama und Philosophie</German>
 		<Italian>Devi essere il primo a scoprire letteratura, drammaturgia e filosofia</Italian>
-		<Spanish>Ser el primero en descubrir la Literatura, el Drama y la Filosof&#237;a</Spanish>
+		<Spanish>Ser el primero en descubrir la Literatura, el Drama y la Filosofнa</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GRE2</Tag>
 		<Russian>Build the Oracle, the Parthenon, the Colossus, and the Temple of Artemis by 250 BC</Russian>
 		<English>Build the Oracle, the Parthenon, the Colossus, and the Temple of Artemis by 250 BC</English>
-		<French>Construire l'Oracle, le Parth�non, le Colosse et le Temple d'Art�mis avant 250 av. J.-C.</French>
+		<French>Construire l'Oracle, le Parthénon, le Colosse et le Temple d'Artémis avant 250 av. J.-C.</French>
 		<German>Bauen Sie bis zum Jahr 250 v. Chr. das Orakel, den Parthenon, den Koloss und den Artemis-Tempel</German>
 		<Italian>Devi costruire l'Oracolo, il Partenone, il Colosso e il Tempio di Artemide entro il 250 a.C.</Italian>
-		<Spanish>Construir el Or&#225;culo, el Parten&#243;n, el Coloso y el Templo de Artemisa antes del 250 a. C.</Spanish>
+		<Spanish>Construir el Orбculo, el Partenуn, el Coloso y el Templo de Artemisa antes del 250 a. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GRE2_EPIC</Tag>
 		<Russian>Build the Oracle, the Parthenon, the Colossus, and the Temple of Artemis by 250 BC</Russian>
 		<English>Build the Oracle, the Parthenon, the Colossus, and the Temple of Artemis by 250 BC</English>
-		<French>Construire l'Oracle, le Parth�non, le Colosse et le Temple d'Art�mis avant 250 av. J.-C.</French>
+		<French>Construire l'Oracle, le Parthénon, le Colosse et le Temple d'Artémis avant 250 av. J.-C.</French>
 		<German>Bauen Sie bis zum Jahr 250 v. Chr. das Orakel, den Parthenon, den Koloss und den Artemis-Tempel</German>
 		<Italian>Devi costruire l'Oracolo, il Partenone, il Colosso e il Tempio di Artemide entro il 250 a.C.</Italian>
-		<Spanish>Construir el Or&#225;culo, el Parten&#243;n, el Coloso y el Templo de Artemisa antes del 250 a. C.</Spanish>
+		<Spanish>Construir el Orбculo, el Partenуn, el Coloso y el Templo de Artemisa antes del 250 a. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GRE2_MARATHON</Tag>
 		<Russian>Build the Oracle, the Parthenon, the Colossus, and the Temple of Artemis by 250 BC</Russian>
 		<English>Build the Oracle, the Parthenon, the Colossus, and the Temple of Artemis by 250 BC</English>
-		<French>Construire l'Oracle, le Parth�non, le Colosse et le Temple d'Art�mis avant 250 av. J.-C.</French>
+		<French>Construire l'Oracle, le Parthénon, le Colosse et le Temple d'Artémis avant 250 av. J.-C.</French>
 		<German>Bauen Sie bis zum Jahr 250 v. Chr. das Orakel, den Parthenon, den Koloss und den Artemis-Tempel</German>
 		<Italian>Devi costruire l'Oracolo, il Partenone, il Colosso e il Tempio di Artemide entro il 250 a.C.</Italian>
-		<Spanish>Construir el Or&#225;culo, el Parten&#243;n, el Coloso y el Templo de Artemisa antes del 250 a. C.</Spanish>
+		<Spanish>Construir el Orбculo, el Partenуn, el Coloso y el Templo de Artemisa antes del 250 a. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GRE3</Tag>
-		<Russian>&#202;&#238;&#237;&#240;&#238;&#235;&#232;&#240;&#238;&#226;&#224;&#242;&#252; &#197;&#227;&#232;&#239;&#229;&#242;, &#212;&#232;&#237;&#232;&#234;&#232;&#254;, &#194;&#224;&#226;&#232;&#235;&#238;&#237;&#232;&#254; &#232; &#207;&#229;&#240;&#241;&#232;&#254; &#234; 330 &#227;&#238;&#228;&#243; &#228;&#238; &#237;.&#253;.</Russian>
+		<Russian>Конролировать Египет, Финикию, Вавилонию и Персию к 330 году до н.э.</Russian>
 		<English>Control Egypt, Phoenicia, Babylonia and Persia in 330 BC</English>
-		<French>Etre le premier � faire le tour du monde</French>
-		<German>Kontrollieren Sie im Jahr 330 v.Chr. �gypten, Ph�nizien, Babylonien und Persien</German>
+		<French>Etre le premier à faire le tour du monde</French>
+		<German>Kontrollieren Sie im Jahr 330 v.Chr. Ägypten, Phönizien, Babylonien und Persien</German>
 		<Italian>Devi essere il primo a circumnavigare il pianeta</Italian>
 		<Spanish>Ser el primero en circunnavegar el globo</Spanish>
 	</TEXT>
@@ -274,8 +274,8 @@
 		<Tag>TXT_KEY_UHV_GRE3_EPIC</Tag>
 		<Russian>Control Egypt, Phoenicia, Babylonia and Persia in 330 BC</Russian>
 		<English>Control Egypt, Phoenicia, Babylonia and Persia in 330 BC</English>
-		<French>Etre le premier � faire le tour du monde</French>
-		<German>Kontrollieren Sie im Jahr 330 v.Chr. �gypten, Ph�nizien, Babylonien und Persien</German>
+		<French>Etre le premier à faire le tour du monde</French>
+		<German>Kontrollieren Sie im Jahr 330 v.Chr. Ägypten, Phönizien, Babylonien und Persien</German>
 		<Italian>Devi essere il primo a circumnavigare il pianeta</Italian>
 		<Spanish>Ser el primero en circunnavegar el globo</Spanish>
 	</TEXT>
@@ -283,8 +283,8 @@
 		<Tag>TXT_KEY_UHV_GRE3_MARATHON</Tag>
 		<Russian>Control Egypt, Phoenicia, Babylonia and Persia in 330 BC</Russian>
 		<English>Control Egypt, Phoenicia, Babylonia and Persia in 330 BC</English>
-		<French>Etre le premier � faire le tour du monde</French>
-		<German>Kontrollieren Sie im Jahr 330 v.Chr. �gypten, Ph�nizien, Babylonien und Persien</German>
+		<French>Etre le premier à faire le tour du monde</French>
+		<German>Kontrollieren Sie im Jahr 330 v.Chr. Ägypten, Phönizien, Babylonien und Persien</German>
 		<Italian>Devi essere il primo a circumnavigare il pianeta</Italian>
 		<Spanish>Ser el primero en circunnavegar el globo</Spanish>
 	</TEXT>
@@ -292,7 +292,7 @@
 		<Tag>TXT_KEY_UHV_PER1</Tag>
 		<Russian>Control 8% of world territory by 140 AD</Russian>
 		<English>Control 8% of world territory by 140 AD</English>
-		<French>Contr�ler 8% du territoire mondial avant 140 ap. J.-C.</French>
+		<French>Contrôler 8% du territoire mondial avant 140 ap. J.-C.</French>
 		<German>Kontrollieren Sie bis zum Jahr 140 n. Chr. 8% der Weltkarte</German>
 		<Italian>Devi controllare l'8% del territorio mondiale entro il 140 d.C.</Italian>
 		<Spanish>Controlar el 8% del territorio mundial antes del 140 d. C.</Spanish>
@@ -301,7 +301,7 @@
 		<Tag>TXT_KEY_UHV_PER1_EPIC</Tag>
 		<Russian>Control 7% of world territory by 140 AD</Russian>
 		<English>Control 7% of world territory by 140 AD</English>
-		<French>Contr�ler 7% du territoire mondial avant 140 ap. J.-C.</French>
+		<French>Contrôler 7% du territoire mondial avant 140 ap. J.-C.</French>
 		<German>Kontrollieren Sie bis zum Jahr 140 n. Chr. 7% der Weltkarte</German>
 		<Italian>Devi controllare l'7% del territorio mondiale entro il 140 d.C.</Italian>
 		<Spanish>Controlar el 7% del territorio mundial antes del 140 d. C.</Spanish>
@@ -310,7 +310,7 @@
 		<Tag>TXT_KEY_UHV_PER1_MARATHON</Tag>
 		<Russian>Control 8% of world territory by 140 AD</Russian>
 		<English>Control 8% of world territory by 140 AD</English>
-		<French>Contr�ler 8% du territoire mondial avant 140 ap. J.-C.</French>
+		<French>Contrôler 8% du territoire mondial avant 140 ap. J.-C.</French>
 		<German>Kontrollieren Sie bis zum Jahr 140 n. Chr. 8% der Weltkarte</German>
 		<Italian>Devi controllare l'8% del territorio mondiale entro il 140 d.C.</Italian>
 		<Spanish>Controlar el 8% del territorio mundial antes del 140 d. C.</Spanish>
@@ -319,7 +319,7 @@
 		<Tag>TXT_KEY_UHV_PER2</Tag>
 		<Russian>Control 7 world wonders by 350 AD</Russian>
 		<English>Control 7 world wonders by 350 AD</English>
-		<French>Contr�ler 7 merveilles du monde avant 350 ap. J.-C.</French>
+		<French>Contrôler 7 merveilles du monde avant 350 ap. J.-C.</French>
 		<German>Kontrollieren Sie bis zum Jahr 350 n. Chr. 7 Weltwunder</German>
 		<Italian>Devi controllare 7 Grandi Meraviglie entro il 350 d.C.</Italian>
 		<Spanish>Controlar 7 grandes maravillas del mundo antes del 350 d. C.</Spanish>
@@ -328,7 +328,7 @@
 		<Tag>TXT_KEY_UHV_PER2_EPIC</Tag>
 		<Russian>Control 7 world wonders by 350 AD</Russian>
 		<English>Control 7 world wonders by 350 AD</English>
-		<French>Contr�ler 7 merveilles du monde avant 350 ap. J.-C.</French>
+		<French>Contrôler 7 merveilles du monde avant 350 ap. J.-C.</French>
 		<German>Kontrollieren Sie bis zum Jahr 350 n. Chr. 7 Weltwunder</German>
 		<Italian>Devi controllare 7 Grandi Meraviglie entro il 350 d.C.</Italian>
 		<Spanish>Controlar 7 grandes maravillas del mundo antes del 350 d. C.</Spanish>
@@ -337,7 +337,7 @@
 		<Tag>TXT_KEY_UHV_PER2_MARATHON</Tag>
 		<Russian>Control 7 world wonders by 350 AD</Russian>
 		<English>Control 7 world wonders by 350 AD</English>
-		<French>Contr�ler 7 merveilles du monde avant 350 ap. J.-C.</French>
+		<French>Contrôler 7 merveilles du monde avant 350 ap. J.-C.</French>
 		<German>Kontrollieren Sie bis zum Jahr 350 n. Chr. 7 Weltwunder</German>
 		<Italian>Devi controllare 7 Grandi Meraviglie entro il 350 d.C.</Italian>
 		<Spanish>Controlar 7 grandes maravillas del mundo antes del 350 d. C.</Spanish>
@@ -346,35 +346,35 @@
 		<Tag>TXT_KEY_UHV_PER3</Tag>
 		<Russian>Control 2 holy city shrines in 350 AD</Russian>
 		<English>Control 2 holy city shrines in 350 AD</English>
-		<French>Contr�ler 2 autels de villes saintes en 350 ap. J.-C.</French>
+		<French>Contrôler 2 autels de villes saintes en 350 ap. J.-C.</French>
 		<German>Kontrollieren Sie im Jahr 350 n. Chr. 2 heilige Schreine</German>
-		<Italian>Devi controllare 2 santuari della Citt� Santa nel 350 d.C.</Italian>
+		<Italian>Devi controllare 2 santuari della Città Santa nel 350 d.C.</Italian>
 		<Spanish>Controlar 2 santuarios de ciudades santas en el 350 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_PER3_EPIC</Tag>
 		<Russian>Control 2 holy city shrines in 350 AD</Russian>
 		<English>Control 2 holy city shrines in 350 AD</English>
-		<French>Contr�ler 2 autels de villes saintes en 350 ap. J.-C.</French>
+		<French>Contrôler 2 autels de villes saintes en 350 ap. J.-C.</French>
 		<German>Kontrollieren Sie im Jahr 350 n. Chr. 2 heilige Schreine</German>
-		<Italian>Devi controllare 2 santuari della Citt� Santa nel 350 d.C.</Italian>
+		<Italian>Devi controllare 2 santuari della Città Santa nel 350 d.C.</Italian>
 		<Spanish>Controlar 2 santuarios de ciudades santas en el 350 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_PER3_MARATHON</Tag>
 		<Russian>Control 2 holy city shrines in 350 AD</Russian>
 		<English>Control 2 holy city shrines in 350 AD</English>
-		<French>Contr�ler 2 autels de villes saintes en 350 ap. J.-C.</French>
+		<French>Contrôler 2 autels de villes saintes en 350 ap. J.-C.</French>
 		<German>Kontrollieren Sie im Jahr 350 n. Chr. 2 heilige Schreine</German>
-		<Italian>Devi controllare 2 santuari della Citt� Santa nel 350 d.C.</Italian>
+		<Italian>Devi controllare 2 santuari della Città Santa nel 350 d.C.</Italian>
 		<Spanish>Controlar 2 santuarios de ciudades santas en el 350 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ROM1</Tag>
 		<Russian>Build 6 Barracks, 5 Aqueducts, 4 Amphitheatres and 3 Forums by 100 AD</Russian>
 		<English>Build 6 Barracks, 5 Aqueducts, 4 Amphitheatres and 3 Forums by 100 AD</English>
-		<French>Construire 5 Casernes, 5 Aqueducs, 5 amphith��tres avant 200 ap. J.-C.</French>
-		<German>Bauen Sie bis zum Jahr 100 n. Chr. 6 Kasernen, 5 Aqu�dukte, 4 Amphitheater und 3 Foren</German>
+		<French>Construire 5 Casernes, 5 Aqueducs, 5 amphithéâtres avant 200 ap. J.-C.</French>
+		<German>Bauen Sie bis zum Jahr 100 n. Chr. 6 Kasernen, 5 Aquädukte, 4 Amphitheater und 3 Foren</German>
 		<Italian>Devi costruire 5 caserme, 5 acquedotti e 5 anfiteatri entro il 200 d.C.</Italian>
 		<Spanish>Construir 5 cuarteles, 5 acueductos y 5 anfiteatros antes del 200 d. C.</Spanish>
 	</TEXT>
@@ -382,8 +382,8 @@
 		<Tag>TXT_KEY_UHV_ROM1_EPIC</Tag>
 		<Russian>Build 6 Barracks, 5 Aqueducts, 4 Amphitheatres and 3 Forums by 100 AD</Russian>
 		<English>Build 6 Barracks, 5 Aqueducts, 4 Amphitheatres and 3 Forums by 100 AD</English>
-		<French>Construire 5 Casernes, 5 Aqueducs, 5 amphith��tres avant 200 ap. J.-C.</French>
-		<German>Bauen Sie bis zum Jahr 100 n. Chr. 6 Kasernen, 5 Aqu�dukte, 4 Amphitheater und 3 Foren</German>
+		<French>Construire 5 Casernes, 5 Aqueducs, 5 amphithéâtres avant 200 ap. J.-C.</French>
+		<German>Bauen Sie bis zum Jahr 100 n. Chr. 6 Kasernen, 5 Aquädukte, 4 Amphitheater und 3 Foren</German>
 		<Italian>Devi costruire 5 caserme, 5 acquedotti e 5 anfiteatri entro il 200 d.C.</Italian>
 		<Spanish>Construir 5 cuarteles, 5 acueductos y 5 anfiteatros antes del 200 d. C.</Spanish>
 	</TEXT>
@@ -391,8 +391,8 @@
 		<Tag>TXT_KEY_UHV_ROM1_MARATHON</Tag>
 		<Russian>Build 6 Barracks, 5 Aqueducts, 4 Amphitheatres and 3 Forums by 100 AD</Russian>
 		<English>Build 6 Barracks, 5 Aqueducts, 4 Amphitheatres and 3 Forums by 100 AD</English>
-		<French>Construire 5 Casernes, 5 Aqueducs, 5 amphith��tres avant 200 ap. J.-C.</French>
-		<German>Bauen Sie bis zum Jahr 100 n. Chr. 6 Kasernen, 5 Aqu�dukte, 4 Amphitheater und 3 Foren</German>
+		<French>Construire 5 Casernes, 5 Aqueducs, 5 amphithéâtres avant 200 ap. J.-C.</French>
+		<German>Bauen Sie bis zum Jahr 100 n. Chr. 6 Kasernen, 5 Aquädukte, 4 Amphitheater und 3 Foren</German>
 		<Italian>Devi costruire 5 caserme, 5 acquedotti e 5 anfiteatri entro il 200 d.C.</Italian>
 		<Spanish>Construir 5 cuarteles, 5 acueductos y 5 anfiteatros antes del 200 d. C.</Spanish>
 	</TEXT>
@@ -400,37 +400,37 @@
 		<Tag>TXT_KEY_UHV_ROM2</Tag>
 		<Russian>Control in 320 AD all the area historically known as the Roman Empire</Russian>
 		<English>Control in 320 AD all the area historically known as the Roman Empire</English>
-		<French>Contr�ler tout le territoire connu historiquement comme l'Empire romain d'Occident en 470 ap. J.-C.</French>
-		<German>Kontrollieren Sie im Jahr 320 n. Chr. das gesamte historische Gebiet des R�mischen Reiches</German>
+		<French>Contrôler tout le territoire connu historiquement comme l'Empire romain d'Occident en 470 ap. J.-C.</French>
+		<German>Kontrollieren Sie im Jahr 320 n. Chr. das gesamte historische Gebiet des Römischen Reiches</German>
 		<Italian>Devi controllare, nel 470 d.C., tutta l'area storicamente conosciuta come Impero Romano d'Occidente</Italian>
-		<Spanish>Controlar toda la zona conocida hist&#243;ricamente como Imperio Romano de occidente en el 470 d. C.</Spanish>
+		<Spanish>Controlar toda la zona conocida histуricamente como Imperio Romano de occidente en el 470 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ROM2_EPIC</Tag>
 		<Russian>Control in 320 AD all the area historically known as the Roman Empire</Russian>
 		<English>Control in 320 AD all the area historically known as the Roman Empire</English>
-		<French>Contr�ler tout le territoire connu historiquement comme l'Empire romain d'Occident en 470 ap. J.-C.</French>
-		<German>Kontrollieren Sie im Jahr 320 n. Chr. das gesamte historische Gebiet des R�mischen Reiches</German>
+		<French>Contrôler tout le territoire connu historiquement comme l'Empire romain d'Occident en 470 ap. J.-C.</French>
+		<German>Kontrollieren Sie im Jahr 320 n. Chr. das gesamte historische Gebiet des Römischen Reiches</German>
 		<Italian>Devi controllare, nel 470 d.C., tutta l'area storicamente conosciuta come Impero Romano d'Occidente</Italian>
-		<Spanish>Controlar toda la zona conocida hist&#243;ricamente como Imperio Romano de occidente en el 470 d. C.</Spanish>
+		<Spanish>Controlar toda la zona conocida histуricamente como Imperio Romano de occidente en el 470 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ROM2_MARATHON</Tag>
 		<Russian>Control in 320 AD all the area historically known as the Roman Empire</Russian>
 		<English>Control in 320 AD all the area historically known as the Roman Empire</English>
-		<French>Contr�ler tout le territoire connu historiquement comme l'Empire romain d'Occident en 470 ap. J.-C.</French>
-		<German>Kontrollieren Sie im Jahr 320 n. Chr. das gesamte historische Gebiet des R�mischen Reiches</German>
+		<French>Contrôler tout le territoire connu historiquement comme l'Empire romain d'Occident en 470 ap. J.-C.</French>
+		<German>Kontrollieren Sie im Jahr 320 n. Chr. das gesamte historische Gebiet des Römischen Reiches</German>
 		<Italian>Devi controllare, nel 470 d.C., tutta l'area storicamente conosciuta come Impero Romano d'Occidente</Italian>
-		<Spanish>Controlar toda la zona conocida hist&#243;ricamente como Imperio Romano de occidente en el 470 d. C.</Spanish>
+		<Spanish>Controlar toda la zona conocida histуricamente como Imperio Romano de occidente en el 470 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ROM3</Tag>
 		<Russian>Be the first to discover Theology, Machinery and Civil Service</Russian>
 		<English>Be the first to discover Theology, Machinery and Civil Service</English>
 		<French>Ne perdre aucune ville aux barbares avant 1000 ap. J.-C.</French>
-		<German>Enforschen Sie vor allen anderen Zivilisationen Theologie, Maschinen und �ffentliche Verwaltung</German>
-		<Italian>I barbari non devono conquistare alcuna tua citt&#224; prima del 1000 d.C.</Italian>
-		<Spanish>No perder una ciudad a manos de los b&#225;rbaros antes del 1000 d. C.</Spanish>
+		<German>Enforschen Sie vor allen anderen Zivilisationen Theologie, Maschinen und Öffentliche Verwaltung</German>
+		<Italian>I barbari non devono conquistare alcuna tua cittа prima del 1000 d.C.</Italian>
+		<Spanish>No perder una ciudad a manos de los bбrbaros antes del 1000 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_JAP1</Tag>
@@ -438,7 +438,7 @@
 		<English>Have an average city culture of 6000 by 1600 AD without ever losing a city</English>
 		<French>Avoir plus de 18000 en Culture en 1600 ap. J.-C.</French>
 		<German>Erreichen Sie bis zum Jahr 1600 n. Chr. durchschnittlich 6000 Kulturpunkte pro Stadt, ohne jemals eine Stadt zu verlieren</German>
-		<Italian>Devi avere pi� di 18.000 cultura nel 1600 d.C.</Italian>
+		<Italian>Devi avere più di 18.000 cultura nel 1600 d.C.</Italian>
 		<Spanish>Conseguir una cultura superior a 18.000 en el 1600 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -446,8 +446,8 @@
 		<Russian>Have an average city culture of 9000 by 1600 AD</Russian>		
 		<English>Have an average city culture of 9000 by 1600 AD</English>
 		<French>Avoir plus de 27000 en Culture en 1600 ap. J.-C.</French>
-		<German>Haben Sie bis zum Jahr 1600 n. Chr. durchschnittlich 9000 Kulturpunkte in Ihren St�dten</German>
-		<Italian>Devi avere pi� di 27.000 cultura nel 1600 d.C.</Italian>
+		<German>Haben Sie bis zum Jahr 1600 n. Chr. durchschnittlich 9000 Kulturpunkte in Ihren Städten</German>
+		<Italian>Devi avere più di 27.000 cultura nel 1600 d.C.</Italian>
 		<Spanish>Conseguir una cultura superior a 27.000 en el 1600 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -455,70 +455,70 @@
 		<Russian>Have an average city culture of 18000 by 1600 AD</Russian>
 		<English>Have an average city culture of 18000 by 1600 AD</English>
 		<French>Avoir plus de 54000 en Culture en 1600 ap. J.-C.</French>
-		<German>Haben Sie bis zum Jahr 1600 n. Chr. durchschnittlich 18000 Kulturpunkte in Ihren St�dten</German>
-		<Italian>Devi avere pi� di 54.000 cultura nel 1600 d.C.</Italian>
+		<German>Haben Sie bis zum Jahr 1600 n. Chr. durchschnittlich 18000 Kulturpunkte in Ihren Städten</German>
+		<Italian>Devi avere più di 54.000 cultura nel 1600 d.C.</Italian>
 		<Spanish>Conseguir una cultura superior a 54.000 en el 1600 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_JAP2</Tag>
-		<Russian>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#232;&#240;&#238;&#226;&#224;&#242;&#252; &#232;&#235;&#232; &#241;&#228;&#229;&#235;&#224;&#242;&#252; &#226;&#224;&#241;&#241;&#224;&#235;&#224;&#236;&#232; &#202;&#238;&#240;&#229;&#254;, &#204;&#224;&#237;&#252;&#247;&#230;&#243;&#240;&#232;&#254;, &#202;&#232;&#242;&#224;&#233;, &#200;&#237;&#228;&#238;&#234;&#232;&#242;&#224;&#233;, &#200;&#237;&#228;&#238;&#237;&#229;&#231;&#232;&#254; &#232; &#212;&#232;&#235;&#232;&#239;&#239;&#232;&#237;&#251; &#226; 1940 &#227;&#238;&#228;&#243;</Russian>
+		<Russian>Контролировать или сделать вассалами Корею, Маньчжурию, Китай, Индокитай, Индонезию и Филиппины в 1940 году</Russian>
 		<English>Control or vassalize Korea, Manchuria, China, Indochina, Indonesia and Philippines in 1940 AD</English>
 		<French>Avoir le meilleur score en 1930 ap. J.-C.</French>
 		<German>Kontrollieren oder vasallisieren Sie im Jahr 1940 n. Chr. Korea, die Mandschurei, China, Indochina, Indonesian und die Philippinen</German>
-		<Italian>Devi avere il punteggio pi� alto nel 1930 d.C.</Italian>
-		<Spanish>Tener la puntuaci&#243;n m&#225;s alta en el 1930 d. C.</Spanish>
+		<Italian>Devi avere il punteggio più alto nel 1930 d.C.</Italian>
+		<Spanish>Tener la puntuaciуn mбs alta en el 1930 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_JAP3</Tag>
 		<Russian>Be the first to discover five modern technologies</Russian>
 		<English>Be the first to discover five modern technologies</English>
-		<French>Etre le premier � compl�ter l'arbre technologique</French>
-		<German>Erforschen Sie als erster f�nf Technologien der Moderne</German>
+		<French>Etre le premier à compléter l'arbre technologique</French>
+		<German>Erforschen Sie als erster fünf Technologien der Moderne</German>
 		<Italian>Devi essere il primo a completare l'albero delle tecnologie</Italian>
-		<Spanish>Ser el primero en completar el &#225;rbol tecnol&#243;gico</Spanish>
+		<Spanish>Ser el primero en completar el бrbol tecnolуgico</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ARA1</Tag>
-		<Russian>&#193;&#251;&#242;&#252; &#241;&#224;&#236;&#238;&#233; &#240;&#224;&#231;&#226;&#232;&#242;&#238;&#233; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#229;&#233; &#226; 1300 &#227;&#238;&#228;&#243; &#237;.&#253;.</Russian>
+		<Russian>Быть самой развитой цивилизацией в 1300 году н.э.</Russian>
 		<English>Be the most advanced civilization in 1300 AD</English>
-		<French>Contr�ler 3 autels de villes saintes en 1300 ap. J.-C.</French>
+		<French>Contrôler 3 autels de villes saintes en 1300 ap. J.-C.</French>
 		<German>Seien Sie im Jahr 1300 n. Chr. die fortschrittlichste Zivilisation</German>
-		<Italian>Devi controllare 3 santuari della Citt� Santa nel 1300 d.C.</Italian>
+		<Italian>Devi controllare 3 santuari della Città Santa nel 1300 d.C.</Italian>
 		<Spanish>Controlar 3 santuarios de ciudades santas en el 1300 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ARA2</Tag>
-		<Russian>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#232;&#240;&#238;&#226;&#224;&#242;&#252; &#197;&#227;&#232;&#239;&#229;&#242;, &#204;&#224;&#227;&#240;&#232;&#225;, &#200;&#241;&#239;&#224;&#237;&#232;&#254;, &#204;&#229;&#230;&#228;&#243;&#240;&#229;&#247;&#252;&#229; &#232; &#207;&#229;&#240;&#241;&#232;&#254; &#237;&#229;&#239;&#238;&#241;&#240;&#229;&#228;&#241;&#242;&#226;&#229;&#237;&#237;&#238; &#232;&#235;&#232; &#247;&#229;&#240;&#229;&#231; &#226;&#224;&#241;&#241;&#224;&#235;&#238;&#226; &#226; 1300 &#227;&#238;&#228;&#243; &#237;.&#253;.</Russian>
+		<Russian>Контролировать Египет, Магриб, Испанию, Междуречье и Персию непосредственно или через вассалов в 1300 году н.э.</Russian>
 		<English>Control Egypt, the Maghreb, Spain, Mesopotamia and Persia directly or by vassal in 1300 AD</English>
-		<French>Contr�ler ou vassaliser l'Egypte, l'Espagne et Carthage avant 1300 ap. J.-C.</French>
-		<German>Bringen Sie im Jahr 1300 n. Chr. �gypten, den Maghreb, Spanien, Mesopotamien und Persien unter Ihre Kontrolle oder machen Sie sie zu Vasallenstaaten</German>
+		<French>Contrôler ou vassaliser l'Egypte, l'Espagne et Carthage avant 1300 ap. J.-C.</French>
+		<German>Bringen Sie im Jahr 1300 n. Chr. Ägypten, den Maghreb, Spanien, Mesopotamien und Persien unter Ihre Kontrolle oder machen Sie sie zu Vasallenstaaten</German>
 		<Italian>Entro il 1300 d.C. devi controllare o aver reso stati vassalli Egitto, Spagna e Cartagine</Italian>
-		<Spanish>Controlar o convertir en estados vasallos a Egipto, Espa&#241;a y Cartago en el 1300 d. C.</Spanish>
+		<Spanish>Controlar o convertir en estados vasallos a Egipto, Espaсa y Cartago en el 1300 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ARA3</Tag>
-		<Russian>&#208;&#224;&#241;&#239;&#240;&#238;&#241;&#242;&#240;&#224;&#237;&#232;&#242;&#252; &#232;&#241;&#235;&#224;&#236; &#237;&#224; 40% &#227;&#238;&#240;&#238;&#228;&#238;&#226; &#236;&#232;&#240;&#224;</Russian>
+		<Russian>Распространить ислам на 40% городов мира</Russian>
 		<English>Spread Islam to 40% of the cities in the world</English>
-		<French>R�pandre l'Islam � 40% des villes du monde</French>
-		<German>Sorgen Sie f�r eine weltweit 40%%-ige Verbreitung des Islam</German>
-		<Italian>Diffondi l'Islam nel 40% delle citt&#224; mondiali</Italian>
+		<French>Répandre l'Islam à 40% des villes du monde</French>
+		<German>Sorgen Sie für eine weltweit 40%%-ige Verbreitung des Islam</German>
+		<Italian>Diffondi l'Islam nel 40% delle cittа mondiali</Italian>
 		<Spanish>Propagar el Islam al 40% de las ciudades del mundo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_SPA1</Tag>
 		<Russian>Be the first to found a colony in America</Russian>
 		<English>Be the first to found a colony in America</English>
-		<French>Etre le premier � fonder une ville en Am�rique</French>
-		<German>Gr�nden Sie vor allen anderen Zivilisationen die erste Kolonie in Amerika</German>
-		<Italian>Devi essere il primo a fondare una citt&#224; in America</Italian>
-		<Spanish>Ser el primero en fundar una ciudad en Am&#233;rica</Spanish>
+		<French>Etre le premier à fonder une ville en Amérique</French>
+		<German>Gründen Sie vor allen anderen Zivilisationen die erste Kolonie in Amerika</German>
+		<Italian>Devi essere il primo a fondare una cittа in America</Italian>
+		<Spanish>Ser el primero en fundar una ciudad en Amйrica</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_SPA2</Tag>
-		<Russian>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#232;&#240;&#238;&#226;&#224;&#242;&#252; 10 &#236;&#229;&#241;&#242;&#238;&#240;&#238;&#230;&#228;&#229;&#237;&#232;&#233; &#241;&#229;&#240;&#229;&#225;&#240;&#224; &#232; &#231;&#238;&#235;&#238;&#242;&#224; &#226; 1650 &#227;&#238;&#228;&#243; &#237;.&#253;.</Russian>
+		<Russian>Контролировать 10 месторождений серебра и золота в 1650 году н.э.</Russian>
 		<English>Secure a total of 10 silver and gold resources by 1650 AD</English>
-		<French>Contr�ler tous les territoires azt�ques et incas en 1700 ap. J.-C.</French>
-		<German>Erschlie�en Sie bis zum Jahr 1650 n. Chr. insgesamt 10 Silber- und Goldvorkommen</German>
+		<French>Contrôler tous les territoires aztèques et incas en 1700 ap. J.-C.</French>
+		<German>Erschließen Sie bis zum Jahr 1650 n. Chr. insgesamt 10 Silber- und Goldvorkommen</German>
 		<Italian>Controlla tutti i territori inca e aztechi nel 1700 d.C.</Italian>
 		<Spanish>Controlar todo el territorio azteca e inca en el 1700 d. C.</Spanish>
 	</TEXT>
@@ -526,117 +526,117 @@
 		<Tag>TXT_KEY_UHV_SPA3</Tag>
 		<Russian>Spread Catholicism to 40% of the world population and allow no Protestant civilizations in Europe in 1650 AD</Russian>
 		<English>Spread Catholicism to 40% of the world population and allow no Protestant civilizations in Europe in 1650 AD</English>
-		<French>Aucune ville anglaise, fran�aise ou n&#233;erlandaise construite en Am�rique en 1700 ap. J.-C.</French>
-		<German>Verbreiten Sie den Katholizismus zu 40% der Weltbev�lkerung und erlauben sie im Jahr 1650 n. Chr. keine protestantischen Zivilisationen in Europa</German>
+		<French>Aucune ville anglaise, française ou nйerlandaise construite en Amérique en 1700 ap. J.-C.</French>
+		<German>Verbreiten Sie den Katholizismus zu 40% der Weltbevölkerung und erlauben sie im Jahr 1650 n. Chr. keine protestantischen Zivilisationen in Europa</German>
 		<Italian>Non permettere alcuna colonia inglese, francese o olandese in America nel 1700 d.C.</Italian>
-		<Spanish>Asegurarse de que no haya ciudades inglesas, francesas o holandesas en Am�rica en el 1700 d.C.</Spanish>
+		<Spanish>Asegurarse de que no haya ciudades inglesas, francesas o holandesas en América en el 1700 d.C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_FRA1</Tag>
-		<Russian>&#205;&#224;&#234;&#238;&#239;&#232;&#242;&#252; &#237;&#229; &#236;&#229;&#237;&#229;&#229; 25000 [ICON_CULTURE] &#226; &#207;&#224;&#240;&#232;&#230;&#229; &#226; 1700 &#227;&#238;&#228;&#243; &#237;.&#253;.</Russian>
+		<Russian>Накопить не менее 25000 [ICON_CULTURE] в Париже в 1700 году н.э.</Russian>
 		<English>Have 25000 culture in Paris in 1700 AD</English>
 		<French>Faire de Paris la ville avec la culture la plus importante en 1700 ap. J.-C.</French>
 		<German>Haben Sie im Jahr 1700 n. Chr. 25.000 Kulturpunkte in Paris</German>
-		<Italian>Rendi Parigi la citt� con la cultura pi� alta nel mondo nel 1700 d.C.</Italian>
-		<Spanish>Convertir Par�s en la ciudad con la mayor cultura del mundo en el 1700 d. C.</Spanish>
+		<Italian>Rendi Parigi la città con la cultura più alta nel mondo nel 1700 d.C.</Italian>
+		<Spanish>Convertir París en la ciudad con la mayor cultura del mundo en el 1700 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_FRA1_EPIC</Tag>
-		<Russian>&#205;&#224;&#234;&#238;&#239;&#232;&#242;&#252; &#237;&#229; &#236;&#229;&#237;&#229;&#229; 37500 [ICON_CULTURE] &#226; &#207;&#224;&#240;&#232;&#230;&#229; &#226; 1700 &#227;&#238;&#228;&#243; &#237;.&#253;.</Russian>
+		<Russian>Накопить не менее 37500 [ICON_CULTURE] в Париже в 1700 году н.э.</Russian>
 		<English>Have 37500 culture in Paris in 1700 AD</English>
 		<French>Faire de Paris la ville avec la culture la plus importante en 1700 ap. J.-C.</French>
 		<German>Haben Sie im Jahr 1700 n. Chr. 37.500 Kulturpunkte in Paris</German>
-		<Italian>Rendi Parigi la citt� con la cultura pi� alta nel mondo nel 1700 d.C.</Italian>
-		<Spanish>Convertir Par�s en la ciudad con la mayor cultura del mundo en el 1700 d. C.</Spanish>
+		<Italian>Rendi Parigi la città con la cultura più alta nel mondo nel 1700 d.C.</Italian>
+		<Spanish>Convertir París en la ciudad con la mayor cultura del mundo en el 1700 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_FRA1_MARATHON</Tag>
-		<Russian>&#205;&#224;&#234;&#238;&#239;&#232;&#242;&#252; &#237;&#229; &#236;&#229;&#237;&#229;&#229; 75000 [ICON_CULTURE] &#226; &#207;&#224;&#240;&#232;&#230;&#229; &#226; 1700 &#227;&#238;&#228;&#243; &#237;.&#253;.</Russian>
+		<Russian>Накопить не менее 75000 [ICON_CULTURE] в Париже в 1700 году н.э.</Russian>
 		<English>Have 75000 culture in Paris in 1700 AD</English>
 		<French>Faire de Paris la ville avec la culture la plus importante en 1700 ap. J.-C.</French>
 		<German>Haben Sie im Jahr 1700 n. Chr. 75.000 Kulturpunkte in Paris</German>
-		<Italian>Rendi Parigi la citt� con la cultura pi� alta nel mondo nel 1700 d.C.</Italian>
-		<Spanish>Convertir Par�s en la ciudad con la mayor cultura del mundo en el 1700 d. C.</Spanish>
+		<Italian>Rendi Parigi la città con la cultura più alta nel mondo nel 1700 d.C.</Italian>
+		<Spanish>Convertir París en la ciudad con la mayor cultura del mundo en el 1700 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_FRA2</Tag>
-		<Russian>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#232;&#240;&#238;&#226;&#224;&#242;&#252; &#232;&#235;&#232; &#241;&#228;&#229;&#235;&#224;&#242;&#252; &#226;&#224;&#241;&#241;&#224;&#235;&#224;&#236;&#232; 40% &#197;&#226;&#240;&#238;&#239;&#251; &#232; &#209;&#229;&#226;&#229;&#240;&#237;&#238;&#233; &#192;&#236;&#229;&#240;&#232;&#234;&#232; &#226; 1800 &#227;&#238;&#228;&#243; &#237;.&#253;.</Russian>
+		<Russian>Контролировать или сделать вассалами 40% Европы и Северной &#192;мерики в 1800 году н.э.</Russian>
 		<English>Control or vassalize 40% of Europe and North America in 1800 AD</English>
-		<French>Coloniser le Qu�bec, la baie d'Hudson et la Louisiane avant 1760 ap. J.-C.</French>
+		<French>Coloniser le Québec, la baie d'Hudson et la Louisiane avant 1760 ap. J.-C.</French>
 		<German>Kontrollieren oder vassalisieren Sie im Jahr 1800 n. Chr. 40% von Europa und Nordamerika</German>
 		<Italian>Colonizza Quebec, Baia di Hudson e Louisiana entro il 1760 d.C.</Italian>
-		<Spanish>Colonizar Quebec, la Bah&#237;a de Hudson y Louisiana antes del 1760 d. C.</Spanish>
+		<Spanish>Colonizar Quebec, la Bahнa de Hudson y Louisiana antes del 1760 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_FRA3</Tag>
-		<Russian>&#207;&#238;&#241;&#242;&#240;&#238;&#232;&#242;&#252; &#205;&#238;&#242;&#240; &#196;&#224;&#236;, &#194;&#229;&#240;&#241;&#224;&#235;&#252;, &#209;&#242;&#224;&#242;&#243;&#254; &#209;&#226;&#238;&#225;&#238;&#228;&#251; &#232; &#221;&#233;&#244;&#229;&#235;&#229;&#226;&#243; &#225;&#224;&#248;&#237;&#254; &#234; 1900 &#227;&#238;&#228;&#243;.</Russian>
+		<Russian>Построить Нотр Дам, Версаль, Статую Свободы и Эйфелеву башню к 1900 году.</Russian>
 		<English>Build Notre Dame, Versailles, the Statue of Liberty and the Eiffel Tower by 1900 AD</English>
-		<French>Construire Notre Dame, la Statue de la Libert� et la Tour Eiffel avant 1900 ap. J.-C.</French>
+		<French>Construire Notre Dame, la Statue de la Liberté et la Tour Eiffel avant 1900 ap. J.-C.</French>
 		<German>Bauen Sie bis zum Jahr 1900 n. Chr. Notre Dame, Versailles, die Freiheitsstatue und den Eiffelturm</German>
-		<Italian>Devi costruire Notre Dame, la Statua della Libert&#224; e la Torre Eiffel entro il 1900 d.C.</Italian>
+		<Italian>Devi costruire Notre Dame, la Statua della Libertа e la Torre Eiffel entro il 1900 d.C.</Italian>
 		<Spanish>Construir Notre Dame, la Estatua de la Libertad y la Torre Eiffel antes del 1900 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ENG1</Tag>
-		<Russian>&#202;&#238;&#235;&#238;&#237;&#232;&#231;&#232;&#240;&#238;&#226;&#224;&#242;&#252; &#234;&#224;&#230;&#228;&#251;&#233; &#234;&#238;&#237;&#242;&#232;&#237;&#229;&#237;&#242; &#234; 1730 &#227;&#238;&#228;&#243;</Russian>
+		<Russian>Колонизировать каждый континент к 1730 году</Russian>
 		<English>Colonize every continent by 1730 AD</English>
 		<French>Fonder au moins 3 villes sur chaque continent avant 1730 ap. J.-C.</French>
 		<German>Kolonisieren Sie bis zum Jahr 1730 n. Chr. jeden Kontinent</German>
-		<Italian>Fonda almeno 3 citt&#224; in ciascun continente entro il 1730 d.C.</Italian>
+		<Italian>Fonda almeno 3 cittа in ciascun continente entro il 1730 d.C.</Italian>
 		<Spanish>Fundar al menos 3 ciudades en cada continente antes del 1730 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ENG2</Tag>
 		<Russian>Control a total of 25 frigates or ships of the line and sink 50 enemy ships by 1800 AD</Russian>
 		<English>Control a total of 25 frigates or ships of the line and sink 50 enemy ships by 1800 AD</English>
-		<French>Etre le premier � faire le tour du monde</French>
+		<French>Etre le premier à faire le tour du monde</French>
 		<German>Kontrollieren Sie bis zum Jahr 1800 n. Chr. insgesamt 25 Fregatten oder Linienschiffe und versenken Sie 50 gegnerische Schiffe</German>
 		<Italian>Devi essere il primo a circumnavigare il pianeta</Italian>
 		<Spanish>Ser el primero en circunnavegar el globo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ENG3</Tag>
-		<Russian>&#207;&#229;&#240;&#226;&#251;&#236;&#232; &#226;&#238;&#233;&#242;&#232; &#226; &#207;&#240;&#238;&#236;&#251;&#248;&#235;&#229;&#237;&#237;&#243;&#254; &#232; &#209;&#238;&#226;&#240;&#229;&#236;&#229;&#237;&#237;&#243;&#254; &#253;&#239;&#238;&#245;&#243;</Russian>
+		<Russian>Первыми войти в Промышленную и Современную эпоху</Russian>
 		<English>Be the first to enter Industrial and Modern eras</English>
-		<French>Etre le premier � entrer dans les �res industrielle et moderne</French>
+		<French>Etre le premier à entrer dans les ères industrielle et moderne</French>
 		<German>Erreichen Sie vor allen anderen Zivilisationen das Industriezeitalter und die Moderne</German>
-		<Italian>Devi essere il primo a entrare nell'et&#224; industriale e in quella moderna</Italian>
+		<Italian>Devi essere il primo a entrare nell'etа industriale e in quella moderna</Italian>
 		<Spanish>Ser el primero en entrar en las eras Industrial y Moderna</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GER1</Tag>
-		<Russian>&#207;&#238;&#241;&#229;&#235;&#232;&#242;&#252; 7 &#226;&#229;&#235;&#232;&#234;&#232;&#245; &#235;&#254;&#228;&#229;&#233; &#226; &#193;&#229;&#240;&#235;&#232;&#237;&#229; &#226; 1900 &#227;&#238;&#228;&#243;</Russian>
+		<Russian>Поселить 7 великих людей в Берлине в 1900 году</Russian>
 		<English>Have 7 great people in Berlin in 1900 AD</English>
-		<French>Contr�ler Rome, la Gr�ce et la France en 1870 ap. J.-C.</French>
-		<German>Haben Sie 7 gro�e Pers�nlichkeiten in Berlin im Jahr 1900 n. Chr.</German>
+		<French>Contrôler Rome, la Grèce et la France en 1870 ap. J.-C.</French>
+		<German>Haben Sie 7 große Persönlichkeiten in Berlin im Jahr 1900 n. Chr.</German>
 		<Italian>Controlla Roma, Grecia e Francia nel 1870 d.C.</Italian>
 		<Spanish>Controlar Roma, Grecia y Francia en el 1870 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GER2</Tag>
-		<Russian>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#232;&#240;&#238;&#226;&#224;&#242;&#252; &#200;&#242;&#224;&#235;&#232;&#254;, &#212;&#240;&#224;&#237;&#246;&#232;&#254;, &#209;&#234;&#224;&#237;&#228;&#232;&#237;&#224;&#226;&#232;&#254;, &#192;&#237;&#227;&#235;&#232;&#254; &#232; &#208;&#238;&#241;&#241;&#232;&#254; &#226; 1940 &#227;&#238;&#228;&#243;.</Russian>
+		<Russian>Контролировать Италию, Францию, Скандинавию, &#192;нглию и Россию в 1940 году.</Russian>
 		<English>Control Italy, France, Scandinavia, England and Russia in 1940 AD</English>
-		<French>Contr�ler la Scandinavie, l'Angleterre et la Russie en 1940 ap. J.-C.</French>
+		<French>Contrôler la Scandinavie, l'Angleterre et la Russie en 1940 ap. J.-C.</French>
 		<German>Kontrollieren Sie im Jahr 1940 n. Chr. Italien, Frankreich, Skandinavien, England und Russland</German>
 		<Italian>Controlla Scandinavia, Inghilterra e Russia nel 1940 d.C.</Italian>
 		<Spanish>Controlar Escandinavia, Inglaterra y Rusia en el 1940 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GER3</Tag>
-		<Russian>&#207;&#229;&#240;&#226;&#251;&#236;&#232; &#231;&#224;&#226;&#229;&#240;&#248;&#232;&#242;&#252; &#228;&#229;&#240;&#229;&#226;&#238; &#242;&#229;&#245;&#237;&#238;&#235;&#238;&#227;&#232;&#233;</Russian>
+		<Russian>Первыми завершить дерево технологий</Russian>
 		<English>Be the first to complete the tech tree</English>
-		<French>Etre le premier � compl�ter l'arbre technologique</French>
-		<German>Erforschen Sie vor allen anderen Zivilisationen s�mtliche Technologien des Technologiebaums</German>
+		<French>Etre le premier à compléter l'arbre technologique</French>
+		<German>Erforschen Sie vor allen anderen Zivilisationen sämtliche Technologien des Technologiebaums</German>
 		<Italian>Devi essere il primo a completare l'albero delle tecnologie</Italian>
-		<Spanish>Ser el primero en completar el &#225;rbol tecnol&#243;gico</Spanish>
+		<Spanish>Ser el primero en completar el бrbol tecnolуgico</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_RUS1</Tag>
 		<Russian>Found 7 colonies in Siberia by 1700 AD and build the Trans-Siberian Railway by 1920 AD</Russian>
 		<English>Found 7 colonies in Siberia by 1700 AD and build the Trans-Siberian Railway by 1920 AD</English>
-		<French>Coloniser la Sib�rie (7 villes) avant 1700 ap. J.-C.</French>
-		<German>Gr�nden Sie bis zum Jahr 1700 n. Chr. 7 sibirische Kolonien und bauen Sie bis zum Jahr 1920 n. Chr. die transsibirische Eisenbahn</German>
-		<Italian>Colonizza la Siberia (7 citt&#224;) entro il 1700 d.C.</Italian>
+		<French>Coloniser la Sibérie (7 villes) avant 1700 ap. J.-C.</French>
+		<German>Gründen Sie bis zum Jahr 1700 n. Chr. 7 sibirische Kolonien und bauen Sie bis zum Jahr 1920 n. Chr. die transsibirische Eisenbahn</German>
+		<Italian>Colonizza la Siberia (7 cittа) entro il 1700 d.C.</Italian>
 		<Spanish>Colonizar Siberia (7 ciudades) antes del 1700 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -644,17 +644,17 @@
 		<Russian>Be the first civilization to complete the Manhattan Project and the Apollo Program</Russian>
 		<English>Be the first civilization to complete the Manhattan Project and the Apollo Program</English>
 		<French>Construire le programme Apollo avant 1950 ap. J.-C.</French>
-		<German>Seien Sie die erste Zivilisation, die das Manhattan-Projekt und das Apollo-Programm vervollst�ndigt</German>
+		<German>Seien Sie die erste Zivilisation, die das Manhattan-Projekt und das Apollo-Programm vervollständigt</German>
 		<Italian>Costruisci il Programma Apollo entro il 1950 d.C.</Italian>
 		<Spanish>Concluir el Programa Apollo antes del 1950 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_RUS3</Tag>
-		<Russian>&#200;&#236;&#229;&#242;&#252; &#228;&#240;&#243;&#230;&#229;&#241;&#242;&#226;&#229;&#237;&#237;&#251;&#229; &#238;&#242;&#237;&#238;&#248;&#229;&#237;&#232;&#255; &#241; 5 &#234;&#238;&#236;&#236;&#243;&#237;&#232;&#241;&#242;&#232;&#247;&#229;&#241;&#234;&#232;&#236;&#232; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#255;&#236;&#232; &#234; 1950 &#227;&#238;&#228;&#243;</Russian>
+		<Russian>Иметь дружественные отношения с 5 коммунистическими цивилизациями к 1950 году</Russian>
 		<English>Have friendly relations with 5 communist civilisations by 1950 AD</English>
 		<French>Ne perdre aucune ville avant 1950 ap. J.-C.</French>
 		<German>Haben Sie bis zum Jahr 1950 n. Chr. freundliche Beziehungen zu 5 kommunistischen Zivilisationen</German>
-		<Italian>Non farti conquistare alcuna citt&#224; fino al 1950 d.C.</Italian>
+		<Italian>Non farti conquistare alcuna cittа fino al 1950 d.C.</Italian>
 		<Spanish>No perder una ciudad hasta el 1950 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -662,16 +662,16 @@
 		<Russian>Conduct a trade mission to your holy city by 1350 AD</Russian>
 		<English>Conduct a trade mission to your holy city by 1350 AD</English>
 		<French>Avoir le plus d'or en 1300 ap. J.-C.</French>
-		<German>F�hren Sie bis zum Jahr 1350 n. Chr. eine Handelsmission zu Ihrer heiligen Stadt durch</German>
-		<Italian>Devi avere la pi� grossa quantit� di oro al mondo nel 1300 d.C.</Italian>
-		<Spanish>Tener m�s oro que nadie en el 1300 d. C.</Spanish>
+		<German>Führen Sie bis zum Jahr 1350 n. Chr. eine Handelsmission zu Ihrer heiligen Stadt durch</German>
+		<Italian>Devi avere la più grossa quantità di oro al mondo nel 1300 d.C.</Italian>
+		<Spanish>Tener más oro que nadie en el 1300 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MAL2</Tag>
 		<Russian>Build the University of Sankore and settle a great prophet in its city by 1500 AD</Russian>
 		<English>Build the University of Sankore and settle a great prophet in its city by 1500 AD</English>
 		<French>Avoir 4000 en or en 1500 ap. J.-C.</French>
-		<German>Bauen Sie bis zum Jahr die Universit�t von Sankore und siedeln Sie einen gro�en Propheten in ihrer Stadt an</German>
+		<German>Bauen Sie bis zum Jahr die Universität von Sankore und siedeln Sie einen großen Propheten in ihrer Stadt an</German>
 		<Italian>Devi avere 4.000 oro nel 1500 d.C.</Italian>
 		<Spanish>Tener 4.000 monedas de oro en el 1500 d. C.</Spanish>
 	</TEXT>
@@ -680,7 +680,7 @@
 		<Russian>Have 5000 gold in 1500 AD and 15000 gold in 1700 AD</Russian>
 		<English>Have 5000 gold in 1500 AD and 15000 gold in 1700 AD</English>
 		<French>Avoir 16000 en or en 1700 ap. J.-C.</French>
-		<German>Verf�gen Sie im Jahr 1500 n. Chr. �ber 5000 Gold und im Jahr 1700 n. Chr. �ber 15.000 Gold</German>
+		<German>Verfügen Sie im Jahr 1500 n. Chr. über 5000 Gold und im Jahr 1700 n. Chr. über 15.000 Gold</German>
 		<Italian>Devi avere 16.000 oro nel 1700 d.C.</Italian>
 		<Spanish>Tener 16.000 monedas de oro en el 1700 d. C.</Spanish>
 	</TEXT>
@@ -689,7 +689,7 @@
 		<Russian>Have 7500 gold in 1500 AD and 22500 gold in 1700 AD</Russian>
 		<English>Have 7500 gold in 1500 AD and 22500 gold in 1700 AD</English>
 		<French>Avoir 16000 en or en 1700 ap. J.-C.</French>
-		<German>Verf�gen Sie im Jahr 1500 n. Chr. �ber 7500 Gold und im Jahr 1700 n. Chr. �ber 22.500 Gold</German>
+		<German>Verfügen Sie im Jahr 1500 n. Chr. über 7500 Gold und im Jahr 1700 n. Chr. über 22.500 Gold</German>
 		<Italian>Devi avere 16.000 oro nel 1700 d.C.</Italian>
 		<Spanish>Tener 16.000 monedas de oro en el 1700 d. C.</Spanish>
 	</TEXT>
@@ -698,7 +698,7 @@
 		<Russian>Have 15000 gold in 1500 AD and 45000 gold in 1700 AD</Russian>
 		<English>Have 15000 gold in 1500 AD and 45000 gold in 1700 AD</English>
 		<French>Avoir 16000 en or en 1700 ap. J.-C.</French>
-		<German>Verf�gen Sie im Jahr 1500 n. Chr. �ber 15000 Gold und im Jahr 1700 n. Chr. �ber 45.000 Gold</German>
+		<German>Verfügen Sie im Jahr 1500 n. Chr. über 15000 Gold und im Jahr 1700 n. Chr. über 45.000 Gold</German>
 		<Italian>Devi avere 16.000 oro nel 1700 d.C.</Italian>
 		<Spanish>Tener 16.000 monedas de oro en el 1700 d. C.</Spanish>
 	</TEXT>
@@ -706,17 +706,17 @@
 		<Tag>TXT_KEY_UHV_INC1</Tag>
 		<Russian>Build five Tambos and a road along the Andean Coast by 1500 AD</Russian>
 		<English>Build five Tambos and a road along the Andean Coast by 1500 AD</English>
-		<French>Aucune colonie europ�enne en Am�rique du sud (sauf le Br�sil) en 1600 ap. J.-C.</French>
-		<German>Bauen Sie bis zum Jahr 1500 n. Chr. f�nf Tambos und eine Stra�e entlang der Andenk�ste</German>
+		<French>Aucune colonie européenne en Amérique du sud (sauf le Brésil) en 1600 ap. J.-C.</French>
+		<German>Bauen Sie bis zum Jahr 1500 n. Chr. fünf Tambos und eine Straße entlang der Andenküste</German>
 		<Italian>Non permettere alcuna colonia europea nel Sud America (eccetto il Brasile) nel 1600 d.C.</Italian>
-		<Spanish>Asegurarse de que no haya colonias europeas en Am�rica del Sur (excepto el Brasil) en el 1600 d. C.</Spanish>
+		<Spanish>Asegurarse de que no haya colonias europeas en América del Sur (excepto el Brasil) en el 1600 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_INC2</Tag>
 		<Russian>Have 2500 gold in 1550 AD</Russian>
 		<English>Have 2500 gold in 1550 AD</English>
 		<French>Avoir 3000 en or en 1700 ap. J.-C.</French>
-		<German>Verf�gen Sie im Jahr 1550 n. Chr. �ber 2.500 Gold</German>
+		<German>Verfügen Sie im Jahr 1550 n. Chr. über 2.500 Gold</German>
 		<Italian>Devi avere 3000 oro nel 1700 d.C.</Italian>
 		<Spanish>Tener 3.000 monedas de oro en el 1700 d. C.</Spanish>
 	</TEXT>
@@ -724,34 +724,34 @@
 		<Tag>TXT_KEY_UHV_INC3</Tag>
 		<Russian>Control 60% of South America in 1700 AD</Russian>
 		<English>Control 60% of South America in 1700 AD</English>
-		<French>Aucune colonie europ�enne en Am�rique du sud  (sauf le Br�sil) en 1800 ap. J.-C.</French>
-		<German>Kontrollieren Sie im Jahr 1700 n. Chr. 60% von S�damerika</German>
+		<French>Aucune colonie européenne en Amérique du sud  (sauf le Brésil) en 1800 ap. J.-C.</French>
+		<German>Kontrollieren Sie im Jahr 1700 n. Chr. 60% von Südamerika</German>
 		<Italian>Non permettere alcuna colonia europea nel Sud America (eccetto il Brasile)  nel 1800 d.C.</Italian>
-		<Spanish>Asegurarse de que no haya colonias europeas en Am�rica del Sur  (excepto el Brasil) en el 1800 d. C.</Spanish>
+		<Spanish>Asegurarse de que no haya colonias europeas en América del Sur  (excepto el Brasil) en el 1800 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MON1</Tag>
-		<Russian>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#232;&#240;&#238;&#226;&#224;&#242;&#252; &#202;&#232;&#242;&#224;&#233; &#234; 1300 &#227;&#238;&#228;&#243;</Russian>
+		<Russian>Контролировать Китай к 1300 году</Russian>
 		<English>Control China by 1300 AD</English>
-		<French>Contr�ler la Chine avant 1300 ap. J.-C.</French>
+		<French>Contrôler la Chine avant 1300 ap. J.-C.</French>
 		<German>Bringen Sie bis zum Jahr 1300 n. Chr. China unter Ihre Kontrolle</German>
 		<Italian>Controlla la Cina entro il 1300 d.C.</Italian>
 		<Spanish>Controlar China en el 1300 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MON2</Tag>
-		<Russian>&#208;&#224;&#231;&#238;&#240;&#232;&#242;&#252; &#237;&#229; &#236;&#229;&#237;&#229;&#229; 7 &#227;&#238;&#240;&#238;&#228;&#238;&#226;</Russian>
+		<Russian>Разорить не менее 7 городов</Russian>
 		<English>Raze at least 7 cities</English>
 		<French>Raser au moins 7 villes</French>
-		<German>Zerst�ren Sie mindestens 7 St�dte</German>
-		<Italian>Distruggi almeno 7 citt&#224;</Italian>
+		<German>Zerstören Sie mindestens 7 Städte</German>
+		<Italian>Distruggi almeno 7 cittа</Italian>
 		<Spanish>Arrasar al menos 7 ciudades</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MON3</Tag>
-		<Russian>&#202;&#238;&#237;&#242;&#238;&#235;&#232;&#240;&#238;&#226;&#224;&#242;&#252; 12% &#236;&#232;&#240;&#238;&#226;&#238;&#233; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#232; &#234; 1500 &#227;&#238;&#228;&#243; &#237;.&#253;.</Russian>
+		<Russian>Контолировать 12% мировой территории к 1500 году н.э.</Russian>
 		<English>Control 12% of world territory by 1500 AD</English>
-		<French>Contr�ler 12% du territoire mondial avant 1500 ap. J.-C.</French>
+		<French>Contrôler 12% du territoire mondial avant 1500 ap. J.-C.</French>
 		<German>Bringen Sie bis zum Jahr 1500 n. Chr. 12%% der Weltkarte unter Ihre Kontrolle</German>
 		<Italian>Devi controllare il 12% del territorio mondiale entro il 1500 d.C.</Italian>
 		<Spanish>Controlar el 12% del territorio mundial en el 1500 d. C.</Spanish>
@@ -760,35 +760,35 @@
 		<Tag>TXT_KEY_UHV_AZT1</Tag>
 		<Russian>Make Tenochtitlan the largest city in the world in 1520 AD</Russian>
 		<English>Make Tenochtitlan the largest city in the world in 1520 AD</English>
-		<French>Asservir 5 unit�s europ�ennes</French>
-		<German>Machen Sie Tenochtitlan im Jahr 1520 n. Chr. zur gr��sten Stadt der Welt</German>
-		<Italian>Schiavizza 5 unit&#224; europee</Italian>
+		<French>Asservir 5 unités européennes</French>
+		<German>Machen Sie Tenochtitlan im Jahr 1520 n. Chr. zur größsten Stadt der Welt</German>
+		<Italian>Schiavizza 5 unitа europee</Italian>
 		<Spanish>Esclavizar 5 unidades europeas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AZT2</Tag>
 		<Russian>Build 6 pagan temples and sacrificial altars by 1650 AD</Russian>
 		<English>Build 6 pagan temples and sacrificial altars by 1650 AD</English>
-		<French>Aucune colonie europ�enne en Am�rique centrale, dans le sud des Etats-Unis ou dans les Cara�bes en 1700 ap. J.-C.</French>
-		<German>Bauen Sie bis zum Jahr 1650 n. Chr. 6 heidnische Tempel und Opferalt�re</German>
+		<French>Aucune colonie européenne en Amérique centrale, dans le sud des Etats-Unis ou dans les Caraïbes en 1700 ap. J.-C.</French>
+		<German>Bauen Sie bis zum Jahr 1650 n. Chr. 6 heidnische Tempel und Opferaltäre</German>
 		<Italian>Non permettere colonie europee in America Centrale, USA meridionale e nei Caraibi nel 1700 d.C.</Italian>
-		<Spanish>No permitir colonias europeas en Centroam&#233;rica, el sur de Estados Unidos y el Caribe en el 1700 d. C.</Spanish>
+		<Spanish>No permitir colonias europeas en Centroamйrica, el sur de Estados Unidos y el Caribe en el 1700 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AZT3</Tag>
 		<Russian>Enslave 20 Old World units</Russian>
 		<English>Enslave 20 Old World units</English>
-		<French>Entrer dans l'�re industrielle avant 1860 ap. J.-C.</French>
+		<French>Entrer dans l'ère industrielle avant 1860 ap. J.-C.</French>
 		<German>Versklaven Sie 20 Einheiten aus der alten Welt</German>
-		<Italian>Entra nell'et&#224; industriale entro il 1860 d.C.</Italian>
+		<Italian>Entra nell'etа industriale entro il 1860 d.C.</Italian>
 		<Spanish>Entrar en la Era Industrial antes del 1860 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AME1</Tag>
 		<Russian>Allow no European colonies in the North and Central America and in the Caribbean and control or vassalize Mexico in 1900 AD</Russian>
 		<English>Allow no European colonies in the North and Central America and in the Caribbean and control or vassalize Mexico in 1900 AD</English>
-		<French>Aucune colonie europ�enne en Am�rique septentrionale et centrale ou dans les Cara�bes en 1930 ap. J.-C.</French>
-		<German>Lassen Sie im Jahr 1900 n. Chr. keine europ�ischen St�dte in Nord- und Zentralamerika und in der Karibik zu und kontrollieren oder vassalisieren Sie Mexiko</German>
+		<French>Aucune colonie européenne en Amérique septentrionale et centrale ou dans les Caraïbes en 1930 ap. J.-C.</French>
+		<German>Lassen Sie im Jahr 1900 n. Chr. keine europäischen Städte in Nord- und Zentralamerika und in der Karibik zu und kontrollieren oder vassalisieren Sie Mexiko</German>
 		<Italian>Non permettere alcuna colonia europea in Nord e Centro America e nei Caraibi nel 1930 d.C.</Italian>
 		<Spanish>No permitir colonias europeas en Norte y Centro America y el Caribe en el 1930 d.C.</Spanish>
 	</TEXT>
@@ -796,85 +796,85 @@
 		<Tag>TXT_KEY_UHV_AME2</Tag>
 		<Russian>Build the Statue of Liberty, the Empire State Building, the Pentagon and the United Nations by 1950 AD</Russian>
 		<English>Build the Statue of Liberty, the Empire State Building, the Pentagon and the United Nations by 1950 AD</English>
-		<French>Construire l'ONU, la Statue de la Libert� et le Pentagone avant 2000 ap. J.-C.</French>
+		<French>Construire l'ONU, la Statue de la Liberté et le Pentagone avant 2000 ap. J.-C.</French>
 		<German>Errichten Sie bis zum Jahr 1950 n. Chr. die Freiheitsstatue, das Empire State Building, das Pentagon und the Vereinten Nationen</German>
-		<Italian>Devi costruire le Nazioni Unite, la Statua della Libert&#224; e il Pentagono entro il 2000 d.C.</Italian>
-		<Spanish>Construir las Naciones Unidas, la Estatua de la Libertad y el Pent&#225;gono antes del 2000 d. C.</Spanish>
+		<Italian>Devi costruire le Nazioni Unite, la Statua della Libertа e il Pentagono entro il 2000 d.C.</Italian>
+		<Spanish>Construir las Naciones Unidas, la Estatua de la Libertad y el Pentбgono antes del 2000 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AME3</Tag>
-		<Russian>&#207;&#238;&#235;&#243;&#247;&#232;&#242;&#252; 10 &#232;&#241;&#242;&#238;&#247;&#237;&#232;&#234;&#238;&#226; &#237;&#229;&#244;&#242;&#232; &#234; 2000 &#227;&#238;&#228;&#243;</Russian>
+		<Russian>Получить 10 источников нефти к 2000 году</Russian>
 		<English>Secure 10 oil resources by 2000 AD</English>
-		<French>S�curiser 10 gisements de p�trole avant 2000 ap. J.-C.</French>
-		<German>Sichern Sie sich bis zum Jahr 2000 n. Chr. 10 �l-Vorkommen</German>
+		<French>Sécuriser 10 gisements de pétrole avant 2000 ap. J.-C.</French>
+		<German>Sichern Sie sich bis zum Jahr 2000 n. Chr. 10 Öl-Vorkommen</German>
 		<Italian>Assicurati 10 fonti di petrolio entro il 2000 d.C.</Italian>
-		<Spanish>Controlar 10 recursos petrol&#237;feros en el 2000 d. C.</Spanish>
+		<Spanish>Controlar 10 recursos petrolнferos en el 2000 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ITA1</Tag>
-		<Russian>&#207;&#238;&#241;&#242;&#240;&#238;&#232;&#242;&#252; &#193;&#224;&#231;&#232;&#235;&#232;&#234;&#243; &#209;&#226;. &#204;&#224;&#240;&#234;&#224;, &#209;&#232;&#234;&#241;&#242;&#232;&#237;&#241;&#234;&#243;&#254; &#202;&#224;&#239;&#229;&#235;&#235;&#243; &#232; &#207;&#224;&#228;&#224;&#254;&#249;&#243;&#254; &#225;&#224;&#248;&#237;&#254; &#234; 1500 &#227;&#238;&#228;&#243;</Russian>
+		<Russian>Построить Базилику Св. Марка, Сикстинскую Капеллу и Падающую башню к 1500 году</Russian>
 		<English>Build San Marco Basilica, the Sistine Chapel and the Leaning Tower by 1500 AD</English>
 		<German>Bauen Sie bis zum Jahr 1500 n. Chr. die San Marco Basilica, die Sixtinische Kapelle und den Schiefen Turm</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ITA2</Tag>
-		<Russian>&#210;&#240;&#232; &#227;&#238;&#240;&#238;&#228;&#224; &#241; &#226;&#235;&#232;&#255;&#242;&#229;&#235;&#252;&#237;&#238;&#233; &#234;&#243;&#235;&#252;&#242;&#243;&#240;&#238;&#233; &#226; 1600 &#227;&#238;&#228;&#243;</Russian>
+		<Russian>Три города с влиятельной культурой в 1600 году</Russian>
 		<English>Have three cities with influential culture by 1600 AD</English>
-		<German>Haben Sie drei St�dte mit einflussreicher Kultur bis zum Jahr 1600 n. Chr.</German>
+		<German>Haben Sie drei Städte mit einflussreicher Kultur bis zum Jahr 1600 n. Chr.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ITA3</Tag>
 		<Russian>Control 65% of the Mediterranean by 1930 AD</Russian>
 		<English>Control 65% of the Mediterranean by 1930 AD</English>
-		<German>Kontrollieren Sie 65% der Mittelmeerk�ste bis zum Jahr 1930 n. Chr.</German>
+		<German>Kontrollieren Sie 65% der Mittelmeerküste bis zum Jahr 1930 n. Chr.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_0</Tag>
-		<Russian>&#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<Russian>Египет</Russian>
 		<English>Egypt</English>
-		<German>�gypten</German>
+		<German>Ägypten</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_1</Tag>
-		<Russian>&#212;&#232;&#237;&#232;&#234;&#232;&#255;</Russian>
+		<Russian>Финикия</Russian>
 		<English>Phoenicia</English>
-		<German>Ph�nizien</German>
+		<German>Phönizien</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_2</Tag>
-		<Russian>&#194;&#224;&#226;&#232;&#235;&#238;&#237;&#232;&#255;</Russian>
+		<Russian>Вавилония</Russian>
 		<English>Babylonia</English>
 		<German>Babylonien</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_3</Tag>
-		<Russian>&#207;&#229;&#240;&#241;&#232;&#255;</Russian>
+		<Russian>Персия</Russian>
 		<English>Persia</English>
 		<German>Persien</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_4</Tag>
-		<Russian>&#204;&#229;&#230;&#228;&#243;&#240;&#229;&#247;&#252;&#229;</Russian>
+		<Russian>Междуречье</Russian>
 		<English>Mesopotamia</English>
 		<German>Mesopotamien</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_5</Tag>
-		<Russian>&#210;&#240;&#224;&#237;&#241;&#238;&#234;&#241;&#232;&#224;&#237;&#224;</Russian>
+		<Russian>Трансоксиана</Russian>
 		<English>Transoxania</English>
 		<German>Transoxanien</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_6</Tag>
-		<Russian>&#209;&#229;&#226;&#229;&#240;&#238;-&#231;&#224;&#239;&#224;&#228;&#237;&#224;&#255; &#200;&#237;&#228;&#232;&#255;</Russian>
+		<Russian>Северо-западная Индия</Russian>
 		<English>Northwest India</English>
 		<German>Nordwestindien</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_7</Tag>
-		<Russian>&#209;&#240;&#229;&#228;&#232;&#231;&#229;&#236;&#237;&#238;&#236;&#238;&#240;&#252;&#229;</Russian>
+		<Russian>Средиземноморье</Russian>
 		<English>Mediterranean</English>
-		<German>Mittelmeerk�ste</German>
+		<German>Mittelmeerküste</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_8</Tag>
@@ -902,181 +902,181 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_12</Tag>
-		<Russian>&#195;&#240;&#229;&#246;&#232;&#255; &#232; &#192;&#237;&#224;&#242;&#238;&#235;&#232;&#255;</Russian>
+		<Russian>Греция и &#192;натолия</Russian>
 		<English>Greece and Anatolia</English>
 		<German>Griechenland und Anatolien</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_13</Tag>
-		<Russian>&#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<Russian>Египет</Russian>
 		<English>Egypt</English>
-		<German>�gypten</German>
+		<German>Ägypten</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_14</Tag>
-		<Russian>&#202;&#238;&#240;&#229;&#255;</Russian>
+		<Russian>Корея</Russian>
 		<English>Korea</English>
 		<German>Korea</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_15</Tag>
-		<Russian>&#204;&#224;&#237;&#252;&#247;&#230;&#243;&#240;&#232;&#255;</Russian>
+		<Russian>Маньчжурия</Russian>
 		<English>Manchuria</English>
 		<German>Mandschurei</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_16</Tag>
-		<Russian>&#202;&#232;&#242;&#224;&#233;</Russian>
+		<Russian>Китай</Russian>
 		<English>China</English>
 		<German>China</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_17</Tag>
-		<Russian>&#200;&#237;&#228;&#238;&#234;&#232;&#242;&#224;&#233;</Russian>
+		<Russian>Индокитай</Russian>
 		<English>Indochina</English>
 		<German>Indochina</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_18</Tag>
-		<Russian>&#200;&#237;&#228;&#238;&#237;&#229;&#231;&#232;&#255;</Russian>
+		<Russian>Индонезия</Russian>
 		<English>Indonesia</English>
 		<German>Indonesien</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_19</Tag>
-		<Russian>&#212;&#232;&#235;&#232;&#239;&#239;&#232;&#237;&#251;</Russian>
+		<Russian>Филиппины</Russian>
 		<English>Philippines</English>
 		<German>Philippinen</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_20</Tag>
-		<Russian>&#221;&#244;&#232;&#238;&#239;&#232;&#255; &#232; &#209;&#243;&#225;&#253;&#234;&#226;&#224;&#242;&#238;&#240;&#232;&#224;&#235;&#252;&#237;&#224;&#255; &#192;&#244;&#240;&#232;&#234;&#224;</Russian>
+		<Russian>Эфиопия и Субэкваториальная &#192;фрика</Russian>
 		<English>Ethiopia and Subequatorial Africa</English>
-		<German>�thiopien und Sub�quatorialafrika</German>
+		<German>Äthiopien und Subäquatorialafrika</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_21</Tag>
-		<Russian>&#193;&#224;&#235;&#234;&#224;&#237;&#251;</Russian>
+		<Russian>Балканы</Russian>
 		<English>Balkans</English>
 		<German>Balkan</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_22</Tag>
-		<Russian>&#209;&#229;&#226;&#229;&#240;&#237;&#224;&#255; &#192;&#244;&#240;&#232;&#234;&#224;</Russian>
+		<Russian>Северная &#192;фрика</Russian>
 		<English>North Africa</English>
 		<German>Nordafrika</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_23</Tag>
-		<Russian>&#193;&#235;&#232;&#230;&#237;&#232;&#233; &#194;&#238;&#241;&#242;&#238;&#234;</Russian>
+		<Russian>Ближний Восток</Russian>
 		<English>Near East</English>
 		<German>Naher Osten</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_24</Tag>
-		<Russian>&#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<Russian>Египет</Russian>
 		<English>Egypt</English>
-		<German>�gypten</German>
+		<German>Ägypten</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_25</Tag>
-		<Russian>&#204;&#224;&#227;&#240;&#232;&#225;</Russian>
+		<Russian>Магриб</Russian>
 		<English>Maghreb</English>
 		<German>Maghreb</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_26</Tag>
-		<Russian>&#204;&#229;&#230;&#228;&#243;&#240;&#229;&#247;&#252;&#229;</Russian>
+		<Russian>Междуречье</Russian>
 		<English>Mesopotamia</English>
 		<German>Mesopotamien</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_27</Tag>
-		<Russian>&#207;&#229;&#240;&#241;&#232;&#255;</Russian>
+		<Russian>Персия</Russian>
 		<English>Persia</English>
 		<German>Persien</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_28</Tag>
-		<Russian>&#200;&#241;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Испания</Russian>
 		<English>Spain</English>
 		<German>Spanien</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_29</Tag>
-		<Russian>&#197;&#226;&#240;&#238;&#239;&#224;</Russian>
+		<Russian>Европа</Russian>
 		<English>Europe</English>
 		<German>Europa</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_30</Tag>
-		<Russian>&#209;&#229;&#226;&#229;&#240;&#237;&#224;&#255; &#192;&#236;&#229;&#240;&#232;&#234;&#224;</Russian>
+		<Russian>Северная &#192;мерика</Russian>
 		<English>North America</English>
 		<German>Nordamerika</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_31</Tag>
-		<Russian>&#209;&#229;&#226;&#229;&#240;&#237;&#224;&#255; &#192;&#236;&#229;&#240;&#232;&#234;&#224;</Russian>
+		<Russian>Северная &#192;мерика</Russian>
 		<English>North America</English>
 		<German>Nordamerika</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_32</Tag>
-		<Russian>&#222;&#230;&#237;&#224;&#255; &#232; &#214;&#229;&#237;&#242;&#240;&#224;&#235;&#252;&#237;&#224;&#255; &#192;&#236;&#229;&#240;&#232;&#234;&#224;</Russian>
+		<Russian>Южная и Центральная &#192;мерика</Russian>
 		<English>South and Central America</English>
-		<German>S�d- und Mittelamerika</German>
+		<German>Süd- und Mittelamerika</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_33</Tag>
-		<Russian>&#192;&#244;&#240;&#232;&#234;&#224;</Russian>
+		<Russian>&#192;фрика</Russian>
 		<English>Africa</English>
 		<German>Afrika</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_34</Tag>
-		<Russian>&#192;&#231;&#232;&#255;</Russian>
+		<Russian>&#192;зия</Russian>
 		<English>Asia</English>
 		<German>Asien</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_35</Tag>
-		<Russian>&#192;&#226;&#241;&#242;&#240;&#224;&#235;&#232;&#255; &#232; &#238;&#234;&#229;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>&#192;встралия и океания</Russian>
 		<English>Australia and Oceania</English>
 		<German>Australien und Ozeanien</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_36</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<Russian>Франция</Russian>
 		<English>France</English>
 		<German>Frankreich</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_37</Tag>
-		<Russian>&#200;&#242;&#224;&#235;&#232;&#255;</Russian>
+		<Russian>Италия</Russian>
 		<English>Italy</English>
 		<German>Italien</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_38</Tag>
-		<Russian>&#208;&#238;&#241;&#241;&#232;&#255;</Russian>
+		<Russian>Россия</Russian>
 		<English>Russia</English>
 		<German>Russland</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_39</Tag>
-		<Russian>&#192;&#237;&#227;&#235;&#232;&#255;</Russian>
+		<Russian>&#192;нглия</Russian>
 		<English>England</English>
 		<German>England</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_40</Tag>
-		<Russian>&#209;&#234;&#224;&#237;&#228;&#232;&#237;&#224;&#226;&#232;&#255;</Russian>
+		<Russian>Скандинавия</Russian>
 		<English>Scandinavia</English>
 		<German>Skandinavien</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_41</Tag>
-		<Russian>&#209;&#232;&#225;&#232;&#240;&#252;</Russian>
+		<Russian>Сибирь</Russian>
 		<English>Siberia</English>
 		<German>Sibirien</German>
 	</TEXT>
@@ -1084,25 +1084,25 @@
 		<Tag>TXT_KEY_UHV_AREA_42</Tag>
 		<Russian>Andean Coast, South America</Russian>
 		<English>Andean Coast, South America</English>
-		<German>Andenk�ste, S�damerika</German>
+		<German>Andenküste, Südamerika</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_43</Tag>
 		<Russian>Peru, South America</Russian>
 		<English>Peru, South America</English>
-		<German>Peru, S�damerika</German>
+		<German>Peru, Südamerika</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_44</Tag>
 		<Russian>Gran Columbia, South America</Russian>
 		<English>Gran Columbia, South America</English>
-		<German>Gro�kolumbien, S�damerika</German>
+		<German>Großkolumbien, Südamerika</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_45</Tag>
 		<Russian>Guayanas, South America</Russian>
 		<English>Guayanas, South America</English>
-		<German>Guayanas, S�damerika</German>
+		<German>Guayanas, Südamerika</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_46</Tag>
@@ -1112,49 +1112,49 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_47</Tag>
-		<Russian>&#194;&#238;&#241;&#242;&#238;&#247;&#237;&#238;&#229; &#209;&#240;&#229;&#228;&#232;&#231;&#229;&#236;&#237;&#238;&#236;&#238;&#240;&#252;&#229;</Russian>
+		<Russian>Восточное Средиземноморье</Russian>
 		<English>Eastern Mediterranean</English>
-		<German>�stliche Mittelmeerk�ste</German>
+		<German>Östliche Mittelmeerküste</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_48</Tag>
-		<Russian>&#215;&#229;&#240;&#237;&#238;&#229; &#236;&#238;&#240;&#229;</Russian>
+		<Russian>Черное море</Russian>
 		<English>Black Sea</English>
 		<German>Schwarzes Meer</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_49</Tag>
-		<Russian>&#202;&#224;&#232;&#240;</Russian>
+		<Russian>Каир</Russian>
 		<English>Cairo</English>
 		<German>Kairo</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_50</Tag>
-		<Russian>&#204;&#229;&#234;&#234;&#224;</Russian>
+		<Russian>Мекка</Russian>
 		<English>Mecca</English>
 		<German>Mekka</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_51</Tag>
-		<Russian>&#193;&#224;&#227;&#228;&#224;&#228;</Russian>
+		<Russian>Багдад</Russian>
 		<English>Baghdad</English>
 		<German>Bagdad</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_52</Tag>
-		<Russian>&#194;&#229;&#237;&#224;</Russian>
+		<Russian>Вена</Russian>
 		<English>Vienna</English>
 		<German>Wien</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_53</Tag>
-		<Russian>&#222;&#230;&#237;&#224;&#255; &#192;&#231;&#232;&#255;</Russian>
+		<Russian>Южная &#192;зия</Russian>
 		<English>South Asia</English>
-		<German>S�dasien</German>
+		<German>Südasien</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_54</Tag>
-		<Russian>&#209;&#229;&#226;&#229;&#240;&#237;&#224;&#255; &#232; &#214;&#229;&#237;&#242;&#240;&#224;&#235;&#252;&#237;&#224;&#255; &#192;&#236;&#229;&#240;&#232;&#234;&#224;</Russian>
+		<Russian>Северная и Центральная &#192;мерика</Russian>
 		<English>North and Central America</English>
 		<German>Nord- und Mittelamerika</German>
 	</TEXT>
@@ -1198,7 +1198,7 @@
 		<Tag>TXT_KEY_UHV_AREA_61</Tag>
 		<Russian>South America</Russian>
 		<English>South America</English>
-		<German>S�damerika</German>
+		<German>Südamerika</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_62</Tag>
@@ -1208,12 +1208,12 @@
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_63</Tag>
 		<English>Atlantic Coast</English>
-		<German>Atlantikk�ste</German>
+		<German>Atlantikküste</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_64</Tag>
 		<English>Pacific Coast</English>
-		<German>Pazifikk�ste</German>
+		<German>Pazifikküste</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_AREA_65</Tag>

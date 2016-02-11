@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,11 +6,11 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_UPGRADES</Tag>
-		<Russian>&#211;&#241;&#238;&#226;&#229;&#240;&#248;&#229;&#237;&#241;&#242;&#226;&#238;&#226;&#224;&#237;&#232;&#255; &#238;&#242;&#240;&#255;&#228;&#238;&#226;</Russian>
+		<Russian>Усовершенствования отрядов</Russian>
 		<English>Unit Upgrades</English>
-		<French>Am�liorations d'unit�s</French>
-		<German>Einheitenbef&#246;rderungen</German>
-		<Italian>Aggiornamento delle unit&#224;</Italian>
-		<Spanish>Modernizaci&#243;n de unidades</Spanish>
+		<French>Améliorations d'unités</French>
+		<German>Einheitenbefцrderungen</German>
+		<Italian>Aggiornamento delle unitа</Italian>
+		<Spanish>Modernizaciуn de unidades</Spanish>
 	</TEXT>
 </Civ4GameText>

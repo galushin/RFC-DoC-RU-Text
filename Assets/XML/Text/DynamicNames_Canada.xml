@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,47 +6,47 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CANADA_DESC</Tag>
-		<Russian>&#202;&#224;&#237;&#224;&#228;&#246;&#251;</Russian>
+		<Russian>Канадцы</Russian>
 		<English>The Canadians</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CANADA_DESC_PEOPLES</Tag>
-		<Russian>&#202;&#224;&#237;&#224;&#228;&#241;&#234;&#232;&#233; &#237;&#224;&#240;&#238;&#228;</Russian>
+		<Russian>Канадский народ</Russian>
 		<English>Canadian Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CANADA_DESC_DEFAULT</Tag>
-		<Russian>&#196;&#238;&#236;&#232;&#237;&#232;&#238;&#237; &#202;&#224;&#237;&#224;&#228;&#224;</Russian>
+		<Russian>Доминион Канада</Russian>
 		<English>Dominion of Canada</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CANADA_DESC_DEMOCRATIC</Tag>
-		<Russian>&#209;&#238;&#228;&#240;&#243;&#230;&#229;&#241;&#242;&#226;&#238; &#202;&#224;&#237;&#224;&#228;&#224;</Russian>
+		<Russian>Содружество Канада</Russian>
 		<English>Commonwealth of Canada</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CANADA_DESC_COMMUNIST</Tag>
-		<Russian>&#202;&#224;&#237;&#224;&#228;&#241;&#234;&#238;&#229; &#210;&#240;&#243;&#228;&#238;&#226;&#238;&#229; &#209;&#238;&#228;&#240;&#243;&#230;&#229;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Канадское Трудовое Содружество</Russian>
 		<English>Canadian Worker's Commonwealth</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CANADA_DESC_FASCIST</Tag>
-		<Russian>&#202;&#224;&#237;&#224;&#228;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Канадская Империя</Russian>
 		<English>Canadian Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CANADA_EMPIRE</Tag>
-		<Russian>&#196;&#238;&#236;&#232;&#237;&#232;&#238;&#237; &#202;&#224;&#237;&#224;&#228;&#224;</Russian>
+		<Russian>Доминион Канада</Russian>
 		<English>Dominion of Canada</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CANADA_NAZI_VASSAL</Tag>
-		<Russian>&#208;&#229;&#233;&#245;&#234;&#238;&#236;&#232;&#241;&#241;&#224;&#240;&#232;&#224;&#242; &#202;&#224;&#237;&#224;&#228;&#224;</Russian>
+		<Russian>Рейхкомиссариат Канада</Russian>
 		<English>Reichskommissariat Kanada</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CANADA_SOVIET_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#202;&#224;&#237;&#224;&#228;&#224;</Russian>
+		<Russian>Советская Канада</Russian>
 		<English>Soviet Canada</English>
 	</TEXT>
 </Civ4GameText>

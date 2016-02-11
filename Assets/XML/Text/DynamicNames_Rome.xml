@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,237 +6,237 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_DESC</Tag>
-		<Russian>&#208;&#232;&#236;&#235;&#255;&#237;&#229;</Russian>
+		<Russian>Римляне</Russian>
 		<English>The Romans</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_DESC_PEOPLES</Tag>
-		<Russian>&#200;&#242;&#224;&#235;&#232;&#234;&#232;</Russian>
+		<Russian>Италики</Russian>
 		<English>Italic Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_DESC_DEFAULT</Tag>
-		<Russian>&#208;&#232;&#236;&#241;&#234;&#238;&#229; &#246;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Римское царство</Russian>
 		<English>Roman Kingdom</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_DESC_DEMOCRATIC</Tag>
-		<Russian>&#200;&#242;&#224;&#235;&#252;&#255;&#237;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Итальянская Республика</Russian>
 		<English>Italian Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_DESC_COMMUNIST</Tag>
-		<Russian>&#205;&#224;&#240;&#238;&#228;&#237;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#200;&#242;&#224;&#235;&#232;&#255;</Russian>
+		<Russian>Народная Республика Италия</Russian>
 		<English>People's Republic of Italy</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_DESC_FASCIST</Tag>
-		<Russian>&#205;&#238;&#226;&#224;&#255; &#208;&#232;&#236;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Новая Римская Империя</Russian>
 		<English>New Roman Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_WESTERN_EMPIRE</Tag>
-		<Russian>&#199;&#224;&#239;&#224;&#228;&#237;&#224;&#255; &#208;&#232;&#236;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Западная Римская Империя</Russian>
 		<English>Western Roman Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_REPUBLIC</Tag>
-		<Russian>&#208;&#232;&#236;&#241;&#234;&#224;&#255; &#240;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Римская республика</Russian>
 		<English>Roman Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_EMPIRE</Tag>
-		<Russian>&#208;&#232;&#236;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Римская Империя</Russian>
 		<English>Roman Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_DESC_PEOPLES</Tag>
-		<Russian>&#203;&#224;&#237;&#227;&#238;&#225;&#224;&#240;&#228;&#251;</Russian>
+		<Russian>Лангобарды</Russian>
 		<English>Lombard Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_DESC_DEFAULT</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#200;&#242;&#224;&#235;&#232;&#255;</Russian>
+		<Russian>Королевство Италия</Russian>
 		<English>Kingdom of Italy</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_ITALIAN_LEAGUE</Tag>
-		<Russian>&#200;&#242;&#224;&#235;&#252;&#255;&#237;&#241;&#234;&#224;&#255; &#203;&#232;&#227;&#224;</Russian>
+		<Russian>Итальянская Лига</Russian>
 		<English>Italian League</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_LOMBARD_LEAGUE</Tag>
-		<Russian>&#203;&#238;&#236;&#225;&#224;&#240;&#228;&#241;&#234;&#224;&#255; &#203;&#232;&#227;&#224;</Russian>
+		<Russian>Ломбардская Лига</Russian>
 		<English>Lombard League</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_MARITIME_REPUBLICS</Tag>
-		<Russian>&#200;&#242;&#224;&#235;&#252;&#255;&#237;&#241;&#234;&#232;&#229; &#204;&#238;&#240;&#241;&#234;&#232;&#229; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#232;</Russian>
+		<Russian>Итальянские Морские Республики</Russian>
 		<English>Italian Maritime Republics</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_KINGDOM</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#200;&#242;&#224;&#235;&#232;&#255;</Russian>
+		<Russian>Королевство Италия</Russian>
 		<English>Kingdom of Italy</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_DUCHY_TUSCANY</Tag>
-		<Russian>&#195;&#229;&#240;&#246;&#238;&#227;&#241;&#242;&#226;&#238; &#210;&#238;&#241;&#234;&#224;&#237;&#241;&#234;&#238;&#229;</Russian>
+		<Russian>Герцогство Тосканское</Russian>
 		<English>Duchy of Tuscany</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_DUCHY_VENICE</Tag>
-		<Russian>&#195;&#229;&#240;&#246;&#238;&#227;&#241;&#242;&#226;&#238; &#194;&#229;&#237;&#229;&#246;&#232;&#232;</Russian>
+		<Russian>Герцогство Венеции</Russian>
 		<English>Duchy of Venice</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_DUCHY_MILAN</Tag>
-		<Russian>&#204;&#232;&#235;&#224;&#237;&#241;&#234;&#238;&#229; &#227;&#229;&#240;&#246;&#238;&#227;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Миланское герцогство</Russian>
 		<English>Duchy of Milan</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_PAPAL_STATE</Tag>
-		<Russian>&#207;&#224;&#239;&#241;&#234;&#224;&#255; &#238;&#225;&#235;&#224;&#241;&#242;&#252;</Russian>
+		<Russian>Папская область</Russian>
 		<English>Papal States</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ITALY_HOLY_ROMAN_VASSAL</Tag>
-		<Russian>&#194;&#229;&#235;&#232;&#234;&#238;&#229; &#227;&#229;&#240;&#246;&#238;&#227;&#241;&#242;&#226;&#238; &#210;&#238;&#241;&#234;&#224;&#237;&#241;&#234;&#238;&#229;</Russian>
+		<Russian>Великое герцогство Тосканское</Russian>
 		<English>Grand Duchy of Tuscany</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROMAN_VASSAL_GENERIC</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; %s1</Russian>
+		<Russian>Провинция %s1</Russian>
 		<English>Province of %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_SOVIET_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#200;&#242;&#224;&#235;&#232;&#255;</Russian>
+		<Russian>Советская Италия</Russian>
 		<English>Soviet Italy</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_NAZI_VASSAL</Tag>
-		<Russian>&#200;&#242;&#224;&#235;&#252;&#255;&#237;&#241;&#234;&#224;&#255; &#241;&#238;&#246;&#232;&#224;&#235;&#252;&#237;&#224;&#255; &#240;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Итальянская социальная республика</Russian>
 		<English>Italian Social Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<Russian>Провинция Египет</Russian>
 		<English>Province of Aegyptus</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#202;&#232;&#242;&#224;&#233;</Russian>
+		<Russian>Провинция Китай</Russian>
 		<English>Province of Sinae</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BABYLONIA_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#204;&#229;&#230;&#228;&#243;&#240;&#229;&#247;&#252;&#229;</Russian>
+		<Russian>Провинция Междуречье</Russian>
 		<English>Province of Mesopotamia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#192;&#245;&#229;&#255;</Russian>
+		<Russian>Провинция &#192;хея</Russian>
 		<English>Province of Achaea</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#207;&#224;&#240;&#244;&#232;&#255;</Russian>
+		<Russian>Провинция Парфия</Russian>
 		<English>Province of Parthia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PHOENICIA_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#209;&#232;&#240;&#232;&#255;</Russian>
+		<Russian>Провинция Сирия</Russian>
 		<English>Province of Syria</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CARTHAGE_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#192;&#244;&#240;&#232;&#234;&#224;</Russian>
+		<Russian>Провинция &#192;фрика</Russian>
 		<English>Province of Africa</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ETHIOPIA_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#221;&#244;&#232;&#238;&#239;&#232;&#255;</Russian>
+		<Russian>Провинция Эфиопия</Russian>
 		<English>Province of Aethiopia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#212;&#240;&#224;&#234;&#232;&#255;</Russian>
+		<Russian>Провинция Фракия</Russian>
 		<English>Province of Thracia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#209;&#234;&#224;&#237;&#228;&#232;&#255;</Russian>
+		<Russian>Провинция Скандия</Russian>
 		<English>Province of Scandia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KHMER_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#199;&#238;&#235;&#238;&#242;&#238;&#227;&#238; &#207;&#238;&#235;&#243;&#238;&#241;&#242;&#240;&#238;&#226;&#224;</Russian>
+		<Russian>Провинция Золотого Полуострова</Russian>
 		<English>Province of Aurea Chersonesus</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#195;&#232;&#241;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Провинция Гиспания</Russian>
 		<English>Province of Hispania</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#195;&#224;&#235;&#235;&#232;&#255;</Russian>
+		<Russian>Провинция Галлия</Russian>
 		<English>Province of Gaul</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLAND_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#193;&#240;&#232;&#242;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Провинция Британия</Russian>
 		<English>Province of Britannia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#195;&#229;&#240;&#236;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Провинция Германия</Russian>
 		<English>Province of Germania</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GERMANY_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#193;&#238;&#240;&#243;&#241;&#241;&#232;&#255; </Russian>
+		<Russian>Провинция Боруссия </Russian>
 		<English>Province of Borussia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#209;&#224;&#240;&#236;&#224;&#242;&#232;&#255;</Russian>
+		<Russian>Провинция Сарматия</Russian>
 		<English>Province of Sarmatia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NETHERLANDS_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#193;&#229;&#235;&#227;&#232;&#234;&#224;</Russian>
+		<Russian>Провинция Белгика</Russian>
 		<English>Province of Belgica</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#195;&#229;&#242;&#243;&#235;&#232;&#255;</Russian>
+		<Russian>Провинция Гетулия</Russian>
 		<English>Province of Gaetulia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#203;&#243;&#231;&#232;&#242;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Провинция Лузитания</Russian>
 		<English>Province of Lusitania</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MONGOLIA_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#209;&#229;&#240;&#229;&#241;</Russian>
+		<Russian>Провинция Серес</Russian>
 		<English>Province of Serica</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTECS_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<Russian>Провинция Мексика</Russian>
 		<English>Province of Mexico</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKEY_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#204;&#224;&#235;&#224;&#255; &#192;&#231;&#232;&#255;</Russian>
+		<Russian>Провинция Малая &#192;зия</Russian>
 		<English>Province of Asia Minor</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_THAILAND_ROMAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#209;&#232;&#224;&#236;</Russian>
+		<Russian>Провинция Сиам</Russian>
 		<English>Province of Siam</English>
 	</TEXT>
 </Civ4GameText>

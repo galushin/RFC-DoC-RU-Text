@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,152 +6,152 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_DESC</Tag>
-		<Russian>&#207;&#229;&#240;&#241;&#251;</Russian>
+		<Russian>Персы</Russian>
 		<English>The Persians</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_DESC_PEOPLES</Tag>
-		<Russian>&#207;&#229;&#240;&#241;&#232;&#228;&#241;&#234;&#232;&#229; &#237;&#224;&#240;&#238;&#228;&#251;</Russian>
+		<Russian>Персидские народы</Russian>
 		<English>Parsi Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_DESC_DEFAULT</Tag>
-		<Russian>&#207;&#229;&#240;&#241;&#232;&#228;&#241;&#234;&#238;&#229; &#248;&#224;&#245;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Персидское шахство</Russian>
 		<English>Persian Shahdom</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_DESC_DEMOCRATIC</Tag>
-		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#207;&#229;&#240;&#241;&#232;&#255;</Russian>
+		<Russian>Республика Персия</Russian>
 		<English>Republic of Persia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_DESC_COMMUNIST</Tag>
-		<Russian>&#207;&#229;&#240;&#241;&#232;&#228;&#241;&#234;&#224;&#255; &#241;&#238;&#246;&#232;&#224;&#235;&#232;&#241;&#242;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#240;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Персидская социалистическая республика</Russian>
 		<English>Persian Socialist Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_DESC_FASCIST</Tag>
-		<Russian>&#207;&#229;&#240;&#241;&#232;&#228;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Персидская империя</Russian>
 		<English>Persian Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_DESC_ISLAMIC_MODERN</Tag>
-		<Russian>&#200;&#241;&#235;&#224;&#236;&#241;&#234;&#224;&#255; &#240;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#207;&#229;&#240;&#241;&#232;&#255;</Russian>
+		<Russian>Исламская республика Персия</Russian>
 		<English>Islamic Republic of Persia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_PARTHIA</Tag>
-		<Russian>&#207;&#224;&#240;&#244;&#232;&#255;</Russian>
+		<Russian>Парфия</Russian>
 		<English>Parthian Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_ACHAEMENID</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#192;&#245;&#229;&#236;&#229;&#237;&#232;&#228;&#238;&#226;</Russian>
+		<Russian>Империя &#192;хеменидов</Russian>
 		<English>Achaemenid Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_SASSANID</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#209;&#224;&#241;&#224;&#237;&#232;&#228;&#238;&#226;</Russian>
+		<Russian>Империя Сасанидов</Russian>
 		<English>Sassanid Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_EMPIRE</Tag>
-		<Russian>&#207;&#229;&#240;&#241;&#232;&#228;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Персидская империя</Russian>
 		<English>Persian Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_SAFAVID_CALIPHATE</Tag>
-		<Russian>&#213;&#224;&#235;&#232;&#244;&#224;&#242; &#209;&#229;&#244;&#229;&#226;&#232;&#228;&#238;&#226;</Russian>
+		<Russian>Халифат Сефевидов</Russian>
 		<English>Safavid Caliphate</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_QAJAR_CALIPHATE</Tag>
-		<Russian>&#213;&#224;&#235;&#232;&#244;&#224;&#242; &#202;&#224;&#228;&#230;&#224;&#240;&#238;&#226;</Russian>
+		<Russian>Халифат Каджаров</Russian>
 		<English>Qajar Caliphate</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_PAHLAVI_CALIPHATE</Tag>
-		<Russian>&#213;&#224;&#235;&#232;&#244;&#224;&#242; &#207;&#229;&#245;&#235;&#229;&#226;&#232;</Russian>
+		<Russian>Халифат Пехлеви</Russian>
 		<English>Pahlavi Caliphate</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_SAFAVID_EMPIRE</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#209;&#229;&#244;&#229;&#226;&#232;&#228;&#238;&#226;</Russian>
+		<Russian>Империя Сефевидов</Russian>
 		<English>Safavid Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_QAJAR_EMPIRE</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#202;&#224;&#228;&#230;&#224;&#240;&#238;&#226;</Russian>
+		<Russian>Империя Каджаров</Russian>
 		<English>Qajar Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_PAHLAVI_EMPIRE</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#207;&#229;&#245;&#235;&#229;&#226;&#232;</Russian>
+		<Russian>Империя Пехлеви</Russian>
 		<English>Pahlavi Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_SOVIET_VASSAL</Tag>
-		<Russian>&#195;&#232;&#235;&#255;&#237;&#241;&#234;&#224;&#255; &#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Гилянская Советская Республика</Russian>
 		<English>Soviet Gilan</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_NAZI_VASSAL</Tag>
-		<Russian>&#195;&#229;&#240;&#236;&#224;&#237;&#241;&#234;&#224;&#255; &#207;&#229;&#240;&#241;&#232;&#255;</Russian>
+		<Russian>Германская Персия</Russian>
 		<English>German Persia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_PERSIAN_VASSAL</Tag>
-		<Russian>&#196;&#229;&#226;&#255;&#242;&#224;&#255; &#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255;</Russian>
+		<Russian>Девятая Сатрапия</Russian>
 		<English>Ninth Satrapy</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDIA_PERSIAN_VASSAL</Tag>
-		<Russian>&#196;&#226;&#229;&#237;&#224;&#228;&#246;&#224;&#242;&#224;&#255; &#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255;</Russian>
+		<Russian>Двенадцатая Сатрапия</Russian>
 		<English>Twentieth Satrapy</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BABYLONIA_PERSIAN_VASSAL</Tag>
-		<Russian>&#216;&#229;&#241;&#242;&#224;&#255; &#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255;</Russian>
+		<Russian>Шестая Сатрапия</Russian>
 		<English>Sixth Satrapy</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_PERSIAN_VASSAL</Tag>
-		<Russian>&#207;&#229;&#240;&#226;&#224;&#255; &#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255;</Russian>
+		<Russian>Первая Сатрапия</Russian>
 		<English>First Satrapy</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ETHIOPIA_PERSIAN_VASSAL</Tag>
-		<Russian>&#209;&#229;&#236;&#237;&#224;&#228;&#246;&#224;&#242;&#224;&#255; &#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255;</Russian>
+		<Russian>Семнадцатая Сатрапия</Russian>
 		<English>Seventeenth Satrapy</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_PERSIAN_VASSAL</Tag>
-		<Russian>&#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255; &#192;&#237;&#224;&#242;&#238;&#235;&#232;&#255;</Russian>
+		<Russian>Сатрапия &#192;натолия</Russian>
 		<English>Satrapy of Anatolia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_PERSIAN_VASSAL</Tag>
-		<Russian>&#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255; &#209;&#234;&#224;&#237;&#228;&#232;&#237;&#224;&#226;&#232;&#255;</Russian>
+		<Russian>Сатрапия Скандинавия</Russian>
 		<English>Satrapy of Scandinavia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_PERSIAN_VASSAL</Tag>
-		<Russian>&#207;&#255;&#242;&#224;&#255; &#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255;</Russian>
+		<Russian>Пятая Сатрапия</Russian>
 		<English>Fifth Satrapy</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KHMER_PERSIAN_VASSAL</Tag>
-		<Russian>&#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255; &#202;&#224;&#236;&#239;&#243;&#247;&#232;&#255;</Russian>
+		<Russian>Сатрапия Кампучия</Russian>
 		<English>Satrapy of Kampuchea</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDONESIA_PERSIAN_VASSAL</Tag>
-		<Russian>&#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255; &#204;&#224;&#235;&#224;&#234;&#234;&#224;</Russian>
+		<Russian>Сатрапия Малакка</Russian>
 		<English>Satrapy of Malacca</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NETHERLANDS_PERSIAN_VASSAL</Tag>
-		<Russian>&#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255; &#205;&#232;&#228;&#229;&#240;&#235;&#224;&#237;&#228;&#251;</Russian>
+		<Russian>Сатрапия Нидерланды</Russian>
 		<English>Satrapy of the Netherlands</English>
 	</TEXT>
 	<TEXT>
@@ -161,12 +161,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTECS_PERSIAN_VASSAL</Tag>
-		<Russian>&#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<Russian>Сатрапия Мексика</Russian>
 		<English>Satrapy of Mexico</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKEY_PERSIAN_VASSAL</Tag>
-		<Russian>&#215;&#229;&#242;&#226;�&#240;&#242;&#224;&#255; &#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255;</Russian>
+		<Russian>Четв¸ртая Сатрапия</Russian>
 		<English>Fourth Satrapy</English>
 	</TEXT>
 	<TEXT>

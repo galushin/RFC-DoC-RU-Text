@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,7 +6,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_PLAGUE</Tag>
-		<Russian>&#215;&#243;&#236;&#224;</Russian>
+		<Russian>Чума</Russian>
 		<English>Plague</English>
 		<French>Peste</French>
 		<German>Pest</German>
@@ -15,29 +15,29 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PLAGUE_SPREAD_CITY</Tag>
-		<Russian>&#215;&#243;&#236;&#224; &#240;&#224;&#241;&#239;&#240;&#238;&#241;&#242;&#240;&#224;&#237;&#255;&#229;&#242;&#241;&#255; &#226;</Russian>
+		<Russian>Чума распространяется в</Russian>
 		<English>Plague has spread in</English>
-		<French>La peste se r�pand dans la ville : </French>
+		<French>La peste se répand dans la ville : </French>
 		<German>Die Pest breitet sich aus, diesmal in</German>
-		<Italian>La peste si � diffusa a</Italian>
+		<Italian>La peste si è diffusa a</Italian>
 		<Spanish>La peste se ha extendido por</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PLAGUE_PROCESS_CITY</Tag>
-		<Russian>&#215;&#243;&#236;&#224; &#243;&#225;&#232;&#226;&#224;&#229;&#242; &#235;&#254;&#228;&#229;&#233; &#226;</Russian>
+		<Russian>Чума убивает людей в</Russian>
 		<English>Plague is killing people in</English>
 		<French>La peste tue des gens dans la ville : </French>
 		<German>Die Pest fordert Menschenopfer in</German>
 		<Italian>La peste sta uccidendo gente a</Italian>
-		<Spanish>La peste est� matando gente en</Spanish>
+		<Spanish>La peste está matando gente en</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PLAGUE_PROCESS_UNIT</Tag>
-		<Russian>&#215;&#243;&#236;&#224; &#243;&#225;&#232;&#235;&#224; &#237;&#224;&#248; &#238;&#242;&#240;&#255;&#228; &#243;</Russian>
+		<Russian>Чума убила наш отряд у</Russian>
 		<English>Plague has killed our unit near</English>
-		<French>La peste a tu� notre unit� pr�s de</French>
-		<German>Eine unserer Einheiten ist der Pest zum Opfer gefallen, und zwar in der N&#228;he von</German>
-		<Italian>La peste ha ucciso la nostra unit� vicino a </Italian>
+		<French>La peste a tué notre unité près de</French>
+		<German>Eine unserer Einheiten ist der Pest zum Opfer gefallen, und zwar in der Nдhe von</German>
+		<Italian>La peste ha ucciso la nostra unità vicino a </Italian>
 		<Spanish>La peste ha matado a una unidad nuestra cerca de</Spanish>
 	</TEXT>
 </Civ4GameText>

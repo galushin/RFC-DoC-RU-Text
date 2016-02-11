@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!--
 	BUG Main Interface
 	Options Game Text
@@ -19,9 +19,9 @@
 		<Tag>TXT_KEY_BUG_OPT_MAININTERFACE__OPTIONSKEY_HOVER</Tag>
 		<Russian>When checked, displays a message about Alt + Ctrl + O when a game is started or loaded.</Russian>
 		<English>When checked, displays a message about Alt + Ctrl + O when a game is started or loaded.</English>
-		<French>En activant, en rappel sur l'utilisation de Alt + Ctrl + O est montré quand un jeu démarre ou est chargé.</French>
+		<French>En activant, en rappel sur l'utilisation de Alt + Ctrl + O est montrÃ© quand un jeu dÃ©marre ou est chargÃ©.</French>
 		<German>Zeigt nach dem Spielstart oder dem Laden eines Spielstands eine Meldung, die an die Tastenkombination [STRG + ALT + O] erinnert, mit der man die Optionen der "BUG Mod" aufrufen kann</German>
-		<Italian>Quando è selezionato, mostra un messaggio che ricorda la combinazione di tasti per accedere al Menù delle Opzioni del BUG Mod quando un gioco viene iniziato o caricato .</Italian>
+		<Italian>Quando Ã¨ selezionato, mostra un messaggio che ricorda la combinazione di tasti per accedere al MenÃ¹ delle Opzioni del BUG Mod quando un gioco viene iniziato o caricato .</Italian>
 		<Spanish>When checked, displays a message about Alt + Ctrl + O when a game is started or loaded.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -29,7 +29,7 @@
 		<Russian>Options Button</Russian>
 		<English>Options Button</English>
 		<French>Options Button</French>
-		<German>Optionsschaltfläche</German>
+		<German>OptionsschaltflÃ¤che</German>
 		<Italian>Options Button</Italian>
 		<Spanish>Options Button</Spanish>
 	</TEXT>
@@ -38,7 +38,7 @@
 		<Russian>When checked, shows the BUG Option Screen button.</Russian>
 		<English>When checked, shows the BUG Option Screen button.</English>
 		<French>When checked, shows the BUG Option Screen button.</French>
-		<German>Zeigt die Schaltfläche zum Aufruf des Optionensbildschirms der BUG Mod an</German>
+		<German>Zeigt die SchaltflÃ¤che zum Aufruf des Optionensbildschirms der BUG Mod an</German>
 		<Italian>When checked, shows the BUG Option Screen button.</Italian>
 		<Spanish>When checked, shows the BUG Option Screen button.</Spanish>
 	</TEXT>
@@ -56,8 +56,8 @@
 		<Russian>When checked, displays your gold rate in yellow if it is negative but not enough to drop your treasury below zero.</Russian>
 		<English>When checked, displays your gold rate in yellow if it is negative but not enough to drop your treasury below zero.</English>
 		<French>When checked, displays your gold rate in yellow if it is negative but not enough to drop your treasury below zero.</French>
-		<German>Färbt die Anzeige für "Gold/Runde" Gelb ein, wenn dessen Wert zwar negativ ist, den Goldvorrat in der nächsten Runde aber nicht unter 0 senken wird</German>
-		<Italian>Quando è selezionato, mostra il tasso di crescita dell'oro in giallo se è negativo ma non abbastanza da mandarvi in rosso.</Italian>
+		<German>FÃ¤rbt die Anzeige fÃ¼r "Gold/Runde" Gelb ein, wenn dessen Wert zwar negativ ist, den Goldvorrat in der nÃ¤chsten Runde aber nicht unter 0 senken wird</German>
+		<Italian>Quando Ã¨ selezionato, mostra il tasso di crescita dell'oro in giallo se Ã¨ negativo ma non abbastanza da mandarvi in rosso.</Italian>
 		<Spanish>When checked, displays your gold rate in yellow if it is negative but not enough to drop your treasury below zero.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -65,7 +65,7 @@
 		<Russian>Great Person</Russian>
 		<English>Great Person</English>
 		<French>Personnages Illustres</French>
-		<German>Große Persönlichkeiten</German>
+		<German>GroÃŸe PersÃ¶nlichkeiten</German>
 		<Italian>Grandi Personaggi</Italian>
 		<Spanish>Great Person</Spanish>
 	</TEXT>
@@ -73,9 +73,9 @@
 		<Tag>TXT_KEY_BUG_OPT_MAININTERFACE__GPBAR_HOVER</Tag>
 		<Russian>When checked, displays the progress and city of the next Great Person.</Russian>
 		<English>When checked, displays the progress and city of the next Great Person.</English>
-		<French>En activant, montre la barre de progrès et la ville du prochain Personnage Illustre.</French>
-		<German>Zeigt einen Fortschrittsbalken an, um zu bestimmen, wann und in welcher Stadt die nächste Große Persönlichkeit erscheinen wird</German>
-		<Italian>Quando è selezionato, mostra il progresso e la città del prossimo Grande Personaggio.</Italian>
+		<French>En activant, montre la barre de progrÃ¨s et la ville du prochain Personnage Illustre.</French>
+		<German>Zeigt einen Fortschrittsbalken an, um zu bestimmen, wann und in welcher Stadt die nÃ¤chste GroÃŸe PersÃ¶nlichkeit erscheinen wird</German>
+		<Italian>Quando Ã¨ selezionato, mostra il progresso e la cittÃ  del prossimo Grande Personaggio.</Italian>
 		<Spanish>When checked, displays the progress and city of the next Great Person.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -91,9 +91,9 @@
 		<Tag>TXT_KEY_BUG_OPT_MAININTERFACE__GPBAR_TYPES_HOVER</Tag>
 		<Russian>Determines how many GP types to display in the GP Progress Bar. The [COLOR_HIGHLIGHT_TEXT]Maximum[COLOR_REVERT] setting also displays the percent chance for each.</Russian>
 		<English>Determines how many GP types to display in the GP Progress Bar. The [COLOR_HIGHLIGHT_TEXT]Maximum[COLOR_REVERT] setting also displays the percent chance for each.</English>
-		<French>Determine combien de types de PI doivent être montrés dans la Barre de Progrès. L'option [COLOR_HIGHLIGHT_TEXT]Maximum[COLOR_REVERT] montre aussi les chances de chacun.</French>
-		<German>Bestimmt die Anzahl der Typen von Großen Persönlichkeiten, die im Fortschrittsbalken angezeigt werden (die Einstellung [COLOR_HIGHLIGHT_TEXT]Maximal[COLOR_REVERT] zeigt zusätzlich die prozentuale Chance für jede einzelne an)</German>
-		<Italian>Determina quanti tipi di Grandi Personaggi devono essere mostrati nella Barra dei Grandi Personaggi. L'impostazione [COLOR_HIGHLIGHT_TEXT]Massimo[COLOR_REVERT] mostra anche la possibilità percentuale di ognuna.</Italian>
+		<French>Determine combien de types de PI doivent Ãªtre montrÃ©s dans la Barre de ProgrÃ¨s. L'option [COLOR_HIGHLIGHT_TEXT]Maximum[COLOR_REVERT] montre aussi les chances de chacun.</French>
+		<German>Bestimmt die Anzahl der Typen von GroÃŸen PersÃ¶nlichkeiten, die im Fortschrittsbalken angezeigt werden (die Einstellung [COLOR_HIGHLIGHT_TEXT]Maximal[COLOR_REVERT] zeigt zusÃ¤tzlich die prozentuale Chance fÃ¼r jede einzelne an)</German>
+		<Italian>Determina quanti tipi di Grandi Personaggi devono essere mostrati nella Barra dei Grandi Personaggi. L'impostazione [COLOR_HIGHLIGHT_TEXT]Massimo[COLOR_REVERT] mostra anche la possibilitÃ  percentuale di ognuna.</Italian>
 		<Spanish>Determines how many GP types to display in the GP Progress Bar. The [COLOR_HIGHLIGHT_TEXT]Maximum[COLOR_REVERT] setting also displays the percent chance for each.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -109,8 +109,8 @@
 		<Tag>TXT_KEY_BUG_OPT_MAININTERFACE__COMBAT_COUNTER_TEXT</Tag>
 		<Russian>Great General</Russian>
 		<English>Great General</English>
-		<French>G&#233;n&#233;ral Illustre</French>
-		<German>Großer General</German>
+		<French>GÐ¹nÐ¹ral Illustre</French>
+		<German>GroÃŸer General</German>
 		<Italian>Grande Generale</Italian>
 		<Spanish>Great General</Spanish>
 	</TEXT>
@@ -118,9 +118,9 @@
 		<Tag>TXT_KEY_BUG_OPT_MAININTERFACE__COMBAT_COUNTER_HOVER</Tag>
 		<Russian>When checked, displays a progress bar for the next Great General.</Russian>
 		<English>When checked, displays a progress bar for the next Great General.</English>
-		<French>En activant, montre l'Expérience au Combat nécessaire pour le prochain Général Illustre.</French>
-		<German>Zeigt die gesammelte Gefechtserfahrung an, um das Erscheinen des nächsten Großen Generals zu bestimmen</German>
-		<Italian>Quando è selezionato, mostra la barra di avanzamento per il prossimo Grande Generale.</Italian>
+		<French>En activant, montre l'ExpÃ©rience au Combat nÃ©cessaire pour le prochain GÃ©nÃ©ral Illustre.</French>
+		<German>Zeigt die gesammelte Gefechtserfahrung an, um das Erscheinen des nÃ¤chsten GroÃŸen Generals zu bestimmen</German>
+		<Italian>Quando Ã¨ selezionato, mostra la barra di avanzamento per il prossimo Grande Generale.</Italian>
 		<Spanish>When checked, displays a progress bar for the next Great General.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -137,8 +137,8 @@
 		<Russian>When checked, displays a second pair of +/- buttons for each commerce type that set the rate to 100% and 0% respectively.</Russian>
 		<English>When checked, displays a second pair of +/- buttons for each commerce type that set the rate to 100% and 0% respectively.</English>
 		<French>When checked, displays a second pair of +/- buttons for each commerce type that set the rate to 100% and 0% respectively.</French>
-		<German>Zeigt ein zweites Paar "+/-"-Schaltflächen für jede Art Investitionsanteil an, die diese auf 100% beziehungsweise 0% setzen</German>
-		<Italian>Quando è selezionato, mostra una seconda coppia di bottoni +/- per ogni tipo di commercio che impostano il valore rispettivamente al 100% ed allo 0%.</Italian>
+		<German>Zeigt ein zweites Paar "+/-"-SchaltflÃ¤chen fÃ¼r jede Art Investitionsanteil an, die diese auf 100% beziehungsweise 0% setzen</German>
+		<Italian>Quando Ã¨ selezionato, mostra una seconda coppia di bottoni +/- per ogni tipo di commercio che impostano il valore rispettivamente al 100% ed allo 0%.</Italian>
 		<Spanish>When checked, displays a second pair of +/- buttons for each commerce type that set the rate to 100% and 0% respectively.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -146,7 +146,7 @@
 		<Russian>City Cycle Arrows</Russian>
 		<English>City Cycle Arrows</English>
 		<French>Fleches de Ville</French>
-		<German>Städtepfeile</German>
+		<German>StÃ¤dtepfeile</German>
 		<Italian>Frecce di scorrimento cittadino</Italian>
 		<Spanish>City Cycle Arrows</Spanish>
 	</TEXT>
@@ -154,9 +154,9 @@
 		<Tag>TXT_KEY_BUG_OPT_MAININTERFACE__CITYARROWS_HOVER</Tag>
 		<Russian>When checked, displays arrows to cycle through cities above your civ's flag.</Russian>
 		<English>When checked, displays arrows to cycle through cities above your civ's flag.</English>
-		<French>En activant, montre des flèches pour cycler vos villes au-dessous du drapeau de votre civilisation.</French>
-		<German>Zeigt Pfeile über der Flagge der eigenen Zivilisation an, mit denen durch die einzelnen Städte geschaltet werden kann</German>
-		<Italian>Quando è selezionato, mostra sopra alla vostra bandiera le frecce per scorrere fra le Città.</Italian>
+		<French>En activant, montre des flÃ¨ches pour cycler vos villes au-dessous du drapeau de votre civilisation.</French>
+		<German>Zeigt Pfeile Ã¼ber der Flagge der eigenen Zivilisation an, mit denen durch die einzelnen StÃ¤dte geschaltet werden kann</German>
+		<Italian>Quando Ã¨ selezionato, mostra sopra alla vostra bandiera le frecce per scorrere fra le CittÃ .</Italian>
 		<Spanish>When checked, displays arrows to cycle through cities above your civ's flag.</Spanish>
 	</TEXT>
 
@@ -175,7 +175,7 @@
 		<English>When checked, displays a slide bar which can be used to change the field of view.</English>
 		<French>When checked, displays a slide bar which can be used to change the field of view.</French>
 		<German>Zeigt im Hauptbildschirm einen Schieberegler an, mit dem das Sichtfeld (engl. "Field of View") eingestellt werden kann</German>
-		<Italian>Quando è selezionato, visualizza un cursore che può essere utilizzato per regolare il campo visuale.</Italian>
+		<Italian>Quando Ã¨ selezionato, visualizza un cursore che puÃ² essere utilizzato per regolare il campo visuale.</Italian>
 		<Spanish>When checked, displays a slide bar which can be used to change the field of view.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -192,7 +192,7 @@
 		<Russian>When checked, displays tick marks on selected progress bars that illustrate estimated future turn progress.</Russian>
 		<English>When checked, displays tick marks on selected progress bars that illustrate estimated future turn progress.</English>
 		<French>When checked, displays tick marks on selected progress bars that illustrate estimated future turn progress.</French>
-		<German>Zeigt Teilstriche auf ausgewählten Fortschrittsbalken an, die deren voraussichtlichen Verlauf in zukünftigen Runden darstellen</German>
+		<German>Zeigt Teilstriche auf ausgewÃ¤hlten Fortschrittsbalken an, die deren voraussichtlichen Verlauf in zukÃ¼nftigen Runden darstellen</German>
 		<Italian>Visualizza sulle barre di avanzamento selezionate dei trattini che mostrano il progresso stimato per i turni successivi.</Italian>
 		<Spanish>When checked, displays tick marks on selected progress bars that illustrate estimated future turn progress.</Spanish>
 	</TEXT>
@@ -210,8 +210,8 @@
 		<Russian>When checked, the Field of View value is remembered from game to game.</Russian>
 		<English>When checked, the Field of View value is remembered from game to game.</English>
 		<French>When checked, the Field of View value is remembered from game to game.</French>
-		<German>Merkt sich die letzte gewählte Einstellung für das Sichtfeld (engl. "Field of View") für weitere Partien</German>
-		<Italian>Quando è selezionato, il valore assegnato al Campo visuale viene conservato.</Italian>
+		<German>Merkt sich die letzte gewÃ¤hlte Einstellung fÃ¼r das Sichtfeld (engl. "Field of View") fÃ¼r weitere Partien</German>
+		<Italian>Quando Ã¨ selezionato, il valore assegnato al Campo visuale viene conservato.</Italian>
 		<Spanish>When checked, the Field of View value is remembered from game to game.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -228,7 +228,7 @@
 		<Russian>Stores the Field of View value</Russian>
 		<English>Stores the Field of View value</English>
 		<French>Stores the Field of View value</French>
-		<German>Eingabemöglichkeit für die Einstellung des Sichtfeldes (engl. "Field of View")</German>
+		<German>EingabemÃ¶glichkeit fÃ¼r die Einstellung des Sichtfeldes (engl. "Field of View")</German>
 		<Italian>Riporta il valore assegnato al Campo visuale</Italian>
 		<Spanish>Stores the Field of View value</Spanish>
 	</TEXT>
@@ -248,7 +248,7 @@
 		<English>When checked, shows the Movement Points for a single unit as a fraction in the Info Pane.</English>
 		<French>When checked, shows the Movement Points for a single unit as a fraction in the Info Pane.</French>
 		<German>Zeigt die Bewegungspunkte einer einzelnen Einheit in der Detailanzeige mit Nachkommastellen an</German>
-		<Italian>Quando è selezionato, mostra nel Pannello delle Informazioni i Punti Movimento di una Unità come un numero con una cifra decimale.</Italian>
+		<Italian>Quando Ã¨ selezionato, mostra nel Pannello delle Informazioni i Punti Movimento di una UnitÃ  come un numero con una cifra decimale.</Italian>
 		<Spanish>When checked, shows the Movement Points for a single unit as a fraction in the Info Pane.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -265,8 +265,8 @@
 		<Russian>When checked, shows the minimum and maximum Movement Points for all selected units in the Info Pane.</Russian>
 		<English>When checked, shows the minimum and maximum Movement Points for all selected units in the Info Pane.</English>
 		<French>When checked, shows the minimum and maximum Movement Points for all selected units in the Info Pane.</French>
-		<German>Zeigt die minimalen und maximalen Bewegungspunkte aller ausgewählten Einheiten in der Detailanzeige an</German>
-		<Italian>Quando è selezionato, mostra nel Pannello delle Informazioni il valore minimo e quello massimo per i Punti Movimento del gruppo di Unità selezionate.</Italian>
+		<German>Zeigt die minimalen und maximalen Bewegungspunkte aller ausgewÃ¤hlten Einheiten in der Detailanzeige an</German>
+		<Italian>Quando Ã¨ selezionato, mostra nel Pannello delle Informazioni il valore minimo e quello massimo per i Punti Movimento del gruppo di UnitÃ  selezionate.</Italian>
 		<Spanish>When checked, shows the minimum and maximum Movement Points for all selected units in the Info Pane.</Spanish>
 	</TEXT>
 	
@@ -275,7 +275,7 @@
 		<Russian>Build/Action Icon Size</Russian>
 		<English>Build/Action Icon Size</English>
 		<French>Build/Action Icon Size</French>
-		<German>Größe der Bau-/Befehlssymbole</German>
+		<German>GrÃ¶ÃŸe der Bau-/Befehlssymbole</German>
 		<Italian>Build/Action Icon Size</Italian>
 		<Spanish>Build/Action Icon Size</Spanish>
 	</TEXT>
@@ -284,7 +284,7 @@
 		<Russian>Determines the size of the build and action buttons in the bottom center of the screen.</Russian>
 		<English>Determines the size of the build and action buttons in the bottom center of the screen.</English>
 		<French>Determines the size of the build and action buttons in the bottom center of the screen.</French>
-		<German>Bestimmt die Größe der Bau- und Befehlssymbole im Menü am unteren Bildschirmrand</German>
+		<German>Bestimmt die GrÃ¶ÃŸe der Bau- und Befehlssymbole im MenÃ¼ am unteren Bildschirmrand</German>
 		<Italian>Determines the size of the build and action buttons in the bottom center of the screen.</Italian>
 		<Spanish>Determines the size of the build and action buttons in the bottom center of the screen.</Spanish>
 	</TEXT>
@@ -293,7 +293,7 @@
 		<Russian>Small|Medium|Large</Russian>
 		<English>Small|Medium|Large</English>
 		<French>Small|Medium|Large</French>
-		<German>Klein|Mittel|Groß</German>
+		<German>Klein|Mittel|GroÃŸ</German>
 		<Italian>Small|Medium|Large</Italian>
 		<Spanish>Small|Medium|Large</Spanish>
 	</TEXT>
@@ -309,7 +309,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_MAININTERFACE__ENABLEGRAPHICALPAGING_HOVER</Tag>
 		<English>Turn on or off paging out of off-focus graphics to save memory</English>
-		<French>Activer la Pagination des Graphiques hors champ pour préserver de la mémoire</French>
+		<French>Activer la Pagination des Graphiques hors champ pour prÃ©server de la mÃ©moire</French>
 		<German>Turn on or off paging out of off-focus graphics to save memory</German>
 		<Italian>Turn on or off paging out of off-focus graphics to save memory</Italian>
 		<Spanish>Turn on or off paging out of off-focus graphics to save memory</Spanish>

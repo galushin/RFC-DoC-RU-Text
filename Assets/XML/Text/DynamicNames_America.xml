@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,77 +6,77 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AMERICA_DESC</Tag>
-		<Russian>&#192;&#236;&#229;&#240;&#232;&#234;&#224;&#237;&#246;&#251;</Russian>
+		<Russian>&#192;мериканцы</Russian>
 		<English>The Americans</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AMERICA_DESC_PEOPLES</Tag>
-		<Russian>&#192;&#236;&#229;&#240;&#232;&#234;&#224;&#237;&#241;&#234;&#232;&#229; &#237;&#224;&#240;&#238;&#228;&#251;</Russian>
+		<Russian>&#192;мериканские народы</Russian>
 		<English>American Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AMERICA_DESC_DEFAULT</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#202;&#238;&#235;&#243;&#236;&#225;&#232;&#255;</Russian>
+		<Russian>Империя Колумбия</Russian>
 		<English>Empire of Columbia</English>		<!-- better as a monarchist name -->
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AMERICA_DESC_DEMOCRATIC</Tag>
-		<Russian>&#209;&#238;&#229;&#228;&#232;&#237;&#229;&#237;&#237;&#251;&#229; &#216;&#242;&#224;&#242;&#251; &#192;&#236;&#229;&#240;&#232;&#234;&#232;</Russian>
+		<Russian>Соединенные Штаты &#192;мерики</Russian>
 		<English>United States of America</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AMERICA_DESC_COMMUNIST</Tag>
-		<Russian>&#209;&#238;&#229;&#228;&#232;&#237;&#229;&#237;&#237;&#251;&#229; &#209;&#238;&#246;&#232;&#224;&#235;&#232;&#241;&#242;&#232;&#247;&#229;&#241;&#234;&#232;&#229; &#216;&#242;&#224;&#242;&#251; &#192;&#236;&#229;&#240;&#232;&#234;&#232;</Russian>
+		<Russian>Соединенные Социалистические Штаты &#192;мерики</Russian>
 		<English>United Socialist States of America</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AMERICA_DESC_FASCIST</Tag>
-		<Russian>&#205;&#238;&#226;&#251;&#233; &#236;&#232;&#240;&#238;&#226;&#238;&#233; &#239;&#238;&#240;&#255;&#228;&#238;&#234;</Russian>
+		<Russian>Новый мировой порядок</Russian>
 		<English>New World Order</English>		<!-- Empire of Columbia previously -->
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AMERICA_CSA</Tag>
-		<Russian>&#202;&#238;&#237;&#244;&#229;&#228;&#229;&#240;&#224;&#242;&#232;&#226;&#237;&#251;&#229; &#216;&#242;&#224;&#242;&#251; &#192;&#236;&#229;&#240;&#232;&#234;&#232;</Russian>
+		<Russian>Конфедеративные Штаты &#192;мерики</Russian>
 		<English>Confederate States of America</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AMERICA_SOVIET_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#192;&#236;&#229;&#240;&#232;&#234;&#224;</Russian>
+		<Russian>Советская &#192;мерика</Russian>
 		<English>Soviet America</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AMERICA_NAZI_VASSAL</Tag>
-		<Russian>&#195;&#229;&#240;&#236;&#224;&#237;&#241;&#234;&#224;&#255; &#192;&#236;&#229;&#240;&#232;&#234;&#224;</Russian>
+		<Russian>Германская &#192;мерика</Russian>
 		<English>German America</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLAND_AMERICAN_VASSAL</Tag>
-		<Russian>&#194;&#231;&#235;&#229;&#242;&#237;&#224;&#255; &#239;&#238;&#235;&#238;&#241;&#224; &#237;&#238;&#236;&#229;&#240; 1</Russian>
+		<Russian>Взлетная полоса номер 1</Russian>
 		<English>Airstrip One</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_JAPAN_AMERICAN_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242; &#241;&#238;&#254;&#231;&#237;&#232;&#234;&#238;&#226; &#239;&#238; &#223;&#239;&#238;&#237;&#232;&#232;</Russian>
+		<Russian>Совет союзников по Японии</Russian>
 		<English>Allied Council for Japan</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GERMANY_AMERICAN_VASSAL</Tag>
-		<Russian>&#192;&#236;&#229;&#240;&#232;&#234;&#224;&#237;&#241;&#234;&#224;&#255; &#238;&#234;&#234;&#243;&#239;&#224;&#246;&#232;&#238;&#237;&#237;&#224;&#255; &#231;&#238;&#237;&#224; &#226; &#195;&#229;&#240;&#236;&#224;&#237;&#232;&#232;</Russian>
+		<Russian>&#192;мериканская оккупационная зона в Германии</Russian>
 		<English>US-Occupied Germany</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KOREA_AMERICAN_VASSAL</Tag>
-		<Russian>&#209;&#232;&#235;&#251; &#212;&#235;&#238;&#242;&#224; &#226; &#202;&#238;&#240;&#229;&#229;</Russian>
+		<Russian>Силы Флота в Корее</Russian>
 		<English>Commander Naval Forces Korea</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTECS_AMERICAN_VASSAL</Tag>
-		<Russian>&#205;&#238;&#226;&#224;&#255; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<Russian>Новая Мексика</Russian>
 		<English>New Mexico</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MAYA_AMERICAN_VASSAL</Tag>
-		<Russian>&#192;&#236;&#229;&#240;&#232;&#234;&#224;&#237;&#241;&#234;&#232;&#233; &#222;&#234;&#224;&#242;&#224;&#237;</Russian>
-		<English>American Yucat&#225;n</English>
+		<Russian>&#192;мериканский Юкатан</Russian>
+		<English>American Yucatбn</English>
 	</TEXT>
 </Civ4GameText>
