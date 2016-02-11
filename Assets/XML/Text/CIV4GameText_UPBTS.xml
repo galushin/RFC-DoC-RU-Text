@@ -15,6 +15,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_ETH2</Tag>
+		<Russian>Land units receive +10% additional strength within cultural borders</Russian>
 		<English>Land units receive +10% additional strength within cultural borders</English>
 		<French>Les villes éthiopiennes ne peuvent pas être exigées dans un congrès</French>
 		<German>Landeinheiten erhalten +10% zusätzliche Stärke innerhalb kultureller Grenzen</German>
@@ -86,6 +87,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_POR2</Tag>
+		<Russian>Ocean Trade allowed with Optics, reduced instability for overseas colonies</Russian>
 		<English>Ocean Trade allowed with Optics, reduced instability for overseas colonies</English>
 		<French>Toutes les unités en mer ont un champ de vision élargi</French>
 		<German>Ozeanhandel ermöglicht durch Optik, verringerte Instabilität durch Übersee-Kolonien</German>
@@ -106,11 +108,13 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_BYZ</Tag>
+		<Russian>The Power of Bribery:</Russian>
 		<English>The Power of Bribery:</English>
 		<German>Die Macht der Bestechung:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_BYZ2</Tag>
+		<Russian>Double gold value in trades, spies can bribe barbarian units</Russian>
 		<English>Double gold value in trades, spies can bribe barbarian units</English>
 		<German>Doppelter Wert von Gold beim Handeln, Spione können barbarische Einheiten bestechen</German>
 	</TEXT>
@@ -128,21 +132,25 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_INO</Tag>
+		<Russian>The Power of Straits:</Russian>
 		<English>The Power of Straits:</English>
 		<German>Die Macht der Meerengen:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_INO2</Tag>
+		<Russian>Additional gold from foreign ships passing through your core</Russian>
 		<English>Additional gold from foreign ships passing through your core</English>
 		<German>Zusätzliches Gold von ausländischen Schiffen, die unser Kerngebiet passieren</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_THA</Tag>
+		<Russian>The Power of Father Governs Children:</Russian>
 		<English>The Power of Father Governs Children:</English>
 		<German>Die Macht von Vater Regiert Kinder:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_THA2</Tag>
+		<Russian>Can use twice as many units to generate military happiness</Russian>
 		<English>Can use twice as many units to generate military happiness</English>
 		<German>Kann zweimal soviele militärische Einheiten einsetzen, um Zufriedenheit zu generieren</German>
 	</TEXT>
@@ -160,11 +168,13 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_HRE</Tag>
+		<Russian>The Power of Investiture:</Russian>
 		<English>The Power of Investiture:</English>
 		<German>Die Macht der Investitur:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_HRE2</Tag>
+		<Russian>Double construction speed of state religion buildings</Russian>
 		<English>Double construction speed of state religion buildings</English>
 		<German>Doppelte Baugeschwindigkeit für Gebäude der Staatsreligion</German>
 	</TEXT>
@@ -182,116 +192,140 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_TAM</Tag>
+		<Russian>The Power of Thalassocracy:</Russian>
 		<English>The Power of Thalassocracy:</English>
 		<German>Die Macht der Thalassokratie:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_TAM2</Tag>
+		<Russian>Extra commerce on coast and ocean tiles</Russian>
 		<English>Extra commerce on coast and ocean tiles</English>
 		<German>Zusätzlicher Kommerz auf Küsten- und Ozeanfeldern</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_POL</Tag>
+		<Russian>The Power of Golden Liberty:</Russian>
 		<English>The Power of Golden Liberty:</English>
 		<German>Die Macht der Goldenen Freiheit:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_POL2</Tag>
+		<Russian>Additional food and commerce during Golden Ages</Russian>
 		<English>Additional food and commerce during Golden Ages</English>
 		<German>Zusätzliche Nahrung und Kommerz durch Goldene Zeitalter</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_MOO</Tag>
+		<Russian>The Power of Irrigation:</Russian>
 		<English>The Power of Irrigation:</English>
 		<German>Die Macht der Bewässerung:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_MOO2</Tag>
+		<Russian>Improvements that yield food give one extra food on plains tiles until the Renaissance</Russian>
 		<English>Improvements that yield food give one extra food on plains tiles until the Renaissance</English>
 		<German>Verbesserungen, die Nahrung produzieren, geben eine zusätzliche Nahrungseinheit auf Ebenenfeldern bis zur Renaissance</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_KON</Tag>
+		<Russian>The Power of the Tropics:</Russian>
 		<English>The Power of the Tropics:</English>
 		<German>Die Macht der Tropen:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_KON2</Tag>
+		<Russian>Jungles, rainforests and marshes yield extra food and production and cause no unhealthiness</Russian>
 		<English>Jungles, rainforests and marshes yield extra food and production and cause no unhealthiness</English>
 		<German>Dschungel, Regenwälder und Marschen geben zusätzliche Nahrung und Produktion und verursachen keine Krankheit</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_TIB</Tag>
+		<Russian>The Power of Missionaries:</Russian>
 		<English>The Power of Missionaries:</English>
 		<German>Die Macht der Missionare:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_TIB2</Tag>
+		<Russian>Can train unlimited missionaries; Missionaries can enter foreign territory</Russian>
 		<English>Can train unlimited missionaries; Missionaries can enter foreign territory</English>
 		<German>Kann unbegrenzt Missionare ausbilden; Missionare können fremdes Territorium betreten</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_MEX</Tag>
+		<Russian>The Power of Arid Agriculture:</Russian>
 		<English>The Power of Arid Agriculture:</English>
 		<German>Die Macht der Ariden Landwirtschaft:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_MEX2</Tag>
+		<Russian>Can build farms on hills</Russian>
 		<English>Can build farms on hills</English>
 		<German>Kann Farmen auf Hügeln errichten</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_BRA</Tag>
+		<Russian>The Power of Ethanol:</Russian>
 		<English>The Power of Ethanol:</English>
 		<German>Die Macht des Ethanols:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_BRA2</Tag>
+		<Russian>Sugar counts as oil for Oil Industry</Russian>
 		<English>Sugar counts as oil for Oil Industry</English>
 		<German>Zucker zählt als Öl für die Ölindustrie</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_ARG</Tag>
+		<Russian>The Power of Juntas:</Russian>
 		<English>The Power of Juntas:</English>
 		<German>Die Macht der Juntas:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_ARG2</Tag>
+		<Russian>Great Generals can start Golden Ages</Russian>
 		<English>Great Generals can start Golden Ages</English>
 		<German>Große Generäle können Goldene Zeitalter auslösen</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_COL</Tag>
+		<Russian>The Power of the Liberator:</Russian>
 		<English>The Power of the Liberator:</English>
 		<German>Die Macht des Befreiers:</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_COL2</Tag>
+		<Russian>No City Resistance on Conquest in Latin America</Russian>
 		<English>No City Resistance on Conquest in Latin America</English>
 		<German>Keinen Widerstand in eroberten Städten in Lateinamerika</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_CAN</Tag>
+		<Russian>The Power of Multiculturalism:</Russian>
 		<English>The Power of Multiculturalism:</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_CAN2</Tag>
+		<Russian>Immigrants bring [ICON_GREATPEOPLE] to your cities</Russian>
 		<English>Immigrants bring [ICON_GREATPEOPLE] to your cities</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_PLY</Tag>
+		<Russian>The Power of Navigation:</Russian>
 		<English>The Power of Navigation:</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_PLY2</Tag>
+		<Russian>No penalties for cultural expansion over Ocean tiles</Russian>
 		<English>No penalties for cultural expansion over Ocean tiles</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_HAR</Tag>
+		<Russian>The Power of Sanitation:</Russian>
 		<English>The Power of Sanitation:</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_HAR2</Tag>
+		<Russian>Positive health contributes to city growth during the Ancient era</Russian>
 		<English>Positive health contributes to city growth during the Ancient era</English>
 	</TEXT>
 </Civ4GameText>
