@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,42 +6,42 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPA_DESC</Tag>
-		<Russian>&#213;&#224;&#240;&#224;&#239;&#239;&#224;</Russian>
+		<Russian>Хараппа</Russian>
 		<English>The Harappans</English>
 		</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPA_DESC_PEOPLES</Tag>
-		<Russian>&#205;&#224;&#240;&#238;&#228;&#251; &#228;&#238;&#235;&#232;&#237;&#251; &#200;&#237;&#228;&#224;</Russian>
+		<Russian>Народы долины Инда</Russian>
 		<English>Indus Valley Peoples</English>
 		</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPA_DESC_DEFAULT</Tag>
-		<Russian>&#195;&#238;&#240;&#238;&#228;&#224;-&#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#224; &#228;&#238;&#235;&#232;&#237;&#251; &#200;&#237;&#228;&#224;</Russian>
+		<Russian>Города-государства долины Инда</Russian>
 		<English>Indus Valley City States</English>
 		</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPA_DESC_DEMOCRATIC</Tag>
-		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#240;&#229;&#234;&#232; &#200;&#237;&#228;</Russian>
+		<Russian>Республика реки Инд</Russian>
 		<English>Indus River Republic</English>
 		</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPA_DESC_COMMUNIST</Tag>
-		<Russian>&#196;&#229;&#236;&#238;&#234;&#240;&#224;&#242;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#200;&#237;&#228;&#224;</Russian>
+		<Russian>Демократическая Республика Инда</Russian>
 		<English>Democratic Republic of the Indus</English>
 		</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPA_DESC_FASCIST</Tag>
-		<Russian>&#205;&#224;&#246;&#232;&#238;&#237;&#224;&#235;&#252;&#237;&#224;&#255; &#240;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#200;&#237;&#228;&#224;</Russian>
+		<Russian>Национальная республика Инда</Russian>
 		<English>National Republic of the Indus</English>
 		</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPA_NAZI_VASSAL</Tag>
-		<Russian>&#195;&#229;&#240;&#236;&#224;&#237;&#241;&#234;&#232;&#233; &#200;&#237;&#228;</Russian>
+		<Russian>Германский Инд</Russian>
 		<English>German Indus</English>
 		</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPA_SOVIET_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#232;&#233; &#200;&#237;&#228;</Russian>
+		<Russian>Советский Инд</Russian>
 		<English>Soviet Indus</English>
 		</TEXT>
 </Civ4GameText>

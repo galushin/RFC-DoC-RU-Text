@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,112 +6,112 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKING_DESC</Tag>
-		<Russian>&#194;&#232;&#234;&#232;&#237;&#227;&#232;</Russian>
+		<Russian>Викинги</Russian>
 		<English>The Vikings</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SWEDEN_DESC</Tag>
-		<Russian>&#216;&#226;&#229;&#228;&#251;</Russian>
+		<Russian>Шведы</Russian>
 		<English>The Swedish</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NORWAY_ADJECTIVE</Tag>
-		<Russian>&#205;&#238;&#240;&#226;&#229;&#230;&#246;&#251;</Russian>
+		<Russian>Норвежцы</Russian>
 		<English>Norwegian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NORWAY_SHORT_DESC</Tag>
-		<Russian>&#205;&#238;&#240;&#226;&#229;&#227;&#232;&#255;</Russian>
+		<Russian>Норвегия</Russian>
 		<English>Norway</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DENMARK_ADJECTIVE</Tag>
-		<Russian>&#196;&#224;&#242;&#247;&#224;&#237;&#229;</Russian>
+		<Russian>Датчане</Russian>
 		<English>Danish</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_DENMARK_SHORT_DESC</Tag>
-		<Russian>&#196;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Дания</Russian>
 		<English>Denmark</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SWEDEN_ADJECTIVE</Tag>
-		<Russian>&#216;&#226;&#229;&#228;&#251;</Russian>
+		<Russian>Шведы</Russian>
 		<English>Swedish</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SWEDEN_SHORT_DESC</Tag>
-		<Russian>&#216;&#226;&#229;&#246;&#232;&#255;</Russian>
+		<Russian>Швеция</Russian>
 		<English>Sweden</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SCANDINAVIA_ADJECTIVE</Tag>
-		<Russian>&#209;&#234;&#224;&#237;&#228;&#232;&#237;&#224;&#226;&#251;</Russian>
+		<Russian>Скандинавы</Russian>
 		<English>Scandinavian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SCANDINAVIA_SHORT_DESC</Tag>
-		<Russian>&#209;&#234;&#224;&#237;&#228;&#232;&#237;&#224;&#226;&#232;&#255;</Russian>
+		<Russian>Скандинавия</Russian>
 		<English>Scandinavia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_DESC_PEOPLES</Tag>
-		<Russian>&#205;&#238;&#240;&#226;&#229;&#230;&#246;&#251;</Russian>
+		<Russian>Норвежцы</Russian>
 		<English>Norse Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_DESC_DEFAULT</Tag>
-		<Russian>&#209;&#238;&#254;&#231; &#194;&#232;&#234;&#232;&#237;&#227;&#238;&#226;</Russian>
+		<Russian>Союз Викингов</Russian>
 		<English>Viking Union</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_DESC_DEMOCRATIC</Tag>
-		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#209;&#234;&#224;&#237;&#228;&#232;&#237;&#224;&#226;&#232;&#255;</Russian>
+		<Russian>Республика Скандинавия</Russian>
 		<English>Republic of Scandinavia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_DESC_COMMUNIST</Tag>
-		<Russian>&#196;&#229;&#236;&#238;&#234;&#240;&#224;&#242;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#209;&#234;&#224;&#237;&#228;&#232;&#237;&#224;&#226;&#232;&#255;</Russian>
+		<Russian>Демократическая Республика Скандинавия</Russian>
 		<English>Democratic Republic of Scandinavia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_DESC_FASCIST</Tag>
-		<Russian>&#205;&#224;&#246;&#232;&#238;&#237;&#224;&#235;&#252;&#237;&#238;&#229; &#241;&#238;&#225;&#240;&#224;&#237;&#232;&#229; &#209;&#234;&#224;&#237;&#228;&#232;&#237;&#224;&#226;&#232;&#232;</Russian>
+		<Russian>Национальное собрание Скандинавии</Russian>
 		<English>National Gathering of Scandinavia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_NORSE_KINGDOMS</Tag>
-		<Russian>&#205;&#238;&#240;&#226;&#229;&#230;&#241;&#234;&#232;&#229; &#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#224;</Russian>
+		<Russian>Норвежские королевства</Russian>
 		<English>Norse Kingdoms</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_KALMAR_UNION</Tag>
-		<Russian>&#202;&#224;&#235;&#252;&#236;&#224;&#240;&#241;&#234;&#224;&#255; &#243;&#237;&#232;&#255;</Russian>
+		<Russian>Кальмарская уния</Russian>
 		<English>Kalmar Union</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_SWEDISH_EMPIRE</Tag>
-		<Russian>&#216;&#226;&#229;&#228;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Шведская Империя</Russian>
 		<English>Swedish Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_DENMARK_NORWAY</Tag>
-		<Russian>&#196;&#224;&#242;&#241;&#234;&#238;-&#237;&#238;&#240;&#226;&#229;&#230;&#241;&#234;&#224;&#255; &#243;&#237;&#232;&#255;</Russian>
+		<Russian>Датско-норвежская уния</Russian>
 		<English>Kingdom of Denmark-Norway</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_NORWAY</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#205;&#238;&#240;&#226;&#229;&#227;&#232;&#255;</Russian>
+		<Russian>Королевство Норвегия</Russian>
 		<English>Kingdom of Norway</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_SWEDEN</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#242;&#241;&#226;&#238; &#216;&#226;&#229;&#246;&#232;&#255;</Russian>
+		<Russian>Королевтсво Швеция</Russian>
 		<English>Kingdom of Sweden</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_DENMARK</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#196;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Королевство Дания</Russian>
 		<English>Kingdom of Denmark</English>
 	</TEXT>
 	<TEXT>
@@ -126,22 +126,22 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_SOVIET_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#209;&#234;&#224;&#237;&#228;&#232;&#237;&#224;&#226;&#232;&#255;</Russian>
+		<Russian>Советская Скандинавия</Russian>
 		<English>Soviet Scandinavia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_NAZI_VASSAL</Tag>
-		<Russian>&#208;&#229;&#233;&#245;&#241;&#234;&#238;&#236;&#232;&#241;&#241;&#224;&#240;&#232;&#224;&#242; &#205;&#238;&#240;&#228;&#235;&#224;&#237;&#228;</Russian>
+		<Russian>Рейхскомиссариат Нордланд</Russian>
 		<English>Reichskommissariat Nordland</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLAND_VIKING_VASSAL</Tag>
-		<Russian>&#196;&#224;&#237;&#229;&#235;&#224;&#227;</Russian>
+		<Russian>Данелаг</Russian>
 		<English>Danelaw</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_VIKING_VASSAL</Tag>
-		<Russian>&#194;&#224;&#240;&#255;&#230;&#241;&#234;&#232;&#229; &#234;&#237;&#255;&#230;&#229;&#241;&#242;&#226;&#224;</Russian>
+		<Russian>Варяжские княжества</Russian>
 		<English>Varangian Principalities</English>
 	</TEXT>
 </Civ4GameText>

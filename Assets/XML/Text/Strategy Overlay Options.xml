@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!--
 	Strategy Overlay
 	Options Game Text
@@ -10,7 +10,7 @@
 		<Tag>TXT_KEY_BUG_OPT_STRATEGYOVERLAY__ENABLED_TEXT</Tag>
 		<Russian>Enabled</Russian>
 		<English>Enabled</English>
-		<French>Activé</French>
+		<French>ActivÃ©</French>
 		<German>Aktivieren</German>
 		<Italian>Attivata</Italian>
 		<Spanish>Enabled</Spanish>
@@ -20,8 +20,8 @@
 		<Russian>When checked, the shortcut keys and features of the Strategy Layer are activated.</Russian>
 		<English>When checked, the shortcut keys and features of the Strategy Layer are activated.</English>
 		<French>When checked, the shortcut keys and features of the Strategy Layer are activated.</French>
-		<German>Aktiviert die Tastenkombinationen und Fähigkeiten des Strategie-Overlays</German>
-		<Italian>Quando è selezionato, vengono attivate le scorciatoie da tastiera e le funzionalità del Livello Strategico.</Italian>
+		<German>Aktiviert die Tastenkombinationen und FÃ¤higkeiten des Strategie-Overlays</German>
+		<Italian>Quando Ã¨ selezionato, vengono attivate le scorciatoie da tastiera e le funzionalitÃ  del Livello Strategico.</Italian>
 		<Spanish>When checked, the shortcut keys and features of the Strategy Layer are activated.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -38,8 +38,8 @@
 		<Russian>When checked, the city-planning dot map layer is shown overlaying the terrain.</Russian>
 		<English>When checked, the city-planning dot map layer is shown overlaying the terrain.</English>
 		<French>When checked, the city-planning dot map layer is shown overlaying the terrain.</French>
-		<German>Lässt die Overlay-Karte zur Planung von Stadtgründungen das Gelände überlagern</German>
-		<Italian>Quando è selezionato, il livello di pianificazione delle Città detto "Mappa di posizionamento" viene mostrato come sovrapposto al terreno.</Italian>
+		<German>LÃ¤sst die Overlay-Karte zur Planung von StadtgrÃ¼ndungen das GelÃ¤nde Ã¼berlagern</German>
+		<Italian>Quando Ã¨ selezionato, il livello di pianificazione delle CittÃ  detto "Mappa di posizionamento" viene mostrato come sovrapposto al terreno.</Italian>
 		<Spanish>When checked, the city-planning dot map layer is shown overlaying the terrain.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -47,8 +47,8 @@
 		<Russian>Draw City Dots</Russian>
 		<English>Draw City Dots</English>
 		<French>Draw City Dots</French>
-		<German>Städte markieren</German>
-		<Italian>Disegna le icone per le Città</Italian>
+		<German>StÃ¤dte markieren</German>
+		<Italian>Disegna le icone per le CittÃ </Italian>
 		<Spanish>Draw City Dots</Spanish>
 	</TEXT>
 	<TEXT>
@@ -56,8 +56,8 @@
 		<Russian>When checked, an icon is drawn in the center of the borders of planned cities.</Russian>
 		<English>When checked, an icon is drawn in the center of the borders of planned cities.</English>
 		<French>When checked, an icon is drawn in the center of the borders of planned cities.</French>
-		<German>Zeigt im Zentrum der Grenzen von geplanten Städten ein Symbol an</German>
-		<Italian>Quando è selezionato, viene disegnata un'icona al centro delle aree di posizionamento delle città.</Italian>
+		<German>Zeigt im Zentrum der Grenzen von geplanten StÃ¤dten ein Symbol an</German>
+		<Italian>Quando Ã¨ selezionato, viene disegnata un'icona al centro delle aree di posizionamento delle cittÃ .</Italian>
 		<Spanish>When checked, an icon is drawn in the center of the borders of planned cities.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -65,8 +65,8 @@
 		<Russian>City Dot Icon</Russian>
 		<English>City Dot Icon</English>
 		<French>City Dot Icon</French>
-		<German>Städtesymbol</German>
-		<Italian>Icona delle Città</Italian>
+		<German>StÃ¤dtesymbol</German>
+		<Italian>Icona delle CittÃ </Italian>
 		<Spanish>City Dot Icon</Spanish>
 	</TEXT>
 	<TEXT>
@@ -74,8 +74,8 @@
 		<Russian>The index number of the icon to be placed in the center of the borders of planned cities.</Russian>
 		<English>The index number of the icon to be placed in the center of the borders of planned cities.</English>
 		<French>The index number of the icon to be placed in the center of the borders of planned cities.</French>
-		<German>Die Indexnummer des Symbols, das im Zentrum der Grenzen von geplanten Städten angezeigt werden soll</German>
-		<Italian>Indica il numero d'indice dell'icona che deve essere posizionata al centro delle aree di posizionamento delle città.</Italian>
+		<German>Die Indexnummer des Symbols, das im Zentrum der Grenzen von geplanten StÃ¤dten angezeigt werden soll</German>
+		<Italian>Indica il numero d'indice dell'icona che deve essere posizionata al centro delle aree di posizionamento delle cittÃ .</Italian>
 		<Spanish>The index number of the icon to be placed in the center of the borders of planned cities.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -93,7 +93,7 @@
 		<English>Determines the brightness of planned cities.</English>
 		<French>Determines the brightness of planned cities.</French>
 		<German>Bestimmt den Grad der Transparenz, in der geplante Stadtkreuze erscheinen sollen</German>
-		<Italian>Determina la trasparenza delle Città posizionate.</Italian>
+		<Italian>Determina la trasparenza delle CittÃ  posizionate.</Italian>
 		<Spanish>Determines the brightness of planned cities.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -111,7 +111,7 @@
 		<English>Determines the brightness of the highlighted city being placed.</English>
 		<French>Determines the brightness of the highlighted city being placed.</French>
 		<German>Bestimmt den Grad der Transparenz, in der das zu platzierende Stadtkreuz erscheinen soll</German>
-		<Italian>Determina la trasparenza della Città selezionata che viene posizionata.</Italian>
+		<Italian>Determina la trasparenza della CittÃ  selezionata che viene posizionata.</Italian>
 		<Spanish>Determines the brightness of the highlighted city being placed.</Spanish>
 	</TEXT>
 </Civ4GameText>

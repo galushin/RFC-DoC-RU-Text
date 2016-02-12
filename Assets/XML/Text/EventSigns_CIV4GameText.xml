@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!--
   DAS: Text for landmark/sign captioning for random events
   - The tag names for the descriptions are based on the <type> of the events in CIV4EventInfos.xml
@@ -47,25 +47,25 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SIGN_EVENT_HORTICULTURE_1</Tag>
-		<Russian>medicine</Russian>
+		<Russian>Медицина</Russian>
 		<English>medicine</English>
-		<French>m�dicament</French>
+		<French>médicament</French>
 		<German>Medizin</German>
 		<Italian>medicina</Italian>
 		<Spanish>medicina</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SIGN_EVENT_HORTICULTURE_2</Tag>
-		<Russian>medicine</Russian>
+		<Russian>Медицина</Russian>
 		<English>medicine</English>
-		<French>m�dicament</French>
+		<French>médicament</French>
 		<German>Medizin</German>
 		<Italian>medicina</Italian>
 		<Spanish>medicina</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SIGN_EVENT_PARROTS_1</Tag>
-		<Russian>parrots</Russian>
+		<Russian>Попугаи</Russian>
 		<English>parrots</English>
 		<French>perroquets</French>
 		<German>Papageien</German>
@@ -74,7 +74,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SIGN_EVENT_JADE_1</Tag>
-		<Russian>jade</Russian>
+		<Russian>Нефрит</Russian>
 		<English>jade</English>
 		<French>jade</French>
 		<German>Jade</German>
@@ -83,7 +83,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SIGN_EVENT_BLACK_PEARLS_1</Tag>
-		<Russian>black pearls</Russian>
+		<Russian>Черный жемчуг</Russian>
 		<English>black pearls</English>
 		<French>perles noires</French>
 		<German>schwarze Perlen</German>
@@ -92,88 +92,88 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SIGN_EVENT_SALTPETER_1</Tag>
-		<Russian>saltpeter</Russian>
+		<Russian>Селитра</Russian>
 		<English>saltpeter</English>
-		<French>salp&#234;tre</French>
+		<French>salpкtre</French>
 		<German>Salpeter</German>
 		<Italian>salnitro</Italian>
 		<Spanish>salitre</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SIGN_EVENT_CLUNKER_COAL_1</Tag>
-		<Russian>impurities</Russian>
+		<Russian>Примеси</Russian>
 		<English>impurities</English>
-		<French>impuret&#233;s</French>
+		<French>impuretйs</French>
 		<German>Verunreinigungen</German>
 		<Italian>impurezze</Italian>
 		<Spanish>impurezas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SIGN_EVENT_SOUR_CRUDE_1</Tag>
-		<Russian>impurities</Russian>
+		<Russian>Примеси</Russian>
 		<English>impurities</English>
-		<French>impuret&#233;s</French>
+		<French>impuretйs</French>
 		<German>Verunreinigungen</German>
 		<Italian>impurezze</Italian>
 		<Spanish>impurezas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SIGN_EVENT_TRUFFLES_1</Tag>
-		<Russian>truffles</Russian>
+		<Russian>Труфеля</Russian>
 		<English>truffles</English>
 		<French>truffes</French>
-		<German>Tr�ffel</German>
+		<German>Trüffel</German>
 		<Italian>tartufi</Italian>
 		<Spanish>Trufas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SIGN_EVENT_SEA_TURTLES_1</Tag>
-		<Russian>sea turtles</Russian>
+		<Russian>Морские черепахи</Russian>
 		<English>sea turtles</English>
 		<French>tortues de mer</French>
-		<German>Meeresschildkr�ten</German>
+		<German>Meeresschildkröten</German>
 		<Italian>testuggini</Italian>
 		<Spanish>Tortugas marinas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SIGN_EVENT_TIN_1</Tag>
-		<Russian>Tin</Russian>
+		<Russian>Олово</Russian>
 		<English>Tin</English>
-		<French>&#233;tain</French>
+		<French>йtain</French>
 		<German>Zinn</German>
 		<Italian>stagno</Italian>
-		<Spanish>esta&#241;o</Spanish>
+		<Spanish>estaсo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SIGN_EVENT_PRAIRIE_DOGS_1</Tag>
-		<Russian>prairie dogs</Russian>
+		<Russian>Луговые собачки</Russian>
 		<English>prairie dogs</English>
 		<French>chiens de prairie</French>
-		<German>Pr�riehunde</German>
+		<German>Präriehunde</German>
 		<Italian>cani della prateria</Italian>
 		<Spanish>perros de las praderas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SIGN_EVENT_APPLESEED_1</Tag>
-		<Russian>apple trees</Russian>
+		<Russian>Яблоневые сады</Russian>
 		<English>apple trees</English>
 		<French>pommiers</French>
-		<German>Apfelb�ume</German>
+		<German>Apfelbäume</German>
 		<Italian>meli</Italian>
 		<Spanish>manzanos</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SIGN_EVENT_FORTY_THIEVES_1</Tag>
-		<Russian>local legend</Russian>
+		<Russian>Местная легенда</Russian>
 		<English>local legend</English>
-		<French>l&#233;gende locale</French>
-		<German>�rtliche Legende</German>
+		<French>lйgende locale</French>
+		<German>örtliche Legende</German>
 		<Italian>leggenda locale</Italian>
 		<Spanish>leyenda local</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SIGN_EVENT_WATERS_OF_LIFE_1</Tag>
-		<Russian>Waters of Life</Russian>
+		<Russian>Живая вода</Russian>
 		<English>Waters of Life</English>
 		<French>Eaux de la Vie</French>
 		<German>Wasser des Lebens</German>
@@ -182,7 +182,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SIGN_EVENT_GREAT_BEAST_1</Tag>
-		<Russian>great beast</Russian>
+		<Russian>Огромный зверь</Russian>
 		<English>great beast</English>
 		<French>enorme animal</French>
 		<German>riesiges Tier</German>

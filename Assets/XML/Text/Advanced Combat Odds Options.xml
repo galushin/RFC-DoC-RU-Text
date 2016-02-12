@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!--
 	Advanced Combat Odds
 	Options Game Text
@@ -12,7 +12,7 @@
 		<English>Advanced Combat Odds</English>
 		<French>Advanced Combat Odds</French>
 		<German>Erweiterte Siegchancen</German>
-		<Italian>Probabilità di Combattimento Avanzate</Italian>
+		<Italian>ProbabilitÃ  di Combattimento Avanzate</Italian>
 		<Spanish>Probabilidades de Combate Avanzadas</Spanish>
 	</TEXT>
 	<TEXT>
@@ -20,9 +20,9 @@
 		<Russian>When checked, PieceOfMind's ACO shows more detailed combat odds information when you hover over a unit to attack.</Russian>
 		<English>When checked, PieceOfMind's ACO shows more detailed combat odds information when you hover over a unit to attack.</English>
 		<French>When checked, PieceOfMind's ACO shows more detailed combat odds information when you hover over a unit to attack.</French>
-		<German>Zeigt detailliertere Informationen zur Berechnung der Siegchancen an, wenn der Mauszeiger für einen Angriff über eine feindliche Einheit bewegt wird (verwendet PieceOfMind's "Advanced Combat Odds (ACO)"-Mod)</German>
+		<German>Zeigt detailliertere Informationen zur Berechnung der Siegchancen an, wenn der Mauszeiger fÃ¼r einen Angriff Ã¼ber eine feindliche Einheit bewegt wird (verwendet PieceOfMind's "Advanced Combat Odds (ACO)"-Mod)</German>
 		<Italian>When checked, PieceOfMind's ACO shows more detailed combat odds information when you hover over a unit to attack.</Italian>
-		<Spanish>Cuando está activada, PCA de PieceOfMind muestra información más detallada de probabilidades de combate cuando pasas el mouse sobre una unidad a atacar.</Spanish>
+		<Spanish>Cuando estÃ¡ activada, PCA de PieceOfMind muestra informaciÃ³n mÃ¡s detallada de probabilidades de combate cuando pasas el mouse sobre una unidad a atacar.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACO__DEBUG_TEXT</Tag>
@@ -31,7 +31,7 @@
 		<French>Debug</French>
 		<German>Debug</German>
 		<Italian>Debug</Italian>
-		<Spanish>Depuración</Spanish>
+		<Spanish>DepuraciÃ³n</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACO__DEBUG_HOVER</Tag>
@@ -39,8 +39,8 @@
 		<English>When checked, shows debugging information in the combat odds calculations.</English>
 		<French>When checked, shows debugging information in the combat odds calculations.</French>
 		<German>Zeigt Debug-Information bei der Berechnung der Siegchancen an</German>
-		<Italian>Quando è selezionato, mostra le informazioni di debug nel calcolo delle Probabilità di Combattimento.</Italian>
-		<Spanish>Cuando está activada muestra la información de depuración en el cálculo de Probabilidades de Combate.</Spanish>
+		<Italian>Quando Ã¨ selezionato, mostra le informazioni di debug nel calcolo delle ProbabilitÃ  di Combattimento.</Italian>
+		<Spanish>Cuando estÃ¡ activada muestra la informaciÃ³n de depuraciÃ³n en el cÃ¡lculo de Probabilidades de Combate.</Spanish>
 	</TEXT>
 	
 	<TEXT>
@@ -57,9 +57,9 @@
 		<Russian>When checked, shows the original odds in addition to ACO's.</Russian>
 		<English>When checked, shows the original odds in addition to ACO's.</English>
 		<French>When checked, shows the original odds in addition to ACO's.</French>
-		<German>Zeigt zusätzlich zur ACO-Ansicht die originale Siegchancen-Berechnung</German>
+		<German>Zeigt zusÃ¤tzlich zur ACO-Ansicht die originale Siegchancen-Berechnung</German>
 		<Italian>When checked, shows the original odds in addition to ACO's.</Italian>
-		<Spanish>Cuando está habilitada muestra las probabilidades originales, en adición a las de PCA.</Spanish>
+		<Spanish>Cuando estÃ¡ habilitada muestra las probabilidades originales, en adiciÃ³n a las de PCA.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACO__IGNOREBARBFREEWINS_TEXT</Tag>
@@ -75,9 +75,9 @@
 		<Russian>When checked, ignores any free wins versus barbarians you have left due to the difficulty level.</Russian>
 		<English>When checked, ignores any free wins versus barbarians you have left due to the difficulty level.</English>
 		<French>When checked, ignores any free wins versus barbarians you have left due to the difficulty level.</French>
-		<German>Ignoriert alle verbleibenden sicheren Einheiten-Siege über Barbaren, die auf Grund des Schwierigkeitsgrades gewährt werden</German>
+		<German>Ignoriert alle verbleibenden sicheren Einheiten-Siege Ã¼ber Barbaren, die auf Grund des Schwierigkeitsgrades gewÃ¤hrt werden</German>
 		<Italian>When checked, ignores any free wins versus barbarians you have left due to the difficulty level.</Italian>
-		<Spanish>Cuando está habilitada, ignora cualquier victoria gratuita contra bárbaros debida al nivel de dificultad.</Spanish>
+		<Spanish>Cuando estÃ¡ habilitada, ignora cualquier victoria gratuita contra bÃ¡rbaros debida al nivel de dificultad.</Spanish>
 	</TEXT>
 	
 	<TEXT>
@@ -96,7 +96,7 @@
 		<French>When checked, swaps the normal and alternate views.</French>
 		<German>Wechselt zwischen normaler und alternativer Ansicht</German>
 		<Italian>When checked, swaps the normal and alternate views.</Italian>
-		<Spanish>Cuando está habilitada intercambia la vista normal y la alternativa.</Spanish>
+		<Spanish>Cuando estÃ¡ habilitada intercambia la vista normal y la alternativa.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACO__MERGESHORTBARS_TEXT</Tag>
@@ -114,7 +114,7 @@
 		<French>When checked, merges the bars of probabilities that are less than half of one percent.</French>
 		<German>Fasst Wahrscheinlichkeitsbalken zusammen, die weniger als ein halbes Prozent anzeigen</German>
 		<Italian>When checked, merges the bars of probabilities that are less than half of one percent.</Italian>
-		<Spanish>Cuando está habilitada, combina las barras de probabilidades que son menores que la mitad de uno por ciento.</Spanish>
+		<Spanish>Cuando estÃ¡ habilitada, combina las barras de probabilidades que son menores que la mitad de uno por ciento.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACO__SHOWMODIFIERLABELS_TEXT</Tag>
@@ -132,7 +132,7 @@
 		<French>When checked, displays "attacker" and "defender" labels before each non-empty set of modifiers.</French>
 		<German>Kennzeichnet, falls vorhanden, die jeweilige Gruppe der kampfrelevanten Modifikatoren der Einheiten mit "Angreifer" und "Verteidiger"</German>
 		<Italian>When checked, displays "attacker" and "defender" labels before each non-empty set of modifiers.</Italian>
-		<Spanish>Cuando está habilitado, muestra las etiquetas "atacante" y "defensor" antes de cada set de modificadores que no esté vacío.</Spanish>
+		<Spanish>Cuando estÃ¡ habilitado, muestra las etiquetas "atacante" y "defensor" antes de cada set de modificadores que no estÃ© vacÃ­o.</Spanish>
 	</TEXT>
 	
 	<TEXT>
@@ -142,7 +142,7 @@
 		<French>Basic Info</French>
 		<German>Basis-Info</German>
 		<Italian>Basic Info</Italian>
-		<Spanish>Información Básica</Spanish>
+		<Spanish>InformaciÃ³n BÃ¡sica</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACO__SHOWBASICINFO_HOVER</Tag>
@@ -151,7 +151,7 @@
 		<French>Select when to show the basic odds information.</French>
 		<German>Bestimmt, wann die grundlegenden Informationen zur Berechnung der Siegchancen angezeigt werden</German>
 		<Italian>Select when to show the basic odds information.</Italian>
-		<Spanish>Selecciona cuándo mostrar la información de probabilidades básicas.</Spanish>
+		<Spanish>Selecciona cuÃ¡ndo mostrar la informaciÃ³n de probabilidades bÃ¡sicas.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACO__SHOWBASICINFO_LIST</Tag>
@@ -169,16 +169,16 @@
 		<French>Attacker Info</French>
 		<German>Angeifer-Info</German>
 		<Italian>Attacker Info</Italian>
-		<Spanish>Información del Atacante</Spanish>
+		<Spanish>InformaciÃ³n del Atacante</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACO__SHOWATTACKERINFO_HOVER</Tag>
 		<Russian>Select when to show the attacking unit's information.</Russian>
 		<English>Select when to show the attacking unit's information.</English>
 		<French>Select when to show the attacking unit's information.</French>
-		<German>Bestimmt, wann die Informationen über die angereifende Einheit angezeigt werden</German>
+		<German>Bestimmt, wann die Informationen Ã¼ber die angereifende Einheit angezeigt werden</German>
 		<Italian>Select when to show the attacking unit's information.</Italian>
-		<Spanish>Selecciona cuándo mostrar la información de la unidad atacante.</Spanish>
+		<Spanish>Selecciona cuÃ¡ndo mostrar la informaciÃ³n de la unidad atacante.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACO__SHOWDEFENDERINFO_TEXT</Tag>
@@ -187,16 +187,16 @@
 		<French>Defender Info</French>
 		<German>Verteidiger-Info</German>
 		<Italian>Defender Info</Italian>
-		<Spanish>Información del Defensor</Spanish>
+		<Spanish>InformaciÃ³n del Defensor</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACO__SHOWDEFENDERINFO_HOVER</Tag>
 		<Russian>Select when to show the defending unit's information.</Russian>
 		<English>Select when to show the defending unit's information.</English>
 		<French>Select when to show the defending unit's information.</French>
-		<German>Bestimmt, wann die Informationen über die verteidigende Einheit angezeigt werden</German>
+		<German>Bestimmt, wann die Informationen Ã¼ber die verteidigende Einheit angezeigt werden</German>
 		<Italian>Select when to show the defending unit's information.</Italian>
-		<Spanish>Selecciona cuándo mostrar la información de la unidad defensora.</Spanish>
+		<Spanish>Selecciona cuÃ¡ndo mostrar la informaciÃ³n de la unidad defensora.</Spanish>
 	</TEXT>
 	
 	<TEXT>
@@ -204,7 +204,7 @@
 		<Russian>Survival Odds</Russian>
 		<English>Survival Odds</English>
 		<French>Survival Odds</French>
-		<German>Überlebenschance</German>
+		<German>Ãœberlebenschance</German>
 		<Italian>Survival Odds</Italian>
 		<Spanish>Probabilidades de Supervivencia</Spanish>
 	</TEXT>
@@ -213,9 +213,9 @@
 		<Russian>Select when to show the odds that each unit will survive.</Russian>
 		<English>Select when to show the odds that each unit will survive.</English>
 		<French>Select when to show the odds that each unit will survive.</French>
-		<German>Bestimmt, wann die Überlebenschancen für jede Einheit angezeigt werden</German>
+		<German>Bestimmt, wann die Ãœberlebenschancen fÃ¼r jede Einheit angezeigt werden</German>
 		<Italian>Select when to show the odds that each unit will survive.</Italian>
-		<Spanish>Selecciona cuándo mostrar las probabilidades de supervivencia de cada unidad.</Spanish>
+		<Spanish>Selecciona cuÃ¡ndo mostrar las probabilidades de supervivencia de cada unidad.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACO__SHOWUNHARMEDODDS_TEXT</Tag>
@@ -231,9 +231,9 @@
 		<Russian>Select when to show the odds that each unit will survive without taking any damage.</Russian>
 		<English>Select when to show the odds that each unit will survive without taking any damage.</English>
 		<French>Select when to show the odds that each unit will survive without taking any damage.</French>
-		<German>Bestimmt, wann die Chancen angezeigt werden, dass jede Einheit den Kampf ohne Schaden überleben wird</German>
+		<German>Bestimmt, wann die Chancen angezeigt werden, dass jede Einheit den Kampf ohne Schaden Ã¼berleben wird</German>
 		<Italian>Select when to show the odds that each unit will survive without taking any damage.</Italian>
-		<Spanish>Selecciona cuándo mostrar las probabilidades para cada unidad de sobrevivir sin sufrir daños.</Spanish>
+		<Spanish>Selecciona cuÃ¡ndo mostrar las probabilidades para cada unidad de sobrevivir sin sufrir daÃ±os.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACO__SHOWAVERAGEHEALTH_TEXT</Tag>
@@ -251,7 +251,7 @@
 		<French>Select when to show the average (expected) health each unit will have after the battle.</French>
 		<German>Bestimmt, wann die durchschnittliche (erwartete) Gesundheit jeder Einheit nach dem Kampf angezeigt wird</German>
 		<Italian>Select when to show the average (expected) health each unit will have after the battle.</Italian>
-		<Spanish>Selecciona cuándo mostrar el promedio (esperado) de salud que tendrá cada unidad después de la batalla.</Spanish>
+		<Spanish>Selecciona cuÃ¡ndo mostrar el promedio (esperado) de salud que tendrÃ¡ cada unidad despuÃ©s de la batalla.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACO__SHOWATTACKERHEALTHBARS_TEXT</Tag>
@@ -267,9 +267,9 @@
 		<Russian>Select when to show the probability bars of each possible ending health for the attacker.</Russian>
 		<English>Select when to show the probability bars of each possible ending health for the attacker.</English>
 		<French>Select when to show the probability bars of each possible ending health for the attacker.</French>
-		<German>Bestimmt, wann die Wahrscheinlichkeitsbalken für die jeweils erwartete Gesundheit des Angreifers nach dem Kampf angezeigt werden</German>
+		<German>Bestimmt, wann die Wahrscheinlichkeitsbalken fÃ¼r die jeweils erwartete Gesundheit des Angreifers nach dem Kampf angezeigt werden</German>
 		<Italian>Select when to show the probability bars of each possible ending health for the attacker.</Italian>
-		<Spanish>Selecciona cuándo mostrar las barras de probabilidad de cada posible nivel final de salud del atacante.</Spanish>
+		<Spanish>Selecciona cuÃ¡ndo mostrar las barras de probabilidad de cada posible nivel final de salud del atacante.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACO__SHOWDEDENDERHEALTHBARS_TEXT</Tag>
@@ -285,9 +285,9 @@
 		<Russian>Select when to show the probability bars of each possible ending health for the defender.</Russian>
 		<English>Select when to show the probability bars of each possible ending health for the defender.</English>
 		<French>Select when to show the probability bars of each possible ending health for the defender.</French>
-		<German>Bestimmt, wann die Wahrscheinlichkeitsbalken für die jeweils erwartete Gesundheit des Verteidigers nach dem Kampf angezeigt werden</German>
+		<German>Bestimmt, wann die Wahrscheinlichkeitsbalken fÃ¼r die jeweils erwartete Gesundheit des Verteidigers nach dem Kampf angezeigt werden</German>
 		<Italian>Select when to show the probability bars of each possible ending health for the defender.</Italian>
-		<Spanish>Selecciona cuándo mostrar las barras de probabilidad de cada posible nivel final de salud del defensor.</Spanish>
+		<Spanish>Selecciona cuÃ¡ndo mostrar las barras de probabilidad de cada posible nivel final de salud del defensor.</Spanish>
 	</TEXT>
 	
 	<TEXT>
@@ -304,9 +304,9 @@
 		<Russian>Select when to show the unrounded XP values in addition to the actual rounded values the units will gain.</Russian>
 		<English>Select when to show the unrounded XP values in addition to the actual rounded values the units will gain.</English>
 		<French>Select when to show the unrounded XP values in addition to the actual rounded values the units will gain.</French>
-		<German>Bestimmt, wann die ungerundeten Erfahrungspunkte zusätzlich zu den tatsächlichen (gerundeten) Erfahrungspunkten, die die Einheiten erhalten werden, angezeigt werden</German>
+		<German>Bestimmt, wann die ungerundeten Erfahrungspunkte zusÃ¤tzlich zu den tatsÃ¤chlichen (gerundeten) Erfahrungspunkten, die die Einheiten erhalten werden, angezeigt werden</German>
 		<Italian>Select when to show the unrounded XP values in addition to the actual rounded values the units will gain.</Italian>
-		<Spanish>Selecciona cuándo mostrar los valores no redondeados de XP además de los redondeados que las unidades ganarán.</Spanish>
+		<Spanish>Selecciona cuÃ¡ndo mostrar los valores no redondeados de XP ademÃ¡s de los redondeados que las unidades ganarÃ¡n.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACO__SHOWEXPERIENCERANGE_TEXT</Tag>
@@ -322,9 +322,9 @@
 		<Russian>Select when to show the R values on either side of the actual value that will produce +/- 1 XP.</Russian>
 		<English>Select when to show the R values on either side of the actual value that will produce +/- 1 XP.</English>
 		<French>Select when to show the R values on either side of the actual value that will produce +/- 1 XP.</French>
-		<German>Bestimmt, wann die R-Werte, die +/- 1 EP ausmachen können, auf beiden Seiten des tatsächlichen Wertes angezeigt werden</German>
+		<German>Bestimmt, wann die R-Werte, die +/- 1 EP ausmachen kÃ¶nnen, auf beiden Seiten des tatsÃ¤chlichen Wertes angezeigt werden</German>
 		<Italian>Select when to show the R values on either side of the actual value that will produce +/- 1 XP.</Italian>
-		<Spanish>Selecciona cuándo mostrar los valores R en cada lado del valor actual que producirá +/- 1 XP.</Spanish>
+		<Spanish>Selecciona cuÃ¡ndo mostrar los valores R en cada lado del valor actual que producirÃ¡ +/- 1 XP.</Spanish>
 	</TEXT>
 	
 	<TEXT>
@@ -343,7 +343,7 @@
 		<French>Select when to show the defense modifiers.</French>
 		<German>Bestimmt, wann die Verteidigungsmodifikatoren angezeigt werden</German>
 		<Italian>Select when to show the defense modifiers.</Italian>
-		<Spanish>Selecciona cuándo mostrar los modificadores defensivos.</Spanish>
+		<Spanish>Selecciona cuÃ¡ndo mostrar los modificadores defensivos.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACO__SHOWTOTALDEFENSEMODIFIER_TEXT</Tag>
@@ -361,7 +361,7 @@
 		<French>Select when to show the total defense modifiers (includes attacker's non-combat modifiers that apply to the defender).</French>
 		<German>Bestimmt, wann der absolute Verteidigungsmodifikator angezeigt wird (beinhaltet die nicht kampfrelevanten Modifikatoren des Angreifers, die auf den Verteidiger angewendet werden)</German>
 		<Italian>Select when to show the total defense modifiers (includes attacker's non-combat modifiers that apply to the defender).</Italian>
-		<Spanish>Selecciona cuándo mostrar los modificadores defensivos totales (incluyendo los no-de-combate del atacante que se aplican al defensor).</Spanish>
+		<Spanish>Selecciona cuÃ¡ndo mostrar los modificadores defensivos totales (incluyendo los no-de-combate del atacante que se aplican al defensor).</Spanish>
 	</TEXT>
 	
 	<TEXT>
@@ -371,15 +371,15 @@
 		<French>[SHIFT] Instructions</French>
 		<German>[UMSCHALT]-Hinweis</German>
 		<Italian>[SHIFT] Instructions</Italian>
-		<Spanish>[MAYÚS] Instructiones</Spanish>
+		<Spanish>[MAYÃšS] Instructiones</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_ACO__SHOWSHIFTINSTRUCTIONS_HOVER</Tag>
 		<Russian>Select when to show the instructions for pressing [SHIFT] to see the alternate view.</Russian>
 		<English>Select when to show the instructions for pressing [SHIFT] to see the alternate view.</English>
 		<French>Select when to show the instructions for pressing [SHIFT] to see the alternate view.</French>
-		<German>Bestimmt, wann der Hinweis zum Drücken der [UMSCHALT]-Taste für den Wechsel zur alternativen Ansicht angezeigt wird</German>
+		<German>Bestimmt, wann der Hinweis zum DrÃ¼cken der [UMSCHALT]-Taste fÃ¼r den Wechsel zur alternativen Ansicht angezeigt wird</German>
 		<Italian>Select when to show the instructions for pressing [SHIFT] to see the alternate view.</Italian>
-		<Spanish>Selecciona cuándo mostrar las instrucciones para presionar [MAYÚS] para mostrar la vista alternativa.</Spanish>
+		<Spanish>Selecciona cuÃ¡ndo mostrar las instrucciones para presionar [MAYÃšS] para mostrar la vista alternativa.</Spanish>
 	</TEXT>
 </Civ4GameText>

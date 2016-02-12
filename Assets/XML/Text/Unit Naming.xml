@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!--
 	Unit Naming Translations
 
@@ -10,7 +10,7 @@
 	
 	<TEXT>
 		<Tag>TXT_KEY_BUG_UNIT_NAMING_DOMAIN_LAND</Tag>
-		<Russian>&#205;&#224;&#231;&#229;&#236;&#237;&#251;&#233;</Russian>
+		<Russian>Наземный</Russian>
 		<English>Land</English>
 		<French>Terrestre</French>
 		<German>Land</German>
@@ -19,7 +19,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_UNIT_NAMING_DOMAIN_SEA</Tag>
-		<Russian>&#204;&#238;&#240;&#241;&#234;&#238;&#233;</Russian>
+		<Russian>Морской</Russian>
 		<English>Naval</English>
 		<French>Naval</French>
 		<German>Marine</German>
@@ -28,19 +28,19 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_UNIT_NAMING_DOMAIN_AIR</Tag>
-		<Russian>&#194;&#238;&#231;&#228;&#243;&#248;&#237;&#251;&#233;</Russian>
+		<Russian>Воздушный</Russian>
 		<English>Air</English>
-		<French>A&#233;rien</French>
+		<French>Aйrien</French>
 		<German>Luft</German>
 		<Italian>Aerea</Italian>
-		<Spanish>A&#233;rea</Spanish>
+		<Spanish>Aйrea</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_UNIT_NAMING_DOMAIN_IMMOBILE</Tag>
-		<Russian>&#209;&#242;&#224;&#246;&#232;&#238;&#237;&#224;&#240;&#237;&#251;&#233;</Russian>
+		<Russian>Стационарный</Russian>
 		<English>Stationary</English>
 		<French>Stationnaire</French>
-		<German>Station�r</German>
+		<German>Stationär</German>
 		<Italian>Stazionario</Italian>
 		<Spanish>Estacionaria</Spanish>
 	</TEXT>

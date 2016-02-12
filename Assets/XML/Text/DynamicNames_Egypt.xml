@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,112 +6,112 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_DESC</Tag>
-		<Russian>&#197;&#227;&#232;&#239;&#242;&#255;&#237;&#229;</Russian>
+		<Russian>Египтяне</Russian>
 		<English>The Egyptians</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_DESC_PEOPLES</Tag>
-		<Russian>&#205;&#224;&#240;&#238;&#228;&#251; &#205;&#232;&#235;&#224;</Russian>
+		<Russian>Народы Нила</Russian>
 		<English>Peoples of the Nile</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_DESC_DEFAULT</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<Russian>Королевство Египет</Russian>
 		<English>Kingdom of Egypt</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_DESC_FASCIST</Tag>
-		<Russian>&#206;&#244;&#232;&#246;&#229;&#240;&#241;&#234;&#232;&#233; &#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<Russian>Офицерский Египет</Russian>
 		<English>Officers' Egypt</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_DESC_COMMUNIST</Tag>
-		<Russian>&#206;&#241;&#226;&#238;&#225;&#238;&#228;&#232;&#242;&#229;&#235;&#252;&#237;&#251;&#233; &#241;&#250;&#229;&#231;&#228; &#197;&#227;&#232;&#239;&#242;&#224;</Russian>
+		<Russian>Освободительный съезд Египта</Russian>
 		<English>Liberation Rally of Egypt</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_DESC_DEMOCRATIC</Tag>
-		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<Russian>Республика Египет</Russian>
 		<English>Republic of Egypt</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_PTOLEMAIC</Tag>
-		<Russian>&#197;&#227;&#232;&#239;&#229;&#242; &#207;&#242;&#238;&#235;&#229;&#236;&#229;&#229;&#226;</Russian>
+		<Russian>Египет Птолемеев</Russian>
 		<English>Ptolemaic Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_CITY_STATES</Tag>
-		<Russian>&#197;&#227;&#232;&#239;&#229;&#242;&#241;&#234;&#232;&#229; &#227;&#238;&#240;&#238;&#228;&#224;-&#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#224;</Russian>
+		<Russian>Египетские города-государства</Russian>
 		<English>Egyptian City-States</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_OLD_KINGDOM</Tag>
-		<Russian>&#196;&#240;&#229;&#226;&#237;&#229;&#229; &#246;&#224;&#240;&#241;&#242;&#226;&#238; &#197;&#227;&#232;&#239;&#242;&#224;</Russian>
+		<Russian>Древнее царство Египта</Russian>
 		<English>Old Kingdom of Egypt</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_MIDDLE_KINGDOM</Tag>
-		<Russian>&#209;&#240;&#229;&#228;&#237;&#229;&#229; &#246;&#224;&#240;&#241;&#242;&#226;&#238; &#197;&#227;&#232;&#239;&#242;&#224;</Russian>
+		<Russian>Среднее царство Египта</Russian>
 		<English>Middle Kingdom of Egypt</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_NEW_KINGDOM</Tag>
-		<Russian>&#205;&#238;&#226;&#238;&#229; &#246;&#224;&#240;&#241;&#242;&#226;&#238; &#197;&#227;&#232;&#239;&#242;&#224;</Russian>
+		<Russian>Новое царство Египта</Russian>
 		<English>New Kingdom of Egypt</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_FATIMID_CALIPHATE</Tag>
-		<Russian>&#212;&#224;&#242;&#232;&#236;&#232;&#228;&#241;&#234;&#232;&#233; &#245;&#224;&#235;&#232;&#244;&#224;&#242;</Russian>
+		<Russian>Фатимидский халифат</Russian>
 		<English>Fatimid Caliphate</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_AYYUBID_CALIPHATE</Tag>
-		<Russian>&#213;&#224;&#235;&#232;&#244;&#224;&#242; &#192;&#233;&#254;&#225;&#232;&#228;&#238;&#226;</Russian>
+		<Russian>Халифат Айюбидов</Russian>
 		<English>Ayyubid Caliphate</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_MAMLUK_CALIPHATE</Tag>
-		<Russian>&#213;&#224;&#235;&#232;&#244;&#224;&#242; &#236;&#224;&#236;&#235;&#254;&#234;&#238;&#226;</Russian>
+		<Russian>Халифат мамлюков</Russian>
 		<English>Mamluk Caliphate</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_FATIMID_SULTANATE</Tag>
-		<Russian>&#212;&#224;&#242;&#232;&#236;&#232;&#228;&#241;&#234;&#232;&#233; &#241;&#243;&#235;&#242;&#224;&#237;&#224;&#242;</Russian>
+		<Russian>Фатимидский султанат</Russian>
 		<English>Fatimid Sultanate</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_AYYUBID_SULTANATE</Tag>
-		<Russian>&#209;&#243;&#235;&#242;&#224;&#237;&#224;&#242; &#192;&#233;&#254;&#225;&#232;&#228;&#238;&#226;</Russian>
+		<Russian>Султанат Айюбидов</Russian>
 		<English>Ayyubid Sultanate</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_MAMLUK_SULTANATE</Tag>
-		<Russian>&#209;&#243;&#235;&#242;&#224;&#237;&#224;&#242; &#236;&#224;&#236;&#235;&#254;&#234;&#238;&#226;</Russian>
+		<Russian>Султанат мамлюков</Russian>
 		<English>Mamluk Sultanate</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_COPTIC</Tag>
-		<Russian>&#202;&#238;&#239;&#242;&#241;&#234;&#238;&#229; &#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Коптское королевство</Russian>
 		<English>Coptic Kingdom</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_SOVIET_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#232;&#233; &#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<Russian>Советский Египет</Russian>
 		<English>Soviet Egypt</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_NAZI_VASSAL</Tag>
-		<Russian>&#208;&#229;&#233;&#245;&#241;&#239;&#240;&#238;&#242;&#229;&#234;&#242;&#238;&#240;&#224;&#242; &#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<Russian>Рейхспротекторат Египет</Russian>
 		<English>Reichsprotektorat Egypt</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PHOENICIA_EGYPTIAN_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#208;&#229;&#242;&#229;&#237;&#243;</Russian>
+		<Russian>Провинция Ретену</Russian>
 		<English>Province of Retjenu</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ETHIOPIA_EGYPTIAN_VASSAL</Tag>
-		<Russian>&#214;&#224;&#240;&#241;&#242;&#226;&#238; &#207;&#243;&#237;&#242;</Russian>
+		<Russian>Царство Пунт</Russian>
 		<English>Kingdom of Punt</English>
 	</TEXT>
 </Civ4GameText>

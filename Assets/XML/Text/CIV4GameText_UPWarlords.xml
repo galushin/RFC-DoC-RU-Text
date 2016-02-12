@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -17,9 +17,9 @@
 		<Tag>TXT_KEY_UP_BAB2</Tag>
 		<Russian>Begins the game with the knowledge of Animal Husbandry, Pottery and Archery</Russian>
 		<English>Begins the game with the knowledge of Animal Husbandry, Pottery and Archery</English>
-		<French>Pas de résistance dans les villes conquises</French>
-		<German>Beginnt das Spiel mit dem Wissen über Tierzucht, Keramik und Bogenschießen</German>
-		<Italian>Nessuna resistenza nelle citt&#224; conquistate</Italian>
+		<French>Pas de rÃ©sistance dans les villes conquises</French>
+		<German>Beginnt das Spiel mit dem Wissen Ã¼ber Tierzucht, Keramik und BogenschieÃŸen</German>
+		<Italian>Nessuna resistenza nelle cittÐ° conquistate</Italian>
 		<Spanish>Las ciudades conquistadas no ofrecen resistencia</Spanish>
 	</TEXT>
 	<TEXT>
@@ -27,7 +27,7 @@
 		<Russian>The Power of Mercenaries:</Russian>
 		<English>The Power of Mercenaries:</English>
 		<French>Le Pouvoir des Mercenaires :</French>
-		<German>Die Macht der Söldner:</German>
+		<German>Die Macht der SÃ¶ldner:</German>
 		<Italian>Il potere dei mercenari:</Italian>
 		<Spanish>El poder de los mercenarios:</Spanish>
 	</TEXT>
@@ -35,10 +35,10 @@
 		<Tag>TXT_KEY_UP_CAR2</Tag>
 		<Russian>Halved costs and no extra upkeep for hurried units</Russian>
 		<English>Halved costs and no extra upkeep for hurried units</English>
-		<French>Coûts de recrutement et d'entretien des mercenaires divisés par deux</French>
-		<German>Halbierte Kosten und kein zusätzlicher Unterhalt für beschleunigte Einheiten</German>
+		<French>CoÃ»ts de recrutement et d'entretien des mercenaires divisÃ©s par deux</French>
+		<German>Halbierte Kosten und kein zusÃ¤tzlicher Unterhalt fÃ¼r beschleunigte Einheiten</German>
 		<Italian>Dimezzati i costi di assunzione e mantenimento dei mercenari</Italian>
-		<Spanish>Se reducen a la mitad los costes de contrataci&#243;n y mantenimiento de mercenarios</Spanish>
+		<Spanish>Se reducen a la mitad los costes de contrataciÑƒn y mantenimiento de mercenarios</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_VIK</Tag>
@@ -54,7 +54,7 @@
 		<Russian>Additional gold from pillaging, conquering cities and sinking ships during the Middle Ages</Russian>
 		<English>Additional gold from pillaging, conquering cities and sinking ships during the Middle Ages</English>
 		<French>5X Or obtenu par le pillage</French>
-		<German>Zusätzliches gold durch Plünderung, Stadteroberung und das Versenken von Schiffen während des Mittelalters</German>
+		<German>ZusÃ¤tzliches gold durch PlÃ¼nderung, Stadteroberung und das Versenken von Schiffen wÃ¤hrend des Mittelalters</German>
 		<Italian>5X oro ottenuto dai saccheggi</Italian>
 		<Spanish>Se obtiene oro x5 del pillaje</Spanish>
 	</TEXT>
@@ -71,15 +71,15 @@
 		<French>Le Pouvoir de l'Assimilation :</French>
 		<German>Die Macht der Devshirme:</German>
 		<Italian>Il potere dell'assimilazione:</Italian>
-		<Spanish>El poder de la asimilaci&#243;n:</Spanish>
+		<Spanish>El poder de la asimilaciÑƒn:</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UP_TUR2</Tag>
 		<Russian>Can Conscript two extra Units in Cities with Non-State Religions</Russian>
 		<English>Can Conscript two extra Units in Cities with Non-State Religions</English>
-		<French>La plus grande partie de la culture étrangère dans les villes turques est convertie à la culture turque</French>
-		<German>Kann zwei zusätzliche Einheiten in Städten mit Nicht-Staatsreligionen rekrutieren</German>
-		<Italian>La maggioranza di cultura straniera nelle citt&#224; turche &#232; convertita in cultura turca</Italian>
+		<French>La plus grande partie de la culture Ã©trangÃ¨re dans les villes turques est convertie Ã  la culture turque</French>
+		<German>Kann zwei zusÃ¤tzliche Einheiten in StÃ¤dten mit Nicht-Staatsreligionen rekrutieren</German>
+		<Italian>La maggioranza di cultura straniera nelle cittÐ° turche Ð¸ convertita in cultura turca</Italian>
 		<Spanish>La mayor parte de la cultura extranjera en ciudades turcas se convierte a cultura turca</Spanish>
 	</TEXT>
 </Civ4GameText>

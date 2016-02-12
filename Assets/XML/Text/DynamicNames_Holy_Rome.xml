@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,107 +6,107 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROMAN_DESC</Tag>
-		<Russian>&#195;&#229;&#240;&#236;&#224;&#237;&#246;&#251;</Russian>
+		<Russian>Германцы</Russian>
 		<English>The Germans</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AUSTRIA_DESC</Tag>
-		<Russian>&#192;&#226;&#241;&#242;&#240;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Австрийцы</Russian>
 		<English>The Austrians</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_DESC_PEOPLES</Tag>
-		<Russian>&#196;&#240;&#229;&#226;&#237;&#232;&#229; &#227;&#229;&#240;&#236;&#224;&#237;&#246;&#251;</Russian>
+		<Russian>Древние германцы</Russian>
 		<English>Germanic Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_DESC_DEFAULT</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#195;&#229;&#240;&#236;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Королевство Германия</Russian>
 		<English>Kingdom of Germany</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_DESC_DEMOCRATIC</Tag>
-		<Russian>&#192;&#226;&#241;&#242;&#240;&#232;&#233;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Австрийская Республика</Russian>
 		<English>Republic of Austria</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_DESC_COMMUNIST</Tag>
-		<Russian>&#209;&#238;&#246;&#232;&#224;&#235;&#232;&#241;&#242;&#232;&#247;&#229;&#241;&#234;&#255;&#224; &#192;&#226;&#241;&#242;&#240;&#232;&#233;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Социалистическяа Австрийская Республика</Russian>
 		<English>Socialist Republic of Austria</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_DESC_FASCIST</Tag>
-		<Russian>&#194;&#229;&#235;&#232;&#234;&#224;&#255; &#192;&#226;&#241;&#242;&#240;&#232;&#233;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Великая Австрийская Империя</Russian>
 		<English>Greater Austrian Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_NAZI_VASSAL</Tag>
-		<Russian>&#194;&#238;&#241;&#242;&#238;&#247;&#237;&#224;&#255; &#236;&#224;&#240;&#234;&#224;</Russian>
+		<Russian>Восточная марка</Russian>
 		<English>Ostmark</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_SOVIET_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#192;&#226;&#241;&#242;&#240;&#232;&#255;</Russian>
+		<Russian>Советская Австрия</Russian>
 		<English>Soviet Austria</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_HRE</Tag>
-		<Russian>&#209;&#226;&#255;&#249;&#229;&#237;&#237;&#224;&#255; &#208;&#232;&#236;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Священная Римская Империя</Russian>
 		<English>Holy Roman Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_AUSTRIA_EMPIRE</Tag>
-		<Russian>&#192;&#226;&#241;&#242;&#240;&#232;&#233;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Австрийская Империя</Russian>
 		<English>Austrian Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_AUSTRIA_HUNGARY</Tag>
-		<Russian>&#192;&#226;&#241;&#242;&#240;&#238;-&#194;&#229;&#237;&#227;&#229;&#240;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Австро-Венгерская империя</Russian>
 		<English>Austro-Hungarian Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_AUSTRIA_ARCHDUCHY</Tag>
-		<Russian>&#221;&#240;&#246;&#227;&#229;&#240;&#246;&#238;&#227;&#241;&#242;&#226;&#238; &#192;&#226;&#241;&#242;&#240;&#232;&#255;</Russian>
+		<Russian>Эрцгерцогство Австрия</Russian>
 		<English>Archduchy of Austria</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_HABSBURG_EMPIRE</Tag>
-		<Russian>&#195;&#224;&#225;&#241;&#225;&#243;&#240;&#227;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Габсбургская империя</Russian>
 		<English>Habsburg Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HOLY_ROME_GERMAN_CONFEDERATION</Tag>
-		<Russian>&#195;&#229;&#240;&#236;&#224;&#237;&#241;&#234;&#232;&#233; &#241;&#238;&#254;&#231;</Russian>
+		<Russian>Германский союз</Russian>
 		<English>German Confederation</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AUSTRIA_SHORT_DESC</Tag>
-		<Russian>&#192;&#226;&#241;&#242;&#240;&#232;&#255;</Russian>
+		<Russian>Австрия</Russian>
 		<English>Austria</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AUSTRIA_ADJECTIVE</Tag>
-		<Russian>&#192;&#226;&#241;&#242;&#240;&#232;&#233;&#241;&#234;&#232;&#233;</Russian>
+		<Russian>Австрийский</Russian>
 		<English>Austrian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_HOLY_ROMAN_VASSAL</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#237;&#224; &#200;&#242;&#224;&#235;&#232;&#232;</Russian>
+		<Russian>Корона Италии</Russian>
 		<English>Crown of Italy</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_HOLY_ROMAN_VASSAL</Tag>
-		<Russian>&#199;&#224;&#239;&#224;&#228;&#237;&#238;-&#212;&#240;&#224;&#237;&#234;&#241;&#234;&#238;&#229; &#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Западно-Франкское королевство</Russian>
 		<English>West Francia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NETHERLANDS_HOLY_ROMAN_VASSAL</Tag>
-		<Russian>&#195;&#229;&#240;&#246;&#238;&#227;&#241;&#242;&#226;&#238; &#193;&#240;&#224;&#225;&#224;&#237;&#242;</Russian>
+		<Russian>Герцогство Брабант</Russian>
 		<English>Duchy of Brabant</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_HOLY_ROMAN_VASSAL</Tag>
-		<Russian>&#203;&#224;&#242;&#232;&#237;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Латинская Империя</Russian>
 		<English>Latin Empire</English>
 	</TEXT>
 </Civ4GameText>

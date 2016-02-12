@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Alex Mantzaris (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -7,32 +7,32 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARGENTINA_DESC</Tag>
-		<Russian>&#192;&#240;&#227;&#229;&#237;&#242;&#232;&#237;&#246;&#251;</Russian>
+		<Russian>Аргентинцы</Russian>
 		<English>The Argentinians</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARGENTINA_SHORT_DESC</Tag>
-		<Russian>&#192;&#240;&#227;&#229;&#237;&#242;&#232;&#237;&#224;</Russian>
+		<Russian>Аргентина</Russian>
 		<English>Argentina</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARGENTINA_ADJECTIVE</Tag>
-		<Russian>Argentine</Russian>
+		<Russian>?????????</Russian>
 		<English>Argentine</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_PERON</Tag>
-		<Russian>Per�n</Russian>
-		<English>Per�n</English>
+		<Russian>Perón</Russian>
+		<English>Perón</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARGENTINA_PEDIA</Tag>
-		<Russian>[TAB]Argentina is a sovereign state, organized as a representative and federal republic, located in the southeastern corner of America. Its territory is divided into 23 provinces and one autonomous city, Buenos Aires, which is the nation's capital and seat of the federal government. Its mainland, covers much of South America, it borders with Bolivia and Paraguay on the north, with Brazil on the north-east, with Chile in the west and south, with Uruguay on the east and with the Atlantic Ocean on the west. The last Spanish viceroy, who ruled from Buenos Aires, was deposed the 25 of May of 1810 and the First Board government was organized. The 9th of July of 1816 Argentina formally proclaimed its independence in Tucum�n as a free and sovereign country.</Russian>
-		<English>[TAB]Argentina is a sovereign state, organized as a representative and federal republic, located in the southeastern corner of America. Its territory is divided into 23 provinces and one autonomous city, Buenos Aires, which is the nation's capital and seat of the federal government. Its mainland, covers much of South America, it borders with Bolivia and Paraguay on the north, with Brazil on the north-east, with Chile in the west and south, with Uruguay on the east and with the Atlantic Ocean on the west. The last Spanish viceroy, who ruled from Buenos Aires, was deposed the 25 of May of 1810 and the First Board government was organized. The 9th of July of 1816 Argentina formally proclaimed its independence in Tucum�n as a free and sovereign country.</English>
+		<Russian>[TAB]Argentina is a sovereign state, organized as a representative and federal republic, located in the southeastern corner of America. Its territory is divided into 23 provinces and one autonomous city, Buenos Aires, which is the nation's capital and seat of the federal government. Its mainland, covers much of South America, it borders with Bolivia and Paraguay on the north, with Brazil on the north-east, with Chile in the west and south, with Uruguay on the east and with the Atlantic Ocean on the west. The last Spanish viceroy, who ruled from Buenos Aires, was deposed the 25 of May of 1810 and the First Board government was organized. The 9th of July of 1816 Argentina formally proclaimed its independence in Tucumán as a free and sovereign country.</Russian>
+		<English>[TAB]Argentina is a sovereign state, organized as a representative and federal republic, located in the southeastern corner of America. Its territory is divided into 23 provinces and one autonomous city, Buenos Aires, which is the nation's capital and seat of the federal government. Its mainland, covers much of South America, it borders with Bolivia and Paraguay on the north, with Brazil on the north-east, with Chile in the west and south, with Uruguay on the east and with the Atlantic Ocean on the west. The last Spanish viceroy, who ruled from Buenos Aires, was deposed the 25 of May of 1810 and the First Board government was organized. The 9th of July of 1816 Argentina formally proclaimed its independence in Tucumán as a free and sovereign country.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_SAN_MARTIN</Tag>
-		<Russian>&#213;&#238;&#241;&#229; &#228;&#229; &#209;&#224;&#237;-&#204;&#224;&#240;&#242;&#232;&#237;</Russian>
+		<Russian>Хосе де Сан-Мартин</Russian>
 		<English>San Martin</English>
 	</TEXT>
 	<TEXT>
@@ -61,7 +61,7 @@
 		<French>Comme un ami m'a dit un jour, "Aucune condition ne saurait ?tre accept?e, hormis une capitulation imm?diate et inconditionnelle." Dommage, n'est-ce pas ?</French>
 		<German>Wie ein Freund von mir zu sagen pflegte: 'Ich akzeptiere nur die sofortige und bedingungslose Kapitulation'. ?u?erst treffend, nicht wahr?</German>
 		<Italian>Come disse una volta un mio amico: &quot;L'unica cosa accettabile ? una resa incondizionata e immediata.&quot; Conciso, non trovi?</Italian>
-		<Spanish>Como un amigo m?o dijo una vez: &quot;Ninguna condici?n es aceptable, salvo una rendici?n incondicional e inmediata&quot;. Es una l?stima, �no cre?is?</Spanish>
+		<Spanish>Como un amigo m?o dijo una vez: &quot;Ninguna condici?n es aceptable, salvo una rendici?n incondicional e inmediata&quot;. Es una l?stima, ¿no cre?is?</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_SAN_MARTIN</Tag>
@@ -79,7 +79,7 @@
 		<French>Que me vaut l'honneur peu enviable de votre pr?sence ?</French>
 		<German>Was verschafft mir die zweifelhafte Ehre Eures Besuchs?</German>
 		<Italian>E a cosa devo il dubbio onore della tua presenza?</Italian>
-		<Spanish>�Y a qu? debemos el dudoso honor de vuestra compa??a?</Spanish>
+		<Spanish>¿Y a qu? debemos el dudoso honor de vuestra compa??a?</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_SAN_MARTIN</Tag>
@@ -88,7 +88,7 @@
 		<French>Pourriez-vous donner ceci ? un bon ami, [CT_NAME] ?</French>
 		<German>Ihr werdet einem treuen Freund diese kleine Bitte doch nicht abschlagen, [CT_NAME]?</German>
 		<Italian>Avresti un po' di questi in nome della nostra amicizia, [CT_NAME]?</Italian>
-		<Spanish>�Podr?ais darles esto a unos buenos amigos, [CT_NAME]?</Spanish>
+		<Spanish>¿Podr?ais darles esto a unos buenos amigos, [CT_NAME]?</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SAN_MARTIN</Tag>
@@ -110,18 +110,18 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_PERON_PEDIA</Tag>
-		<Russian>[H1]Juan Domingo Per�n[\H1][NEWLINE][BOLD]President of Argentina[\BOLD][NEWLINE][NEWLINE][BOLD]Lived:[\BOLD] Born in Lobos, Argentina, on October 8th of 1895, and died in Olivos, the on July 1st of 1974.[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB] He was elected President of Argentina in three occasions. The first time he was elected president was on February 24th of 1946, for the period 1946-1952. He was reelected on November 11th of 1951, for the period 1952-1958, which failed to complete due to a military coup that overthrew him on September 16th of 1955. Finally, after 18 years in exile, he returned to Argentina and was elected president for the third time on September 23th of 1973 for the period 1973-1979, which he could not complete because of his death.</Russian>
-		<English>[H1]Juan Domingo Per�n[\H1][NEWLINE][BOLD]President of Argentina[\BOLD][NEWLINE][NEWLINE][BOLD]Lived:[\BOLD] Born in Lobos, Argentina, on October 8th of 1895, and died in Olivos, the on July 1st of 1974.[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB] He was elected President of Argentina in three occasions. The first time he was elected president was on February 24th of 1946, for the period 1946-1952. He was reelected on November 11th of 1951, for the period 1952-1958, which failed to complete due to a military coup that overthrew him on September 16th of 1955. Finally, after 18 years in exile, he returned to Argentina and was elected president for the third time on September 23th of 1973 for the period 1973-1979, which he could not complete because of his death.</English>
+		<Russian>[H1]Juan Domingo Perón[\H1][NEWLINE][BOLD]President of Argentina[\BOLD][NEWLINE][NEWLINE][BOLD]Lived:[\BOLD] Born in Lobos, Argentina, on October 8th of 1895, and died in Olivos, the on July 1st of 1974.[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB] He was elected President of Argentina in three occasions. The first time he was elected president was on February 24th of 1946, for the period 1946-1952. He was reelected on November 11th of 1951, for the period 1952-1958, which failed to complete due to a military coup that overthrew him on September 16th of 1955. Finally, after 18 years in exile, he returned to Argentina and was elected president for the third time on September 23th of 1973 for the period 1973-1979, which he could not complete because of his death.</Russian>
+		<English>[H1]Juan Domingo Perón[\H1][NEWLINE][BOLD]President of Argentina[\BOLD][NEWLINE][NEWLINE][BOLD]Lived:[\BOLD] Born in Lobos, Argentina, on October 8th of 1895, and died in Olivos, the on July 1st of 1974.[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB] He was elected President of Argentina in three occasions. The first time he was elected president was on February 24th of 1946, for the period 1946-1952. He was reelected on November 11th of 1951, for the period 1952-1958, which failed to complete due to a military coup that overthrew him on September 16th of 1955. Finally, after 18 years in exile, he returned to Argentina and was elected president for the third time on September 23th of 1973 for the period 1973-1979, which he could not complete because of his death.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ARGENTINE_GRENADIER_CAVALRY</Tag>
-		<Russian>&#202;&#224;&#226;&#224;&#235;&#229;&#240;&#232;&#233;&#241;&#234;&#232;&#233; &#227;&#240;&#229;&#237;&#224;&#228;&#229;&#240;</Russian>
+		<Russian>Кавалерийский гренадер</Russian>
 		<English>Grenadier Cavalry</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ARGENTINE_GRENADIER_CAVALRY_PEDIA</Tag>
-		<Russian>Jos� de San Mart�n reached the La Plata River on March 9th of 1812 with the rank of Cavalry Lieutenant Commander, presenting to the goverment the need of creating a cavalry corps, in which human quality would be more important than quantity. He created a disciplined and modern cavalry equipped with the spirit to fight the well prepared royalists forces applying the new french cavalry tactics, seeking to emulate, in some way, the elite corps of Napoleon's conquering army, the french horse grenadiers.</Russian>
-		<English>Jos� de San Mart�n reached the La Plata River on March 9th of 1812 with the rank of Cavalry Lieutenant Commander, presenting to the goverment the need of creating a cavalry corps, in which human quality would be more important than quantity. He created a disciplined and modern cavalry equipped with the spirit to fight the well prepared royalists forces applying the new french cavalry tactics, seeking to emulate, in some way, the elite corps of Napoleon's conquering army, the french horse grenadiers.</English>
+		<Russian>José de San Martín reached the La Plata River on March 9th of 1812 with the rank of Cavalry Lieutenant Commander, presenting to the goverment the need of creating a cavalry corps, in which human quality would be more important than quantity. He created a disciplined and modern cavalry equipped with the spirit to fight the well prepared royalists forces applying the new french cavalry tactics, seeking to emulate, in some way, the elite corps of Napoleon's conquering army, the french horse grenadiers.</Russian>
+		<English>José de San Martín reached the La Plata River on March 9th of 1812 with the rank of Cavalry Lieutenant Commander, presenting to the goverment the need of creating a cavalry corps, in which human quality would be more important than quantity. He created a disciplined and modern cavalry equipped with the spirit to fight the well prepared royalists forces applying the new french cavalry tactics, seeking to emulate, in some way, the elite corps of Napoleon's conquering army, the french horse grenadiers.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ARGENTINE_GRENADIER_CAVALRY_STRATEGY</Tag>
@@ -130,7 +130,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_ARGENTINE_REFRIGERATION_PLANT</Tag>
-		<Russian>&#213;&#238;&#235;&#238;&#228;&#232;&#235;&#252;&#237;&#251;&#233; &#241;&#234;&#235;&#224;&#228;</Russian>
+		<Russian>Холодильный склад</Russian>
 		<English>Cold Storage Plant</English>
 	</TEXT>
 	<TEXT>
@@ -145,7 +145,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_ARG_EMBASSY</Tag>
-		<Russian>&#192;&#240;&#227;&#229;&#237;&#242;&#232;&#237;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Аргентинское посольство</Russian>
 		<English>Argentine Embassy</English>
 	</TEXT>
 </Civ4GameText>

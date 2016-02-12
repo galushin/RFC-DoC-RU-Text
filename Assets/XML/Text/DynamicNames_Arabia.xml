@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,147 +6,147 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_DESC</Tag>
-		<Russian>&#192;&#240;&#224;&#225;&#251;</Russian>
+		<Russian>Арабы</Russian>
 		<English>The Arabs</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_DESC_PEOPLES</Tag>
-		<Russian>&#193;&#229;&#228;&#243;&#232;&#237;&#251;</Russian>
+		<Russian>Бедуины</Russian>
 		<English>Bedouin Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_DESC_DEFAULT</Tag>
-		<Russian>&#192;&#240;&#224;&#225;&#241;&#234;&#232;&#229; &#241;&#243;&#235;&#242;&#224;&#237;&#224;&#242;&#251;</Russian>
+		<Russian>Арабские султанаты</Russian>
 		<English>Arabian Sultanates</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_DESC_DEMOCRATIC</Tag>
-		<Russian>&#203;&#232;&#227;&#224; &#224;&#240;&#224;&#225;&#241;&#234;&#232;&#245; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;</Russian>
+		<Russian>Лига арабских государств</Russian>
 		<English>Arab League</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_DESC_FASCIST</Tag>
-		<Russian>&#207;&#224;&#237;&#224;&#240;&#224;&#225;&#241;&#234;&#238;&#229; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Панарабское государство</Russian>
 		<English>Pan Arab State</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_DESC_COMMUNIST</Tag>
-		<Russian>&#193;&#224;&#224;&#241;&#232;&#241;&#242;&#241;&#234;&#224;&#255; &#192;&#240;&#224;&#226;&#232;&#255;</Russian>
+		<Russian>Баасистская Аравия</Russian>
 		<English>Baathist Arabia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_SAUDI</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#209;&#224;&#243;&#228;&#238;&#226;&#241;&#234;&#224;&#255; &#192;&#240;&#224;&#226;&#232;&#255;</Russian>
+		<Russian>Королевство Саудовская Аравия</Russian>
 		<English>Kingdom of Saudi-Arabia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_RASHIDUN_CALIPHATE</Tag>
-		<Russian>&#207;&#240;&#224;&#226;&#229;&#228;&#237;&#251;&#233; &#213;&#224;&#235;&#232;&#244;&#224;&#242;</Russian>
+		<Russian>Праведный Халифат</Russian>
 		<English>Rashidun Caliphate</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_UMMAYAD_CALIPHATE</Tag>
-		<Russian>&#213;&#224;&#235;&#232;&#244;&#224;&#242; &#206;&#236;&#229;&#233;&#255;&#228;&#238;&#226;</Russian>
+		<Russian>Халифат Омейядов</Russian>
 		<English>Ummayad Caliphate</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_ABBASID_CALIPHATE</Tag>
-		<Russian>&#192;&#225;&#225;&#224;&#241;&#232;&#228;&#241;&#234;&#232;&#233; &#213;&#224;&#235;&#232;&#244;&#224;&#242;</Russian>
+		<Russian>Аббасидский Халифат</Russian>
 		<English>Abbasid Caliphate</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_SOVIET_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#192;&#240;&#224;&#226;&#232;&#255;</Russian>
+		<Russian>Советская Аравия</Russian>
 		<English>Soviet Arabia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_NAZI_VASSAL</Tag>
-		<Russian>&#195;&#229;&#240;&#236;&#224;&#237;&#241;&#234;&#224;&#255; &#192;&#240;&#224;&#226;&#232;&#255;</Russian>
+		<Russian>Германская Аравия</Russian>
 		<English>German Arabia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_ARABIAN_VASSAL</Tag>
-		<Russian>&#221;&#236;&#232;&#240;&#224;&#242; &#204;&#232;&#241;&#240;</Russian>
+		<Russian>Эмират Миср</Russian>
 		<English>Emirate of Misr</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BABYLONIA_ARABIAN_VASSAL</Tag>
-		<Russian>&#221;&#236;&#232;&#240;&#224;&#242; &#200;&#240;&#224;&#234;</Russian>
+		<Russian>Эмират Ирак</Russian>
 		<English>Emirate of Iraq</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_ARABIAN_VASSAL</Tag>
-		<Russian>&#221;&#236;&#232;&#240;&#224;&#242; &#212;&#224;&#240;&#241;</Russian>
+		<Russian>Эмират Фарс</Russian>
 		<English>Emirate of Fars</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PHOENICIA_ARABIAN_VASSAL</Tag>
-		<Russian>&#221;&#236;&#232;&#240;&#224;&#242; &#200;&#244;&#240;&#232;&#234;&#232;&#255;</Russian>
+		<Russian>Эмират Ифрикия</Russian>
 		<English>Emirate of Ifriqiya</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_ARABIAN_VASSAL</Tag>
-		<Russian>&#221;&#236;&#232;&#240;&#224;&#242; &#200;&#242;&#224;&#235;&#232;&#255;</Russian>
+		<Russian>Эмират Италия</Russian>
 		<English>Emirate of Italiya</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ETHIOPIA_ARABIAN_VASSAL</Tag>
-		<Russian>&#221;&#236;&#232;&#240;&#224;&#242; &#192;&#225;&#232;&#241;&#241;&#232;&#237;&#232;&#255;</Russian>
+		<Russian>Эмират Абиссиния</Russian>
 		<English>Emirate of Abyssinia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_ARABIAN_VASSAL</Tag>
-		<Russian>&#221;&#236;&#232;&#240;&#224;&#242; &#208;&#232;&#236;</Russian>
-		<English>Emirate of R�m</English>
+		<Russian>Эмират Рим</Russian>
+		<English>Emirate of Rûm</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_ARABIAN_VASSAL</Tag>
-		<Russian>&#221;&#236;&#232;&#240;&#224;&#242; &#209;&#234;&#224;&#237;&#228;&#232;&#237;&#224;&#226;&#232;&#255;</Russian>
+		<Russian>Эмират Скандинавия</Russian>
 		<English>Emirate of Scandinavia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KHMER_ARABIAN_VASSAL</Tag>
-		<Russian>&#221;&#236;&#232;&#240;&#224;&#242; &#202;&#224;&#236;&#239;&#243;&#247;&#232;&#255;</Russian>
+		<Russian>Эмират Кампучия</Russian>
 		<English>Emirate of Kampuchea</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_ARABIAN_VASSAL</Tag>
-		<Russian>&#221;&#236;&#232;&#240;&#224;&#242; &#192;&#235;&#252;-&#192;&#237;&#228;&#224;&#235;&#243;&#241;</Russian>
+		<Russian>Эмират Аль-Андалус</Russian>
 		<English>Emirate of Al-Andalus</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_ARABIAN_VASSAL</Tag>
-		<Russian>&#221;&#236;&#232;&#240;&#224;&#242; &#200;&#241;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Эмират Испания</Russian>
 		<English>Emirate of Esbanya</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NETHERLANDS_ARABIAN_VASSAL</Tag>
-		<Russian>&#221;&#236;&#232;&#240;&#224;&#242; &#205;&#232;&#228;&#229;&#240;&#235;&#224;&#237;&#228;&#238;&#226;</Russian>
+		<Russian>Эмират Нидерландов</Russian>
 		<English>Emirate of the Netherlands</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTECS_ARABIAN_VASSAL</Tag>
-		<Russian>&#221;&#236;&#232;&#240;&#224;&#242; &#204;&#229;&#245;&#232;&#234;&#238;</Russian>
+		<Russian>Эмират Мехико</Russian>
 		<English>Emirate of Mexico</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKEY_ARABIAN_VASSAL</Tag>
-		<Russian>&#206;&#241;&#236;&#224;&#237;&#241;&#234;&#232;&#233; &#209;&#243;&#235;&#242;&#224;&#237;&#224;&#242;</Russian>
+		<Russian>Османский Султанат</Russian>
 		<English>Ottoman Sultanate</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MUGHALS_ARABIAN_VASSAL</Tag>
-		<Russian>&#221;&#236;&#232;&#240;&#224;&#242; &#196;&#229;&#235;&#232;</Russian>
+		<Russian>Эмират Дели</Russian>
 		<English>Emirate of Delhi</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_THAILAND_ARABIAN_VASSAL</Tag>
-		<Russian>&#221;&#236;&#232;&#240;&#224;&#242; &#209;&#232;&#224;&#236;</Russian>
+		<Russian>Эмират Сиам</Russian>
 		<English>Emirate of Siam</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIAN_VASSAL_GENERIC</Tag>
-		<Russian>%s1 &#253;&#236;&#232;&#240;&#224;&#242;</Russian>
+		<Russian>%s1 эмират</Russian>
 		<English>Emirate of %s1</English>
 	</TEXT>
 </Civ4GameText>

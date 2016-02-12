@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,82 +6,82 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_DESC</Tag>
-		<Russian>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#246;&#251;</Russian>
+		<Russian>Португальцы</Russian>
 		<English>The Portuguese</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_DESC_PEOPLES</Tag>
-		<Russian>&#203;&#243;&#231;&#232;&#242;&#224;&#237;&#251;</Russian>
+		<Russian>Лузитаны</Russian>
 		<English>Lusitanian Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_DESC_DEFAULT</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#232;&#255;</Russian>
+		<Russian>Королевство Португалия</Russian>
 		<English>Kingdom of Portugal</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_DESC_DEMOCRATIC</Tag>
-		<Russian>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#241;&#234;&#224;&#255; &#240;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Португальская республика</Russian>
 		<English>Portuguese Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_DESC_COMMUNIST</Tag>
-		<Russian>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#241;&#234;&#232;&#233; &#208;&#229;&#226;&#238;&#235;&#254;&#246;&#232;&#238;&#237;&#237;&#251;&#233; &#207;&#240;&#238;&#246;&#229;&#241;&#241;</Russian>
+		<Russian>Португальский Революционный Процесс</Russian>
 		<English>Portuguese Continuing Revolutionary Process</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_DESC_FASCIST</Tag>
-		<Russian>&#205;&#238;&#226;&#238;&#229; &#195;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238; &#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#232;&#255;</Russian>
+		<Russian>Новое Государство Португалия</Russian>
 		<English>New State of Portugal</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_EMPIRE</Tag>
-		<Russian>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Португальская Империя</Russian>
 		<English>Portuguese Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_BRAZIL</Tag>
-		<Russian>&#209;&#238;&#229;&#228;&#232;&#237;&#229;&#237;&#237;&#238;&#229; &#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#232;&#232; &#232; &#193;&#240;&#224;&#231;&#232;&#235;&#232;&#232;</Russian>
+		<Russian>Соединенное Королевство Португалии и Бразилии</Russian>
 		<English>United Kingdom of Portugal and Brazil</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_EXILE</Tag>
-		<Russian>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#241;&#234;&#238;&#229; &#207;&#240;&#224;&#226;&#232;&#242;&#229;&#235;&#252;&#241;&#242;&#226;&#238; &#226; &#232;&#231;&#227;&#237;&#224;&#237;&#232;&#232;</Russian>
+		<Russian>Португальское Правительство в изгнании</Russian>
 		<English>Portuguese Government in Exile</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDIA_PORTUGUESE_VASSAL</Tag>
-		<Russian>&#194;&#232;&#246;&#229;&#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#241;&#234;&#224;&#255; &#200;&#237;&#228;&#232;&#255;</Russian>
+		<Russian>Вицекоролевство Португальская Индия</Russian>
 		<English>Viceroyalty of Portuguese India</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDONESIA_PORTUGUESE_VASSAL</Tag>
-		<Russian>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#241;&#234;&#224;&#255; &#206;&#241;&#242;-&#200;&#237;&#228;&#232;&#255;</Russian>
+		<Russian>Португальская Ост-Индия</Russian>
 		<English>Portuguese East Indies</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTECS_PORTUGUESE_VASSAL</Tag>
-		<Russian>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#241;&#234;&#224;&#255; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<Russian>Португальская Мексика</Russian>
 		<English>Portuguese Mexico</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MAYA_PORTUGUESE_VASSAL</Tag>
-		<Russian>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#241;&#234;&#232;&#233; &#222;&#234;&#224;&#242;&#224;&#237;</Russian>
-		<English>Portuguese Yucat&#225;n</English>
+		<Russian>Португальский Юкатан</Russian>
+		<English>Portuguese Yucatбn</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INCA_PORTUGUESE_VASSAL</Tag>
-		<Russian>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#241;&#234;&#238;&#229; &#207;&#229;&#240;&#243;</Russian>
+		<Russian>Португальское Перу</Russian>
 		<English>Portuguese Peru</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_SOVIET_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#232;&#255;</Russian>
+		<Russian>Советская Португалия</Russian>
 		<English>Soviet Portugal</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_NAZI_VASSAL</Tag>
-		<Russian>&#208;&#229;&#233;&#245;&#241;&#234;&#238;&#236;&#232;&#241;&#241;&#224;&#240;&#232;&#224;&#242; &#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#232;&#255;</Russian>
+		<Russian>Рейхскомиссариат Португалия</Russian>
 		<English>Reichskommissariat Portugal</English>
 	</TEXT>
 </Civ4GameText>

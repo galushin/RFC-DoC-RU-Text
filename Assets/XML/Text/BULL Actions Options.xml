@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!--
 	BULL Actions
 	Options Game Text
@@ -14,7 +14,7 @@
 		<Russian>Offer to Declare War</Russian>
 		<English>Offer to Declare War</English>
 		<French>Offer to Declare War</French>
-		<German>Kriegserklärung anbieten</German>
+		<German>KriegserklÃ¤rung anbieten</German>
 		<Italian>Offer to Declare War</Italian>
 		<Spanish>Offer to Declare War</Spanish>
 	</TEXT>
@@ -23,7 +23,7 @@
 		<Russian>When checked, gives you the option to declare war when moving into a tile containing a rival unit. Always gives the option when moving into rival territory without open borders.</Russian>
 		<English>When checked, gives you the option to declare war when moving into a tile containing a rival unit. Always gives the option when moving into rival territory without open borders.</English>
 		<French>When checked, gives you the option to declare war when moving into a tile containing a rival unit. Always gives the option when moving into rival territory without open borders.</French>
-		<German>Bietet bei Betreten eines Geländefeldes die Möglichkeit einer Kriegserklärung an, wenn sich auf diesem eine gegnerische Einheit befindet (wird bei Betreten eines gegnerischen Geländefeldes ohne Vertrag über Offene Grenzen immer abgefragt)</German>
+		<German>Bietet bei Betreten eines GelÃ¤ndefeldes die MÃ¶glichkeit einer KriegserklÃ¤rung an, wenn sich auf diesem eine gegnerische Einheit befindet (wird bei Betreten eines gegnerischen GelÃ¤ndefeldes ohne Vertrag Ã¼ber Offene Grenzen immer abgefragt)</German>
 		<Italian>When checked, gives you the option to declare war when moving into a tile containing a rival unit. Always gives the option when moving into rival territory without open borders.</Italian>
 		<Spanish>When checked, gives you the option to declare war when moving into a tile containing a rival unit. Always gives the option when moving into rival territory without open borders.</Spanish>
 	</TEXT>
@@ -45,7 +45,7 @@
 		<English>When checked, units ordered to heal will awaken when they spot danger, acting like sentries.</English>
 		<French>When checked, units ordered to heal will awaken when they spot danger, acting like sentries.</French>
 		<German>Veranlasst Einheiten, die sich gerade heilen, bei Gefahr aktiv zu werden</German>
-		<Italian>Quando è selezionato, le Unità che hanno ricevuto l'ordine di curarsi si riattiveranno quando avvertono un pericolo, fungendo da sentinelle.</Italian>
+		<Italian>Quando Ã¨ selezionato, le UnitÃ  che hanno ricevuto l'ordine di curarsi si riattiveranno quando avvertono un pericolo, fungendo da sentinelle.</Italian>
 		<Spanish>When checked, units ordered to heal will awaken when they spot danger, acting like sentries.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -62,8 +62,8 @@
 		<Russian>When checked, if Sentry While Healing is enabled, units will awaken to danger only when in neutral territory. This stops your attacking force from waking up each turn outside an enemy city or your defenders inside friendly territory.</Russian>
 		<English>When checked, if Sentry While Healing is enabled, units will awaken to danger only when in neutral territory. This stops your attacking force from waking up each turn outside an enemy city or your defenders inside friendly territory.</English>
 		<French>When checked, if Sentry While Healing is enabled, units will awaken to danger only when in neutral territory. This stops your attacking force from waking up each turn outside an enemy city or your defenders inside friendly territory.</French>
-		<German>Falls die Option "Wache bei Heilung" gewählt wurde, werden Einheiten nur bei Gefahr aktiv, wenn sie sich in neutralem Gebiet befinden (verhindert beispielsweise, dass sich heilende Einheiten während eines Angriffs auf eine feindliche Stadt oder verteidigende Einheiten in befreundetem Gebiet jede Runde wieder aktiv werden)</German>
-		<Italian>Quando è selezionato, se è stata abilitata l'opzione 'Sentinella durante la guarigione', le Unità che hanno ricevuto l'ordine di curarsi si riattiveranno quando avvertono un pericolo solamente se si trovano in territorio neutrale. Ciò vi eviterà alle vostre forze d'attacco di attivarsi ogni turno in prossimità di una Città nemica ed alle vostre forze di difesa di riattivarsi in territorio nemico.</Italian>
+		<German>Falls die Option "Wache bei Heilung" gewÃ¤hlt wurde, werden Einheiten nur bei Gefahr aktiv, wenn sie sich in neutralem Gebiet befinden (verhindert beispielsweise, dass sich heilende Einheiten wÃ¤hrend eines Angriffs auf eine feindliche Stadt oder verteidigende Einheiten in befreundetem Gebiet jede Runde wieder aktiv werden)</German>
+		<Italian>Quando Ã¨ selezionato, se Ã¨ stata abilitata l'opzione 'Sentinella durante la guarigione', le UnitÃ  che hanno ricevuto l'ordine di curarsi si riattiveranno quando avvertono un pericolo solamente se si trovano in territorio neutrale. CiÃ² vi eviterÃ  alle vostre forze d'attacco di attivarsi ogni turno in prossimitÃ  di una CittÃ  nemica ed alle vostre forze di difesa di riattivarsi in territorio nemico.</Italian>
 		<Spanish>When checked, if Sentry While Healing is enabled, units will awaken to danger only when in neutral territory. This stops your attacking force from waking up each turn outside an enemy city or your defenders inside friendly territory.</Spanish>
 	</TEXT>
 
@@ -83,7 +83,7 @@
 		<Russian>When checked, barbarian units adjacent to your borders will not trigger a warning if they cannot enter.</Russian>
 		<English>When checked, barbarian units adjacent to your borders will not trigger a warning if they cannot enter.</English>
 		<French>When checked, barbarian units adjacent to your borders will not trigger a warning if they cannot enter.</French>
-		<German>Lässt keine Warnung erscheinen, wenn sich Barbaren nahe der eigenen Grenzen befinden, diese aber nicht überqueren können</German>
+		<German>LÃ¤sst keine Warnung erscheinen, wenn sich Barbaren nahe der eigenen Grenzen befinden, diese aber nicht Ã¼berqueren kÃ¶nnen</German>
 		<Italian>When checked, barbarian units adjacent to your borders will not trigger a warning if they cannot enter.</Italian>
 		<Spanish>When checked, barbarian units adjacent to your borders will not trigger a warning if they cannot enter.</Spanish>
 	</TEXT>
@@ -104,8 +104,8 @@
 		<Russian>When checked, Workers ordered to chop a forest will stop with 1 turn remaining. Issue the order again to finish the chop.</Russian>
 		<English>When checked, Workers ordered to chop a forest will stop with 1 turn remaining. Issue the order again to finish the chop.</English>
 		<French>When checked, Workers ordered to chop a forest will stop with 1 turn remaining. Issue the order again to finish the chop.</French>
-		<German>Stoppt Bautrupps, die die Aktion "Wald abholzen" ausführen, 1 Runde, bevor die Aktion beendet wird, und lässt sie auf einen weiteren Befehl warten</German>
-		<Italian>Quando è selezionato, i Lavoratori a cui è stato ordinato di tagliare una Foresta si fermeranno quando mancherà un turno al completamento dell'incarico. Per terminare il disboscamento è necessario impartire nuovamente l'ordine.</Italian>
+		<German>Stoppt Bautrupps, die die Aktion "Wald abholzen" ausfÃ¼hren, 1 Runde, bevor die Aktion beendet wird, und lÃ¤sst sie auf einen weiteren Befehl warten</German>
+		<Italian>Quando Ã¨ selezionato, i Lavoratori a cui Ã¨ stato ordinato di tagliare una Foresta si fermeranno quando mancherÃ  un turno al completamento dell'incarico. Per terminare il disboscamento Ã¨ necessario impartire nuovamente l'ordine.</Italian>
 		<Spanish>When checked, Workers ordered to chop a forest will stop with 1 turn remaining. Issue the order again to finish the chop.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -122,8 +122,8 @@
 		<Russian>When checked, Workers ordered to build an improvement that will remove a forest will stop with 1 turn remaining. Issue the order again to finish the improvement.</Russian>
 		<English>When checked, Workers ordered to build an improvement that will remove a forest will stop with 1 turn remaining. Issue the order again to finish the improvement.</English>
 		<French>When checked, Workers ordered to build an improvement that will remove a forest will stop with 1 turn remaining. Issue the order again to finish the improvement.</French>
-		<German>Stoppt Bautrupps, die eine Modernisierung auf einem Wald-Geländefeld errichten und diesen damit entfernen würden, 1 Runde, bevor die Aktion beendet wird, und lässt sie auf einen weiteren Befehl warten</German>
-		<Italian>Quando è selezionato, i Lavoratori a cui è stato ordinato di tagliare una Foresta e successivamente costruire un miglioramento si fermeranno quando mancherà un turno al completamento dell'incarico. Per terminare la costruzione è necessario impartire nuovamente l'ordine.</Italian>
+		<German>Stoppt Bautrupps, die eine Modernisierung auf einem Wald-GelÃ¤ndefeld errichten und diesen damit entfernen wÃ¼rden, 1 Runde, bevor die Aktion beendet wird, und lÃ¤sst sie auf einen weiteren Befehl warten</German>
+		<Italian>Quando Ã¨ selezionato, i Lavoratori a cui Ã¨ stato ordinato di tagliare una Foresta e successivamente costruire un miglioramento si fermeranno quando mancherÃ  un turno al completamento dell'incarico. Per terminare la costruzione Ã¨ necessario impartire nuovamente l'ordine.</Italian>
 		<Spanish>When checked, Workers ordered to build an improvement that will remove a forest will stop with 1 turn remaining. Issue the order again to finish the improvement.</Spanish>
 	</TEXT>
 

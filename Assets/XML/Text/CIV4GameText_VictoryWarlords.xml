@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,99 +6,99 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BAB1</Tag>
-		<Russian>&#207;&#229;&#240;&#226;&#251;&#236; &#238;&#242;&#234;&#240;&#251;&#242;&#252; &#207;&#232;&#241;&#252;&#236;&#229;&#237;&#237;&#238;&#241;&#242;&#252;, &#209;&#226;&#238;&#228; &#231;&#224;&#234;&#238;&#237;&#238;&#226; &#232; &#204;&#238;&#237;&#224;&#240;&#245;&#232;&#254;</Russian>
+		<Russian>Первым открыть Письменность, Свод законов и Монархию</Russian>
 		<English>Be the first to discover Writing, Code of Laws and Monarchy</English>
-		<French>Etre le premier � d�couvrir l'Ecriture, le Livre des Lois et la Monarchie</French>
+		<French>Etre le premier à découvrir l'Ecriture, le Livre des Lois et la Monarchie</French>
 		<German>Erforschen Sie vor allen anderen Zivilisationen die Technologien Schrift, Gesetzgebung und Monarchie</German>
 		<Italian>Devi essere il primo a scoprire scrittura, codice di leggi e monarchia</Italian>
-		<Spanish>Ser el primero en descubrir la Escritura, la Legislaci&#243;n y la Monarqu&#237;a</Spanish>
+		<Spanish>Ser el primero en descubrir la Escritura, la Legislaciуn y la Monarquнa</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BAB2</Tag>
-		<Russian>&#209;&#228;&#229;&#235;&#224;&#242;&#252; &#194;&#224;&#226;&#232;&#235;&#238;&#237; &#241;&#224;&#236;&#251;&#236; &#237;&#224;&#241;&#229;&#235;&#229;&#237;&#237;&#251;&#236; &#227;&#238;&#240;&#238;&#228;&#238;&#236; &#226; 850 &#227;. &#228;&#238; &#237;.&#253;.</Russian>
+		<Russian>Сделать Вавилон самым населенным городом в 850 г. до н.э.</Russian>
 		<English>Make Babylon the most populous city in the world in 850 BC</English>
-		<French>Faire de Babylone la ville la plus peupl�e avant 850 av. J.-C.</French>
-		<German>Sorgen Sie daf�r, dass Babylon im Jahr 850 v. Chr. die gr��te Stadt der Welt ist</German>
-		<Italian>Rendi Babilonia la citt&#224; pi� popolosa del mondo nell'850 a.C.</Italian>
-		<Spanish>Conseguir que Babilonia sea la ciudad m&#225;s poblada del mundo en el 850 a. C.</Spanish>
+		<French>Faire de Babylone la ville la plus peuplée avant 850 av. J.-C.</French>
+		<German>Sorgen Sie dafür, dass Babylon im Jahr 850 v. Chr. die größte Stadt der Welt ist</German>
+		<Italian>Rendi Babilonia la cittа più popolosa del mondo nell'850 a.C.</Italian>
+		<Spanish>Conseguir que Babilonia sea la ciudad mбs poblada del mundo en el 850 a. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BAB2_EPIC</Tag>
-		<Russian>&#209;&#228;&#229;&#235;&#224;&#242;&#252; &#194;&#224;&#226;&#232;&#235;&#238;&#237; &#241;&#224;&#236;&#251;&#236; &#237;&#224;&#241;&#229;&#235;&#229;&#237;&#237;&#251;&#236; &#227;&#238;&#240;&#238;&#228;&#238;&#236; &#226; 850 &#227;. &#228;&#238; &#237;.&#253;.</Russian>
+		<Russian>Сделать Вавилон самым населенным городом в 850 г. до н.э.</Russian>
 		<English>Make Babylon the most populous city in the world in 850 BC</English>
-		<French>Faire de Babylone la ville la plus peupl�e avant 850 av. J.-C.</French>
-		<German>Sorgen Sie daf�r, dass Babylon im Jahr 850 v. Chr. die gr��te Stadt der Welt ist</German>
-		<Italian>Rendi Babilonia la citt&#224; pi� popolosa del mondo nell'850 a.C.</Italian>
-		<Spanish>Conseguir que Babilonia sea la ciudad m&#225;s poblada del mundo en el 850 a. C.</Spanish>
+		<French>Faire de Babylone la ville la plus peuplée avant 850 av. J.-C.</French>
+		<German>Sorgen Sie dafür, dass Babylon im Jahr 850 v. Chr. die größte Stadt der Welt ist</German>
+		<Italian>Rendi Babilonia la cittа più popolosa del mondo nell'850 a.C.</Italian>
+		<Spanish>Conseguir que Babilonia sea la ciudad mбs poblada del mundo en el 850 a. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BAB2_MARATHON</Tag>
-		<Russian>&#209;&#228;&#229;&#235;&#224;&#242;&#252; &#194;&#224;&#226;&#232;&#235;&#238;&#237; &#241;&#224;&#236;&#251;&#236; &#237;&#224;&#241;&#229;&#235;&#229;&#237;&#237;&#251;&#236; &#227;&#238;&#240;&#238;&#228;&#238;&#236; &#226; 850 &#227;. &#228;&#238; &#237;.&#253;.</Russian>
+		<Russian>Сделать Вавилон самым населенным городом в 850 г. до н.э.</Russian>
 		<English>Make Babylon the most populous city in the world in 850 BC</English>
-		<French>Faire de Babylone la ville la plus peupl�e avant 850 av. J.-C.</French>
-		<German>Sorgen Sie daf�r, dass Babylon im Jahr 850 v. Chr. die gr��te Stadt der Welt ist</German>
-		<Italian>Rendi Babilonia la citt&#224; pi� popolosa del mondo nell'850 a.C.</Italian>
-		<Spanish>Conseguir que Babilonia sea la ciudad m&#225;s poblada del mundo en el 850 a. C.</Spanish>
+		<French>Faire de Babylone la ville la plus peuplée avant 850 av. J.-C.</French>
+		<German>Sorgen Sie dafür, dass Babylon im Jahr 850 v. Chr. die größte Stadt der Welt ist</German>
+		<Italian>Rendi Babilonia la cittа più popolosa del mondo nell'850 a.C.</Italian>
+		<Spanish>Conseguir que Babilonia sea la ciudad mбs poblada del mundo en el 850 a. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BAB3</Tag>
-		<Russian>&#209;&#228;&#229;&#235;&#224;&#242;&#252; &#194;&#224;&#226;&#232;&#235;&#238;&#237; &#227;&#238;&#240;&#238;&#228;&#238;&#236; &#241; &#241;&#224;&#236;&#238;&#233; &#226;&#251;&#241;&#238;&#234;&#238;&#233; &#234;&#243;&#235;&#252;&#242;&#243;&#240;&#238;&#233; &#226; 700 &#227;. &#228;&#238; &#237;.&#253;.</Russian>
+		<Russian>Сделать Вавилон городом с самой высокой культурой в 700 г. до н.э.</Russian>
 		<English>Make Babylon the most culturally advanced city in the world in 700 BC</English>
-		<French>Faire de Babylone la ville la plus avanc�e culturellement avant 700 av. J.-C.</French>
+		<French>Faire de Babylone la ville la plus avancée culturellement avant 700 av. J.-C.</French>
 		<German>Machen Sie Babylon im Jahr 700 v. Chr. zur kulturell bedeutendsten Stadt</German>
-		<Italian>Rendi Babilonia la citt&#224; culturalmente pi&#249; avanzata del mondo entro il 700 a.C.</Italian>
-		<Spanish>Conseguir que Babilonia sea la ciudad m&#225;s adelantada del mundo en t&#233;rminos de cultura en el 700 a. C.</Spanish>
+		<Italian>Rendi Babilonia la cittа culturalmente piщ avanzata del mondo entro il 700 a.C.</Italian>
+		<Spanish>Conseguir que Babilonia sea la ciudad mбs adelantada del mundo en tйrminos de cultura en el 700 a. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BAB3_EPIC</Tag>
-		<Russian>&#209;&#228;&#229;&#235;&#224;&#242;&#252; &#194;&#224;&#226;&#232;&#235;&#238;&#237; &#227;&#238;&#240;&#238;&#228;&#238;&#236; &#241; &#241;&#224;&#236;&#238;&#233; &#226;&#251;&#241;&#238;&#234;&#238;&#233; &#234;&#243;&#235;&#252;&#242;&#243;&#240;&#238;&#233; &#226; 700 &#227;. &#228;&#238; &#237;.&#253;.</Russian>
+		<Russian>Сделать Вавилон городом с самой высокой культурой в 700 г. до н.э.</Russian>
 		<English>Make Babylon the most culturally advanced city in the world in 700 BC</English>
-		<French>Faire de Babylone la ville la plus avanc�e culturellement avant 700 av. J.-C.</French>
+		<French>Faire de Babylone la ville la plus avancée culturellement avant 700 av. J.-C.</French>
 		<German>Machen Sie Babylon im Jahr 700 v. Chr. zur kulturell bedeutendsten Stadt</German>
-		<Italian>Rendi Babilonia la citt&#224; culturalmente pi� avanzata del mondo entro il 700 a.C.</Italian>
-		<Spanish>Conseguir que Babilonia sea la ciudad m&#225;s adelantada del mundo en t&#233;rminos de cultura en el 700 a. C.</Spanish>
+		<Italian>Rendi Babilonia la cittа culturalmente più avanzata del mondo entro il 700 a.C.</Italian>
+		<Spanish>Conseguir que Babilonia sea la ciudad mбs adelantada del mundo en tйrminos de cultura en el 700 a. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BAB3_MARATHON</Tag>
-		<Russian>&#209;&#228;&#229;&#235;&#224;&#242;&#252; &#194;&#224;&#226;&#232;&#235;&#238;&#237; &#227;&#238;&#240;&#238;&#228;&#238;&#236; &#241; &#241;&#224;&#236;&#238;&#233; &#226;&#251;&#241;&#238;&#234;&#238;&#233; &#234;&#243;&#235;&#252;&#242;&#243;&#240;&#238;&#233; &#226; 700 &#227;. &#228;&#238; &#237;.&#253;.</Russian>
+		<Russian>Сделать Вавилон городом с самой высокой культурой в 700 г. до н.э.</Russian>
 		<English>Make Babylon the most culturally advanced city in the world in 700 BC</English>
-		<French>Faire de Babylone la ville la plus avanc�e culturellement avant 700 av. J.-C.</French>
+		<French>Faire de Babylone la ville la plus avancée culturellement avant 700 av. J.-C.</French>
 		<German>Machen Sie Babylon im Jahr 700 v. Chr. zur kulturell bedeutendsten Stadt</German>
-		<Italian>Rendi Babilonia la citt&#224; culturalmente pi� avanzata del mondo entro il 700 a.C.</Italian>
-		<Spanish>Conseguir que Babilonia sea la ciudad m&#225;s adelantada del mundo en t&#233;rminos de cultura en el 700 a. C.</Spanish>
+		<Italian>Rendi Babilonia la cittа culturalmente più avanzata del mondo entro il 700 a.C.</Italian>
+		<Spanish>Conseguir que Babilonia sea la ciudad mбs adelantada del mundo en tйrminos de cultura en el 700 a. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_CAR1</Tag>
-		<Russian>&#207;&#238;&#241;&#242;&#240;&#238;&#232;&#242;&#252; &#228;&#226;&#238;&#240;&#229;&#246; &#232; &#194;&#229;&#235;&#232;&#234;&#232;&#233; &#202;&#238;&#242;&#238;&#237; &#226; &#202;&#224;&#240;&#244;&#224;&#227;&#229;&#237;&#229; &#234; 300 &#227;. &#228;&#238; &#237;.&#253;.</Russian>
+		<Russian>Построить дворец и Великий Котон в Карфагене к 300 г. до н.э.</Russian>
 		<English>Build a Palace and the Great Cothon in Carthage by 300 BC</English>
-		<French>Contr�ler 5 villes c�ti�res en M�diterran�e en 100 av. J.-C.</French>
-		<German>Bauen Sie bis zum Jahr 300 v. Chr. einen Palast und den Gro�en Cothon in Karthago</German>
-		<Italian>Controlla 5 citt� costiere sul Mediterraneo nel 100 a.C.</Italian>
-		<Spanish>Controlar 5 ciudades costeras del Mediterr�neo en el 100 a. C.</Spanish>
+		<French>Contrôler 5 villes côtières en Méditerranée en 100 av. J.-C.</French>
+		<German>Bauen Sie bis zum Jahr 300 v. Chr. einen Palast und den Großen Cothon in Karthago</German>
+		<Italian>Controlla 5 città costiere sul Mediterraneo nel 100 a.C.</Italian>
+		<Spanish>Controlar 5 ciudades costeras del Mediterráneo en el 100 a. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_CAR1_EPIC</Tag>
 		<Russian>Build a Palace and the Great Cothon in Carthage by 300 BC</Russian>
 		<English>Build a Palace and the Great Cothon in Carthage by 300 BC</English>
-		<French>Contr�ler 5 villes c�ti�res en M�diterran�e en 100 av. J.-C.</French>
-		<German>Bauen Sie bis zum Jahr 300 v. Chr. einen Palast und den Gro�en Cothon in Karthago</German>
-		<Italian>Controlla 5 citt� costiere sul Mediterraneo nel 100 a.C.</Italian>
-		<Spanish>Controlar 5 ciudades costeras del Mediterr�neo en el 100 a. C.</Spanish>
+		<French>Contrôler 5 villes côtières en Méditerranée en 100 av. J.-C.</French>
+		<German>Bauen Sie bis zum Jahr 300 v. Chr. einen Palast und den Großen Cothon in Karthago</German>
+		<Italian>Controlla 5 città costiere sul Mediterraneo nel 100 a.C.</Italian>
+		<Spanish>Controlar 5 ciudades costeras del Mediterráneo en el 100 a. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_CAR1_MARATHON</Tag>
 		<Russian>Build a Palace and the Great Cothon in Carthage by 300 BC</Russian>
 		<English>Build a Palace and the Great Cothon in Carthage by 300 BC</English>
-		<French>Contr�ler 5 villes c�ti�res en M�diterran�e en 100 av. J.-C.</French>
-		<German>Bauen Sie bis zum Jahr 300 v. Chr. einen Palast und den Gro�en Cothon in Karthago</German>
-		<Italian>Controlla 5 citt� costiere sul Mediterraneo nel 100 a.C.</Italian>
-		<Spanish>Controlar 5 ciudades costeras del Mediterr�neo en el 100 a. C.</Spanish>
+		<French>Contrôler 5 villes côtières en Méditerranée en 100 av. J.-C.</French>
+		<German>Bauen Sie bis zum Jahr 300 v. Chr. einen Palast und den Großen Cothon in Karthago</German>
+		<Italian>Controlla 5 città costiere sul Mediterraneo nel 100 a.C.</Italian>
+		<Spanish>Controlar 5 ciudades costeras del Mediterráneo en el 100 a. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_CAR2</Tag>
 		<Russian>Control Italy and Iberia in 100 BC</Russian>
 		<English>Control Italy and Iberia in 100 BC</English>
-		<French>Se procurer par le commerce ou prendre le contr�le de 4 ressources de teinture avant 200 ap. J.-C.</French>
+		<French>Se procurer par le commerce ou prendre le contrôle de 4 ressources de teinture avant 200 ap. J.-C.</French>
 		<German>Kontrollieren Sie im Jahr 100 v. Chr. Italien und Iberien</German>
 		<Italian>Conquista o controlla con le rotte commerciali 4 fonti di tintura entro il 200 d.C.</Italian>
 		<Spanish>Hacerse con el control de 4 recursos de tintura o controlarlos mediante el intercambio en el 200 d. C.</Spanish>
@@ -107,7 +107,7 @@
 		<Tag>TXT_KEY_UHV_CAR2_EPIC</Tag>
 		<Russian>Control Italy and Iberia in 100 BC</Russian>
 		<English>Control Italy and Iberia in 100 BC</English>
-		<French>Se procurer par le commerce ou prendre le contr�le de 4 ressources de teinture avant 200 ap. J.-C.</French>
+		<French>Se procurer par le commerce ou prendre le contrôle de 4 ressources de teinture avant 200 ap. J.-C.</French>
 		<German>Kontrollieren Sie im Jahr 100 v. Chr. Italien und Iberien</German>
 		<Italian>Conquista o controlla con le rotte commerciali 4 fonti di tintura entro il 200 d.C.</Italian>
 		<Spanish>Hacerse con el control de 4 recursos de tintura o controlarlos mediante el intercambio en el 200 d. C.</Spanish>
@@ -116,7 +116,7 @@
 		<Tag>TXT_KEY_UHV_CAR2_MARATHON</Tag>
 		<Russian>Control Italy and Iberia in 100 BC</Russian>
 		<English>Control Italy and Iberia in 100 BC</English>
-		<French>Se procurer par le commerce ou prendre le contr�le de 4 ressources de teinture avant 200 ap. J.-C.</French>
+		<French>Se procurer par le commerce ou prendre le contrôle de 4 ressources de teinture avant 200 ap. J.-C.</French>
 		<German>Kontrollieren Sie im Jahr 100 v. Chr. Italien und Iberien</German>
 		<Italian>Conquista o controlla con le rotte commerciali 4 fonti di tintura entro il 200 d.C.</Italian>
 		<Spanish>Hacerse con el control de 4 recursos de tintura o controlarlos mediante el intercambio en el 200 d. C.</Spanish>
@@ -125,8 +125,8 @@
 		<Tag>TXT_KEY_UHV_CAR3</Tag>
 		<Russian>Have 5000 gold in 200 AD</Russian>
 		<English>Have 5000 gold in 200 AD</English>
-		<French>Etre le premier � faire le tour du monde</French>
-		<German>Verf�gen Sie im Jahr 200 v. Chr. �ber 5000 Gold</German>
+		<French>Etre le premier à faire le tour du monde</French>
+		<German>Verfügen Sie im Jahr 200 v. Chr. über 5000 Gold</German>
 		<Italian>Devi essere il primo a circumnavigare il pianeta</Italian>
 		<Spanish>Ser el primero en circunnavegar el globo</Spanish>
 	</TEXT>
@@ -134,8 +134,8 @@
 		<Tag>TXT_KEY_UHV_CAR3_EPIC</Tag>
 		<Russian>Have 7500 gold in 200 AD</Russian>
 		<English>Have 7500 gold in 200 AD</English>
-		<French>Etre le premier � faire le tour du monde</French>
-		<German>Verf�gen Sie im Jahr 200 v. Chr. �ber 7500 Gold</German>
+		<French>Etre le premier à faire le tour du monde</French>
+		<German>Verfügen Sie im Jahr 200 v. Chr. über 7500 Gold</German>
 		<Italian>Devi essere il primo a circumnavigare il pianeta</Italian>
 		<Spanish>Ser el primero en circunnavegar el globo</Spanish>
 	</TEXT>
@@ -143,26 +143,26 @@
 		<Tag>TXT_KEY_UHV_CAR3_MARATHON</Tag>
 		<Russian>Have 15000 gold in 200 AD</Russian>
 		<English>Have 15000 gold in 200 AD</English>
-		<French>Etre le premier � faire le tour du monde</French>
-		<German>Verf�gen Sie im Jahr 200 v. Chr. �ber 15000 Gold</German>
+		<French>Etre le premier à faire le tour du monde</French>
+		<German>Verfügen Sie im Jahr 200 v. Chr. über 15000 Gold</German>
 		<Italian>Devi essere il primo a circumnavigare il pianeta</Italian>
 		<Spanish>Ser el primero en circunnavegar el globo</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_VIK1</Tag>
-		<Russian>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#232;&#240;&#238;&#226;&#224;&#242;&#252; &#240;&#238;&#228;&#232;&#237;&#243; &#228;&#240;&#243;&#227;&#238;&#233; &#229;&#226;&#240;&#238;&#239;&#229;&#233;&#241;&#234;&#238;&#233; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#232; &#226; 1050 &#227;. &#237;.&#253;.</Russian>
+		<Russian>Контролировать родину другой европейской цивилизации в 1050 г. н.э.</Russian>
 		<English>Control the core of another European civilization in 1050 AD</English>
 		<French>Avoir 5000 en or en 1500 ap. J.-C.</French>
-		<German>Kontrollieren Sie im Jahr 1050 n. Chr. das Kerngebiet einer anderen europ&#228;ischen Zivilisation</German>
+		<German>Kontrollieren Sie im Jahr 1050 n. Chr. das Kerngebiet einer anderen europдischen Zivilisation</German>
 		<Italian>Devi avere 5000 oro nel 1500 d.C.</Italian>
 		<Spanish>Tener 5.000 monedas de oro en el 1500 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_VIK2</Tag>
-		<Russian>&#206;&#241;&#237;&#238;&#226;&#224;&#242;&#252; &#227;&#238;&#240;&#238;&#228; &#226; &#192;&#236;&#229;&#240;&#232;&#234;&#229; &#228;&#238; 1100 &#227;. &#237;.&#253;.</Russian>
+		<Russian>Основать город в Америке до 1100 г. н.э.</Russian>
 		<English>Found a city in America by 1100 AD</English>
 		<French>Couler 25 navires</French>
-		<German>Gr�nden Sie bis 1100 n. Chr. eine Stadt in Amerika</German>
+		<German>Gründen Sie bis 1100 n. Chr. eine Stadt in Amerika</German>
 		<Italian>Affonda 25 navi</Italian>
 		<Spanish>Hundir 25 barcos</Spanish>
 	</TEXT>
@@ -170,26 +170,26 @@
 		<Tag>TXT_KEY_UHV_VIK3</Tag>
 		<Russian>Acquire 3000 gold by pillaging, conquering cities and sinking ships by 1500 AD</Russian>
 		<English>Acquire 3000 gold by pillaging, conquering cities and sinking ships by 1500 AD</English>
-		<French>Etre le premier � fonder une ville en Am�rique</French>
-		<German>Erwerben Sie bis 1500 n. Chr. 3000 Gold, indem sie pl�ndern, St�dte erobern oder Schiffe versenken</German>
-		<Italian>Devi essere il primo a fondare una citt&#224; in America</Italian>
-		<Spanish>Ser el primero en fundar una ciudad en Am&#233;rica</Spanish>
+		<French>Etre le premier à fonder une ville en Amérique</French>
+		<German>Erwerben Sie bis 1500 n. Chr. 3000 Gold, indem sie plündern, Städte erobern oder Schiffe versenken</German>
+		<Italian>Devi essere il primo a fondare una cittа in America</Italian>
+		<Spanish>Ser el primero en fundar una ciudad en Amйrica</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_TUR1</Tag>
 		<Russian>Have four non-obsolete wonders in your capital in 1550 AD</Russian>
 		<English>Have four non-obsolete wonders in your capital in 1550 AD</English>
-		<French>Contr�ler le Bosphore (d�troit d'Istanbul) avant 1500 ap. J.-C.</French>
+		<French>Contrôler le Bosphore (détroit d'Istanbul) avant 1500 ap. J.-C.</French>
 		<German>Haben Sie im Jahr 1550 n. Chr. vier nicht veraltete Wunder in Ihrer Hauptstadt</German>
 		<Italian>Controlla il Bosforo (lo stretto di Istanbul) entro il 1500 d.C.</Italian>
-		<Spanish>Controlar el B&#243;sforo (el estrecho de Estambul) en el 1500 d. C.</Spanish>
+		<Spanish>Controlar el Bуsforo (el estrecho de Estambul) en el 1500 d. C.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_TUR2</Tag>
 		<Russian>Control the Eastern Mediterranean, the Black Sea, Cairo, Mecca, Baghdad and Vienna by 1700 AD</Russian>
 		<English>Control the Eastern Mediterranean, the Black Sea, Cairo, Mecca, Baghdad and Vienna by 1700 AD</English>
-		<French>Contr�ler les Balkans, la Mer Noire et la M�sopotamie en 1700 ap. J.-C.</French>
-		<German>Kontrollieren Sie bis zum Jahr 1700 n. Chr. das �stliche Mittelmeer, das Schwarze Meer, Kairo, Mekka, Bagdad und Wien</German>
+		<French>Contrôler les Balkans, la Mer Noire et la Mésopotamie en 1700 ap. J.-C.</French>
+		<German>Kontrollieren Sie bis zum Jahr 1700 n. Chr. das östliche Mittelmeer, das Schwarze Meer, Kairo, Mekka, Bagdad und Wien</German>
 		<Italian>Controlla Balcani, Mar Nero e Mesopotamia nel 1700 d.C.</Italian>
 		<Spanish>Controlar los Balcanes, el Mar Negro y Mesopotamia en el 1700 d. C.</Spanish>
 	</TEXT>
@@ -197,8 +197,8 @@
 		<Tag>TXT_KEY_UHV_TUR3</Tag>
 		<Russian>Have more culture than all European civilizations combined in 1800 AD</Russian>
 		<English>Have more culture than all European civilizations combined in 1800 AD</English>
-		<French>Avoir au moins trois �tats vassaux en 1870 ap. J.-C.</French>
-		<German>Haben Sie im Jahr 1800 n. Chr. mehr Kultur als alle europ�ischen Zivilisationen zusammen</German>
+		<French>Avoir au moins trois états vassaux en 1870 ap. J.-C.</French>
+		<German>Haben Sie im Jahr 1800 n. Chr. mehr Kultur als alle europäischen Zivilisationen zusammen</German>
 		<Italian>Devi avere almeno tre stati vassalli nel 1870 d.C.</Italian>
 		<Spanish>Tener al menos tres estados vasallos en el 1870 d. C.</Spanish>
 	</TEXT>

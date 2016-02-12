@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,10 +6,10 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AMERICA_ADJECTIVE</Tag>
-		<Russian>&#192;&#236;&#229;&#240;&#232;&#234;&#224;&#237;&#246;&#251;</Russian>
+		<Russian>Американцы</Russian>
 		<English>American</English>
 		<French>
-			<Text>am�ricain:am�ricaine:am�ricains:am�ricaines</Text>
+			<Text>américain:américaine:américains:américaines</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</French>
@@ -31,7 +31,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_ADJECTIVE</Tag>
-		<Russian>&#192;&#240;&#224;&#225;&#251;</Russian>
+		<Russian>Арабы</Russian>
 		<English>Arabian</English>
 		<French>
 			<Text>arabe:arabe:arabes:arabes</Text>
@@ -49,17 +49,17 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>&#225;rabe:&#225;rabe:&#225;rabes:&#225;rabes</Text>
+			<Text>бrabe:бrabe:бrabes:бrabes</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTEC_ADJECTIVE</Tag>
-		<Russian>&#192;&#246;&#242;&#229;&#234;&#232;</Russian>
+		<Russian>Ацтеки</Russian>
 		<English>Aztec</English>
 		<French>
-			<Text>azt�que:azt�que:azt�ques:azt�ques</Text>
+			<Text>aztèque:aztèque:aztèques:aztèques</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</French>
@@ -81,7 +81,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_ADJECTIVE</Tag>
-		<Russian>&#202;&#232;&#242;&#224;&#233;&#246;&#251;</Russian>
+		<Russian>Китайцы</Russian>
 		<English>Chinese</English>
 		<French>
 			<Text>chinois:chinoise:chinois:chinoises</Text>
@@ -106,15 +106,15 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_ADJECTIVE</Tag>
-		<Russian>&#197;&#227;&#232;&#239;&#242;&#255;&#237;&#229;</Russian>
+		<Russian>Египтяне</Russian>
 		<English>Egyptian</English>
 		<French>
-			<Text>�gyptien:�gyptienne:�gyptiens:�gyptiennes</Text>
+			<Text>égyptien:égyptienne:égyptiens:égyptiennes</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</French>
 		<German>
-			<Text>&#196;gyptisch:&#228;gyptischen:&#228;gyptische</Text>
+			<Text>Дgyptisch:дgyptischen:дgyptische</Text>
 			<Gender>Neuter:Neuter:Neuter</Gender>
 			<Plural>0:0:0</Plural>
 		</German>
@@ -131,7 +131,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLAND_ADJECTIVE</Tag>
-		<Russian>&#192;&#237;&#227;&#235;&#232;&#247;&#224;&#237;&#229;</Russian>
+		<Russian>Англичане</Russian>
 		<English>English</English>
 		<French>
 			<Text>anglais:anglaise:anglais:anglaises</Text>
@@ -149,22 +149,22 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>ingl&#233;s:inglesa:ingleses:inglesas</Text>
+			<Text>inglйs:inglesa:ingleses:inglesas</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_ADJECTIVE</Tag>
-		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#251;</Russian>
+		<Russian>Французы</Russian>
 		<English>French</English>
 		<French>
-			<Text>fran�ais:fran�aise:fran�ais:fran�aises</Text>
+			<Text>français:française:français:françaises</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</French>
 		<German>
-			<Text>Franz&#246;sisch:franz&#246;sischen:franz&#246;sische</Text>
+			<Text>Franzцsisch:franzцsischen:franzцsische</Text>
 			<Gender>Neuter:Neuter:Neuter</Gender>
 			<Plural>0:0:0</Plural>
 		</German>
@@ -174,14 +174,14 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>franc&#233;s:francesa:franceses:francesas</Text>
+			<Text>francйs:francesa:franceses:francesas</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GERMANY_ADJECTIVE</Tag>
-		<Russian>&#195;&#229;&#240;&#236;&#224;&#237;&#246;&#251;</Russian>
+		<Russian>Германцы</Russian>
 		<English>German</English>
 		<French>
 			<Text>allemand:allemande:allemands:allemandes</Text>
@@ -199,14 +199,14 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>alem&#225;n:alemana:alemanes:alemanas</Text>
+			<Text>alemбn:alemana:alemanes:alemanas</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_ADJECTIVE</Tag>
-		<Russian>&#195;&#240;&#229;&#234;&#232;</Russian>
+		<Russian>Греки</Russian>
 		<English>Greek</English>
 		<French>
 			<Text>grec:grecque:grecs:grecques</Text>
@@ -231,7 +231,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INCA_ADJECTIVE</Tag>
-		<Russian>&#200;&#237;&#234;&#232;</Russian>
+		<Russian>Инки</Russian>
 		<English>Incan</English>
 		<French>
 			<Text>inca:inca:incas:incas</Text>
@@ -256,7 +256,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDIA_ADJECTIVE</Tag>
-		<Russian>&#200;&#237;&#228;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Индийцы</Russian>
 		<English>Indian</English>
 		<French>
 			<Text>indien:indienne:indiens:indiennes</Text>
@@ -281,7 +281,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_JAPAN_ADJECTIVE</Tag>
-		<Russian>&#223;&#239;&#238;&#237;&#246;&#251;</Russian>
+		<Russian>Японцы</Russian>
 		<English>Japanese</English>
 		<French>
 			<Text>japonais:japonaise:japonais:japonaises</Text>
@@ -299,14 +299,14 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>japon&#233;s:japonesa:japoneses:japonesas</Text>
+			<Text>japonйs:japonesa:japoneses:japonesas</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_ADJECTIVE</Tag>
-		<Russian>&#204;&#224;&#235;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Малийцы</Russian>
 		<English>Malinese</English>
 		<French>
 			<Text>malien:malienne:maliens:maliennes</Text>
@@ -324,14 +324,14 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>mal&#237;:mal&#237;:mal&#237;es:mal&#237;es</Text>
+			<Text>malн:malн:malнes:malнes</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MONGOL_ADJECTIVE</Tag>
-		<Russian>&#204;&#238;&#237;&#227;&#238;&#235;&#251;</Russian>
+		<Russian>Монголы</Russian>
 		<English>Mongolian</English>
 		<French>
 			<Text>mongol:mongole:mongols:mongoles</Text>
@@ -356,7 +356,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_ADJECTIVE</Tag>
-		<Russian>&#207;&#229;&#240;&#241;&#251;</Russian>
+		<Russian>Персы</Russian>
 		<English>Persian</English>
 		<French>
 			<Text>perse:perse:perses:perses</Text>
@@ -381,7 +381,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_ADJECTIVE</Tag>
-		<Russian>&#208;&#232;&#236;&#235;&#255;&#237;&#229;</Russian>
+		<Russian>Римляне</Russian>
 		<English>Roman</English>
 		<French>
 			<Text>romain:romaine:romains:romaines</Text>
@@ -389,7 +389,7 @@
 			<Plural>0:0:1:1</Plural>
 		</French>
 		<German>
-			<Text>R&#246;misch:r&#246;mischen:r&#246;mische</Text>
+			<Text>Rцmisch:rцmischen:rцmische</Text>
 			<Gender>Neuter:Neuter:Neuter</Gender>
 			<Plural>0:0:0</Plural>
 		</German>
@@ -406,7 +406,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_ADJECTIVE</Tag>
-		<Russian>&#208;&#243;&#241;&#241;&#234;&#232;&#229;</Russian>
+		<Russian>Русские</Russian>
 		<English>Russian</English>
 		<French>
 			<Text>russe:russe:russes:russes</Text>
@@ -431,7 +431,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_ADJECTIVE</Tag>
-		<Russian>&#200;&#241;&#239;&#224;&#237;&#246;&#251;</Russian>
+		<Russian>Испанцы</Russian>
 		<English>Spanish</English>
 		<French>
 			<Text>espagnol:espagnole:espagnols:espagnoles</Text>
@@ -449,14 +449,14 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>espa&#241;ol:espa&#241;ola:espa&#241;oles:espa&#241;olas</Text>
+			<Text>espaсol:espaсola:espaсoles:espaсolas</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BARBARIAN_ADJECTIVE</Tag>
-		<Russian>&#194;&#224;&#240;&#226;&#224;&#240;&#251;</Russian>
+		<Russian>Варвары</Russian>
 		<English>Barbarian</English>
 		<French>
 			<Text>barbare:barbare:barbares:barbares</Text>
@@ -474,7 +474,7 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>b&#225;rbaro:b&#225;rbara:b&#225;rbaros:b&#225;rbaras</Text>
+			<Text>bбrbaro:bбrbara:bбrbaros:bбrbaras</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
@@ -482,7 +482,7 @@
 <!--Warlords-->
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKING_ADJECTIVE</Tag>
-		<Russian>&#194;&#232;&#234;&#232;&#237;&#227;&#232;</Russian>
+		<Russian>Викинги</Russian>
 		<English>Viking</English>
 		<French>
 			<Text>Viking</Text>
@@ -507,7 +507,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CARTHAGE_ADJECTIVE</Tag>
-		<Russian>&#212;&#232;&#237;&#232;&#234;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Финикийцы</Russian>
 		<English>
 			<Text>Phoenician</Text>
 			<Gender>Male</Gender>
@@ -519,7 +519,7 @@
 			<Plural>0:0:1:1</Plural>
 		</French>
 		<German>
-			<Text>Ph�nizisch:ph�nizischen:ph�nizische</Text>
+			<Text>Phönizisch:phönizischen:phönizische</Text>
 			<Gender>Neuter:Neuter:Neuter</Gender>
 			<Plural>0:0:0</Plural>
 		</German>
@@ -529,14 +529,14 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>cartagin&#233;s:cartaginesa:cartagineses:cartaginesas</Text>
+			<Text>cartaginйs:cartaginesa:cartagineses:cartaginesas</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_OTTOMAN_ADJECTIVE</Tag>
-		<Russian>&#210;&#243;&#240;&#234;&#232;</Russian>
+		<Russian>Турки</Russian>
 		<English>
 			<Text>Turkish:Turks</Text>
 			<Gender>Male</Gender>
@@ -548,7 +548,7 @@
 			<Plural>0:0:1:1</Plural>
 		</French>
 		<German>
-			<Text>t&#252;rkisch:t&#252;rkischen:t&#252;rkische</Text>
+			<Text>tьrkisch:tьrkischen:tьrkische</Text>
 			<Gender>Neuter:Neuter:Neuter</Gender>
 			<Plural>0:0:0</Plural>
 		</German>
@@ -565,7 +565,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CELT_ADJECTIVE</Tag>
-		<Russian>&#202;&#229;&#235;&#252;&#242;&#251;</Russian>
+		<Russian>Кельты</Russian>
 		<English>
 			<Text>Celtic:Celts</Text>
 			<Gender>Male</Gender>
@@ -594,14 +594,14 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KOREA_ADJECTIVE</Tag>
-		<Russian>&#202;&#238;&#240;&#229;&#233;&#246;&#251;</Russian>
+		<Russian>Корейцы</Russian>
 		<English>
 			<Text>Korean:Koreans</Text>
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</English>
 		<French>
-			<Text>cor&#233;en:cor&#233;enne:cor&#233;ens:cor&#233;ennes</Text>
+			<Text>corйen:corйenne:corйens:corйennes</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</French>
@@ -623,7 +623,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ZULU_ADJECTIVE</Tag>
-		<Russian>&#199;&#243;&#235;&#243;&#241;&#251;</Russian>
+		<Russian>Зулусы</Russian>
 		<English>
 			<Text>Zulu:Zulu</Text>
 			<Gender>Male</Gender>
@@ -635,7 +635,7 @@
 			<Plural>0:0:1:1</Plural>
 		</French>
 		<German>
-			<Text>Zulul�ndisch:zulul�ndischen:zulul�ndische</Text>
+			<Text>Zululändisch:zululändischen:zululändische</Text>
 			<Gender>Neuter:Neuter:Neuter</Gender>
 			<Plural>0:0:0</Plural>
 		</German>
@@ -645,22 +645,22 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>zul&#250;.zul&#250;:zul&#250;es:zul&#250;es</Text>
+			<Text>zulъ.zulъ:zulъes:zulъes</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDEPENDENT_ADJECTIVE</Tag>
-		<Russian>&#205;&#229;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#251;&#229;</Russian>
+		<Russian>Независимые</Russian>
 		<English>Independent</English>
 		<French>
-			<Text>ind&#233;pendant:ind&#233;pendante:ind&#233;pendants:ind&#233;pendantes</Text>
+			<Text>indйpendant:indйpendante:indйpendants:indйpendantes</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</French>
 		<German>
-			<Text>Unabh&#228;ngig:unabh&#228;ngigen:unabh&#228;ngige</Text>
+			<Text>Unabhдngig:unabhдngigen:unabhдngige</Text>
 			<Gender>Neuter:Neuter:Neuter</Gender>
 			<Plural>0:0:0</Plural>
 		</German>
@@ -670,14 +670,14 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>aut&#243;nomo:aut&#243;noma:aut&#243;nomos:aut&#243;nomas</Text>
+			<Text>autуnomo:autуnoma:autуnomos:autуnomas</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NATIVE_ADJECTIVE</Tag>
-		<Russian>&#192;&#225;&#238;&#240;&#232;&#227;&#229;&#237;&#251;</Russian>
+		<Russian>Аборигены</Russian>
 		<English>Native</English>
 		<French>
 			<Text>natif:native:natifs:natives</Text>
@@ -702,7 +702,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BABYLONIA_ADJECTIVE</Tag>
-		<Russian>&#194;&#224;&#226;&#232;&#235;&#238;&#237;&#255;&#237;&#229;</Russian>
+		<Russian>Вавилоняне</Russian>
 		<English>
 			<Text>Babylonian:Babylonians</Text>
 			<Gender>Male</Gender>
@@ -732,19 +732,19 @@
 <!--BTS-->
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NETHERLANDS_ADJECTIVE</Tag>
-		<Russian>&#195;&#238;&#235;&#235;&#224;&#237;&#228;&#246;&#251;</Russian>
+		<Russian>Голландцы</Russian>
 		<English>
 			<Text>Dutch:Dutch</Text>
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</English>
 		<French>
-			<Text>n&#233;erlandais:n&#233;erlandaise:n&#233;erlandais:n&#233;erlandaises</Text>
+			<Text>nйerlandais:nйerlandaise:nйerlandais:nйerlandaises</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</French>
 		<German>
-			<Text>Holl&#228;ndisch:holl&#228;ndischen:holl&#228;ndische</Text>
+			<Text>Hollдndisch:hollдndischen:hollдndische</Text>
 			<Gender>Neuter:Neuter:Neuter</Gender>
 			<Plural>0:0:0</Plural>
 		</German>
@@ -754,14 +754,14 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>holand&#233;s:holandesa:holandeses:holandesas</Text>
+			<Text>holandйs:holandesa:holandeses:holandesas</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MAYA_ADJECTIVE</Tag>
-		<Russian>&#204;&#224;&#233;&#255;</Russian>
+		<Russian>Майя</Russian>
 		<English>
 			<Text>Maya:Maya</Text>
 			<Gender>Male</Gender>
@@ -790,19 +790,19 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ETHIOPIA_ADJECTIVE</Tag>
-		<Russian>&#221;&#244;&#232;&#238;&#239;&#251;</Russian>
+		<Russian>Эфиопы</Russian>
 		<English>
 			<Text>Ethiopian:Ethiopians</Text>
 			<Gender>Male</Gender>
 			<Plural>0:1</Plural>
 		</English>
 		<French>
-			<Text>&#233;thiopien:&#233;thiopienne:&#233;thiopiens:&#233;thiopiennes</Text>
+			<Text>йthiopien:йthiopienne:йthiopiens:йthiopiennes</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</French>
 		<German>
-			<Text>&#196;thiopisch:&#228;thiopischen:&#228;thiopische</Text>
+			<Text>Дthiopisch:дthiopischen:дthiopische</Text>
 			<Gender>Neuter:Neuter:Neuter</Gender>
 			<Plural>0:0:0</Plural>
 		</German>
@@ -812,14 +812,14 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>et&#237;ope:et&#237;ope:et&#237;opes:et&#237;opes</Text>
+			<Text>etнope:etнope:etнopes:etнopes</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KHMER_ADJECTIVE</Tag>
-		<Russian>&#202;&#245;&#236;&#229;&#240;&#251;</Russian>
+		<Russian>Кхмеры</Russian>
 		<English>
 			<Text>Khmer:Khmer</Text>
 			<Gender>Male</Gender>
@@ -841,14 +841,14 @@
 			<Plural>0:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>j&#233;mer:j&#233;mer:j&#233;meres:j&#233;meres</Text>
+			<Text>jйmer:jйmer:jйmeres:jйmeres</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_ADJECTIVE</Tag>
-		<Russian>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#246;&#251;</Russian>
+		<Russian>Португальцы</Russian>
 		<English>
 			<Text>Portuguese:Portuguese</Text>
 			<Gender>Male</Gender>
@@ -870,14 +870,14 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>portugu&#233;s:portuguesa:portugueses:portuguesas</Text>
+			<Text>portuguйs:portuguesa:portugueses:portuguesas</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_ADJECTIVE</Tag>
-		<Russian>&#194;&#232;&#231;&#224;&#237;&#242;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Византийцы</Russian>
 		<English>
 			<Text>Byzantine:Byzantines</Text>
 			<Gender>Male</Gender>
@@ -907,7 +907,7 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_CIV_JUDAISM_ADJECTIVE</Tag>
-		<Russian>&#207;&#240;&#238;&#242;&#229;&#241;&#242;&#224;&#237;&#242;&#251;</Russian>
+		<Russian>Протестанты</Russian>
 		<English>
 			<Text>Protestant</Text>
 			<Gender>Male</Gender>
@@ -929,14 +929,14 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>portugu&#233;s:portuguesa:portugueses:portuguesas</Text>
+			<Text>portuguйs:portuguesa:portugueses:portuguesas</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHRISTIANITY_ADJECTIVE</Tag>
-		<Russian>&#202;&#224;&#242;&#238;&#235;&#232;&#234;&#232;</Russian>
+		<Russian>Католики</Russian>
 		<English>
 			<Text>Catholic</Text>
 			<Gender>Male</Gender>
@@ -958,7 +958,7 @@
 			<Plural>0:0:1:1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>portugu&#233;s:portuguesa:portugueses:portuguesas</Text>
+			<Text>portuguйs:portuguesa:portugueses:portuguesas</Text>
 			<Gender>Male:Female:Male:Female</Gender>
 			<Plural>0:0:1:1</Plural>
 		</Spanish>

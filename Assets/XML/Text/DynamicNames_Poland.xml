@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,72 +6,72 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_DESC</Tag>
-		<Russian>&#207;&#238;&#235;&#255;&#234;&#232;</Russian>
+		<Russian>Поляки</Russian>
 		<English>The Polish</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_DESC_PEOPLES</Tag>
-		<Russian>&#207;&#238;&#235;&#255;&#234;&#232;</Russian>
+		<Russian>Поляки</Russian>
 		<English>Polish Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_DESC_DEFAULT</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#207;&#238;&#235;&#252;&#241;&#234;&#238;&#229;</Russian>
+		<Russian>Королевство Польское</Russian>
 		<English>Kingdom of Poland</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_EMPIRE</Tag>
-		<Russian>&#208;&#229;&#247;&#252; &#207;&#238;&#241;&#239;&#238;&#235;&#232;&#242;&#224;&#255;</Russian>
+		<Russian>Речь Посполитая</Russian>
 		<English>Polish-Lithuanian Commonwealth</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_DESC_DEMOCRATIC</Tag>
-		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#207;&#238;&#235;&#252;&#248;&#224;</Russian>
+		<Russian>Республика Польша</Russian>
 		<English>Republic of Poland</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_DESC_COMMUNIST</Tag>
-		<Russian>&#207;&#238;&#235;&#252;&#241;&#234;&#224;&#255; &#205;&#224;&#240;&#238;&#228;&#237;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Польская Народная Республика</Russian>
 		<English>People's Republic of Poland</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_DESC_FASCIST</Tag>
-		<Russian>&#207;&#238;&#235;&#252;&#241;&#234;&#224;&#255; &#209;&#224;&#237;&#224;&#246;&#232;&#255;</Russian>
+		<Russian>Польская Санация</Russian>
 		<English>Sanacja Poland</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_SOVIET_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#207;&#238;&#235;&#252;&#248;&#224;</Russian>
+		<Russian>Советская Польша</Russian>
 		<English>Soviet Poland</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_NAZI_VASSAL</Tag>
-		<Russian>&#195;&#229;&#237;&#229;&#240;&#224;&#235;-&#227;&#243;&#225;&#229;&#240;&#237;&#224;&#242;&#238;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Генерал-губернаторство</Russian>
 		<English>General Government</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_GERMAN_VASSAL</Tag>
-		<Russian>&#222;&#230;&#237;&#224;&#255; &#207;&#240;&#243;&#241;&#241;&#232;&#255;</Russian>
+		<Russian>Южная Пруссия</Russian>
 		<English>South Prussia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_HOLY_ROMAN_VASSAL</Tag>
-		<Russian>&#195;&#229;&#240;&#246;&#238;&#227;&#241;&#242;&#226;&#238; &#207;&#238;&#235;&#252;&#241;&#234;&#238;&#229;</Russian>
+		<Russian>Герцогство Польское</Russian>
 		<English>Duchy of Poland</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_AUSTRIAN_VASSAL</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#195;&#224;&#235;&#232;&#246;&#232;&#232; &#232; &#203;&#238;&#228;&#238;&#236;&#229;&#240;&#232;&#232;</Russian>
+		<Russian>Королевство Галиции и Лодомерии</Russian>
 		<English>Kingdom of Galicia and Lodomeria</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_RUSSIAN_VASSAL</Tag>
-		<Russian>&#214;&#224;&#240;&#241;&#242;&#226;&#238; &#207;&#238;&#235;&#252;&#241;&#234;&#238;&#229;</Russian>
+		<Russian>Царство Польское</Russian>
 		<English>Congress Poland</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_LITHUANIA</Tag>
-		<Russian>&#194;&#229;&#235;&#232;&#234;&#238;&#229; &#234;&#237;&#255;&#230;&#229;&#241;&#242;&#226;&#238; &#203;&#232;&#242;&#238;&#226;&#241;&#234;&#238;&#229;</Russian>
+		<Russian>Великое княжество Литовское</Russian>
 		<English>Grand Duchy of Lithuania</English>
 	</TEXT>
 </Civ4GameText>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,72 +6,72 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_DESC</Tag>
-		<Russian>&#202;&#232;&#242;&#224;&#233;&#246;&#251;</Russian>
+		<Russian>Китайцы</Russian>
 		<English>The Chinese</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_DESC_PEOPLES</Tag>
-		<Russian>&#205;&#224;&#240;&#238;&#228;&#251; &#213;&#224;&#237;&#252;</Russian>
+		<Russian>Народы Хань</Russian>
 		<English>Han Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_DESC_DEFAULT</Tag>
-		<Russian>&#209;&#240;&#229;&#228;&#232;&#237;&#237;&#238;&#229; &#246;&#224;&#240;&#241;&#242;&#226;&#238; &#202;&#232;&#242;&#224;&#233;</Russian>
+		<Russian>Срединное царство Китай</Russian>
 		<English>Middle Kingdom of China</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_DESC_COMMUNIST</Tag>
-		<Russian>&#202;&#232;&#242;&#224;&#233;&#241;&#234;&#224;&#255; &#205;&#224;&#240;&#238;&#228;&#237;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Китайская Народная Республика</Russian>
 		<English>People's Republic of China</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_DESC_FASCIST</Tag>
-		<Russian>&#205;&#224;&#246;&#232;&#238;&#237;&#224;&#235;&#232;&#241;&#242;&#232;&#247;&#229;&#241;&#234;&#232;&#233; &#202;&#232;&#242;&#224;&#233;</Russian>
+		<Russian>Националистический Китай</Russian>
 		<English>Nationalist China</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_DESC_DEMOCRATIC</Tag>
-		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#202;&#232;&#242;&#224;&#233;</Russian>
+		<Russian>Республика Китай</Russian>
 		<English>Republic of China</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_ZHOU</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#215;&#230;&#238;&#243;</Russian>
+		<Russian>Империя Чжоу</Russian>
 		<English>Zhou Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_HAN</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#213;&#224;&#237;&#252;</Russian>
+		<Russian>Империя Хань</Russian>
 		<English>Han Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_QIN</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#214;&#232;&#237;&#252;</Russian>
+		<Russian>Империя Цинь</Russian>
 		<English>Qin Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_SUI</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#209;&#243;&#233;</Russian>
+		<Russian>Империя Суй</Russian>
 		<English>Sui Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_TANG</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#210;&#224;&#237;</Russian>
+		<Russian>Империя Тан</Russian>
 		<English>Tang Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_SONG</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#209;&#243;&#237;</Russian>
+		<Russian>Империя Сун</Russian>
 		<English>Song Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_MING</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#204;&#232;&#237;</Russian>
+		<Russian>Империя Мин</Russian>
 		<English>Ming Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_QING</Tag>
-		<Russian>&#196;&#232;&#237;&#224;&#241;&#242;&#232;&#255; &#214;&#232;&#237;</Russian>
+		<Russian>Династия Цин</Russian>
 		<English>Qing Empire</English>
 	</TEXT>
 	<TEXT>
@@ -236,12 +236,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_SOVIET_VASSAL</Tag>
-		<Russian>&#202;&#232;&#242;&#224;&#233;&#241;&#234;&#224;&#255; &#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Китайская Советская Республика</Russian>
 		<English>Chinese Soviet Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_NAZI_VASSAL</Tag>
-		<Russian>&#208;&#229;&#233;&#245;&#241;&#234;&#238;&#236;&#232;&#241;&#241;&#224;&#240;&#232;&#224;&#242; &#202;&#232;&#242;&#224;&#233;</Russian>
+		<Russian>Рейхскомиссариат Китай</Russian>
 		<English>Reichskommissariat China</English>
 	</TEXT>
 </Civ4GameText>

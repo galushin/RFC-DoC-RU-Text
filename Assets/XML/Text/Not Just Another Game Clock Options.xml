@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!--
 	Not Just Another Game Clock
 	Options Game Text
@@ -19,9 +19,9 @@
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__ENABLED_HOVER</Tag>
 		<Russian>When checked, the game clock is displayed using TheLopez's NJAGC mod.</Russian>
 		<English>When checked, the game clock is displayed using TheLopez's NJAGC mod.</English>
-		<French>En activant, l'horloge est remplacé par le mod NJAGC de TheLopez.</French>
+		<French>En activant, l'horloge est remplacÃ© par le mod NJAGC de TheLopez.</French>
 		<German>Zeigt die Uhr- und Spielzeit an (verwendet TheLopez' "Not Just Another Game Clock"-Mod)</German>
-		<Italian>Quando è selezionato, viene utilizzato l'orologio evoluto del NJAGC (Not Just Another Game Clock) Mod di TheLopez.</Italian>
+		<Italian>Quando Ã¨ selezionato, viene utilizzato l'orologio evoluto del NJAGC (Not Just Another Game Clock) Mod di TheLopez.</Italian>
 		<Spanish>When checked, the game clock is displayed using TheLopez's NJAGC mod.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -37,9 +37,9 @@
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__SHOWERA_HOVER</Tag>
 		<Russian>When checked, the current era is displayed to the left of the research bar.</Russian>
 		<English>When checked, the current era is displayed to the left of the research bar.</English>
-		<French>En activant, l'ère actualle est montrée à gauche de la barre des recherches.</French>
+		<French>En activant, l'Ã¨re actualle est montrÃ©e Ã  gauche de la barre des recherches.</French>
 		<German>Zeigt die derzeitige Epoche links neben dem Forschungsbalken an</German>
-		<Italian>Quando è selezionato, viene mostrata l'Era corrente a sinistra della Barra di Ricerca Tecnologica.</Italian>
+		<Italian>Quando Ã¨ selezionato, viene mostrata l'Era corrente a sinistra della Barra di Ricerca Tecnologica.</Italian>
 		<Spanish>When checked, the current era is displayed to the left of the research bar.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -55,16 +55,16 @@
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__SHOWERACOLOR_HOVER</Tag>
 		<Russian>When checked, the game date and era are displayed using a color for each era.</Russian>
 		<English>When checked, the game date and era are displayed using a color for each era.</English>
-		<French>En activant, la date et l'ère du jeu seront colorisés différemment selon l'ère actuelle.</French>
+		<French>En activant, la date et l'Ã¨re du jeu seront colorisÃ©s diffÃ©remment selon l'Ã¨re actuelle.</French>
 		<German>Zeigt das Spieljahr und die Epoche in jeder Epoche in einer anderen Farbe an</German>
-		<Italian>Quando è selezionato, la data e l'era vengono visualizzati utilizzando colori specifici per ogni era.</Italian>
+		<Italian>Quando Ã¨ selezionato, la data e l'era vengono visualizzati utilizzando colori specifici per ogni era.</Italian>
 		<Spanish>When checked, the game date and era are displayed using a color for each era.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__COLOR_ERA_ANCIENT_TEXT</Tag>
 		<Russian>Ancient Era</Russian>
 		<English>Ancient Era</English>
-		<French>Antiquité</French>
+		<French>AntiquitÃ©</French>
 		<German>Antike</German>
 		<Italian>Era Antica</Italian>
 		<Spanish>Ancient Era</Spanish>
@@ -73,7 +73,7 @@
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__COLOR_ERA_ANCIENT_HOVER</Tag>
 		<Russian>Color to use for the Ancient era.</Russian>
 		<English>Color to use for the Ancient era.</English>
-		<French>Couleur pour l'Antiquité.</French>
+		<French>Couleur pour l'AntiquitÃ©.</French>
 		<German>Bestimmt die Farbe, in der die Epoche "Antike" erscheint</German>
 		<Italian>Colore da utilizzare per l'Era Antica.</Italian>
 		<Spanish>Color to use for the Ancient era.</Spanish>
@@ -199,16 +199,16 @@
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__SHOWTIME_HOVER</Tag>
 		<Russian>When checked, the real time is displayed.</Russian>
 		<English>When checked, the real time is displayed.</English>
-		<French>En activant, l'heure est montrée.</French>
-		<German>Zeigt die tatsächliche Uhrzeit an</German>
-		<Italian>Quando è selezionato, viene visualizzato il tempo reale.</Italian>
+		<French>En activant, l'heure est montrÃ©e.</French>
+		<German>Zeigt die tatsÃ¤chliche Uhrzeit an</German>
+		<Italian>Quando Ã¨ selezionato, viene visualizzato il tempo reale.</Italian>
 		<Spanish>When checked, the real time is displayed.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__SHOWCOMPLETEDTURNS_TEXT</Tag>
 		<Russian>Completed Turns</Russian>
 		<English>Completed Turns</English>
-		<French>Tours Complétés</French>
+		<French>Tours ComplÃ©tÃ©s</French>
 		<German>Verstrichene Runden</German>
 		<Italian>Turni completati</Italian>
 		<Spanish>Completed Turns</Spanish>
@@ -217,9 +217,9 @@
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__SHOWCOMPLETEDTURNS_HOVER</Tag>
 		<Russian>When checked, the number of turns completed is displayed.</Russian>
 		<English>When checked, the number of turns completed is displayed.</English>
-		<French>En activant, le nombre de tours complétés est montré.</French>
+		<French>En activant, le nombre de tours complÃ©tÃ©s est montrÃ©.</French>
 		<German>Zeigt die Anzahl der verstrichenen Runden an</German>
-		<Italian>Quando è selezionato, viene visualizzato il numero di turni completati.</Italian>
+		<Italian>Quando Ã¨ selezionato, viene visualizzato il numero di turni completati.</Italian>
 		<Spanish>When checked, the number of turns completed is displayed.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -235,16 +235,16 @@
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__SHOWTOTALTURNS_HOVER</Tag>
 		<Russian>When checked, the total turns in the game is displayed if Time Victory is enabled.</Russian>
 		<English>When checked, the total turns in the game is displayed if Time Victory is enabled.</English>
-		<French>En activant, le nombre total de tours pour une Victoire de Temps est montré.</French>
-		<German>Zeigt die Anzahl der insgesamt verfügbaren Runden einer Partie an, falls "Punktsieg" aktiviert ist</German>
-		<Italian>Quando è selezionato, viene visualizzato il numero di turni totali (se la Vittoria a Tempo è abilitata).</Italian>
+		<French>En activant, le nombre total de tours pour une Victoire de Temps est montrÃ©.</French>
+		<German>Zeigt die Anzahl der insgesamt verfÃ¼gbaren Runden einer Partie an, falls "Punktsieg" aktiviert ist</German>
+		<Italian>Quando Ã¨ selezionato, viene visualizzato il numero di turni totali (se la Vittoria a Tempo Ã¨ abilitata).</Italian>
 		<Spanish>When checked, the total turns in the game is displayed if Time Victory is enabled.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__SHOWCOMPLETEDPERCENT_TEXT</Tag>
 		<Russian>Completed Percentage</Russian>
 		<English>Completed Percentage</English>
-		<French>Pourcentage Complété</French>
+		<French>Pourcentage ComplÃ©tÃ©</French>
 		<German>Verstrichene Runden (in Prozent)</German>
 		<Italian>Percentuale completata</Italian>
 		<Spanish>Completed Percentage</Spanish>
@@ -253,9 +253,9 @@
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__SHOWCOMPLETEDPERCENT_HOVER</Tag>
 		<Russian>When checked, the completed percentage is displayed if Time Victory is enabled.</Russian>
 		<English>When checked, the completed percentage is displayed if Time Victory is enabled.</English>
-		<French>En activant, le pourcentage complété pour une Victoire de Temps est montré.</French>
-		<German>Zeigt die verstrichenen Runden als Prozentsatz der insgesamt verfügbaren Runden an, falls "Punktsieg" aktiviert ist</German>
-		<Italian>Quando è selezionato, viene visualizzata la percentuale di turni completati (se la Vittoria a Tempo è abilitata).</Italian>
+		<French>En activant, le pourcentage complÃ©tÃ© pour une Victoire de Temps est montrÃ©.</French>
+		<German>Zeigt die verstrichenen Runden als Prozentsatz der insgesamt verfÃ¼gbaren Runden an, falls "Punktsieg" aktiviert ist</German>
+		<Italian>Quando Ã¨ selezionato, viene visualizzata la percentuale di turni completati (se la Vittoria a Tempo Ã¨ abilitata).</Italian>
 		<Spanish>When checked, the completed percentage is displayed if Time Victory is enabled.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -264,16 +264,16 @@
 		<English>Game Date and Golden Age Turns</English>
 		<French>Date du Jeu et Tours d'Age d'Or</French>
 		<German>Spieldatum / Runden eines Goldenen Zeitalters</German>
-		<Italian>Data del gioco e turni rimasti dell'Età dell'Oro</Italian>
+		<Italian>Data del gioco e turni rimasti dell'EtÃ  dell'Oro</Italian>
 		<Spanish>Game Date and Golden Age Turns</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__SHOWDATE_HOVER</Tag>
 		<Russian>When checked, the in-game date and turns left in a Golden Age are displayed.</Russian>
 		<English>When checked, the in-game date and turns left in a Golden Age are displayed.</English>
-		<French>En activant, la date du jeu et les tours restant de vos Ages d'Or sont montrés.</French>
+		<French>En activant, la date du jeu et les tours restant de vos Ages d'Or sont montrÃ©s.</French>
 		<German>Zeigt das Spieldatum und die verbleibenden Runden eines Goldenen Zeitalters an</German>
-		<Italian>Quando è selezionato, viene visualizzata la data in gioco e il numero di turni di Età dell'Oro rimasti.</Italian>
+		<Italian>Quando Ã¨ selezionato, viene visualizzata la data in gioco e il numero di turni di EtÃ  dell'Oro rimasti.</Italian>
 		<Spanish>When checked, the in-game date and turns left in a Golden Age are displayed.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -290,8 +290,8 @@
 		<Russian>When checked, the game clock switches between two views: standard and alternate.</Russian>
 		<English>When checked, the game clock switches between two views: standard and alternate.</English>
 		<French>En activant, l'horloge alterne entre la vue standard et la vue alternative.</French>
-		<German>Lässt die Zeitanzeige zwischen den beiden Ansichten "Standard" und "Alternativ" wechseln</German>
-		<Italian>Quando è selezionato, l'orologio alterna due visualizzazioni, normale ed alternativa.</Italian>
+		<German>LÃ¤sst die Zeitanzeige zwischen den beiden Ansichten "Standard" und "Alternativ" wechseln</German>
+		<Italian>Quando Ã¨ selezionato, l'orologio alterna due visualizzazioni, normale ed alternativa.</Italian>
 		<Spanish>When checked, the game clock switches between two views: standard and alternate.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -307,9 +307,9 @@
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__ALTTIMING_HOVER</Tag>
 		<Russian>Select the time each view of the game clock is displayed when alternating is enabled.</Russian>
 		<English>Select the time each view of the game clock is displayed when alternating is enabled.</English>
-		<French>Sélectionnez la rythme à laquelle l'horloge alterne entre les deux vues.</French>
-		<German>Legt den Zeitabstand fest, in dem die Zeitanzeige zwischen den beiden Ansichten wechselt, wenn die entsprechende Option gewählt wurde</German>
-		<Italian>Determina perr quanti secondi viene visualizzata ciascuna delle due versioni dell'orologio (se la visualizzazione alternativa è abilitata).</Italian>
+		<French>SÃ©lectionnez la rythme Ã  laquelle l'horloge alterne entre les deux vues.</French>
+		<German>Legt den Zeitabstand fest, in dem die Zeitanzeige zwischen den beiden Ansichten wechselt, wenn die entsprechende Option gewÃ¤hlt wurde</German>
+		<Italian>Determina perr quanti secondi viene visualizzata ciascuna delle due versioni dell'orologio (se la visualizzazione alternativa Ã¨ abilitata).</Italian>
 		<Spanish>Select the time each view of the game clock is displayed when alternating is enabled.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -325,16 +325,16 @@
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__SHOWALTTIME_HOVER</Tag>
 		<Russian>When checked, the real time is displayed.</Russian>
 		<English>When checked, the real time is displayed.</English>
-		<French>En activant, l'heure est montrée.</French>
-		<German>Zeigt die tatsächliche Uhrzeit an</German>
-		<Italian>Quando è selezionato, viene visualizzato il tempo reale.</Italian>
+		<French>En activant, l'heure est montrÃ©e.</French>
+		<German>Zeigt die tatsÃ¤chliche Uhrzeit an</German>
+		<Italian>Quando Ã¨ selezionato, viene visualizzato il tempo reale.</Italian>
 		<Spanish>When checked, the real time is displayed.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__SHOWALTCOMPLETEDTURNS_TEXT</Tag>
 		<Russian>Completed Turns</Russian>
 		<English>Completed Turns</English>
-		<French>Tours Complétés</French>
+		<French>Tours ComplÃ©tÃ©s</French>
 		<German>Verstrichene Runden</German>
 		<Italian>Turni completati</Italian>
 		<Spanish>Completed Turns</Spanish>
@@ -343,9 +343,9 @@
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__SHOWALTCOMPLETEDTURNS_HOVER</Tag>
 		<Russian>When checked, the number of turns completed is displayed.</Russian>
 		<English>When checked, the number of turns completed is displayed.</English>
-		<French>En activant, le nombre de tours complétés est montré.</French>
+		<French>En activant, le nombre de tours complÃ©tÃ©s est montrÃ©.</French>
 		<German>Zeigt die Anzahl der verstrichenen Runden an</German>
-		<Italian>Quando è selezionato, viene visualizzato il numero di turni completati.</Italian>
+		<Italian>Quando Ã¨ selezionato, viene visualizzato il numero di turni completati.</Italian>
 		<Spanish>When checked, the number of turns completed is displayed.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -361,16 +361,16 @@
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__SHOWALTTOTALTURNS_HOVER</Tag>
 		<Russian>When checked, the total turns in the game is displayed if Time Victory is enabled.</Russian>
 		<English>When checked, the total turns in the game is displayed if Time Victory is enabled.</English>
-		<French>En activant, le nombre total de tours pour une Victoire de Temps est montré.</French>
-		<German>Zeigt die Anzahl der insgesamt verfügbaren Runden einer Partie an, falls "Punktsieg" aktiviert ist</German>
-		<Italian>Quando è selezionato, viene visualizzato il numero di turni totali (se la Vittoria a Tempo è abilitata).</Italian>
+		<French>En activant, le nombre total de tours pour une Victoire de Temps est montrÃ©.</French>
+		<German>Zeigt die Anzahl der insgesamt verfÃ¼gbaren Runden einer Partie an, falls "Punktsieg" aktiviert ist</German>
+		<Italian>Quando Ã¨ selezionato, viene visualizzato il numero di turni totali (se la Vittoria a Tempo Ã¨ abilitata).</Italian>
 		<Spanish>When checked, the total turns in the game is displayed if Time Victory is enabled.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__SHOWALTCOMPLETEDPERCENT_TEXT</Tag>
 		<Russian>Completed Percentage</Russian>
 		<English>Completed Percentage</English>
-		<French>Pourcentage Complété</French>
+		<French>Pourcentage ComplÃ©tÃ©</French>
 		<German>Verstrichene Runden (in Prozent)</German>
 		<Italian>Percentuale completata</Italian>
 		<Spanish>Completed Percentage</Spanish>
@@ -379,9 +379,9 @@
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__SHOWALTCOMPLETEDPERCENT_HOVER</Tag>
 		<Russian>When checked, the completed percentage is displayed if Time Victory is enabled.</Russian>
 		<English>When checked, the completed percentage is displayed if Time Victory is enabled.</English>
-		<French>En activant, le pourcentage complété pour une Victoire de Temps est montré.</French>
-		<German>Zeigt die verstrichenen Runden als Prozentsatz der insgesamt verfügbaren Runden an, falls "Punktsieg" aktiviert ist</German>
-		<Italian>Quando è selezionato, viene visualizzata la percentuale di turni completati (se la Vittoria a Tempo è abilitata).</Italian>
+		<French>En activant, le pourcentage complÃ©tÃ© pour une Victoire de Temps est montrÃ©.</French>
+		<German>Zeigt die verstrichenen Runden als Prozentsatz der insgesamt verfÃ¼gbaren Runden an, falls "Punktsieg" aktiviert ist</German>
+		<Italian>Quando Ã¨ selezionato, viene visualizzata la percentuale di turni completati (se la Vittoria a Tempo Ã¨ abilitata).</Italian>
 		<Spanish>When checked, the completed percentage is displayed if Time Victory is enabled.</Spanish>
 	</TEXT>
 	<TEXT>
@@ -390,16 +390,16 @@
 		<English>Game Date and Golden Age Turns</English>
 		<French>Date du Jeu et Tours d'Age d'Or</French>
 		<German>Spieldatum / Runden eines Goldenen Zeitalters</German>
-		<Italian>Data del gioco e turni rimasti dell'Età dell'Oro</Italian>
+		<Italian>Data del gioco e turni rimasti dell'EtÃ  dell'Oro</Italian>
 		<Spanish>Game Date and Golden Age Turns</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_NJAGC__SHOWALTDATE_HOVER</Tag>
 		<Russian>When checked, the in-game date and turns left in a Golden Age are displayed.</Russian>
 		<English>When checked, the in-game date and turns left in a Golden Age are displayed.</English>
-		<French>En activant, la date du jeu et les tours restant de vos Ages d'Or sont montrés.</French>
+		<French>En activant, la date du jeu et les tours restant de vos Ages d'Or sont montrÃ©s.</French>
 		<German>Zeigt das Spieldatum und die verbleibenden Runden eines Goldenen Zeitalters an</German>
-		<Italian>Quando è selezionato, viene visualizzata la data in gioco e il numero di turni di Età dell'Oro rimasti.</Italian>
+		<Italian>Quando Ã¨ selezionato, viene visualizzata la data in gioco e il numero di turni di EtÃ  dell'Oro rimasti.</Italian>
 		<Spanish>When checked, the in-game date and turns left in a Golden Age are displayed.</Spanish>
 	</TEXT>
 </Civ4GameText>

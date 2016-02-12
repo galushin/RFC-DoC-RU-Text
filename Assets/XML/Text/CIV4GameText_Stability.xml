@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_COLLAPSING</Tag>
-		<Russian>&#207;&#224;&#228;&#224;&#254;&#249;&#224;&#255;</Russian>
+		<Russian>Падающая</Russian>
 		<English>Collapsing</English>
 		<French>En chute</French>
 		<German>Zerfallend</German>
@@ -14,7 +14,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_UNSTABLE</Tag>
-		<Russian>&#205;&#229;&#243;&#241;&#242;&#238;&#233;&#247;&#232;&#226;&#224;&#255;</Russian>
+		<Russian>Неустойчивая</Russian>
 		<English>Unstable</English>
 		<French>Instable</French>
 		<German>Instabil</German>
@@ -23,16 +23,16 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_SHAKY</Tag>
-		<Russian>&#216;&#224;&#242;&#234;&#224;&#255;</Russian>
+		<Russian>Шаткая</Russian>
 		<English>Shaky</English>
-		<French>Agit�</French>
+		<French>Agité</French>
 		<German>Wankend</German>
 		<Italian>Traballante</Italian>
 		<Spanish>Incierta</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_STABLE</Tag>
-		<Russian>&#211;&#241;&#242;&#238;&#233;&#247;&#232;&#226;&#224;&#255;</Russian>
+		<Russian>Устойчивая</Russian>
 		<English>Stable</English>
 		<French>Stable</French>
 		<German>Stabil</German>
@@ -41,70 +41,70 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_SOLID</Tag>
-		<Russian>&#210;&#226;&#229;&#240;&#228;&#224;&#255;</Russian>
+		<Russian>Твердая</Russian>
 		<English>Solid</English>
 		<French>Solide</French>
 		<German>Solide</German>
 		<Italian>Solido</Italian>
-		<Spanish>S&#243;lida</Spanish>
+		<Spanish>Sуlida</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_VERYSOLID</Tag>
-		<Russian>&#206;&#247;&#229;&#237;&#252; &#242;&#226;&#229;&#240;&#228;&#224;&#255;</Russian>
+		<Russian>Очень твердая</Russian>
 		<English>Very Solid</English>
-		<French>Tr�s solide</French>
+		<French>Très solide</French>
 		<German>Sehr solide</German>
 		<Italian>Molto solido</Italian>
-		<Spanish>Muy s&#243;lida</Spanish>
+		<Spanish>Muy sуlida</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_CIVILWAR_HUMAN</Tag>
-		<Russian>&#194; &#226;&#224;&#248;&#229;&#236; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#229; &#237;&#224;&#247;&#224;&#235;&#224;&#241;&#252; &#227;&#240;&#224;&#230;&#228;&#224;&#237;&#241;&#234;&#224;&#255; &#226;&#238;&#233;&#237;&#224;!</Russian>
+		<Russian>В вашем государстве началась гражданская война!</Russian>
 		<English>Your empire is descending into civil war!</English>
 		<French>Votre empire entre en guerre civile !</French>
-		<German>Euer Reich steht vor einem B�rgerkrieg!</German>
+		<German>Euer Reich steht vor einem Bürgerkrieg!</German>
 		<Italian>Il tuo impero sta per cadere nella guerra civile!</Italian>
-		<Spanish>�Tu imperio est&#225; sufriendo una guerra civil!</Spanish>
+		<Spanish>¡Tu imperio estб sufriendo una guerra civil!</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_CIVILWAR</Tag>
-		<Russian>&#226;&#241;&#242;&#243;&#239;&#224;&#229;&#242; &#226; &#227;&#240;&#224;&#230;&#228;&#224;&#237;&#241;&#234;&#243;&#254; &#226;&#238;&#233;&#237;&#243;!</Russian>
+		<Russian>вступает в гражданскую войну!</Russian>
 		<English>is descending into civil war!</English>
 		<French>entre en guerre civile !</French>
-		<German>steht vor einem B�rgerkrieg!</German>
+		<German>steht vor einem Bürgerkrieg!</German>
 		<Italian>sta cadendo nella guerra civile!</Italian>
-		<Spanish>est&#225; sufriendo una guerra civil.</Spanish>
+		<Spanish>estб sufriendo una guerra civil.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_SECESSION</Tag>
-		<Russian>&#238;&#225;&#250;&#255;&#226;&#235;&#255;&#229;&#242; &#237;&#229;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#238;&#241;&#242;&#252;!</Russian>
+		<Russian>объявляет независимость!</Russian>
 		<English>has declared its independence!</English>
-		<French>a d�clar� son ind�pendance !</French>
-		<German>hat seine Unabh&#228;ngigkeit erkl&#228;rt!</German>
+		<French>a déclaré son indépendance !</French>
+		<German>hat seine Unabhдngigkeit erklдrt!</German>
 		<Italian>ha dichiarato la propria indipendenza!</Italian>
 		<Spanish>ha declarado su independencia.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_PERIOD</Tag>
-		<Russian>&#194;&#224;&#248;&#229; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238; &#232;&#241;&#239;&#251;&#242;&#251;&#226;&#224;&#229;&#242; &#239;&#229;&#240;&#232;&#238;&#228;</Russian>
+		<Russian>Ваше государство испытывает период</Russian>
 		<English>Your empire is experiencing a period of</English>
-		<French>Votre empire conna�t une p�riode</French>
+		<French>Votre empire connaît une période</French>
 		<German>Euer Reich durchlebt eine Phase der</German>
 		<Italian>Il tuo impero sta vivendo un periodo di</Italian>
-		<Spanish>Tu imperio est&#225; pasando por un periodo de</Spanish>
+		<Spanish>Tu imperio estб pasando por un periodo de</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_GREAT_DEPRESSION</Tag>
-		<Russian>&#194;&#229;&#235;&#232;&#234;&#238;&#233; &#196;&#229;&#239;&#240;&#229;&#241;&#241;&#232;&#232;!</Russian>
+		<Russian>Великой Депрессии!</Russian>
 		<English>Great Depression!</English>
-		<French>de Grande D�pression !</French>
-		<German>Gro�en Depression!</German>
+		<French>de Grande Dépression !</French>
+		<German>Großen Depression!</German>
 		<Italian>Grande Depressione!</Italian>
-		<Spanish>Gran Depresi&#243;n.</Spanish>
+		<Spanish>Gran Depresiуn.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_POST_COMMUNISM</Tag>
-		<Russian>&#239;&#238;&#241;&#242;-&#234;&#238;&#236;&#236;&#243;&#237;&#232;&#241;&#242;&#232;&#247;&#229;&#241;&#234;&#232;&#233; &#234;&#240;&#232;&#231;&#232;&#241;!</Russian>
+		<Russian>пост-коммунистический кризис!</Russian>
 		<English>post-communist crisis!</English>
 		<French>de crise post-communiste !</French>
 		<German>post-kommunistischen Krise!</German>
@@ -113,34 +113,34 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_DEMOCRACY</Tag>
-		<Russian>&#237;&#229;&#241;&#242;&#224;&#225;&#232;&#235;&#252;&#237;&#238;&#241;&#242;&#232;, &#226;&#251;&#231;&#226;&#224;&#237;&#237;&#251;&#233; &#239;&#229;&#240;&#229;&#245;&#238;&#228;&#238;&#236; &#234; &#228;&#229;&#236;&#238;&#234;&#240;&#224;&#242;&#232;&#232;!</Russian>
+		<Russian>нестабильности, вызванный переходом к демократии!</Russian>
 		<English>instability caused by transition to democracy!</English>
-		<French>d'instabilit� caus�e par la transition d�mocratique !</French>
-		<German>Instabilit�t, verursacht durch den Wechsel zur Demokratie!</German>
-		<Italian>instabilit&#224;, causata dal passaggio alla democrazia!</Italian>
-		<Spanish>inestabilidad causada por la transici&#243;n a la democracia.</Spanish>
+		<French>d'instabilité causée par la transition démocratique !</French>
+		<German>Instabilität, verursacht durch den Wechsel zur Demokratie!</German>
+		<Italian>instabilitа, causata dal passaggio alla democrazia!</Italian>
+		<Spanish>inestabilidad causada por la transiciуn a la democracia.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_GREAT_DEPRESSION_INFLUENCE1</Tag>
-		<Russian>&#207;&#229;&#240;&#232;&#238;&#228; &#194;&#229;&#235;&#232;&#234;&#238;&#233; &#196;&#229;&#239;&#240;&#229;&#241;&#241;&#232;&#232; &#226;</Russian>
+		<Russian>Период Великой Депрессии в</Russian>
 		<English>The period of Great Depression in the</English>
-		<French>La p�riode de Grande D�pression en</French>
-		<German>Die Phase der Gro&#223;en Depression in</German>
+		<French>La période de Grande Dépression en</French>
+		<German>Die Phase der GroЯen Depression in</German>
 		<Italian>Il periodo di Grande Depressione nel</Italian>
-		<Spanish>El periodo de Gran Depresi&#243;n del</Spanish>
+		<Spanish>El periodo de Gran Depresiуn del</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_GREAT_DEPRESSION_INFLUENCE2</Tag>
-		<Russian>&#237;&#229;&#227;&#224;&#242;&#232;&#226;&#237;&#238; &#226;&#235;&#232;&#255;&#229;&#242; &#237;&#224; &#237;&#224;&#248;&#243; &#253;&#234;&#238;&#237;&#238;&#236;&#232;&#234;&#243;!</Russian>
+		<Russian>негативно влияет на нашу экономику!</Russian>
 		<English>is negatively influencing our economy!</English>
-		<French>influence n�gativement notre �conomie !</French>
+		<French>influence négativement notre économie !</French>
 		<German>hat negative Auswirkungen auf unsere Wirtschaft!</German>
 		<Italian>sta influenzando negativamente la nostra economia!</Italian>
-		<Spanish>est&#225; afectando negativamente a nuestra econom&#237;a.</Spanish>
+		<Spanish>estб afectando negativamente a nuestra economнa.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FINANCIAL_ADVISOR_TITLE</Tag>
-		<Russian>&#204;&#232;&#237;&#232;&#241;&#242;&#240; &#226;&#237;&#243;&#242;&#240;&#229;&#237;&#237;&#232;&#245; &#228;&#229;&#235;</Russian>
+		<Russian>Министр внутренних дел</Russian>
 		<English>Interior Advisor</English>
 		<French>Conseiller Interne</French>
 		<German>Inlandsberater</German>
@@ -149,25 +149,25 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_ADVISOR_TITLE</Tag>
-		<Russian>&#209;&#210;&#192;&#193;&#200;&#203;&#220;&#205;&#206;&#209;&#210;&#220;:</Russian>
+		<Russian>СТАБИЛЬНОСТЬ:</Russian>
 		<English>STABILITY: </English>
 		<French>STABILITE : </French>
-		<German>STABILIT�T: </German>
-		<Italian>STABILIT&#192;: </Italian>
+		<German>STABILITÄT: </German>
+		<Italian>STABILITА: </Italian>
 		<Spanish>ESTABILIDAD: </Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_PARAMETER_CITIES</Tag>
-		<Russian>&#195;&#206;&#208;&#206;&#196;&#192;</Russian>
+		<Russian>ГОРОДА</Russian>
 		<English>CITIES</English>
 		<French>VILLES</French>
-		<German>ST�DTE</German>
-		<Italian>CITT&#192;</Italian>
+		<German>STÄDTE</German>
+		<Italian>CITTА</Italian>
 		<Spanish>CIUDADES</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_PARAMETER_CIVICS</Tag>
-		<Russian>&#209;&#210;&#208;&#206;&#201;</Russian>
+		<Russian>СТРОЙ</Russian>
 		<English>CIVICS</English>
 		<French>REGIME</French>
 		<German>STAATSFORMEN</German>
@@ -176,7 +176,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_PARAMETER_FOREIGN</Tag>
-		<Russian>&#194;&#205;&#197;&#216;&#205;&#200;&#197;</Russian>
+		<Russian>ВНЕШНИЕ</Russian>
 		<English>FOREIGN</English>
 		<French>ETRANGER</French>
 		<German>AUSLAND</German>
@@ -185,45 +185,45 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_PARAMETER_ECONOMY</Tag>
-		<Russian>&#221;&#202;&#206;&#205;&#206;&#204;&#200;&#202;&#192;</Russian>
+		<Russian>ЭКОНОМИКА</Russian>
 		<English>ECONOMY</English>
 		<French>ECONOMIE</French>
 		<German>WIRTSCHAFT</German>
 		<Italian>ECONOMIA</Italian>
-		<Spanish>ECONOM�A</Spanish>
+		<Spanish>ECONOMÍA</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_PARAMETER_EXPANSION</Tag>
-		<Russian>&#221;&#202;&#209;&#207;&#192;&#205;&#209;&#200;&#223;</Russian>
+		<Russian>ЭКСПАНСИЯ</Russian>
 		<English>EXPANSION</English>
 		<French>EXPANSION</French>
 		<German>EXPANSION</German>
 		<Italian>ESPANSIONE</Italian>
-		<Spanish>EXPANSI�N</Spanish>
+		<Spanish>EXPANSIÓN</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_CORE_AREA</Tag>
-		<Russian>&#206;&#241;&#237;&#238;&#226;&#237;&#224;&#255; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#255;</Russian>
+		<Russian>Основная территория</Russian>
 		<English>Core Area</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_HISTORICAL_AREA</Tag>
-		<Russian>&#200;&#241;&#242;&#238;&#240;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#238;&#225;&#235;&#224;&#241;&#242;&#252;</Russian>
+		<Russian>Историческая область</Russian>
 		<English>Historical Area</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_CONTESTED_AREA</Tag>
-		<Russian>&#209;&#239;&#238;&#240;&#237;&#224;&#255; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#255;</Russian>
+		<Russian>Спорная территория</Russian>
 		<English>Contested Area</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_FOREIGN_AREA</Tag>
-		<Russian>&#215;&#243;&#230;&#224;&#255; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#255;</Russian>
+		<Russian>Чужая территория</Russian>
 		<English>Foreign Area</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_FOREIGN_CORE_AREA</Tag>
-		<Russian>&#215;&#243;&#230;&#224;&#255; &#238;&#241;&#237;&#238;&#226;&#237;&#224;&#255; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#255;</Russian>
+		<Russian>Чужая основная территория</Russian>
 		<English>Foreign Core Area</English>
 	</TEXT>
 	<TEXT>

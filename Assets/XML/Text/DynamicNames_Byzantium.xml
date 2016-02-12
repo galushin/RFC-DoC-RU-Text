@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,107 +6,107 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_DESC</Tag>
-		<Russian>&#194;&#232;&#231;&#224;&#237;&#242;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Византийцы</Russian>
 		<English>The Byzantines</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_DESC_PEOPLES</Tag>
-		<Russian>&#194;&#232;&#231;&#224;&#237;&#242;&#232;&#233;&#241;&#234;&#232;&#229; &#237;&#224;&#240;&#238;&#228;&#251;</Russian>
+		<Russian>Византийские народы</Russian>
 		<English>Byzantine Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_DESC_DEFAULT</Tag>
-		<Russian>&#194;&#232;&#231;&#224;&#237;&#242;&#232;&#233;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Византийская Империя</Russian>
 		<English>Byzantine Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_DESC_DEMOCRATIC</Tag>
-		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#208;&#238;&#236;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Республика Романия</Russian>
 		<English>Republic of Rhomania</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_DESC_COMMUNIST</Tag>
-		<Russian>&#194;&#232;&#231;&#224;&#237;&#242;&#232;&#233;&#241;&#234;&#224;&#255; &#205;&#224;&#240;&#238;&#228;&#237;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Византийская Народная Республика</Russian>
 		<English>Byzantine People's Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_DESC_FASCIST</Tag>
-		<Russian>&#194;&#232;&#231;&#224;&#237;&#242;&#232;&#233;&#241;&#234;&#224;&#255; &#196;&#229;&#241;&#239;&#238;&#242;&#224;&#242;</Russian>
+		<Russian>Византийская Деспотат</Russian>
 		<English>Despotate of Byzantium</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_EASTERN_EMPIRE</Tag>
-		<Russian>&#194;&#238;&#241;&#242;&#238;&#247;&#237;&#224;&#255; &#208;&#232;&#236;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Восточная Римская Империя</Russian>
 		<English>Eastern Roman Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_TREBIZOND_EMPIRE</Tag>
-		<Russian>&#210;&#240;&#224;&#239;&#229;&#231;&#243;&#237;&#228;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Трапезундская империя</Russian>
 		<English>Empire of Trebizond</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_EPIRUS_DESPOTATE</Tag>
-		<Russian>&#221;&#239;&#232;&#240;&#241;&#234;&#224;&#255; &#228;&#229;&#241;&#239;&#238;&#242;&#224;&#242;</Russian>
+		<Russian>Эпирская деспотат</Russian>
 		<English>Despotate of Epirus</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_MOREA_DESPOTATE</Tag>
-		<Russian>&#204;&#238;&#240;&#229;&#233;&#241;&#234;&#232;&#233; &#228;&#229;&#241;&#239;&#238;&#242;&#224;&#242;</Russian>
+		<Russian>Морейский деспотат</Russian>
 		<English>Despotate of the Morea</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_NICAEA_EMPIRE</Tag>
-		<Russian>&#205;&#232;&#234;&#229;&#233;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Никейская империя</Russian>
 		<English>Empire of Nicaea</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_SOVIET_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#194;&#232;&#231;&#224;&#237;&#242;&#232;&#255;</Russian>
+		<Russian>Советская Византия</Russian>
 		<English>Soviet Byzantium</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_NAZI_VASSAL</Tag>
-		<Russian>&#208;&#229;&#233;&#245;&#241;&#234;&#238;&#236;&#232;&#241;&#241;&#224;&#240;&#232;&#224;&#242; &#193;&#238;&#241;&#244;&#238;&#240;</Russian>
+		<Russian>Рейхскомиссариат Босфор</Russian>
 		<English>Reichskommissariat Bosphorus</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTINE_VASSAL_GENERIC</Tag>
-		<Russian>&#221;&#234;&#231;&#224;&#240;&#245;&#224;&#242; %s1</Russian>
+		<Russian>Экзархат %s1</Russian>
 		<English>Exarchate of %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_BYZANTINE_VASSAL</Tag>
-		<Russian>&#221;&#234;&#231;&#224;&#240;&#245;&#224;&#242; &#192;&#235;&#229;&#234;&#241;&#224;&#237;&#228;&#240;&#232;&#255;</Russian>
+		<Russian>Экзархат Александрия</Russian>
 		<English>Exarchate of Alexandria</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BABYLONIA_BYZANTINE_VASSAL</Tag>
-		<Russian>&#221;&#234;&#231;&#224;&#240;&#245;&#224;&#242; &#202;&#242;&#229;&#241;&#232;&#244;&#238;&#237;</Russian>
+		<Russian>Экзархат Ктесифон</Russian>
 		<English>Exarchate of Ctesiphon</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_BYZANTINE_VASSAL</Tag>
-		<Russian>&#221;&#234;&#231;&#224;&#240;&#245;&#224;&#242; &#192;&#245;&#229;&#255;</Russian>
+		<Russian>Экзархат Ахея</Russian>
 		<English>Exarchate of Achaia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PHOENICIA_BYZANTINE_VASSAL</Tag>
-		<Russian>&#221;&#234;&#231;&#224;&#240;&#245;&#224;&#242; &#192;&#244;&#240;&#232;&#234;&#224;</Russian>
+		<Russian>Экзархат Африка</Russian>
 		<English>Exarchate of Africa</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_BYZANTINE_VASSAL</Tag>
-		<Russian>&#207;&#224;&#240;&#244;&#255;&#237;&#241;&#234;&#232;&#233; &#253;&#234;&#231;&#224;&#240;&#245;&#224;&#242;</Russian>
+		<Russian>Парфянский экзархат</Russian>
 		<English>Exarchate of Parthia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ROME_BYZANTINE_VASSAL</Tag>
-		<Russian>&#208;&#224;&#226;&#229;&#237;&#237;&#241;&#234;&#232;&#233; &#253;&#234;&#231;&#224;&#240;&#245;&#224;&#242;</Russian>
+		<Russian>Равеннский экзархат</Russian>
 		<English>Exarchate of Ravenna</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_BYZANTINE_VASSAL</Tag>
-		<Russian>&#221;&#234;&#231;&#224;&#240;&#245;&#224;&#242; &#209;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Экзархат Спания</Russian>
 		<English>Exarchate of Spania</English>
 	</TEXT>
 </Civ4GameText>

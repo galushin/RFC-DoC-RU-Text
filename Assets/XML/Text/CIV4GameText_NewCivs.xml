@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CANADA_DESC</Tag>
-		<Russian>&#202;&#224;&#237;&#224;&#228;&#246;&#251;</Russian>
+		<Russian>Канадцы</Russian>
 		<English>The Canadians</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CANADA_SHORT_DESC</Tag>
-		<Russian>&#202;&#224;&#237;&#224;&#228;&#224;</Russian>
+		<Russian>Канада</Russian>
 		<English>Canada</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CANADA_ADJECTIVE</Tag>
-		<Russian>&#202;&#224;&#237;&#224;&#228;&#246;&#251;</Russian>
+		<Russian>Канадцы</Russian>
 		<English>Canadian</English>
 	</TEXT>
 	<TEXT>
@@ -25,7 +25,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_TRUDEAU</Tag>
-		<Russian>&#210;&#240;&#254;&#228;&#238;</Russian>
+		<Russian>Трюдо</Russian>
 		<English>Trudeau</English>
 	</TEXT>
 	<TEXT>
@@ -35,7 +35,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CANADA_CORVETTE</Tag>
-		<Russian>&#202;&#238;&#240;&#226;&#229;&#242;</Russian>
+		<Russian>Корвет</Russian>
 		<English>Corvette</English>
 	</TEXT>
 	<TEXT>
@@ -45,7 +45,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_CANADA_RCMP</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#234;&#224;&#255; &#234;&#238;&#237;&#237;&#224;&#255; &#239;&#238;&#235;&#232;&#246;&#232;&#255;</Russian>
+		<Russian>Королевская конная полиция</Russian>
 		<English>Royal Mounted Police</English>
 	</TEXT>
 	<TEXT>
@@ -55,147 +55,147 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_DESC</Tag>
-		<Russian>&#204;&#224;&#226;&#240;&#251;</Russian>
+		<Russian>Мавры</Russian>
 		<English>The Moors</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_SHORT_DESC</Tag>
-		<Russian>&#204;&#224;&#226;&#240;&#251;</Russian>
+		<Russian>Мавры</Russian>
 		<English>Moors</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_ADJECTIVE</Tag>
-		<Russian>&#204;&#224;&#226;&#240;&#251;</Russian>
+		<Russian>Мавры</Russian>
 		<English>Moorish</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_RAHMAN</Tag>
-		<Russian>&#192;&#225;&#228; &#224;&#240;-&#208;&#224;&#245;&#236;&#224;&#237; I</Russian>
+		<Russian>Абд ар-Рахман I</Russian>
 		<English>Abd-ar-Rahman</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MOORISH_CAMEL_GUNNER</Tag>
-		<Russian>&#204;&#243;&#248;&#234;&#229;&#242;&#229;&#240; &#237;&#224; &#226;&#229;&#240;&#225;&#235;&#254;&#228;&#229;</Russian>
+		<Russian>Мушкетер на верблюде</Russian>
 		<English>Camel Gunner</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_MOORISH_NORIA</Tag>
-		<Russian>&#205;&#238;&#240;&#232;&#255;</Russian>
+		<Russian>Нория</Russian>
 		<English>Noria</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_DESC</Tag>
-		<Russian>&#210;&#224;&#236;&#232;&#235;&#251;</Russian>
+		<Russian>Тамилы</Russian>
 		<English>The Tamils</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_SHORT_DESC</Tag>
-		<Russian>&#210;&#224;&#236;&#232;&#235;&#251;</Russian>
+		<Russian>Тамилы</Russian>
 		<English>Tamils</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_ADJECTIVE</Tag>
-		<Russian>&#210;&#224;&#236;&#232;&#235;&#251;</Russian>
+		<Russian>Тамилы</Russian>
 		<English>Tamil</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_RAJENDRA</Tag>
-		<Russian>&#208;&#224;&#228;&#230;&#229;&#237;&#228;&#240;&#224; I</Russian>
+		<Russian>Раджендра I</Russian>
 		<English>Rajendra Chola</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_TAMIL_DHARANI</Tag>
-		<Russian>&#196;&#245;&#224;&#240;&#224;&#237;&#232;</Russian>
+		<Russian>Дхарани</Russian>
 		<English>Dharani</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_TAMIL_SANGAM</Tag>
-		<Russian>&#209;&#224;&#237;&#227;&#224;&#236;</Russian>
+		<Russian>Сангам</Russian>
 		<English>Sangam</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TIBET_DESC</Tag>
-		<Russian>&#210;&#232;&#225;&#229;&#242;&#246;&#251;</Russian>
+		<Russian>Тибетцы</Russian>
 		<English>The Tibetans</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TIBET_SHORT_DESC</Tag>
-		<Russian>&#210;&#232;&#225;&#229;&#242;</Russian>
+		<Russian>Тибет</Russian>
 		<English>Tibet</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TIBET_ADJECTIVE</Tag>
-		<Russian>&#210;&#232;&#225;&#229;&#242;&#246;&#251;</Russian>
+		<Russian>Тибетцы</Russian>
 		<English>Tibetan</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_LOBSANG_GYATSO</Tag>
-		<Russian>&#205;&#227;&#224;&#226;&#224;&#237;&#227; &#203;&#238;&#225;&#241;&#224;&#237;&#227; &#195;&#252;&#255;&#246;&#238;</Russian>
+		<Russian>Нгаванг Лобсанг Гьяцо</Russian>
 		<English>Lobsang Gyatso</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_TIBETAN_KHAMPA</Tag>
-		<Russian>&#202;&#245;&#224;&#236;&#239;&#224;</Russian>
+		<Russian>Кхампа</Russian>
 		<English>Khampa</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_TIBETAN_GOMPA</Tag>
-		<Russian>&#195;&#238;&#236;&#239;&#224;</Russian>
+		<Russian>Гомпа</Russian>
 		<English>Gompa</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_TIB_EMB</Tag>
-		<Russian>&#210;&#232;&#225;&#229;&#242;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Тибетское посольство</Russian>
 		<English>Tibetan Embassy</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_DESC</Tag>
-		<Russian>&#207;&#238;&#235;&#255;&#234;&#232;</Russian>
+		<Russian>Поляки</Russian>
 		<English>The Polish</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_SHORT_DESC</Tag>
-		<Russian>&#207;&#238;&#235;&#252;&#248;&#224;</Russian>
+		<Russian>Польша</Russian>
 		<English>Poland</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLAND_ADJECTIVE</Tag>
-		<Russian>&#207;&#238;&#235;&#255;&#234;&#232;</Russian>
+		<Russian>Поляки</Russian>
 		<English>Polish</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_SOBIESKI</Tag>
-		<Russian>&#223;&#237; III &#209;&#238;&#225;&#229;&#241;&#234;&#232;&#233;</Russian>
+		<Russian>Ян III Собеский</Russian>
 		<English>Sobieski</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_POLISH_WINGED_HUSSAR</Tag>
-		<Russian>&#202;&#240;&#251;&#235;&#224;&#242;&#251;&#229; &#227;&#243;&#241;&#224;&#240;&#251;</Russian>
+		<Russian>Крылатые гусары</Russian>
 		<English>Winged Hussar</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_POLISH_SEJMIK</Tag>
-		<Russian>&#209;&#229;&#233;&#236;&#232;&#234;</Russian>
+		<Russian>Сеймик</Russian>
 		<English>Sejmik</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_POL_EMBASSY</Tag>
-		<Russian>&#207;&#238;&#235;&#252;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Польское посольство</Russian>
 		<English>Polish Embassy</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPANS_DESC</Tag>
-		<Russian>&#213;&#224;&#240;&#224;&#239;&#239;&#251;</Russian>
+		<Russian>Хараппы</Russian>
 		<English>The Harappans</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPANS_SHORT_DESC</Tag>
-		<Russian>&#213;&#224;&#240;&#224;&#239;&#239;&#224;</Russian>
+		<Russian>Хараппа</Russian>
 		<English>Harappa</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_HARAPPANS_ADJECTIVE</Tag>
-		<Russian>&#213;&#224;&#240;&#224;&#239;&#239;&#251;</Russian>
+		<Russian>Хараппы</Russian>
 		<English>Harappan</English>
 	</TEXT>
 	<TEXT>
@@ -205,72 +205,72 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_HARAPPAN_MILITIA</Tag>
-		<Russian>&#206;&#239;&#238;&#235;&#247;&#229;&#237;&#232;&#229;</Russian>
+		<Russian>Ополчение</Russian>
 		<English>Militia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_HARAPPAN_BATH</Tag>
-		<Russian>&#193;&#224;&#237;&#255;</Russian>
+		<Russian>Баня</Russian>
 		<English>Bath</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KONGO_DESC</Tag>
-		<Russian>&#202;&#238;&#237;&#227;&#238;</Russian>
+		<Russian>Конго</Russian>
 		<English>The Congolese</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KONGO_SHORT_DESC</Tag>
-		<Russian>&#202;&#238;&#237;&#227;&#238;</Russian>
+		<Russian>Конго</Russian>
 		<English>Congo</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KONGO_ADJECTIVE</Tag>
-		<Russian>&#202;&#238;&#237;&#227;&#238;</Russian>
+		<Russian>Конго</Russian>
 		<English>Congolese</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_MBEMBA</Tag>
-		<Russian>&#205;&#231;&#232;&#237;&#227;&#224; &#204;&#225;&#229;&#236;&#225;&#224;</Russian>
+		<Russian>Нзинга Мбемба</Russian>
 		<English>Mbemba</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_KONGO_POMBOS</Tag>
-		<Russian>&#207;&#238;&#236;&#225;&#238;</Russian>
+		<Russian>Помбо</Russian>
 		<English>Pombos</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_KONGO_MBWADI</Tag>
-		<Russian>&#204;&#225;&#226;&#224;&#228;&#232;</Russian>
+		<Russian>Мбвади</Russian>
 		<English>Mbwadi</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_CASIMIR</Tag>
-		<Russian>&#202;&#224;&#231;&#232;&#236;&#232;&#240; III</Russian>
+		<Russian>Казимир III</Russian>
 		<English>Casimir III</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_SONGTSEN</Tag>
-		<Russian>&#209;&#238;&#237;&#227;&#246;&#253;&#237; &#195;&#224;&#236;&#239;&#238;</Russian>
+		<Russian>Сонгцэн Гампо</Russian>
 		<English>Songtsen Gampo</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_HARUN</Tag>
-		<Russian>&#213;&#224;&#240;&#243;&#237; &#224;&#240;-&#208;&#224;&#248;&#232;&#228;</Russian>
+		<Russian>Харун ар-Рашид</Russian>
 		<English>Harun al-Rashid</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_YAQUB</Tag>
-		<Russian>&#223;&#234;&#243;&#225; &#224;&#235;&#252;-&#204;&#224;&#237;&#241;&#243;&#240;</Russian>
+		<Russian>Якуб аль-Мансур</Russian>
 		<English>Yaqub al-Mansur</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MEXICO_DESC</Tag>
-		<Russian>&#204;&#229;&#234;&#241;&#232;&#234;&#224;&#237;&#246;&#251;</Russian>
+		<Russian>Мексиканцы</Russian>
 		<English>The Mexicans</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MEXICO_SHORT_DESC</Tag>
-		<Russian>&#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<Russian>Мексика</Russian>
 		<English>Mexico</English>
 	</TEXT>
 	<TEXT>
@@ -285,28 +285,28 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_SANTA_ANNA</Tag>
-		<Russian>&#209;&#224;&#237;&#242;&#224;-&#192;&#237;&#237;&#224;</Russian>
+		<Russian>Санта-Анна</Russian>
 		<English>Santa Anna</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_SANTA_ANNA_PEDIA</Tag>
-		<Russian>[H1]Antonio Lopez de Santa Anna[\H1][NEWLINE][BOLD]President of Mexico[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] 1794 - 1876 AD[NEWLINE] [PARAGRAPH:2][BOLD]Background:[\BOLD] [PARAGRAPH:1]Santa Anna�s normal loyalty would be to ally with the wealthy and privileged, but his immediate concern was to be on the winning side in any battle. Switching allegiance never troubled him. Santa Anna declared himself retired, "unless my country needs me". He decided he was needed when Anastasio Bustamante led a coup, overthrowing and killing President Vicente Guerrero. Santa Anna was elected president in 1833.[PARAGRAPH:1]G&#243;mez Far&#237;as did many reforms, introducing antimilitary and anticlergical reforms. He reduced the size of the army and worked hard to root out corruption in the military. He also changed some rules reflecting the power of the Church. Clergymen would be allowed to preach only for religious matters. He altered the education as a fully secular system.[PARAGRAPH:1] The mandatory tax for the support of the Church was abolished. These drastic reforms angered many of the powerful among the military, wealthy landowners, and the Catholic Church. When there was rebellion and violence against the reform that Farias had made, Santa Anna changed his side, again. Santa Anna reversed his support for the liberals and joined the conservatives, dismissed Far&#237;as, declared the Constitution suspended, disbanded the Congress, and worked to concentrate power in the central government. This was applauded by some conservatives, but met with considerable disapproval from other sectors. He established a Catholic, centralist dictatorship and replaced the Constitution of 1824(the one that Farias established), with a new document, called The Seven Laws. the Constitution of 1836. The regime was a centralized dictatorship led by the military.[PARAGRAPH:1]Several states went into open rebellion: Coahuila y Tejas, San Luis Potos&#237;, Quer&#233;taro, Durango, Guanajuato, Michoac&#225;n, Yucat&#225;n, Jalisco, Nuevo Le&#243;n, Tamaulipas and Zacatecas. Several of these states formed their own governments, the Republic of the Rio Grande, the Republic of Yucatan, and the Republic of Texas. Only the Texans defeated Santa Anna and retained their independence. They and their allies from the United States declared independence from Mexico. Their fierce resistance was possibly fueled by reprisals Santa Anna committed against his defeated enemies.[PARAGRAPH:1]The Zacatecan militia, the largest and best supplied of the Mexican states, led by Francisco Garcia, was well armed with .753 caliber British 'Brown Bess' muskets and Baker .61 rifles. After two hours of combat, on 12 May 1835, the Santa Anna's "Army of Operations" defeated the Zacatecan militia and took almost 3,000 prisoners. Santa Anna allowed his army to ransack Zacatecas for forty-eight hours. After defeating Zacatecas, he planned to move on to Coahuila y Tejas.</Russian>
-		<English>[H1]Antonio Lopez de Santa Anna[\H1][NEWLINE][BOLD]President of Mexico[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] 1794 - 1876 AD[NEWLINE] [PARAGRAPH:2][BOLD]Background:[\BOLD] [PARAGRAPH:1]Santa Anna�s normal loyalty would be to ally with the wealthy and privileged, but his immediate concern was to be on the winning side in any battle. Switching allegiance never troubled him. Santa Anna declared himself retired, "unless my country needs me". He decided he was needed when Anastasio Bustamante led a coup, overthrowing and killing President Vicente Guerrero. Santa Anna was elected president in 1833.[PARAGRAPH:1]G&#243;mez Far&#237;as did many reforms, introducing antimilitary and anticlergical reforms. He reduced the size of the army and worked hard to root out corruption in the military. He also changed some rules reflecting the power of the Church. Clergymen would be allowed to preach only for religious matters. He altered the education as a fully secular system.[PARAGRAPH:1] The mandatory tax for the support of the Church was abolished. These drastic reforms angered many of the powerful among the military, wealthy landowners, and the Catholic Church. When there was rebellion and violence against the reform that Farias had made, Santa Anna changed his side, again. Santa Anna reversed his support for the liberals and joined the conservatives, dismissed Far&#237;as, declared the Constitution suspended, disbanded the Congress, and worked to concentrate power in the central government. This was applauded by some conservatives, but met with considerable disapproval from other sectors. He established a Catholic, centralist dictatorship and replaced the Constitution of 1824(the one that Farias established), with a new document, called The Seven Laws. the Constitution of 1836. The regime was a centralized dictatorship led by the military.[PARAGRAPH:1]Several states went into open rebellion: Coahuila y Tejas, San Luis Potos&#237;, Quer&#233;taro, Durango, Guanajuato, Michoac&#225;n, Yucat&#225;n, Jalisco, Nuevo Le&#243;n, Tamaulipas and Zacatecas. Several of these states formed their own governments, the Republic of the Rio Grande, the Republic of Yucatan, and the Republic of Texas. Only the Texans defeated Santa Anna and retained their independence. They and their allies from the United States declared independence from Mexico. Their fierce resistance was possibly fueled by reprisals Santa Anna committed against his defeated enemies.[PARAGRAPH:1]The Zacatecan militia, the largest and best supplied of the Mexican states, led by Francisco Garcia, was well armed with .753 caliber British 'Brown Bess' muskets and Baker .61 rifles. After two hours of combat, on 12 May 1835, the Santa Anna's "Army of Operations" defeated the Zacatecan militia and took almost 3,000 prisoners. Santa Anna allowed his army to ransack Zacatecas for forty-eight hours. After defeating Zacatecas, he planned to move on to Coahuila y Tejas.</English>
+		<Russian>[H1]Antonio Lopez de Santa Anna[\H1][NEWLINE][BOLD]President of Mexico[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] 1794 - 1876 AD[NEWLINE] [PARAGRAPH:2][BOLD]Background:[\BOLD] [PARAGRAPH:1]Santa Annas normal loyalty would be to ally with the wealthy and privileged, but his immediate concern was to be on the winning side in any battle. Switching allegiance never troubled him. Santa Anna declared himself retired, "unless my country needs me". He decided he was needed when Anastasio Bustamante led a coup, overthrowing and killing President Vicente Guerrero. Santa Anna was elected president in 1833.[PARAGRAPH:1]Gуmez Farнas did many reforms, introducing antimilitary and anticlergical reforms. He reduced the size of the army and worked hard to root out corruption in the military. He also changed some rules reflecting the power of the Church. Clergymen would be allowed to preach only for religious matters. He altered the education as a fully secular system.[PARAGRAPH:1] The mandatory tax for the support of the Church was abolished. These drastic reforms angered many of the powerful among the military, wealthy landowners, and the Catholic Church. When there was rebellion and violence against the reform that Farias had made, Santa Anna changed his side, again. Santa Anna reversed his support for the liberals and joined the conservatives, dismissed Farнas, declared the Constitution suspended, disbanded the Congress, and worked to concentrate power in the central government. This was applauded by some conservatives, but met with considerable disapproval from other sectors. He established a Catholic, centralist dictatorship and replaced the Constitution of 1824(the one that Farias established), with a new document, called The Seven Laws. the Constitution of 1836. The regime was a centralized dictatorship led by the military.[PARAGRAPH:1]Several states went into open rebellion: Coahuila y Tejas, San Luis Potosн, Querйtaro, Durango, Guanajuato, Michoacбn, Yucatбn, Jalisco, Nuevo Leуn, Tamaulipas and Zacatecas. Several of these states formed their own governments, the Republic of the Rio Grande, the Republic of Yucatan, and the Republic of Texas. Only the Texans defeated Santa Anna and retained their independence. They and their allies from the United States declared independence from Mexico. Their fierce resistance was possibly fueled by reprisals Santa Anna committed against his defeated enemies.[PARAGRAPH:1]The Zacatecan militia, the largest and best supplied of the Mexican states, led by Francisco Garcia, was well armed with .753 caliber British 'Brown Bess' muskets and Baker .61 rifles. After two hours of combat, on 12 May 1835, the Santa Anna's "Army of Operations" defeated the Zacatecan militia and took almost 3,000 prisoners. Santa Anna allowed his army to ransack Zacatecas for forty-eight hours. After defeating Zacatecas, he planned to move on to Coahuila y Tejas.</Russian>
+		<English>[H1]Antonio Lopez de Santa Anna[\H1][NEWLINE][BOLD]President of Mexico[\BOLD][NEWLINE][BOLD]Lived: [\BOLD] 1794 - 1876 AD[NEWLINE] [PARAGRAPH:2][BOLD]Background:[\BOLD] [PARAGRAPH:1]Santa Annas normal loyalty would be to ally with the wealthy and privileged, but his immediate concern was to be on the winning side in any battle. Switching allegiance never troubled him. Santa Anna declared himself retired, "unless my country needs me". He decided he was needed when Anastasio Bustamante led a coup, overthrowing and killing President Vicente Guerrero. Santa Anna was elected president in 1833.[PARAGRAPH:1]Gуmez Farнas did many reforms, introducing antimilitary and anticlergical reforms. He reduced the size of the army and worked hard to root out corruption in the military. He also changed some rules reflecting the power of the Church. Clergymen would be allowed to preach only for religious matters. He altered the education as a fully secular system.[PARAGRAPH:1] The mandatory tax for the support of the Church was abolished. These drastic reforms angered many of the powerful among the military, wealthy landowners, and the Catholic Church. When there was rebellion and violence against the reform that Farias had made, Santa Anna changed his side, again. Santa Anna reversed his support for the liberals and joined the conservatives, dismissed Farнas, declared the Constitution suspended, disbanded the Congress, and worked to concentrate power in the central government. This was applauded by some conservatives, but met with considerable disapproval from other sectors. He established a Catholic, centralist dictatorship and replaced the Constitution of 1824(the one that Farias established), with a new document, called The Seven Laws. the Constitution of 1836. The regime was a centralized dictatorship led by the military.[PARAGRAPH:1]Several states went into open rebellion: Coahuila y Tejas, San Luis Potosн, Querйtaro, Durango, Guanajuato, Michoacбn, Yucatбn, Jalisco, Nuevo Leуn, Tamaulipas and Zacatecas. Several of these states formed their own governments, the Republic of the Rio Grande, the Republic of Yucatan, and the Republic of Texas. Only the Texans defeated Santa Anna and retained their independence. They and their allies from the United States declared independence from Mexico. Their fierce resistance was possibly fueled by reprisals Santa Anna committed against his defeated enemies.[PARAGRAPH:1]The Zacatecan militia, the largest and best supplied of the Mexican states, led by Francisco Garcia, was well armed with .753 caliber British 'Brown Bess' muskets and Baker .61 rifles. After two hours of combat, on 12 May 1835, the Santa Anna's "Army of Operations" defeated the Zacatecan militia and took almost 3,000 prisoners. Santa Anna allowed his army to ransack Zacatecas for forty-eight hours. After defeating Zacatecas, he planned to move on to Coahuila y Tejas.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_SANTA_ANNA_1</Tag>
-		<Russian>&#207;&#240;&#232;&#226;&#229;&#242;, [CT_NAME]. &#223; &#227;&#229;&#237;&#229;&#240;&#224;&#235; &#209;&#224;&#237;&#242;&#224;-&#192;&#237;&#237;&#224;, &#209;&#239;&#224;&#241;&#232;&#242;&#229;&#235;&#252; &#204;&#229;&#234;&#241;&#232;&#234;&#232;! &#215;&#242;&#238; &#242;&#251; &#239;&#240;&#232;&#248;&#229;&#235; &#239;&#240;&#229;&#228;&#235;&#238;&#230;&#232;&#248;&#252; &#236;&#237;&#229; &#226; &#231;&#237;&#224;&#234; &#243;&#226;&#229;&#230;&#229;&#237;&#232;&#255;?</Russian>
+		<Russian>Привет, [CT_NAME]. Я генерал Санта-Анна, Спаситель Мексики! Что ты пришел предложишь мне в знак увежения?</Russian>
 		<English>Hello, [CT_NAME]. I am General Santa Anna, Savior of Mexico!  What have you come to offer me in tribute?</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_JUAREZ</Tag>
-		<Russian>&#213;&#243;&#224;&#240;&#229;&#241;</Russian>
+		<Russian>Хуарес</Russian>
 		<English>Juarez</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_JUAREZ_PEDIA</Tag>
-		<Russian>[H1]Benito Ju&#225;rez[\H1][NEWLINE][BOLD]Five Times President of Mexico[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]March 21, 1806 - July 18, 1872[PARAGRAPH:2:1][BOLD]Background:[\BOLD][NEWLINE][TAB]Benito Pablo Ju&#225;rez Garc&#237;a was a Zapotec Amerindian who served five terms as president of Mexico, he was the first Mexican leader who did not have a military background, and also the first full-blooded indigenous national ever to serve as President of Mexico and to lead a country in the Western Hemisphere.[PARAGRAPH:1] Ju&#225;rez was born of Indian parents, both of whom died when he was three years old. When he was 12 he left the uncle who was caring for him and joined his sister in the city of Oaxaca, where he began his formal education. He originally studied for the priesthood, but in 1829 he entered the Oaxaca Institute of Arts and Sciences to study law and science. In 1831 he received his law degree and also won his first public office, a seat on the municipal council. Impeccably honest, he never used public office for personal gain, and his modest way of life reflected his simple tastes even after his marriage in 1843 to Margarita Maza, an Oaxaca girl 17 years younger than he. Politics soon became his life�s work: he was a member of both the state and national legislatures, he became a judge in 1841, and he served as governor of his state, a post that brought him into national prominence. During these years in politics Ju&#225;rez began to formulate liberal solutions for his country�s many problems. The road to economic health, he concluded, lay in substituting capitalism for the stifling economic monopoly held by the Roman Catholic Church and the landed aristocracy. He also believed that political stability could be achieved only through the adoption of a constitutional form of government based on a federal system.[PARAGRAPH:1] But the return of the conservatives to power in the elections of 1853 doomed imminent reform in Mexico. Many prominent liberals were exiled, including Ju&#225;rez. From December 1853 until June 1855 he lived in New Orleans in the United States in semi poverty, occupying himself by exchanging ideas with other Mexicans and laying plans to return home. The opportunity to put his ideas into action finally came in 1855 when the liberals took control of the national government, and Ju&#225;rez left the United States to join the new administration of Juan &#193;lvarez as minister of justice and public instruction.[PARAGRAPH:1] The liberals carried out three major reforms, all supported by Ju&#225;rez. As minister of justice he was responsible for the law bearing his name that abolished special courts for the clergy and military, for he felt that juridical equality would help promote social equality. In June 1856 the government published the Ley Lerdo ("Lerdo Law," named after the minister of finance). Although it forced the church to sell its property, it contained no threat of confiscation. By breaking up large landed estates, the government hoped that many Mexicans would be able to acquire property and thus create the middle class that it believed was essential for a strong and stable Mexico. The climax of the reform was the liberal constitution promulgated in February 1857. In the same year, Ignacio Comonfort was elected president, and the new Congress chose Ju&#225;rez to preside over the Supreme Court and therefore, according to the constitution, also to serve as the effective vice president of Mexico. The court position was critical in determining his future career, for when the conservatives revolted and ousted Comonfort in January 1858, Ju&#225;rez had a legal claim to the presidency. Lacking troops to control the area around Mexico City, however, he retired to the eastern port city of Veracruz. At Veracruz Ju&#225;rez faced serious difficulties, for he had to create a government and hold it together through quarrels, betrayals, and defeat; to enforce and implement the constitution; to maintain armies in the field and defeat the conservative forces. But he was an extraordinarily tenacious and self-sufficient man, able to concentrate his energy and interest, and he proved himself the master of his government. Because the clergy was supporting the conservatives against the legal government, Ju&#225;rez enacted several laws to curb ecclesiastical power. He nationalized all church property, exempting only those buildings actually used for worship and instruction. To weaken clerical influence still further, he also nationalized the cemeteries and put birth registrations and marriages under the civil authority. Finally, the government separated church and state and guaranteed religious liberty to all citizens. [PARAGRAPH:1] By late 1860 the conservatives were faltering, and in January 1861 Ju&#225;rez was able to return to Mexico City and was constitutionally elected president. He was, however, faced with many serious problems: the opposition�s forces still remained intact, the new Congress distrusted its president, and the treasury was virtually empty. As a solution to this latter problem Ju&#225;rez decided in July 1861 to suspend payment on all foreign debts for two years. To safeguard their investments, England, Spain, and France decided to intervene, and by January 1862 the three countries had landed troops at Veracruz. But when Britain and Spain realized that Napoleon III intended to conquer Mexico and control it through a puppet, Archduke Maximilian of Austria, they withdrew their forces. Despite a major defeat at Puebla on May 5, 1862, reinforcements enabled the French to occupy Mexico City in June 1863, and Maximilian soon followed to take control of the government. Forced to leave the capital again, Ju&#225;rez kept himself and his government alive by a long series of retreats that ended only at El Paso del Norte (later named Ciudad Ju&#225;rez) at the Mexican-U.S. border. Early in 1867, as a result of continued Mexican resistance, increased U.S. pressure, and criticism at home, Napoleon decided to withdraw his troops. Soon afterward, Mexican forces captured Maximilian and executed him.[PARAGRAPH:1] Ju&#225;rez then made the greatest mistake of his political career. In August 1867, shortly after his return to Mexico City, he issued a call for national elections and for a referendum on whether Congress should make five amendments to the constitution. Public opinion did not object to the president�s running for re-election, but the constitutional changes aroused immediate and violent reaction in many quarters, including those sympathetic to Ju&#225;rez. His proposed changes came under fire because amendments enacted by Congress alone were unconstitutional, and the changes would strengthen the executive power. Ju&#225;rez was re-elected, but the controversy had created such a crisis of confidence that the administration did not even bother to count the votes on the amendments. Despite illness and personal loss�in October 1870 Ju&#225;rez suffered a stroke and three months later his wife died�he decided to run again in 1871. After a bitter campaign he was re-elected, but many of his countrymen, refusing to accept the result as final, took up arms against him. Ju&#225;rez spent the last few months of his life trying to restore peace. He died of a heart attack in 1872.[PARAGRAPH:1] March 21 is a day set to commemorate Juarez. This date has become a national holiday in Mexico, which has continued to grow in acceptance within the Mexican Culture. </Russian>
-		<English>[H1]Benito Ju&#225;rez[\H1][NEWLINE][BOLD]Five Times President of Mexico[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]March 21, 1806 - July 18, 1872[PARAGRAPH:2:1][BOLD]Background:[\BOLD][NEWLINE][TAB]Benito Pablo Ju&#225;rez Garc&#237;a was a Zapotec Amerindian who served five terms as president of Mexico, he was the first Mexican leader who did not have a military background, and also the first full-blooded indigenous national ever to serve as President of Mexico and to lead a country in the Western Hemisphere.[PARAGRAPH:1] Ju&#225;rez was born of Indian parents, both of whom died when he was three years old. When he was 12 he left the uncle who was caring for him and joined his sister in the city of Oaxaca, where he began his formal education. He originally studied for the priesthood, but in 1829 he entered the Oaxaca Institute of Arts and Sciences to study law and science. In 1831 he received his law degree and also won his first public office, a seat on the municipal council. Impeccably honest, he never used public office for personal gain, and his modest way of life reflected his simple tastes even after his marriage in 1843 to Margarita Maza, an Oaxaca girl 17 years younger than he. Politics soon became his life�s work: he was a member of both the state and national legislatures, he became a judge in 1841, and he served as governor of his state, a post that brought him into national prominence. During these years in politics Ju&#225;rez began to formulate liberal solutions for his country�s many problems. The road to economic health, he concluded, lay in substituting capitalism for the stifling economic monopoly held by the Roman Catholic Church and the landed aristocracy. He also believed that political stability could be achieved only through the adoption of a constitutional form of government based on a federal system.[PARAGRAPH:1] But the return of the conservatives to power in the elections of 1853 doomed imminent reform in Mexico. Many prominent liberals were exiled, including Ju&#225;rez. From December 1853 until June 1855 he lived in New Orleans in the United States in semi poverty, occupying himself by exchanging ideas with other Mexicans and laying plans to return home. The opportunity to put his ideas into action finally came in 1855 when the liberals took control of the national government, and Ju&#225;rez left the United States to join the new administration of Juan &#193;lvarez as minister of justice and public instruction.[PARAGRAPH:1] The liberals carried out three major reforms, all supported by Ju&#225;rez. As minister of justice he was responsible for the law bearing his name that abolished special courts for the clergy and military, for he felt that juridical equality would help promote social equality. In June 1856 the government published the Ley Lerdo ("Lerdo Law," named after the minister of finance). Although it forced the church to sell its property, it contained no threat of confiscation. By breaking up large landed estates, the government hoped that many Mexicans would be able to acquire property and thus create the middle class that it believed was essential for a strong and stable Mexico. The climax of the reform was the liberal constitution promulgated in February 1857. In the same year, Ignacio Comonfort was elected president, and the new Congress chose Ju&#225;rez to preside over the Supreme Court and therefore, according to the constitution, also to serve as the effective vice president of Mexico. The court position was critical in determining his future career, for when the conservatives revolted and ousted Comonfort in January 1858, Ju&#225;rez had a legal claim to the presidency. Lacking troops to control the area around Mexico City, however, he retired to the eastern port city of Veracruz. At Veracruz Ju&#225;rez faced serious difficulties, for he had to create a government and hold it together through quarrels, betrayals, and defeat; to enforce and implement the constitution; to maintain armies in the field and defeat the conservative forces. But he was an extraordinarily tenacious and self-sufficient man, able to concentrate his energy and interest, and he proved himself the master of his government. Because the clergy was supporting the conservatives against the legal government, Ju&#225;rez enacted several laws to curb ecclesiastical power. He nationalized all church property, exempting only those buildings actually used for worship and instruction. To weaken clerical influence still further, he also nationalized the cemeteries and put birth registrations and marriages under the civil authority. Finally, the government separated church and state and guaranteed religious liberty to all citizens. [PARAGRAPH:1] By late 1860 the conservatives were faltering, and in January 1861 Ju&#225;rez was able to return to Mexico City and was constitutionally elected president. He was, however, faced with many serious problems: the opposition�s forces still remained intact, the new Congress distrusted its president, and the treasury was virtually empty. As a solution to this latter problem Ju&#225;rez decided in July 1861 to suspend payment on all foreign debts for two years. To safeguard their investments, England, Spain, and France decided to intervene, and by January 1862 the three countries had landed troops at Veracruz. But when Britain and Spain realized that Napoleon III intended to conquer Mexico and control it through a puppet, Archduke Maximilian of Austria, they withdrew their forces. Despite a major defeat at Puebla on May 5, 1862, reinforcements enabled the French to occupy Mexico City in June 1863, and Maximilian soon followed to take control of the government. Forced to leave the capital again, Ju&#225;rez kept himself and his government alive by a long series of retreats that ended only at El Paso del Norte (later named Ciudad Ju&#225;rez) at the Mexican-U.S. border. Early in 1867, as a result of continued Mexican resistance, increased U.S. pressure, and criticism at home, Napoleon decided to withdraw his troops. Soon afterward, Mexican forces captured Maximilian and executed him.[PARAGRAPH:1] Ju&#225;rez then made the greatest mistake of his political career. In August 1867, shortly after his return to Mexico City, he issued a call for national elections and for a referendum on whether Congress should make five amendments to the constitution. Public opinion did not object to the president�s running for re-election, but the constitutional changes aroused immediate and violent reaction in many quarters, including those sympathetic to Ju&#225;rez. His proposed changes came under fire because amendments enacted by Congress alone were unconstitutional, and the changes would strengthen the executive power. Ju&#225;rez was re-elected, but the controversy had created such a crisis of confidence that the administration did not even bother to count the votes on the amendments. Despite illness and personal loss�in October 1870 Ju&#225;rez suffered a stroke and three months later his wife died�he decided to run again in 1871. After a bitter campaign he was re-elected, but many of his countrymen, refusing to accept the result as final, took up arms against him. Ju&#225;rez spent the last few months of his life trying to restore peace. He died of a heart attack in 1872.[PARAGRAPH:1] March 21 is a day set to commemorate Juarez. This date has become a national holiday in Mexico, which has continued to grow in acceptance within the Mexican Culture. </English>
+		<Russian>[H1]Benito Juбrez[\H1][NEWLINE][BOLD]Five Times President of Mexico[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]March 21, 1806 - July 18, 1872[PARAGRAPH:2:1][BOLD]Background:[\BOLD][NEWLINE][TAB]Benito Pablo Juбrez Garcнa was a Zapotec Amerindian who served five terms as president of Mexico, he was the first Mexican leader who did not have a military background, and also the first full-blooded indigenous national ever to serve as President of Mexico and to lead a country in the Western Hemisphere.[PARAGRAPH:1] Juбrez was born of Indian parents, both of whom died when he was three years old. When he was 12 he left the uncle who was caring for him and joined his sister in the city of Oaxaca, where he began his formal education. He originally studied for the priesthood, but in 1829 he entered the Oaxaca Institute of Arts and Sciences to study law and science. In 1831 he received his law degree and also won his first public office, a seat on the municipal council. Impeccably honest, he never used public office for personal gain, and his modest way of life reflected his simple tastes even after his marriage in 1843 to Margarita Maza, an Oaxaca girl 17 years younger than he. Politics soon became his lifes work: he was a member of both the state and national legislatures, he became a judge in 1841, and he served as governor of his state, a post that brought him into national prominence. During these years in politics Juбrez began to formulate liberal solutions for his countrys many problems. The road to economic health, he concluded, lay in substituting capitalism for the stifling economic monopoly held by the Roman Catholic Church and the landed aristocracy. He also believed that political stability could be achieved only through the adoption of a constitutional form of government based on a federal system.[PARAGRAPH:1] But the return of the conservatives to power in the elections of 1853 doomed imminent reform in Mexico. Many prominent liberals were exiled, including Juбrez. From December 1853 until June 1855 he lived in New Orleans in the United States in semi poverty, occupying himself by exchanging ideas with other Mexicans and laying plans to return home. The opportunity to put his ideas into action finally came in 1855 when the liberals took control of the national government, and Juбrez left the United States to join the new administration of Juan Бlvarez as minister of justice and public instruction.[PARAGRAPH:1] The liberals carried out three major reforms, all supported by Juбrez. As minister of justice he was responsible for the law bearing his name that abolished special courts for the clergy and military, for he felt that juridical equality would help promote social equality. In June 1856 the government published the Ley Lerdo ("Lerdo Law," named after the minister of finance). Although it forced the church to sell its property, it contained no threat of confiscation. By breaking up large landed estates, the government hoped that many Mexicans would be able to acquire property and thus create the middle class that it believed was essential for a strong and stable Mexico. The climax of the reform was the liberal constitution promulgated in February 1857. In the same year, Ignacio Comonfort was elected president, and the new Congress chose Juбrez to preside over the Supreme Court and therefore, according to the constitution, also to serve as the effective vice president of Mexico. The court position was critical in determining his future career, for when the conservatives revolted and ousted Comonfort in January 1858, Juбrez had a legal claim to the presidency. Lacking troops to control the area around Mexico City, however, he retired to the eastern port city of Veracruz. At Veracruz Juбrez faced serious difficulties, for he had to create a government and hold it together through quarrels, betrayals, and defeat; to enforce and implement the constitution; to maintain armies in the field and defeat the conservative forces. But he was an extraordinarily tenacious and self-sufficient man, able to concentrate his energy and interest, and he proved himself the master of his government. Because the clergy was supporting the conservatives against the legal government, Juбrez enacted several laws to curb ecclesiastical power. He nationalized all church property, exempting only those buildings actually used for worship and instruction. To weaken clerical influence still further, he also nationalized the cemeteries and put birth registrations and marriages under the civil authority. Finally, the government separated church and state and guaranteed religious liberty to all citizens. [PARAGRAPH:1] By late 1860 the conservatives were faltering, and in January 1861 Juбrez was able to return to Mexico City and was constitutionally elected president. He was, however, faced with many serious problems: the oppositions forces still remained intact, the new Congress distrusted its president, and the treasury was virtually empty. As a solution to this latter problem Juбrez decided in July 1861 to suspend payment on all foreign debts for two years. To safeguard their investments, England, Spain, and France decided to intervene, and by January 1862 the three countries had landed troops at Veracruz. But when Britain and Spain realized that Napoleon III intended to conquer Mexico and control it through a puppet, Archduke Maximilian of Austria, they withdrew their forces. Despite a major defeat at Puebla on May 5, 1862, reinforcements enabled the French to occupy Mexico City in June 1863, and Maximilian soon followed to take control of the government. Forced to leave the capital again, Juбrez kept himself and his government alive by a long series of retreats that ended only at El Paso del Norte (later named Ciudad Juбrez) at the Mexican-U.S. border. Early in 1867, as a result of continued Mexican resistance, increased U.S. pressure, and criticism at home, Napoleon decided to withdraw his troops. Soon afterward, Mexican forces captured Maximilian and executed him.[PARAGRAPH:1] Juбrez then made the greatest mistake of his political career. In August 1867, shortly after his return to Mexico City, he issued a call for national elections and for a referendum on whether Congress should make five amendments to the constitution. Public opinion did not object to the presidents running for re-election, but the constitutional changes aroused immediate and violent reaction in many quarters, including those sympathetic to Juбrez. His proposed changes came under fire because amendments enacted by Congress alone were unconstitutional, and the changes would strengthen the executive power. Juбrez was re-elected, but the controversy had created such a crisis of confidence that the administration did not even bother to count the votes on the amendments. Despite illness and personal lossin October 1870 Juбrez suffered a stroke and three months later his wife diedhe decided to run again in 1871. After a bitter campaign he was re-elected, but many of his countrymen, refusing to accept the result as final, took up arms against him. Juбrez spent the last few months of his life trying to restore peace. He died of a heart attack in 1872.[PARAGRAPH:1] March 21 is a day set to commemorate Juarez. This date has become a national holiday in Mexico, which has continued to grow in acceptance within the Mexican Culture. </Russian>
+		<English>[H1]Benito Juбrez[\H1][NEWLINE][BOLD]Five Times President of Mexico[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]March 21, 1806 - July 18, 1872[PARAGRAPH:2:1][BOLD]Background:[\BOLD][NEWLINE][TAB]Benito Pablo Juбrez Garcнa was a Zapotec Amerindian who served five terms as president of Mexico, he was the first Mexican leader who did not have a military background, and also the first full-blooded indigenous national ever to serve as President of Mexico and to lead a country in the Western Hemisphere.[PARAGRAPH:1] Juбrez was born of Indian parents, both of whom died when he was three years old. When he was 12 he left the uncle who was caring for him and joined his sister in the city of Oaxaca, where he began his formal education. He originally studied for the priesthood, but in 1829 he entered the Oaxaca Institute of Arts and Sciences to study law and science. In 1831 he received his law degree and also won his first public office, a seat on the municipal council. Impeccably honest, he never used public office for personal gain, and his modest way of life reflected his simple tastes even after his marriage in 1843 to Margarita Maza, an Oaxaca girl 17 years younger than he. Politics soon became his lifes work: he was a member of both the state and national legislatures, he became a judge in 1841, and he served as governor of his state, a post that brought him into national prominence. During these years in politics Juбrez began to formulate liberal solutions for his countrys many problems. The road to economic health, he concluded, lay in substituting capitalism for the stifling economic monopoly held by the Roman Catholic Church and the landed aristocracy. He also believed that political stability could be achieved only through the adoption of a constitutional form of government based on a federal system.[PARAGRAPH:1] But the return of the conservatives to power in the elections of 1853 doomed imminent reform in Mexico. Many prominent liberals were exiled, including Juбrez. From December 1853 until June 1855 he lived in New Orleans in the United States in semi poverty, occupying himself by exchanging ideas with other Mexicans and laying plans to return home. The opportunity to put his ideas into action finally came in 1855 when the liberals took control of the national government, and Juбrez left the United States to join the new administration of Juan Бlvarez as minister of justice and public instruction.[PARAGRAPH:1] The liberals carried out three major reforms, all supported by Juбrez. As minister of justice he was responsible for the law bearing his name that abolished special courts for the clergy and military, for he felt that juridical equality would help promote social equality. In June 1856 the government published the Ley Lerdo ("Lerdo Law," named after the minister of finance). Although it forced the church to sell its property, it contained no threat of confiscation. By breaking up large landed estates, the government hoped that many Mexicans would be able to acquire property and thus create the middle class that it believed was essential for a strong and stable Mexico. The climax of the reform was the liberal constitution promulgated in February 1857. In the same year, Ignacio Comonfort was elected president, and the new Congress chose Juбrez to preside over the Supreme Court and therefore, according to the constitution, also to serve as the effective vice president of Mexico. The court position was critical in determining his future career, for when the conservatives revolted and ousted Comonfort in January 1858, Juбrez had a legal claim to the presidency. Lacking troops to control the area around Mexico City, however, he retired to the eastern port city of Veracruz. At Veracruz Juбrez faced serious difficulties, for he had to create a government and hold it together through quarrels, betrayals, and defeat; to enforce and implement the constitution; to maintain armies in the field and defeat the conservative forces. But he was an extraordinarily tenacious and self-sufficient man, able to concentrate his energy and interest, and he proved himself the master of his government. Because the clergy was supporting the conservatives against the legal government, Juбrez enacted several laws to curb ecclesiastical power. He nationalized all church property, exempting only those buildings actually used for worship and instruction. To weaken clerical influence still further, he also nationalized the cemeteries and put birth registrations and marriages under the civil authority. Finally, the government separated church and state and guaranteed religious liberty to all citizens. [PARAGRAPH:1] By late 1860 the conservatives were faltering, and in January 1861 Juбrez was able to return to Mexico City and was constitutionally elected president. He was, however, faced with many serious problems: the oppositions forces still remained intact, the new Congress distrusted its president, and the treasury was virtually empty. As a solution to this latter problem Juбrez decided in July 1861 to suspend payment on all foreign debts for two years. To safeguard their investments, England, Spain, and France decided to intervene, and by January 1862 the three countries had landed troops at Veracruz. But when Britain and Spain realized that Napoleon III intended to conquer Mexico and control it through a puppet, Archduke Maximilian of Austria, they withdrew their forces. Despite a major defeat at Puebla on May 5, 1862, reinforcements enabled the French to occupy Mexico City in June 1863, and Maximilian soon followed to take control of the government. Forced to leave the capital again, Juбrez kept himself and his government alive by a long series of retreats that ended only at El Paso del Norte (later named Ciudad Juбrez) at the Mexican-U.S. border. Early in 1867, as a result of continued Mexican resistance, increased U.S. pressure, and criticism at home, Napoleon decided to withdraw his troops. Soon afterward, Mexican forces captured Maximilian and executed him.[PARAGRAPH:1] Juбrez then made the greatest mistake of his political career. In August 1867, shortly after his return to Mexico City, he issued a call for national elections and for a referendum on whether Congress should make five amendments to the constitution. Public opinion did not object to the presidents running for re-election, but the constitutional changes aroused immediate and violent reaction in many quarters, including those sympathetic to Juбrez. His proposed changes came under fire because amendments enacted by Congress alone were unconstitutional, and the changes would strengthen the executive power. Juбrez was re-elected, but the controversy had created such a crisis of confidence that the administration did not even bother to count the votes on the amendments. Despite illness and personal lossin October 1870 Juбrez suffered a stroke and three months later his wife diedhe decided to run again in 1871. After a bitter campaign he was re-elected, but many of his countrymen, refusing to accept the result as final, took up arms against him. Juбrez spent the last few months of his life trying to restore peace. He died of a heart attack in 1872.[PARAGRAPH:1] March 21 is a day set to commemorate Juarez. This date has become a national holiday in Mexico, which has continued to grow in acceptance within the Mexican Culture. </English>
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_JUAREZ_1</Tag>
@@ -350,7 +350,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_CARDENAS</Tag>
-		<Russian>&#202;&#224;&#240;&#228;&#229;&#237;&#224;&#241;</Russian>
+		<Russian>Карденас</Russian>
 		<English>Cardenas</English>
 	</TEXT>
 	<TEXT>
@@ -360,37 +360,37 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_CARDENAS_PEDIA</Tag>
-		<Russian>[H1]Lazaro Cardenas del R&#237;o[\H1][NEWLINE][BOLD]President of Mexico [\BOLD][NEWLINE][BOLD]Lived: [\BOLD] May 21, 1895 - October 19, 1970 AD [NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][PARAGRAPH:1]L&#225;zaro C&#225;rdenas was born in a lower-middle class family in the village of Jiquilpan, Michoac&#225;n. He supported his family (including his mother and 7 younger siblings) from age 16 on after the death of his father. He worked in a printing shop; although he had little formal education he used every opportunity to educate himself.[PARAGRAPH:1]C&#225;rdenas originally set his sights at becoming a teacher, but was drawn into politics and the military during the Mexican Revolution after Victoriano Huerta overthrew President Francisco Madero. He backed Plutarco El&#237;as Calles, and after Calles became President, C&#225;rdenas became governor of Michoac&#225;n in 1928. He became known for his progressive program of building roads and schools and the unusual strict honesty of his administration.[PARAGRAPH:1]Calles continued to dominate Mexico after his presidency with administrations which were his puppets. He selected C&#225;rdenas to be the PRI's presidential candidate on the assumption that he could control C&#225;rdenas as he had controlled others. C&#225;rdenas's first move once in office was to have his presidential salary cut in half. Even more surprising moves would follow. After establishing himself in the presidency, C&#225;rdenas had Calles and dozens of his corrupt associates arrested or deported to the United States, which was greeted with great enthusiasm by the majority of the public.[PARAGRAPH:1]In 1938 C&#225;rdenas nationalized Mexico's petroleum reserves and expropriated the equipment of the foreign oil companies in Mexico. Even though compensation for the expropriated assests was included in this legislation, this move aroused considerable hostility in the international business community and foreign governments, and Mexican oil and other goods were boycotted. However, with the outbreak of World War II, oil became a highly sought-after commodity and the boycott ended.[PARAGRAPH:1]After his presidential term he served as Mexico's secretary of defense through 1945.[PARAGRAPH:1]It is often said that C&#225;rdenas was the only president from the PRI who did not use the office to make himself wealthy. He retired to a modest home by Lake P&#225;tzcuaro and worked the rest of his life supervising irrigation projects and promoting free medical clinics and education for the nation's poor.[PARAGRAPH:1]L&#225;zaro C&#225;rdenas died of cancer in Mexico City. His son Cuauht&#233;moc C&#225;rdenas is a prominent Mexican politician.[PARAGRAPH:1]</Russian>
-		<English>[H1]Lazaro Cardenas del R&#237;o[\H1][NEWLINE][BOLD]President of Mexico [\BOLD][NEWLINE][BOLD]Lived: [\BOLD] May 21, 1895 - October 19, 1970 AD [NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][PARAGRAPH:1]L&#225;zaro C&#225;rdenas was born in a lower-middle class family in the village of Jiquilpan, Michoac&#225;n. He supported his family (including his mother and 7 younger siblings) from age 16 on after the death of his father. He worked in a printing shop; although he had little formal education he used every opportunity to educate himself.[PARAGRAPH:1]C&#225;rdenas originally set his sights at becoming a teacher, but was drawn into politics and the military during the Mexican Revolution after Victoriano Huerta overthrew President Francisco Madero. He backed Plutarco El&#237;as Calles, and after Calles became President, C&#225;rdenas became governor of Michoac&#225;n in 1928. He became known for his progressive program of building roads and schools and the unusual strict honesty of his administration.[PARAGRAPH:1]Calles continued to dominate Mexico after his presidency with administrations which were his puppets. He selected C&#225;rdenas to be the PRI's presidential candidate on the assumption that he could control C&#225;rdenas as he had controlled others. C&#225;rdenas's first move once in office was to have his presidential salary cut in half. Even more surprising moves would follow. After establishing himself in the presidency, C&#225;rdenas had Calles and dozens of his corrupt associates arrested or deported to the United States, which was greeted with great enthusiasm by the majority of the public.[PARAGRAPH:1]In 1938 C&#225;rdenas nationalized Mexico's petroleum reserves and expropriated the equipment of the foreign oil companies in Mexico. Even though compensation for the expropriated assests was included in this legislation, this move aroused considerable hostility in the international business community and foreign governments, and Mexican oil and other goods were boycotted. However, with the outbreak of World War II, oil became a highly sought-after commodity and the boycott ended.[PARAGRAPH:1]After his presidential term he served as Mexico's secretary of defense through 1945.[PARAGRAPH:1]It is often said that C&#225;rdenas was the only president from the PRI who did not use the office to make himself wealthy. He retired to a modest home by Lake P&#225;tzcuaro and worked the rest of his life supervising irrigation projects and promoting free medical clinics and education for the nation's poor.[PARAGRAPH:1]L&#225;zaro C&#225;rdenas died of cancer in Mexico City. His son Cuauht&#233;moc C&#225;rdenas is a prominent Mexican politician.[PARAGRAPH:1]</English>
+		<Russian>[H1]Lazaro Cardenas del Rнo[\H1][NEWLINE][BOLD]President of Mexico [\BOLD][NEWLINE][BOLD]Lived: [\BOLD] May 21, 1895 - October 19, 1970 AD [NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][PARAGRAPH:1]Lбzaro Cбrdenas was born in a lower-middle class family in the village of Jiquilpan, Michoacбn. He supported his family (including his mother and 7 younger siblings) from age 16 on after the death of his father. He worked in a printing shop; although he had little formal education he used every opportunity to educate himself.[PARAGRAPH:1]Cбrdenas originally set his sights at becoming a teacher, but was drawn into politics and the military during the Mexican Revolution after Victoriano Huerta overthrew President Francisco Madero. He backed Plutarco Elнas Calles, and after Calles became President, Cбrdenas became governor of Michoacбn in 1928. He became known for his progressive program of building roads and schools and the unusual strict honesty of his administration.[PARAGRAPH:1]Calles continued to dominate Mexico after his presidency with administrations which were his puppets. He selected Cбrdenas to be the PRI's presidential candidate on the assumption that he could control Cбrdenas as he had controlled others. Cбrdenas's first move once in office was to have his presidential salary cut in half. Even more surprising moves would follow. After establishing himself in the presidency, Cбrdenas had Calles and dozens of his corrupt associates arrested or deported to the United States, which was greeted with great enthusiasm by the majority of the public.[PARAGRAPH:1]In 1938 Cбrdenas nationalized Mexico's petroleum reserves and expropriated the equipment of the foreign oil companies in Mexico. Even though compensation for the expropriated assests was included in this legislation, this move aroused considerable hostility in the international business community and foreign governments, and Mexican oil and other goods were boycotted. However, with the outbreak of World War II, oil became a highly sought-after commodity and the boycott ended.[PARAGRAPH:1]After his presidential term he served as Mexico's secretary of defense through 1945.[PARAGRAPH:1]It is often said that Cбrdenas was the only president from the PRI who did not use the office to make himself wealthy. He retired to a modest home by Lake Pбtzcuaro and worked the rest of his life supervising irrigation projects and promoting free medical clinics and education for the nation's poor.[PARAGRAPH:1]Lбzaro Cбrdenas died of cancer in Mexico City. His son Cuauhtйmoc Cбrdenas is a prominent Mexican politician.[PARAGRAPH:1]</Russian>
+		<English>[H1]Lazaro Cardenas del Rнo[\H1][NEWLINE][BOLD]President of Mexico [\BOLD][NEWLINE][BOLD]Lived: [\BOLD] May 21, 1895 - October 19, 1970 AD [NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][PARAGRAPH:1]Lбzaro Cбrdenas was born in a lower-middle class family in the village of Jiquilpan, Michoacбn. He supported his family (including his mother and 7 younger siblings) from age 16 on after the death of his father. He worked in a printing shop; although he had little formal education he used every opportunity to educate himself.[PARAGRAPH:1]Cбrdenas originally set his sights at becoming a teacher, but was drawn into politics and the military during the Mexican Revolution after Victoriano Huerta overthrew President Francisco Madero. He backed Plutarco Elнas Calles, and after Calles became President, Cбrdenas became governor of Michoacбn in 1928. He became known for his progressive program of building roads and schools and the unusual strict honesty of his administration.[PARAGRAPH:1]Calles continued to dominate Mexico after his presidency with administrations which were his puppets. He selected Cбrdenas to be the PRI's presidential candidate on the assumption that he could control Cбrdenas as he had controlled others. Cбrdenas's first move once in office was to have his presidential salary cut in half. Even more surprising moves would follow. After establishing himself in the presidency, Cбrdenas had Calles and dozens of his corrupt associates arrested or deported to the United States, which was greeted with great enthusiasm by the majority of the public.[PARAGRAPH:1]In 1938 Cбrdenas nationalized Mexico's petroleum reserves and expropriated the equipment of the foreign oil companies in Mexico. Even though compensation for the expropriated assests was included in this legislation, this move aroused considerable hostility in the international business community and foreign governments, and Mexican oil and other goods were boycotted. However, with the outbreak of World War II, oil became a highly sought-after commodity and the boycott ended.[PARAGRAPH:1]After his presidential term he served as Mexico's secretary of defense through 1945.[PARAGRAPH:1]It is often said that Cбrdenas was the only president from the PRI who did not use the office to make himself wealthy. He retired to a modest home by Lake Pбtzcuaro and worked the rest of his life supervising irrigation projects and promoting free medical clinics and education for the nation's poor.[PARAGRAPH:1]Lбzaro Cбrdenas died of cancer in Mexico City. His son Cuauhtйmoc Cбrdenas is a prominent Mexican politician.[PARAGRAPH:1]</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_DESC</Tag>
-		<Russian>&#207;&#238;&#235;&#232;&#237;&#229;&#231;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Полинезийцы</Russian>
 		<English>The Polynesians</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_SHORT_DESC</Tag>
-		<Russian>&#207;&#238;&#235;&#232;&#237;&#229;&#231;&#232;&#255;</Russian>
+		<Russian>Полинезия</Russian>
 		<English>Polynesia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_ADJECTIVE</Tag>
-		<Russian>&#207;&#238;&#235;&#232;&#237;&#229;&#231;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Полинезийцы</Russian>
 		<English>Polynesian</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_AHOEITU</Tag>
-		<Russian>&#192;&#245;&#238;&#253;&#232;&#242;&#243;</Russian>
+		<Russian>Ахоэиту</Russian>
 		<English>Aho'eitu</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_POLYNESIAN_WAKA</Tag>
-		<Russian>&#194;&#224;&#234;&#224;</Russian>
+		<Russian>Вака</Russian>
 		<English>Waka</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_POLYNESIAN_MARAE</Tag>
-		<Russian>&#204;&#224;&#235;&#224;&#253;</Russian>
+		<Russian>Малаэ</Russian>
 		<English>Mala'e</English>
 	</TEXT>
 	<TEXT>

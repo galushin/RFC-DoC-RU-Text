@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -16,43 +16,43 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_BarbFreeWinsLeft</Tag>
-		<Russian>[COLOR_HIGHLIGHT_TEXT]&#195;&#224;&#240;&#224;&#237;&#242;&#232;&#240;&#238;&#226;&#224;&#237;&#237;&#251;&#245; &#239;&#238;&#225;&#229;&#228; &#237;&#224;&#228; &#226;&#224;&#240;&#226;&#224;&#240;&#224;&#236;&#232;:[SPACE][COLOR_REVERT]</Russian>
+		<Russian>[COLOR_HIGHLIGHT_TEXT]Гарантированных побед над варварами:[SPACE][COLOR_REVERT]</Russian>
 		<English>[COLOR_HIGHLIGHT_TEXT]Barbarian free wins left:[SPACE][COLOR_REVERT]</English>
 		<French>[COLOR_HIGHLIGHT_TEXT]Nombre de victoire garantie contre les barbares:[SPACE][COLOR_REVERT]</French>
-		<German>[COLOR_HIGHLIGHT_TEXT]�brige sichere Siege gegen Barbaren:[SPACE][COLOR_REVERT]</German>
+		<German>[COLOR_HIGHLIGHT_TEXT]Übrige sichere Siege gegen Barbaren:[SPACE][COLOR_REVERT]</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Vittorie barbariche garantite rimaste:[SPACE][COLOR_REVERT]</Italian>
-		<Spanish>[COLOR_HIGHLIGHT_TEXT]N�mero de victorias garantizadas contra los b�rbaros:[SPACE][COLOR_REVERT]</Spanish>
+		<Spanish>[COLOR_HIGHLIGHT_TEXT]Número de victorias garantizadas contra los bárbaros:[SPACE][COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_PressSHIFT</Tag>
-		<Russian>[COLOR_HIGHLIGHT_TEXT]&#205;&#224;&#230;&#236;&#232;&#242;&#229; SHIFT &#228;&#235;&#255; &#239;&#238;&#228;&#240;&#238;&#225;&#237;&#238;&#241;&#242;&#229;&#233;l[COLOR_REVERT]</Russian>
+		<Russian>[COLOR_HIGHLIGHT_TEXT]Нажмите SHIFT для подробностейl[COLOR_REVERT]</Russian>
 		<English>[COLOR_HIGHLIGHT_TEXT]Press SHIFT for more detail[COLOR_REVERT]</English>
-		<French>[COLOR_HIGHLIGHT_TEXT]Pesez sur  MAJ pour plus de d�tails[COLOR_REVERT]</French>
-		<German>[COLOR_HIGHLIGHT_TEXT]&lt;Umschalt&gt; dr�cken f�r mehr Einzelheiten[COLOR_REVERT]</German>
+		<French>[COLOR_HIGHLIGHT_TEXT]Pesez sur  MAJ pour plus de détails[COLOR_REVERT]</French>
+		<German>[COLOR_HIGHLIGHT_TEXT]&lt;Umschalt&gt; drücken für mehr Einzelheiten[COLOR_REVERT]</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Tieni premuto SHIFT per maggiori dettagli[COLOR_REVERT]</Italian>
-		<Spanish>[COLOR_HIGHLIGHT_TEXT]Oprima SHIFT para m�s detalles[COLOR_REVERT]</Spanish>
+		<Spanish>[COLOR_HIGHLIGHT_TEXT]Oprima SHIFT para más detalles[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_SurvivalOdds</Tag>
-		<Russian>&#216;&#224;&#237;&#241; &#226;&#251;&#230;&#232;&#242;&#252;:[SPACE]</Russian>
+		<Russian>Шанс выжить:[SPACE]</Russian>
 		<English>Survival odds:[SPACE]</English>
 		<French>Chances de survie:[SPACE]</French>
-		<German>�berlebenschance:[SPACE]</German>
-		<Italian>Probabilit� di sopravvivenza:[SPACE]</Italian>
+		<German>Überlebenschance:[SPACE]</German>
+		<Italian>Probabilità di sopravvivenza:[SPACE]</Italian>
 		<Spanish>Probabilidad de sobrevivencia:[SPACE]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_SurvivalGuaranteed</Tag>
-		<Russian>[COLOR_HIGHLIGHT_TEXT]&#194;&#251;&#230;&#232;&#226;&#224;&#237;&#232;&#229; &#227;&#224;&#240;&#224;&#237;&#242;&#232;&#240;&#238;&#226;&#224;&#237;&#238;![COLOR_REVERT]</Russian>
+		<Russian>[COLOR_HIGHLIGHT_TEXT]Выживание гарантировано![COLOR_REVERT]</Russian>
 		<English>[COLOR_HIGHLIGHT_TEXT]Survival Guaranteed![COLOR_REVERT]</English>
 		<French>[COLOR_HIGHLIGHT_TEXT]Survie Garantie![COLOR_REVERT]</French>
-		<German>[COLOR_HIGHLIGHT_TEXT]Sicheres �berleben![COLOR_REVERT]</German>
+		<German>[COLOR_HIGHLIGHT_TEXT]Sicheres Überleben![COLOR_REVERT]</German>
 		<Italian>[COLOR_HIGHLIGHT_TEXT]Sopravvivenza certa![COLOR_REVERT]</Italian>
-		<Spanish>[COLOR_HIGHLIGHT_TEXT]�Sobrevivencia garantizada![COLOR_REVERT]</Spanish>
+		<Spanish>[COLOR_HIGHLIGHT_TEXT]¡Sobrevivencia garantizada![COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_Victory</Tag>
-		<Russian>[COLOR_POSITIVE_TEXT]&#207;&#238;&#225;&#229;&#228;&#224;[COLOR_REVERT]</Russian>
+		<Russian>[COLOR_POSITIVE_TEXT]Победа[COLOR_REVERT]</Russian>
 		<English>[COLOR_POSITIVE_TEXT]Victory[COLOR_REVERT]</English>
 		<French>[COLOR_POSITIVE_TEXT]Victoire[COLOR_REVERT]</French>
 		<German>[COLOR_POSITIVE_TEXT]Sieg[COLOR_REVERT]</German>
@@ -61,16 +61,16 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_Defeat</Tag>
-		<Russian>[COLOR_NEGATIVE_TEXT]&#207;&#238;&#240;&#224;&#230;&#229;&#237;&#232;&#229;[COLOR_REVERT]</Russian>
+		<Russian>[COLOR_NEGATIVE_TEXT]Поражение[COLOR_REVERT]</Russian>
 		<English>[COLOR_NEGATIVE_TEXT]Defeat[COLOR_REVERT]</English>
-		<French>[COLOR_NEGATIVE_TEXT]D�faite[COLOR_REVERT]</French>
+		<French>[COLOR_NEGATIVE_TEXT]Défaite[COLOR_REVERT]</French>
 		<German>[COLOR_NEGATIVE_TEXT]Niederlage[COLOR_REVERT]</German>
 		<Italian>[COLOR_NEGATIVE_TEXT]Sconfitta[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_NEGATIVE_TEXT]Derrota[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_Withdraw</Tag>
-		<Russian>[COLOR_POSITIVE_TEXT]&#206;&#242;&#225;&#238;&#233;[COLOR_REVERT]</Russian>
+		<Russian>[COLOR_POSITIVE_TEXT]Отбой[COLOR_REVERT]</Russian>
 		<English>[COLOR_POSITIVE_TEXT]Withdraw[COLOR_REVERT]</English>
 		<French>[COLOR_POSITIVE_TEXT]Se retirer[COLOR_REVERT]</French>
 		<German>[COLOR_POSITIVE_TEXT]Flucht[COLOR_REVERT]</German>
@@ -79,16 +79,16 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_Retreat</Tag>
-		<Russian>[COLOR_UNIT_TEXT]&#206;&#242;&#241;&#242;&#243;&#239;&#235;&#229;&#237;&#232;&#229;[COLOR_REVERT]</Russian>
+		<Russian>[COLOR_UNIT_TEXT]Отступление[COLOR_REVERT]</Russian>
 		<English>[COLOR_UNIT_TEXT]Retreat[COLOR_REVERT]</English>
 		<French>[COLOR_UNIT_TEXT]Retraite[COLOR_REVERT]</French>
-		<German>[COLOR_UNIT_TEXT]R�ckzug[COLOR_REVERT]</German>
+		<German>[COLOR_UNIT_TEXT]Rückzug[COLOR_REVERT]</German>
 		<Italian>[COLOR_UNIT_TEXT]Ritirata[COLOR_REVERT]</Italian>
 		<Spanish>[COLOR_UNIT_TEXT]Retirada[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_AverageHP</Tag>
-		<Russian>[NEWLINE]&#209;&#240;&#229;&#228;&#237;&#229;&#229; HP:[SPACE]</Russian>
+		<Russian>[NEWLINE]Среднее HP:[SPACE]</Russian>
 		<English>[NEWLINE]Average HP:[SPACE]</English>
 		<French>[NEWLINE]PV Moyen:[SPACE]</French>
 		<German>[NEWLINE]Mittlere TP:[SPACE]</German>
@@ -97,7 +97,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_Unharmed</Tag>
-		<Russian>[NEWLINE]&#193;&#229;&#231; &#239;&#238;&#242;&#229;&#240;&#252;:[SPACE]</Russian>
+		<Russian>[NEWLINE]Без потерь:[SPACE]</Russian>
 		<English>[NEWLINE]Unharmed:[SPACE]</English>
 		<French>[NEWLINE]Indemne:[SPACE]</French>
 		<German>[NEWLINE]Unversehrt:[SPACE]</German>
@@ -106,7 +106,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_UnroundedXP</Tag>
-		<Russian>[NEWLINE]&#205;&#229;&#238;&#234;&#240;&#243;&#227;&#235;&#229;&#237;&#237;&#251;&#229; XP:[SPACE]</Russian>
+		<Russian>[NEWLINE]Неокругленные XP:[SPACE]</Russian>
 		<English>[NEWLINE]Unrounded XP:[SPACE]</English>
 		<French>[NEWLINE]EXP Non-arrondit:[SPACE]</French>
 		<German>[NEWLINE]Ungerundete EP:[SPACE]</German>
@@ -115,7 +115,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_TotalDefenseModifier</Tag>
-		<Russian>[NEWLINE]&#200;&#242;&#238;&#227;&#238;&#226;&#251;&#233; &#236;&#238;&#228;&#232;&#244;&#232;&#234;&#224;&#242;&#238;&#240; &#231;&#224;&#249;&#232;&#242;&#251;:[SPACE]</Russian>
+		<Russian>[NEWLINE]Итоговый модификатор защиты:[SPACE]</Russian>
 		<English>[NEWLINE]Total defense modifier:[SPACE]</English>
 		<French>[NEWLINE]Modificateur Total de defense:[SPACE]</French>
 		<German>[NEWLINE]Verteidigungsmodifikator absolut:[SPACE]</German>
@@ -124,7 +124,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_AttackModifiers</Tag>
-		<Russian>[NEWLINE][COLOR_POSITIVE_TEXT]&#204;&#238;&#228;&#232;&#244;&#232;&#234;&#224;&#242;&#238;&#240;&#251; &#224;&#242;&#224;&#234;&#232;:[COLOR_REVERT]</Russian>
+		<Russian>[NEWLINE][COLOR_POSITIVE_TEXT]Модификаторы атаки:[COLOR_REVERT]</Russian>
 		<English>[NEWLINE][COLOR_POSITIVE_TEXT]Attack modifiers:[COLOR_REVERT]</English>
 		<French>[NEWLINE][COLOR_POSITIVE_TEXT]Modificateurs d'Attaque:[COLOR_REVERT]</French>
 		<German>[NEWLINE][COLOR_POSITIVE_TEXT]Angriffsmodifikatoren:[COLOR_REVERT]</German>
@@ -133,9 +133,9 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_DefenseModifiers</Tag>
-		<Russian>[NEWLINE][COLOR_NEGATIVE_TEXT]&#204;&#238;&#228;&#232;&#244;&#232;&#234;&#224;&#242;&#238;&#240;&#251; &#231;&#224;&#249;&#232;&#242;&#251;:[COLOR_REVERT]</Russian>
+		<Russian>[NEWLINE][COLOR_NEGATIVE_TEXT]Модификаторы защиты:[COLOR_REVERT]</Russian>
 		<English>[NEWLINE][COLOR_NEGATIVE_TEXT]Defense modifiers:[COLOR_REVERT]</English>
-		<French>[NEWLINE][COLOR_NEGATIVE_TEXT]Modificateurs de D�fense:[COLOR_REVERT]</French>
+		<French>[NEWLINE][COLOR_NEGATIVE_TEXT]Modificateurs de Défense:[COLOR_REVERT]</French>
 		<German>[NEWLINE][COLOR_NEGATIVE_TEXT]Verteidigungsmodifikatoren:[COLOR_REVERT]</German>
 		<Italian>[NEWLINE][COLOR_NEGATIVE_TEXT]Modificatori difensivi:[COLOR_REVERT]</Italian>
 		<Spanish>[NEWLINE][COLOR_NEGATIVE_TEXT]Modificadores defensivos:[COLOR_REVERT]</Spanish>
@@ -144,16 +144,16 @@
 		<Tag>TXT_ACO_GuaranteedNoDefenderHit</Tag>
 		<Russian>[NEWLINE][COLOR_HIGHLIGHT_TEXT]Guaranteed! Defender cannot score a hit.[COLOR_REVERT]</Russian>
 		<English>[NEWLINE][COLOR_HIGHLIGHT_TEXT]Guaranteed! Defender cannot score a hit.[COLOR_REVERT]</English>
-		<French>[NEWLINE][COLOR_HIGHLIGHT_TEXT]C'est garantie! L'unit� d�fensive ne peut marquer de coup.[COLOR_REVERT]</French>
+		<French>[NEWLINE][COLOR_HIGHLIGHT_TEXT]C'est garantie! L'unité défensive ne peut marquer de coup.[COLOR_REVERT]</French>
 		<German>[NEWLINE][COLOR_HIGHLIGHT_TEXT]Sicher! Der Verteidiger kann keinen Treffer landen.[COLOR_REVERT]</German>
 		<Italian>[NEWLINE][COLOR_HIGHLIGHT_TEXT]Certa! I difensori non possono colpire neppure una volta.[COLOR_REVERT]</Italian>
-		<Spanish>[NEWLINE][COLOR_HIGHLIGHT_TEXT]�Garantizado! El defensor no puede dar en el blanco.[COLOR_REVERT]</Spanish>
+		<Spanish>[NEWLINE][COLOR_HIGHLIGHT_TEXT]¡Garantizado! El defensor no puede dar en el blanco.[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_HitsAt</Tag>
 		<Russian>hits at</Russian>
 		<English>hits at</English>
-		<French>frappe �</French>
+		<French>frappe à</French>
 		<German>trifft</German>
 		<Italian>colpisce a</Italian>
 		<Spanish>golpea a</Spanish>

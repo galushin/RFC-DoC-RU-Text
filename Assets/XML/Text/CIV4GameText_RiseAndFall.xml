@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,243 +6,243 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_NEWCIV_TITLE</Tag>
-		<Russian>&#199;&#224;&#240;&#238;&#228;&#232;&#235;&#224;&#241;&#252; &#237;&#238;&#226;&#224;&#255; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#255;</Russian>
+		<Russian>Зародилась новая цивилизация</Russian>
 		<English>A new civilization is being born</English>
 		<French>Naissance d'une nouvelle civilisation</French>
 		<German>Eine neue Zivilisation entsteht</German>
-		<Italian>Nasce una nuova civilt&#224;</Italian>
-		<Spanish>Ha nacido una nueva civilizaci&#243;n</Spanish>
+		<Italian>Nasce una nuova civiltа</Italian>
+		<Spanish>Ha nacido una nueva civilizaciуn</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_NEWCIV_MESSAGE2</Tag>
 		<Russian> empire?</Russian>
 		<English> empire?</English>
 		<French> ?</French>
-		<German> Reich �bernehmen?</German>
+		<German> Reich übernehmen?</German>
 		<Italian>?</Italian>
 		<Spanish>  </Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FLIPMESSAGE1</Tag>
-		<Russian>&#209;&#235;&#229;&#228;&#243;&#254;&#249;&#232;&#229; &#227;&#238;&#240;&#238;&#228;&#224;:[NEWLINE][NEWLINE]</Russian>
+		<Russian>Следующие города:[NEWLINE][NEWLINE]</Russian>
 		<English>The following cities:[NEWLINE][NEWLINE]</English>
 		<French>Les villes suivantes :[NEWLINE][NEWLINE]</French>
-		<German>Die folgenden St&#228;dte:[NEWLINE][NEWLINE]</German>
-		<Italian>Le seguenti citt&#224;:[NEWLINE][NEWLINE]</Italian>
+		<German>Die folgenden Stдdte:[NEWLINE][NEWLINE]</German>
+		<Italian>Le seguenti cittа:[NEWLINE][NEWLINE]</Italian>
 		<Spanish>Las ciudades de[NEWLINE][NEWLINE]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FLIPMESSAGE2</Tag>
-		<Russian>[NEWLINE]&#245;&#238;&#242;&#255;&#242; &#239;&#229;&#240;&#229;&#233;&#242;&#232; &#234; &#226;&#238;&#231;&#237;&#232;&#234;&#248;&#229;&#233; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#232;. &#205;&#224;&#248; &#238;&#242;&#234;&#224;&#231; &#236;&#238;&#230;&#229;&#242; &#239;&#240;&#232;&#226;&#229;&#241;&#242;&#232; &#234; &#226;&#238;&#233;&#237;&#229; &#232; &#237;&#229;&#234;&#238;&#242;&#238;&#240;&#251;&#229; &#232;&#231; &#237;&#224;&#248;&#232;&#245; &#226;&#238;&#233;&#241;&#234; &#236;&#238;&#227;&#243;&#242; &#239;&#240;&#232;&#241;&#238;&#229;&#228;&#232;&#237;&#232;&#242;&#252;&#241;&#255; &#234; &#237;&#232;&#236;. &#206;&#242;&#239;&#243;&#241;&#242;&#232;&#242;&#252; &#232;&#245;?</Russian>
+		<Russian>[NEWLINE]хотят перейти к возникшей цивилизации. Наш отказ может привести к войне и некоторые из наших войск могут присоединиться к ним. Отпустить их?</Russian>
 		<English>[NEWLINE]want to flip to a rising civilization. Our refusal may lead to a war and some of our troops may join it. Should we let them go?</English>
-		<French>[NEWLINE]d�sirent rejoindre une civilisation �mergente. Notre refus pourrait conduire � une guerre et certaines de nos troupes pourraient s'y joindre. Devons-nous les laisser y aller ?</French>
-		<German>[NEWLINE]wollen sich einer aufstrebenden Zivilisation anschlie�en. Wenn wir es ihnen verweigern, h�tte das einen Krieg zur Folge und einige unserer Truppen k&#246;nnten sich dem Feind anschlie�en. Sollen wir die St&#228;dte ziehen lassen?</German>
-		<Italian>[NEWLINE]vogliono passare a una nuova civilt&#224;. Il nostro rifiuto potrebbe portare alla guerra e alcune nostre truppe potrebbero unirsi a loro. Le lasciamo andare?</Italian>
-		<Spanish>[NEWLINE]quieren unirse a la incipiente civilizaci&#243;n. Una negativa por nuestra parte podr&#237;a provocar la guerra y parte de nuestras tropas podr&#237;an unirse a ella. �Debemos permitir que se unan?</Spanish>
+		<French>[NEWLINE]désirent rejoindre une civilisation émergente. Notre refus pourrait conduire à une guerre et certaines de nos troupes pourraient s'y joindre. Devons-nous les laisser y aller ?</French>
+		<German>[NEWLINE]wollen sich einer aufstrebenden Zivilisation anschließen. Wenn wir es ihnen verweigern, hätte das einen Krieg zur Folge und einige unserer Truppen kцnnten sich dem Feind anschließen. Sollen wir die Stдdte ziehen lassen?</German>
+		<Italian>[NEWLINE]vogliono passare a una nuova civiltа. Il nostro rifiuto potrebbe portare alla guerra e alcune nostre truppe potrebbero unirsi a loro. Le lasciamo andare?</Italian>
+		<Spanish>[NEWLINE]quieren unirse a la incipiente civilizaciуn. Una negativa por nuestra parte podrнa provocar la guerra y parte de nuestras tropas podrнan unirse a ella. ¿Debemos permitir que se unan?</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FLIP_AGREED</Tag>
-		<Russian>&#204;&#251; &#241;&#238;&#227;&#235;&#224;&#241;&#232;&#235;&#232;&#241;&#252; &#237;&#224; &#239;&#229;&#240;&#229;&#228;&#224;&#247;&#243; &#227;&#238;&#240;&#238;&#228;&#238;&#226;!</Russian>
+		<Russian>Мы согласились на передачу городов!</Russian>
 		<English>We agreed to the flip!</English>
-		<French>Nous acceptons de c�der la ville !</French>
+		<French>Nous acceptons de céder la ville !</French>
 		<German>Wir lassen sie ziehen!</German>
 		<Italian>Siamo d'accordo sul passaggio!</Italian>
-		<Spanish>�Hemos accedido a la cesi&#243;n!</Spanish>
+		<Spanish>¡Hemos accedido a la cesiуn!</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FLIP_REFUSED</Tag>
-		<Russian>&#204;&#251; &#238;&#242;&#234;&#224;&#231;&#224;&#235;&#232;&#241;&#252; &#239;&#229;&#240;&#229;&#228;&#224;&#242;&#252; &#227;&#238;&#240;&#238;&#228;&#224;, &#253;&#242;&#238; &#238;&#231;&#237;&#224;&#247;&#224;&#229;&#242; &#226;&#238;&#233;&#237;&#243;!</Russian>
+		<Russian>Мы отказались передать города, это означает войну!</Russian>
 		<English>We refused the flip, this means war!</English>
-		<French>Nous refusons de c�der la ville, cela signifie la guerre !</French>
+		<French>Nous refusons de céder la ville, cela signifie la guerre !</French>
 		<German>Wir lassen sie nicht ziehen. Das bedeutet Krieg!</German>
-		<Italian>Abbiamo rifiutato il passaggio: ci&#242; significa guerra!</Italian>
-		<Spanish>Nos hemos negado a la cesi&#243;n, �esto significa la guerra!</Spanish>
+		<Italian>Abbiamo rifiutato il passaggio: ciт significa guerra!</Italian>
+		<Spanish>Nos hemos negado a la cesiуn, ¡esto significa la guerra!</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FLIP_BETRAYAL</Tag>
-		<Russian>&#205;&#229;&#234;&#238;&#242;&#238;&#240;&#251;&#229; &#237;&#224;&#248;&#232; &#226;&#238;&#233;&#241;&#234;&#224; &#239;&#229;&#240;&#229;&#248;&#235;&#232; &#237;&#224; &#241;&#242;&#238;&#240;&#238;&#237;&#243; &#226;&#240;&#224;&#227;&#224;, &#247;&#242;&#238;&#225;&#251; &#239;&#238;&#236;&#238;&#247;&#252; &#229;&#227;&#238; &#238;&#241;&#226;&#238;&#225;&#238;&#228;&#232;&#242;&#229;&#235;&#252;&#237;&#238;&#233; &#225;&#238;&#240;&#252;&#225;&#229;.</Russian>
+		<Russian>Некоторые наши войска перешли на сторону врага, чтобы помочь его освободительной борьбе.</Russian>
 		<English>Some of our forces are joining the enemy to help their war of liberation!</English>
-		<French>Certaines de nos forces se joignent � l'ennemi pour les aider dans leur guerre de lib�ration !</French>
-		<German>Einige unserer Streitkr&#228;fte schlie&#223;en sich dem Feind an, um ihm bei seinem Befreiungskrieg zu helfen!</German>
+		<French>Certaines de nos forces se joignent à l'ennemi pour les aider dans leur guerre de libération !</French>
+		<German>Einige unserer Streitkrдfte schlieЯen sich dem Feind an, um ihm bei seinem Befreiungskrieg zu helfen!</German>
 		<Italian>Alcune delle nostre forze si uniscono al nemico per aiutarne la guerra di liberazione!</Italian>
-		<Spanish>�Algunas de nuestras unidades se han unido al enemigo para luchar en su guerra de liberaci&#243;n!</Spanish>
+		<Spanish>¡Algunas de nuestras unidades se han unido al enemigo para luchar en su guerra de liberaciуn!</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FLIP_BETRAYAL_NEW</Tag>
-		<Russian>&#205;&#229;&#234;&#238;&#242;&#238;&#240;&#251;&#229; &#226;&#238;&#233;&#241;&#234;&#224; &#226;&#240;&#224;&#227;&#224; &#239;&#229;&#240;&#229;&#248;&#235;&#232; &#237;&#224; &#237;&#224;&#248;&#243; &#241;&#242;&#238;&#240;&#238;&#237;&#243;, &#247;&#242;&#238;&#225;&#251; &#239;&#238;&#228;&#228;&#229;&#240;&#230;&#224;&#242;&#252; &#237;&#224;&#248;&#243; &#238;&#241;&#226;&#238;&#225;&#238;&#228;&#232;&#242;&#229;&#235;&#252;&#237;&#243;&#254; &#225;&#238;&#240;&#252;&#225;&#243;!</Russian>
+		<Russian>Некоторые войска врага перешли на нашу сторону, чтобы поддержать нашу освободительную борьбу!</Russian>
 		<English>Some of our enemy's forces are joining us to help our war of liberation!</English>
-		<French>Certaines des forces ennemies se joignent � nous pour nous aider dans notre guerre de lib�ration !</French>
-		<German>Einige feindliche Streitkr&#228;fte schlie&#223;en sich uns an, um uns bei unserem Befreiungskrieg zu helfen!</German>
+		<French>Certaines des forces ennemies se joignent à nous pour nous aider dans notre guerre de libération !</French>
+		<German>Einige feindliche Streitkrдfte schlieЯen sich uns an, um uns bei unserem Befreiungskrieg zu helfen!</German>
 		<Italian>Alcune forze del nemico si uniscono a noi per aiutarci nella guerra di liberazione!</Italian>
-		<Spanish>�Algunas de las unidades del enemigo se han unido a nosotros para apoyarnos en nuestra guerra de liberaci&#243;n!</Spanish>
+		<Spanish>¡Algunas de las unidades del enemigo se han unido a nosotros para apoyarnos en nuestra guerra de liberaciуn!</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_CIV_IS_BORN</Tag>
-		<Russian>&#199;&#224;&#240;&#238;&#228;&#232;&#235;&#224;&#241;&#252; &#237;&#238;&#226;&#224;&#255; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#255;: %s1_CityName</Russian>
+		<Russian>Зародилась новая цивилизация: %s1_CityName</Russian>
 		<English>A new civilization is born: %s1_CityName</English>
 		<French>Naissance d'une nouvelle civilisation : %s1_CityName</French>
 		<German>Eine neue Zivilisation wurde geboren: %s1_CityName</German>
-		<Italian>&#200; nata una nuova civilt&#224;: %s1_CityName</Italian>
-		<Spanish>Ha nacido una nueva civilizaci&#243;n: %s1_CityName</Spanish>
+		<Italian>И nata una nuova civiltа: %s1_CityName</Italian>
+		<Spanish>Ha nacido una nueva civilizaciуn: %s1_CityName</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_INDEPENDENCE1</Tag>
 		<English/>
 		<French/>
 		<German/>
-		<Italian>&#200; nata una nuova civilt&#224;: %s1_CityName</Italian>
-		<Spanish>Ha nacido una nueva civilizaci&#243;n: %s1_CityName</Spanish>
+		<Italian>И nata una nuova civiltа: %s1_CityName</Italian>
+		<Spanish>Ha nacido una nueva civilizaciуn: %s1_CityName</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_INDEPENDENCE2</Tag>
-		<Russian>&#227;&#238;&#240;&#238;&#228;&#224; &#238;&#225;&#250;&#255;&#226;&#235;&#255;&#254;&#242; &#237;&#229;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#238;&#241;&#242;&#252; &#238;&#242; &#232;&#237;&#238;&#241;&#242;&#240;&#224;&#237;&#237;&#238;&#227;&#238; &#227;&#238;&#241;&#239;&#238;&#228;&#241;&#242;&#226;&#224;!</Russian>
+		<Russian>города объявляют независимость от иностранного господства!</Russian>
 		<English>cities have declared independence from their foreign domination!</English>
-		<French> ont d�clar� leur ind�pendance par rapport � la domination �trang�re !</French>
-		<German>St&#228;dte haben ihre Unabh&#228;ngigkeit von der Fremdherrschaft erkl&#228;rt!</German>
-		<Italian>citt&#224; hanno dichiarato la propria indipendenza dal dominio straniero!</Italian>
+		<French> ont déclaré leur indépendance par rapport à la domination étrangère !</French>
+		<German>Stдdte haben ihre Unabhдngigkeit von der Fremdherrschaft erklдrt!</German>
+		<Italian>cittа hanno dichiarato la propria indipendenza dal dominio straniero!</Italian>
 		<Spanish>ciudades han declarado su independencia del dominio extranjero.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REBELLION_TITLE</Tag>
-		<Russian>&#205;&#229;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#238;&#241;&#242;&#252;!</Russian>
+		<Russian>Независимость!</Russian>
 		<English>Independence!</English>
-		<French>Ind�pendance !</French>
-		<German>Unabh&#228;ngigkeit!</German>
+		<French>Indépendance !</French>
+		<German>Unabhдngigkeit!</German>
 		<Italian>Indipendenza!</Italian>
-		<Spanish>�Independencia!</Spanish>
+		<Spanish>¡Independencia!</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REBELLION_MESSAGE</Tag>
-		<Russian>&#227;&#238;&#240;&#238;&#228;&#224; &#238;&#225;&#250;&#255;&#226;&#232;&#235;&#232; &#237;&#224;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#238;&#241;&#242;&#252; &#238;&#242; &#237;&#224;&#241; &#232; &#226;&#251;&#228;&#226;&#238;&#240;&#232;&#235;&#232; &#237;&#224;&#248;&#232; &#227;&#224;&#240;&#237;&#232;&#231;&#238;&#237;&#251;. &#206;&#241;&#226;&#238;&#225;&#238;&#228;&#232;&#242;&#252; &#232;&#245;?</Russian>
+		<Russian>города объявили назависимость от нас и выдворили наши гарнизоны. Освободить их?</Russian>
 		<English>cities have declared their independence from us and expelled our garrisons. Shall we leave them free?</English>
-		<French>ont d�clar� leur ind�pendance et attaquent nos garnisons. Devons-nous les laisser libres ?</French>
-		<German>St&#228;dte haben ihre Unabh&#228;ngigkeit von uns erkl&#228;rt und unsere Garnisonen vertrieben. Sollen wir sie gew�hren lassen?</German>
-		<Italian>citt&#224; hanno dichiarato la propria indipendenza, espellendo le nostre guarnigioni. Dobbiamo lasciarle libere?</Italian>
-		<Spanish>ciudades han declarado su independencia de nosotros y han expulsado a nuestras guarniciones. �Debeos permitir su libertad?</Spanish>
+		<French>ont déclaré leur indépendance et attaquent nos garnisons. Devons-nous les laisser libres ?</French>
+		<German>Stдdte haben ihre Unabhдngigkeit von uns erklдrt und unsere Garnisonen vertrieben. Sollen wir sie gewähren lassen?</German>
+		<Italian>cittа hanno dichiarato la propria indipendenza, espellendo le nostre guarnigioni. Dobbiamo lasciarle libere?</Italian>
+		<Spanish>ciudades han declarado su independencia de nosotros y han expulsado a nuestras guarniciones. ¿Debeos permitir su libertad?</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EXILE_TITLE</Tag>
-		<Russian>&#200;&#231;&#227;&#237;&#224;&#237;&#232;&#229;!</Russian>
+		<Russian>Изгнание!</Russian>
 		<English>Exile!</English>
 		<French>Exil !</French>
 		<German>Exil!</German>
 		<Italian>Esilio!</Italian>
-		<Spanish>�Al exilio!</Spanish>
+		<Spanish>¡Al exilio!</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EXILE_TEXT1</Tag>
-		<Russian>&#194;&#251; &#225;&#251;&#235;&#232; &#231;&#224;&#245;&#226;&#224;&#247;&#229;&#237;&#251;</Russian>
+		<Russian>Вы были захвачены</Russian>
 		<English>You have been captured by the</English>
-		<French>Vous avez �t� captur� par les</French>
+		<French>Vous avez été capturé par les</French>
 		<German>Ihr wurdet von den</German>
 		<Italian>Sei stato catturato dai</Italian>
 		<Spanish>El</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EXILE_TEXT2</Tag>
-		<Russian>&#232; &#232;&#231;&#227;&#237;&#224;&#237;&#251; &#226; &#236;&#224;&#235;&#238;&#231;&#237;&#224;&#247;&#232;&#242;&#229;&#235;&#252;&#237;&#251;&#229; &#231;&#229;&#236;&#235;&#232;</Russian>
+		<Russian>и изгнаны в малозначительные земли</Russian>
 		<English>and exiled to the unimportant lands of</English>
-		<French>et exil� dans les terres inint�ressantes de</French>
+		<French>et exilé dans les terres inintéressantes de</French>
 		<German>gefangen genommen und seid ins Exil geschickt worden - in das unbedeutende Land von</German>
 		<Italian>ed esiliato nelle insignificanti terre di</Italian>
 		<Spanish>os ha capturado y exiliado a las insignificantes tierras de</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EXILE_TEXT3</Tag>
-		<Russian>. &#211; &#194;&#224;&#241; &#229;&#241;&#242;&#252; &#237;&#229;&#236;&#237;&#238;&#227;&#238; &#226;&#240;&#229;&#236;&#229;&#237;&#232;, &#247;&#242;&#238;&#225;&#251; &#238;&#242;&#226;&#238;&#229;&#226;&#224;&#242;&#252; &#241;&#242;&#238;&#235;&#232;&#246;&#243; &#232; &#226;&#229;&#240;&#237;&#243;&#242;&#252; &#241;&#226;&#238;&#232; &#239;&#238;&#231;&#232;&#246;&#232;&#232;.</Russian>
+		<Russian>. У Вас есть немного времени, чтобы отвоевать столицу и вернуть свои позиции.</Russian>
 		<English>. You have a short period of time for retaking your capital and gain back your position.</English>
-		<French>. Vous avez peu de temps pour reprendre votre capitale et r�cup�rer votre situation.</French>
-		<German>. Es bleibt Euch nur wenig Zeit, um Eure Hauptstadt zur&#252;ckzuerobern und Eure Position wiederzuerlangen.</German>
+		<French>. Vous avez peu de temps pour reprendre votre capitale et récupérer votre situation.</French>
+		<German>. Es bleibt Euch nur wenig Zeit, um Eure Hauptstadt zurьckzuerobern und Eure Position wiederzuerlangen.</German>
 		<Italian>. Hai un breve periodo di tempo per riprendere la tua capitale e riguadagnare la tua posizione.</Italian>
-		<Spanish>. Dispon&#233;is de un breve periodo de tiempo para recuperar vuestra capital y vuestra posici&#243;n.</Spanish>
+		<Spanish>. Disponйis de un breve periodo de tiempo para recuperar vuestra capital y vuestra posiciуn.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ESCAPE_TITLE</Tag>
-		<Russian>&#194;&#224;&#236; &#243;&#228;&#224;&#235;&#238;&#241;&#252; &#241;&#225;&#229;&#230;&#224;&#242;&#252;!</Russian>
+		<Russian>Вам удалось сбежать!</Russian>
 		<English>You have escaped!</English>
-		<French>Vous vous �tes �chapp� !</French>
+		<French>Vous vous êtes échappé !</French>
 		<German>Ihr seid entkommen!</German>
 		<Italian>Sei riuscito a fuggire!</Italian>
-		<Spanish>�Hab&#233;is escapado!</Spanish>
+		<Spanish>¡Habйis escapado!</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ESCAPE_TEXT1</Tag>
-		<Russian>&#194;&#251; &#241;&#225;&#229;&#230;&#224;&#235;&#232; &#232; &#226;&#238;&#241;&#242;&#224;&#237;&#238;&#226;&#232;&#235;&#232; &#234;&#238;&#237;&#242;&#240;&#238;&#235;&#252; &#237;&#224;&#228;</Russian>
+		<Russian>Вы сбежали и востановили контроль над</Russian>
 		<English>You have escaped and regained control of </English>
-		<French>Vous vous �tes �chapp� et avez regagn� le contr�le du territoire </French>
-		<German>Ihr seid entkommen und habt die Kontrolle �ber das </German>
+		<French>Vous vous êtes échappé et avez regagné le contrôle du territoire </French>
+		<German>Ihr seid entkommen und habt die Kontrolle über das </German>
 		<Italian>Sei riuscito a fuggire e a riguadagnare il controllo del territorio</Italian>
-		<Spanish>Hab&#233;is escapado y recuperado el control del territorio</Spanish>
+		<Spanish>Habйis escapado y recuperado el control del territorio</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ESCAPE_TEXT2</Tag>
-		<Russian>&#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#229;&#233;. &#192; &#242;&#229;&#239;&#229;&#240;&#252; &#239;&#240;&#229;&#239;&#238;&#228;&#224;&#228;&#232;&#236; &#226;&#240;&#224;&#227;&#224;&#236; &#243;&#240;&#238;&#234;!</Russian>
+		<Russian>территорией. А теперь преподадим врагам урок!</Russian>
 		<English>territory. Now let's teach our enemies a lesson!</English>
-		<French>. A pr�sent, donnons une le�on � nos ennemis !</French>
+		<French>. A présent, donnons une leçon à nos ennemis !</French>
 		<German>Territorium wiedererlangt. Nun sollten wir unseren Feinden eine Lektion erteilen!</German>
 		<Italian>. Ora diamo una bella lezione ai nostri nemici!</Italian>
-		<Spanish>. �D&#233;mosles una lecci&#243;n a nuestros enemigos!</Spanish>
+		<Spanish>. ¡Dйmosles una lecciуn a nuestros enemigos!</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FIRST_CONTACT_NEWWORLD</Tag>
-		<Russian>&#199;&#224;&#226;&#238;&#229;&#226;&#224;&#242;&#229;&#235;&#232; &#241; &#228;&#224;&#235;&#229;&#234;&#238;&#227;&#238; &#234;&#238;&#237;&#242;&#232;&#237;&#229;&#237;&#242;&#224; &#237;&#224;&#226;&#238;&#228;&#237;&#232;&#235;&#232; &#237;&#224;&#248;&#232; &#231;&#229;&#236;&#235;&#232; &#226; &#239;&#238;&#232;&#241;&#234;&#224;&#245; &#225;&#238;&#227;&#224;&#242;&#241;&#226;!</Russian>
+		<Russian>Завоеватели с далекого континента наводнили наши земли в поисках богатсв!</Russian>
 		<English>Conquerors from a far away continent are invading our lands searching for wealth!</English>
-		<French>Des conqu�rants d'un continent lointain envahissent nos terres � la recherche de richesses !</French>
+		<French>Des conquérants d'un continent lointain envahissent nos terres à la recherche de richesses !</French>
 		<German>Eroberer von einem weit entfernten Kontinent fallen auf der Suche nach Reichtum in unser Land ein!</German>
 		<Italian>I conquistatori provenienti da un continente lontano invadono le nostre terre in cerca di ricchezza!</Italian>
-		<Spanish>�Unos conquistadores de un continente lejano est&#225;n invadiendo nuestras tierras en busca de riquezas!</Spanish>
+		<Spanish>¡Unos conquistadores de un continente lejano estбn invadiendo nuestras tierras en busca de riquezas!</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FIRST_CONTACT_OLDWORLD</Tag>
-		<Russian>&#195;&#240;&#243;&#239;&#239;&#224; &#237;&#224;&#248;&#232;&#245; &#232;&#241;&#234;&#224;&#242;&#229;&#235;&#229;&#233; &#239;&#240;&#229;&#234;&#235;&#254;&#247;&#229;&#237;&#232;&#233; &#239;&#240;&#232;&#225;&#251;&#235;&#224; &#226; &#205;&#238;&#226;&#251;&#233; &#209;&#226;&#229;&#242; &#226; &#239;&#238;&#232;&#241;&#234;&#224;&#245; &#225;&#238;&#227;&#224;&#242;&#241;&#226;.</Russian>
+		<Russian>Группа наших искателей преключений прибыла в Новый Свет в поисках богатсв.</Russian>
 		<English>A group of our own adventurers has arrived in the new world searching for wealth!</English>
-		<French>Un groupe de nos aventuriers est arriv� dans le nouveau monde � la recherche de richesses !</French>
+		<French>Un groupe de nos aventuriers est arrivé dans le nouveau monde à la recherche de richesses !</French>
 		<German>Eine Gruppe Eurer eigenen Abenteurer ist auf der Suche nach Reichtum in der Neuen Welt angekommen!</German>
-		<Italian>Un gruppo di nostri avventurieri &#232; arrivato nel nuovo mondo in cerca di ricchezza!</Italian>
-		<Spanish>�Uno de nuestros grupos de aventureros ha llegado a unas nuevas tierras en busca de riquezas!</Spanish>
+		<Italian>Un gruppo di nostri avventurieri и arrivato nel nuovo mondo in cerca di ricchezza!</Italian>
+		<Spanish>¡Uno de nuestros grupos de aventureros ha llegado a unas nuevas tierras en busca de riquezas!</Spanish>
 	</TEXT>
 
 	<TEXT>
 		<Tag>TXT_KEY_MONGOL_HORDE</Tag>
-		<Russian>&#204;&#238;&#237;&#227;&#238;&#235;&#252;&#241;&#234;&#232;&#229; &#238;&#240;&#228;&#251; &#226;&#242;&#238;&#240;&#227;&#235;&#232;&#241;&#252; &#237;&#224; %s1_civ_adjective &#231;&#229;&#236;&#235;&#232;!</Russian>
+		<Russian>Монгольские орды вторглись на %s1_civ_adjective земли!</Russian>
 		<English>The Mongol hordes have invaded %s1_civ_adjective territory!</English>
 		<German>Die mongolischen Horden sind in %s1_civ_adjective Territorium eingefallen!</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MONGOL_HORDE_HUMAN</Tag>
-		<Russian>&#204;&#238;&#237;&#227;&#238;&#235;&#252;&#241;&#234;&#232;&#229; &#238;&#240;&#228;&#251; &#226;&#242;&#238;&#240;&#227;&#235;&#232;&#241;&#252; &#237;&#224; &#237;&#224;&#248;&#232; &#231;&#229;&#236;&#235;&#232;!</Russian>
+		<Russian>Монгольские орды вторглись на наши земли!</Russian>
 		<English>The Mongol hordes have invaded our territory!</English>
 		<German>Die mongolischen Horden sind in unser Territorium eingefallen!</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_INVADERS_HUMAN</Tag>
-		<Russian>%s1 &#226;&#242;&#238;&#240;&#227;&#235;&#232;&#241;&#252; &#237;&#224; &#237;&#224;&#248;&#243; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#254;!</Russian>
+		<Russian>%s1 вторглись на нашу территорию!</Russian>
 		<English>%s1 armies have invaded our territory!</English>
 		<German>%s1 Armeen sind in unser Territorium eingefallen!</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VASSAL_GENERIC_COLONY</Tag>
-		<Russian>&#202;&#238;&#235;&#238;&#237;&#232;&#255; %s1</Russian>
+		<Russian>Колония %s1</Russian>
 		<English>Colony of %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VASSAL_GENERIC_PROTECTORATE</Tag>
-		<Russian>&#207;&#240;&#238;&#242;&#229;&#234;&#242;&#238;&#240;&#224;&#242; %s1</Russian>
+		<Russian>Протекторат %s1</Russian>
 		<English>Protectorate of %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SCHISM_TITLE</Tag>
-		<Russian>&#194;&#229;&#235;&#232;&#234;&#232;&#233; &#240;&#224;&#241;&#234;&#238;&#235;</Russian>
+		<Russian>Великий раскол</Russian>
 		<English>The Great Schism</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SCHISM_MESSAGE</Tag>
-		<Russian>&#200;&#237;&#241;&#242;&#232;&#242;&#243;&#242; &#239;&#224;&#239;&#241;&#242;&#226;&#224; &#241;&#243;&#249;&#229;&#241;&#242;&#226;&#243;&#229;&#242; &#243;&#230;&#229; &#237;&#229;&#241;&#234;&#238;&#235;&#252;&#234;&#238; &#226;&#229;&#234;&#238;&#226;. &#206;&#228;&#237;&#224;&#234;&#238; &#239;&#240;&#229;&#242;&#229;&#237;&#231;&#232;&#232; &#207;&#224;&#239;&#251; &#237;&#224; &#240;&#238;&#235;&#252; &#229;&#228;&#232;&#237;&#241;&#242;&#226;&#229;&#237;&#237;&#238;&#227;&#238; &#226;&#251;&#240;&#224;&#231;&#232;&#242;&#229;&#235;&#255; &#226;&#238;&#235;&#232; &#193;&#238;&#227;&#224; &#237;&#224; &#199;&#229;&#236;&#235;&#229; &#225;&#229;&#241;&#239;&#238;&#234;&#238;&#255;&#242; &#237;&#224;&#248;&#232;&#245; &#246;&#229;&#240;&#234;&#238;&#226;&#237;&#251;&#245; &#232;&#229;&#240;&#224;&#240;&#245;&#238;&#226;. &#204;&#237;&#238;&#227;&#232;&#229; &#239;&#240;&#229;&#228;&#241;&#242;&#224;&#226;&#232;&#242;&#229;&#235;&#232; &#228;&#243;&#245;&#238;&#226;&#229;&#237;&#241;&#242;&#226;&#224; &#242;&#224;&#234;&#230;&#229; &#225;&#229;&#241;&#239;&#238;&#234;&#238;&#255;&#242;&#241;&#255;, &#247;&#242;&#238; &#239;&#224;&#239;&#241;&#234;&#224;&#255; &#232;&#237;&#242;&#229;&#240;&#239;&#240;&#229;&#242;&#224;&#246;&#232;&#255; &#209;&#235;&#238;&#226;&#224; &#225;&#238;&#230;&#252;&#229;&#227;&#238; &#241;&#235;&#232;&#248;&#234;&#238;&#236; &#241;&#232;&#235;&#252;&#237;&#238; &#238;&#242;&#234;&#235;&#238;&#237;&#232;&#235;&#224;&#241;&#252; &#238;&#242; &#232;&#241;&#242;&#238;&#234;&#238;&#226; &#213;&#240;&#232;&#241;&#242;&#232;&#224;&#237;&#241;&#242;&#226;&#224;. &#209;&#235;&#229;&#228;&#243;&#229;&#242; &#235;&#232; &#237;&#224;&#236; &#239;&#240;&#232;&#241;&#235;&#243;&#248;&#224;&#242;&#252;&#241;&#255; &#234; &#232;&#245; &#239;&#240;&#232;&#231;&#251;&#226;&#243; &#238;&#242;&#228;&#229;&#235;&#232;&#242;&#241;&#255; &#238;&#242; &#202;&#224;&#242;&#238;&#235;&#232;&#247;&#229;&#241;&#234;&#238;&#233; &#246;&#229;&#240;&#226;&#234;&#232; &#232; &#241;&#242;&#224;&#242;&#252; &#239;&#240;&#224;&#226;&#238;&#241;&#235;&#224;&#237;&#251;&#236;&#232; &#245;&#240;&#232;&#241;&#242;&#232;&#224;&#237;&#224;&#236;&#232;?</Russian>
+		<Russian>Институт папства существует уже несколько веков. Однако претензии Папы на роль единственного выразителя воли Бога на Земле беспокоят наших церковных иерархов. Многие представители духовенства также беспокоятся, что папская интерпретация Слова божьего слишком сильно отклонилась от истоков Христианства. Следует ли нам прислушаться к их призыву отделится от Католической цервки и стать правослаными христианами?</Russian>
 		<English>The institution of papacy has already existed for several centuries. However, the Pope's claim to be the sole representative of God on Earth is threatening our own theological authority. Many clergymen in our civilization are also worried that his interpretation of the Word of God has strayed too far from the true origins of Christianity. Shall we heed their call to separate from the Catholic Church in a Great Schism and follow Orthodox Christianity instead?</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ASKCOLONIALCITY_TITLE</Tag>
-		<Russian>%s1 - &#210;&#238;&#240;&#227;&#238;&#226;&#224;&#255; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>%s1 - Торговая компания</Russian>
 		<English>The %s1 Trading Company</English>
 	</TEXT>
 	<TEXT>

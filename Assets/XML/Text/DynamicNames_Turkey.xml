@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,157 +6,157 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_OTTOMAN_DESC</Tag>
-		<Russian>&#210;&#243;&#240;&#234;&#232;</Russian>
+		<Russian>Турки</Russian>
 		<English>The Turks</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKEY_DESC_PEOPLES</Tag>
-		<Russian>&#210;&#243;&#240;&#234;&#232;</Russian>
+		<Russian>Турки</Russian>
 		<English>Turkish Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKEY_DESC_DEFAULT</Tag>
-		<Russian>&#206;&#241;&#236;&#224;&#237;&#241;&#234;&#232;&#233; &#209;&#243;&#235;&#242;&#224;&#237;&#224;&#242;</Russian>
+		<Russian>Османский Султанат</Russian>
 		<English>Ottoman Sultanate</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKEY_DESC_DEMOCRATIC</Tag>
-		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#210;&#243;&#240;&#246;&#232;&#255;</Russian>
+		<Russian>Республика Турция</Russian>
 		<English>Republic of Turkey</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKEY_DESC_COMMUNIST</Tag>
-		<Russian>&#205;&#224;&#246;&#232;&#238;&#237;&#224;&#235;&#252;&#237;&#224;&#255; &#196;&#229;&#236;&#238;&#234;&#240;&#224;&#242;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#205;&#224;&#240;&#238;&#228;&#237;&#224;&#255; &#210;&#243;&#240;&#246;&#232;&#255;</Russian>
+		<Russian>Национальная Демократическая Народная Турция</Russian>
 		<English>National Democratic Popular Turkey</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKEY_DESC_FASCIST</Tag>
-		<Russian>&#210;&#243;&#240;&#229;&#246;&#234;&#224;&#255; &#213;&#243;&#237;&#242;&#224;</Russian>
+		<Russian>Турецкая Хунта</Russian>
 		<English>Turkish Junta</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKEY_DESC_ISLAMIC_MODERN</Tag>
-		<Russian>&#200;&#241;&#235;&#224;&#236;&#241;&#234;&#224;&#255; &#210;&#243;&#240;&#229;&#246;&#234;&#224;&#255; &#196;&#229;&#236;&#238;&#234;&#240;&#224;&#242;&#232;&#255;</Russian>
+		<Russian>Исламская Турецкая Демократия</Russian>
 		<English>Islamic Turkish Democracy</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKEY_EMPIRE</Tag>
-		<Russian>&#210;&#243;&#240;&#229;&#246;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Турецкая Империя</Russian>
 		<English>Turkish Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKEY_OTTOMAN_STATE</Tag>
-		<Russian>&#194;&#229;&#235;&#232;&#234;&#238;&#229; &#206;&#241;&#236;&#224;&#237;&#241;&#234;&#238;&#229; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Великое Османское государство</Russian>
 		<English>Sublime Ottoman State</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKEY_OTTOMAN_CALIPHATE</Tag>
-		<Russian>&#206;&#241;&#236;&#224;&#237;&#241;&#234;&#232;&#233; &#213;&#224;&#235;&#232;&#244;&#224;&#242;</Russian>
+		<Russian>Османский Халифат</Russian>
 		<English>Ottoman Caliphate</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKEY_OTTOMAN_EMPIRE</Tag>
-		<Russian>&#206;&#241;&#236;&#224;&#237;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Османская Империя</Russian>
 		<English>Ottoman Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKEY_SOVIET_VASSAL</Tag>
-		<Russian>&#199;&#224;&#234;&#224;&#226;&#234;&#224;&#231;&#241;&#234;&#224;&#255; &#209;&#238;&#246;&#232;&#224;&#235;&#232;&#241;&#242;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#212;&#229;&#228;&#229;&#240;&#224;&#242;&#232;&#226;&#237;&#224;&#255; &#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Закавказская Социалистическая Федеративная Советская Республика</Russian>
 		<English>Transcaucasian Socialist Federative Soviet Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKEY_NAZI_VASSAL</Tag>
-		<Russian>&#208;&#229;&#233;&#245;&#241;&#234;&#238;&#236;&#232;&#241;&#241;&#224;&#240;&#232;&#224;&#242; &#210;&#243;&#240;&#246;&#232;&#255;</Russian>
+		<Russian>Рейхскомиссариат Турция</Russian>
 		<English>Reichskommissariat Turkey</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TURKISH_VASSAL_GENERIC</Tag>
-		<Russian>&#221;&#255;&#235;&#229;&#242; %s1</Russian>
+		<Russian>Эялет %s1</Russian>
 		<English>Eyalet of %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_THAILAND_TURKISH_VASSAL</Tag>
-		<Russian>&#221;&#255;&#235;&#229;&#242; &#209;&#232;&#224;&#236;</Russian>
+		<Russian>Эялет Сиам</Russian>
 		<English>Eyalet of Siam</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_TURKISH_VASSAL</Tag>
-		<Russian>&#213;&#229;&#228;&#232;&#226;&#224;&#242; &#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<Russian>Хедиват Египет</Russian>
 		<English>Khedivate of Egypt</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BABYLONIA_TURKISH_VASSAL</Tag>
-		<Russian>&#221;&#255;&#235;&#229;&#242; &#204;&#229;&#241;&#238;&#239;&#238;&#242;&#224;&#236;&#232;&#255;</Russian>
+		<Russian>Эялет Месопотамия</Russian>
 		<English>Eyalet of Mesopotamia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PERSIA_TURKISH_VASSAL</Tag>
-		<Russian>&#221;&#233;&#235;&#229;&#242; &#216;&#224;&#240;&#224;&#231;&#238;&#240;</Russian>
+		<Russian>Эйлет Шаразор</Russian>
 		<English>Eyalet of Sharazor</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GREECE_TURKISH_VASSAL</Tag>
-		<Russian>&#221;&#255;&#235;&#229;&#242; &#208;&#243;&#236;&#229;&#235;&#232;&#255;</Russian>
+		<Russian>Эялет Румелия</Russian>
 		<English>Eyalet of Rumelia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PHOENICIA_TURKISH_VASSAL</Tag>
-		<Russian>&#221;&#255;&#235;&#229;&#242; &#209;&#232;&#240;&#232;&#255;</Russian>
+		<Russian>Эялет Сирия</Russian>
 		<English>Eyalet of Syria</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ETHIOPIA_TURKISH_VASSAL</Tag>
-		<Russian>&#221;&#255;&#235;&#229;&#242; &#213;&#224;&#225;&#229;&#248;&#224;</Russian>
+		<Russian>Эялет Хабеша</Russian>
 		<English>Eyalet of Habes</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MAYA_TURKISH_VASSAL</Tag>
-		<Russian>&#221;&#255;&#235;&#229;&#242; &#222;&#234;&#224;&#242;&#224;&#237;</Russian>
-		<English>Eyalet of Yucat&#225;n</English>
+		<Russian>Эялет Юкатан</Russian>
+		<English>Eyalet of Yucatбn</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_TURKISH_VASSAL</Tag>
-		<Russian>&#221;&#255;&#235;&#229;&#242; &#208;&#232;&#236;</Russian>
-		<English>Eyalet of R&#251;m</English>
+		<Russian>Эялет Рим</Russian>
+		<English>Eyalet of Rыm</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_TURKISH_VASSAL</Tag>
-		<Russian>&#221;&#255;&#235;&#229;&#242; &#209;&#234;&#224;&#237;&#228;&#232;&#237;&#224;&#226;&#232;&#255;</Russian>
+		<Russian>Эялет Скандинавия</Russian>
 		<English>Eyalet of Scandinavia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_TURKISH_VASSAL</Tag>
-		<Russian>&#216;&#224;&#240;&#232;&#244;&#224;&#242; &#204;&#229;&#234;&#234;&#224;</Russian>
+		<Russian>Шарифат Мекка</Russian>
 		<English>Sharifate of Mekke</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KHMER_TURKISH_VASSAL</Tag>
-		<Russian>&#221;&#255;&#235;&#229;&#242; &#202;&#224;&#236;&#239;&#243;&#247;&#232;&#255;</Russian>
+		<Russian>Эялет Кампучия</Russian>
 		<English>Eyalet of Kampuchea</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_TURKISH_VASSAL</Tag>
-		<Russian>&#221;&#255;&#235;&#229;&#242; &#197;&#228;&#232;&#241;&#224;&#237;</Russian>
+		<Russian>Эялет Едисан</Russian>
 		<English>Eyalet of Yedisan</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NETHERLANDS_TURKISH_VASSAL</Tag>
-		<Russian>&#221;&#255;&#235;&#229;&#242; &#205;&#232;&#228;&#229;&#240;&#235;&#224;&#237;&#228;&#251;</Russian>
+		<Russian>Эялет Нидерланды</Russian>
 		<English>Eyalet of the Netherlands</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTECS_TURKISH_VASSAL</Tag>
-		<Russian>&#221;&#255;&#235;&#229;&#242; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<Russian>Эялет Мексика</Russian>
 		<English>Eyalet of Mexico</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INCA_TURKISH_VASSAL</Tag>
-		<Russian>&#221;&#255;&#235;&#229;&#242; &#207;&#229;&#240;&#243;</Russian>
+		<Russian>Эялет Перу</Russian>
 		<English>Eyalet of Peru</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MUGHALS_TURKISH_VASSAL</Tag>
-		<Russian>&#221;&#255;&#235;&#229;&#242; &#207;&#224;&#234;&#232;&#241;&#242;&#224;&#237;</Russian>
+		<Russian>Эялет Пакистан</Russian>
 		<English>Eyalet of Pakistan</English>
 	</TEXT>
 </Civ4GameText>

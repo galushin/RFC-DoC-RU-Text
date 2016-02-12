@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,72 +6,72 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_DESC</Tag>
-		<Russian>&#207;&#238;&#235;&#232;&#237;&#229;&#231;&#232;&#255;</Russian>
+		<Russian>Полинезия</Russian>
 		<English>The Polynesians</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_DESC_PEOPLES</Tag>
-		<Russian>&#207;&#238;&#235;&#232;&#237;&#229;&#231;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Полинезийцы</Russian>
 		<English>Polynesian Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_DESC_DEFAULT</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#210;&#238;&#237;&#227;&#224;</Russian>
+		<Russian>Королевство Тонга</Russian>
 		<English>Kingdom of Tonga</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_EMPIRE</Tag>
-		<Russian>&#210;&#238;&#237;&#227;&#224;&#237;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Тонганская империя</Russian>
 		<English>Tu'i Tonga Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_DESC_DEMOCRATIC</Tag>
-		<Russian>&#207;&#238;&#235;&#232;&#237;&#229;&#231;&#232;&#233;&#241;&#234;&#232;&#229; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#232;</Russian>
+		<Russian>Полинезийские Республики</Russian>
 		<English>Polynesian Republics</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_DESC_COMMUNIST</Tag>
-		<Russian>&#205;&#224;&#240;&#238;&#228;&#237;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#207;&#238;&#235;&#232;&#237;&#229;&#231;&#232;&#255;</Russian>
+		<Russian>Народная Республика Полинезия</Russian>
 		<English>People's Republic of Polynesia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_DESC_FASCIST</Tag>
-		<Russian>&#206;&#234;&#229;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Океания</Russian>
 		<English>Oceania</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_HAWAII</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#195;&#224;&#226;&#224;&#233;&#232;</Russian>
+		<Russian>Королевство Гавайи</Russian>
 		<English>Kingdom of Hawaii</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_SAMOA</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#209;&#224;&#236;&#238;&#224;</Russian>
+		<Russian>Королевство Самоа</Russian>
 		<English>Kingdom of Samoa</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_NIUE</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#205;&#232;&#243;&#253;</Russian>
+		<Russian>Королевство Ниуэ</Russian>
 		<English>Kingdom of Niue</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_TAHITI</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#210;&#224;&#232;&#242;&#232;</Russian>
+		<Russian>Королевство Таити</Russian>
 		<English>Kingdom of Tahiti</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_EMPIRE_SAMOA</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#210;&#232;&#243; &#204;&#224;&#237;&#243;&#224;</Russian>
+		<Russian>Империя Тиу Мануа</Russian>
 		<English>Tu'i Manu'a Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_NAZI_VASSAL</Tag>
-		<Russian>&#205;&#224;&#246;&#232;&#241;&#242;&#241;&#234;&#224;&#255; &#207;&#238;&#235;&#232;&#237;&#229;&#231;&#232;&#255;</Russian>
+		<Russian>Нацистская Полинезия</Russian>
 		<English>Nazi Polynesia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_POLYNESIA_SOVIET_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#207;&#238;&#235;&#232;&#237;&#229;&#231;&#232;&#255;</Russian>
+		<Russian>Советская Полинезия</Russian>
 		<English>Soviet Polynesia</English>
 	</TEXT>
 </Civ4GameText>

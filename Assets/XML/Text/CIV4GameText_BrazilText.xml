@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Alex Mantzaris (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -8,7 +8,7 @@
 	<!-- Civilization Infos -->
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BRAZIL_DESC</Tag>
-		<Russian>&#193;&#240;&#224;&#231;&#232;&#235;&#252;&#246;&#251;</Russian>
+		<Russian>Бразильцы</Russian>
 		<English>The Brazilians</English>
 		<French>The Brazilians</French>
 		<German>The Brazilians</German>
@@ -17,7 +17,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BRAZIL_SHORT_DESC</Tag>
-		<Russian>&#193;&#240;&#224;&#231;&#232;&#235;&#232;&#255;</Russian>
+		<Russian>Бразилия</Russian>
 		<English>Brazil</English>
 		<French>Brazil</French>
 		<German>Brazil</German>
@@ -26,7 +26,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BRAZIL_ADJECTIVE</Tag>
-		<Russian>&#193;&#240;&#224;&#231;&#232;&#235;&#252;&#246;&#251;</Russian>
+		<Russian>Бразильцы</Russian>
 		<English>Brazilian</English>
 		<French>Brazilian</French>
 		<German>Brazilian</German>
@@ -36,7 +36,7 @@
 	<!-- Leader Infos -->
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_DOM_PEDRO</Tag>
-		<Russian>&#207;&#229;&#228;&#240;&#238; II</Russian>
+		<Russian>Педро II</Russian>
 		<English>Pedro II</English>
 		<French>Pedro II</French>
 		<German>Pedro II</German>
@@ -45,8 +45,8 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_DOM_PEDRO_PEDIA</Tag>
-		<Russian>[H1]Dom Pedro II[\H1][NEWLINE][BOLD]Second and Last Emperor of Brazil[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]Dec. 1825 - Dec. 1891[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Dom Pedro II was the second and last ruler of the Empire of Brazil, reigning for over 58 years. Born in Rio de Janeiro, he was the seventh child of Emperor Dom Pedro I of Brazil and Empress Dona Maria Leopoldina and thus a member of the Brazilian branch of the House of Braganza. His father's abrupt abdication and flight to Europe in 1831 left a five-year-old Pedro II as Emperor and led to a grim and lonely childhood and adolescence. Obliged to spend his time studying in preparation for rule, he knew only brief moments of happiness and encountered few friends of his age. His experiences with court intrigues and political disputes during this period greatly affected his later character. Pedro II grew into a man with a strong sense of duty and devotion toward his country and his people. On the other hand, he increasingly resented his role as monarch.[PARAGRAPH:2]Inheriting an Empire on the verge of disintegration, Pedro II turned Portuguese-speaking Brazil into an emerging power in the international arena. The nation grew to be distinguished from its Hispanic neighbors on account of its political stability, zealously guarded freedom of speech, respect for civil rights, vibrant economic growth and especially for its form of government: a functional, representative parliamentary monarchy. Brazil was also victorious in three international conflicts (the Platine War, the Uruguayan War and the Paraguayan War) under his rule, as well as prevailing in several other international disputes and domestic tensions. Pedro II steadfastly pushed through the abolition of slavery despite opposition from powerful political and economic interests. A savant in his own right, the Emperor established a reputation as a vigorous sponsor of learning, culture and the sciences. He won the respect and admiration of scholars such as Charles Darwin, Victor Hugo and Friedrich Nietzsche, and was a friend to Richard Wagner, Louis Pasteur and Henry Wadsworth Longfellow, among others.[PARAGRAPH:2]Although there was no desire for a change in the form of government among most Brazilians, the Emperor was overthrown in a sudden coup d'&#233;tat that had almost no support outside a clique of military leaders who desired a form of republic headed by a dictator. Pedro II had become weary of emperorship and despaired over the monarchy's future prospects, despite its overwhelming popular support. He allowed no prevention of his ouster and did not support any attempt to restore the monarchy. He spent the last two years of his life in exile in Europe, living alone on very little money.[PARAGRAPH:2]The reign of Pedro II thus came to an unusual end-he was overthrown while highly regarded by the people and at the pinnacle of his popularity, and some of his accomplishments were soon brought to naught as Brazil slipped into a long period of weak governments, dictatorships, and constitutional and economic crises. The men who had exiled him soon began to see in him a model for the Brazilian republic. A few decades after his death, his reputation was restored and his remains were returned to Brazil as those of a national hero. This reputation has lasted to the present day. Historians have regarded the Emperor in an extremely positive light, and he is usually ranked as the greatest Brazilian.[PARAGRAPH:1]</Russian>
-		<English>[H1]Dom Pedro II[\H1][NEWLINE][BOLD]Second and Last Emperor of Brazil[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]Dec. 1825 - Dec. 1891[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Dom Pedro II was the second and last ruler of the Empire of Brazil, reigning for over 58 years. Born in Rio de Janeiro, he was the seventh child of Emperor Dom Pedro I of Brazil and Empress Dona Maria Leopoldina and thus a member of the Brazilian branch of the House of Braganza. His father's abrupt abdication and flight to Europe in 1831 left a five-year-old Pedro II as Emperor and led to a grim and lonely childhood and adolescence. Obliged to spend his time studying in preparation for rule, he knew only brief moments of happiness and encountered few friends of his age. His experiences with court intrigues and political disputes during this period greatly affected his later character. Pedro II grew into a man with a strong sense of duty and devotion toward his country and his people. On the other hand, he increasingly resented his role as monarch.[PARAGRAPH:2]Inheriting an Empire on the verge of disintegration, Pedro II turned Portuguese-speaking Brazil into an emerging power in the international arena. The nation grew to be distinguished from its Hispanic neighbors on account of its political stability, zealously guarded freedom of speech, respect for civil rights, vibrant economic growth and especially for its form of government: a functional, representative parliamentary monarchy. Brazil was also victorious in three international conflicts (the Platine War, the Uruguayan War and the Paraguayan War) under his rule, as well as prevailing in several other international disputes and domestic tensions. Pedro II steadfastly pushed through the abolition of slavery despite opposition from powerful political and economic interests. A savant in his own right, the Emperor established a reputation as a vigorous sponsor of learning, culture and the sciences. He won the respect and admiration of scholars such as Charles Darwin, Victor Hugo and Friedrich Nietzsche, and was a friend to Richard Wagner, Louis Pasteur and Henry Wadsworth Longfellow, among others.[PARAGRAPH:2]Although there was no desire for a change in the form of government among most Brazilians, the Emperor was overthrown in a sudden coup d'&#233;tat that had almost no support outside a clique of military leaders who desired a form of republic headed by a dictator. Pedro II had become weary of emperorship and despaired over the monarchy's future prospects, despite its overwhelming popular support. He allowed no prevention of his ouster and did not support any attempt to restore the monarchy. He spent the last two years of his life in exile in Europe, living alone on very little money.[PARAGRAPH:2]The reign of Pedro II thus came to an unusual end-he was overthrown while highly regarded by the people and at the pinnacle of his popularity, and some of his accomplishments were soon brought to naught as Brazil slipped into a long period of weak governments, dictatorships, and constitutional and economic crises. The men who had exiled him soon began to see in him a model for the Brazilian republic. A few decades after his death, his reputation was restored and his remains were returned to Brazil as those of a national hero. This reputation has lasted to the present day. Historians have regarded the Emperor in an extremely positive light, and he is usually ranked as the greatest Brazilian.[PARAGRAPH:1]</English>
+		<Russian>[H1]Dom Pedro II[\H1][NEWLINE][BOLD]Second and Last Emperor of Brazil[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]Dec. 1825 - Dec. 1891[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Dom Pedro II was the second and last ruler of the Empire of Brazil, reigning for over 58 years. Born in Rio de Janeiro, he was the seventh child of Emperor Dom Pedro I of Brazil and Empress Dona Maria Leopoldina and thus a member of the Brazilian branch of the House of Braganza. His father's abrupt abdication and flight to Europe in 1831 left a five-year-old Pedro II as Emperor and led to a grim and lonely childhood and adolescence. Obliged to spend his time studying in preparation for rule, he knew only brief moments of happiness and encountered few friends of his age. His experiences with court intrigues and political disputes during this period greatly affected his later character. Pedro II grew into a man with a strong sense of duty and devotion toward his country and his people. On the other hand, he increasingly resented his role as monarch.[PARAGRAPH:2]Inheriting an Empire on the verge of disintegration, Pedro II turned Portuguese-speaking Brazil into an emerging power in the international arena. The nation grew to be distinguished from its Hispanic neighbors on account of its political stability, zealously guarded freedom of speech, respect for civil rights, vibrant economic growth and especially for its form of government: a functional, representative parliamentary monarchy. Brazil was also victorious in three international conflicts (the Platine War, the Uruguayan War and the Paraguayan War) under his rule, as well as prevailing in several other international disputes and domestic tensions. Pedro II steadfastly pushed through the abolition of slavery despite opposition from powerful political and economic interests. A savant in his own right, the Emperor established a reputation as a vigorous sponsor of learning, culture and the sciences. He won the respect and admiration of scholars such as Charles Darwin, Victor Hugo and Friedrich Nietzsche, and was a friend to Richard Wagner, Louis Pasteur and Henry Wadsworth Longfellow, among others.[PARAGRAPH:2]Although there was no desire for a change in the form of government among most Brazilians, the Emperor was overthrown in a sudden coup d'йtat that had almost no support outside a clique of military leaders who desired a form of republic headed by a dictator. Pedro II had become weary of emperorship and despaired over the monarchy's future prospects, despite its overwhelming popular support. He allowed no prevention of his ouster and did not support any attempt to restore the monarchy. He spent the last two years of his life in exile in Europe, living alone on very little money.[PARAGRAPH:2]The reign of Pedro II thus came to an unusual end-he was overthrown while highly regarded by the people and at the pinnacle of his popularity, and some of his accomplishments were soon brought to naught as Brazil slipped into a long period of weak governments, dictatorships, and constitutional and economic crises. The men who had exiled him soon began to see in him a model for the Brazilian republic. A few decades after his death, his reputation was restored and his remains were returned to Brazil as those of a national hero. This reputation has lasted to the present day. Historians have regarded the Emperor in an extremely positive light, and he is usually ranked as the greatest Brazilian.[PARAGRAPH:1]</Russian>
+		<English>[H1]Dom Pedro II[\H1][NEWLINE][BOLD]Second and Last Emperor of Brazil[\BOLD][NEWLINE][BOLD]Lived: [\BOLD]Dec. 1825 - Dec. 1891[NEWLINE][PARAGRAPH:2][BOLD]Background:[\BOLD][NEWLINE][TAB]Dom Pedro II was the second and last ruler of the Empire of Brazil, reigning for over 58 years. Born in Rio de Janeiro, he was the seventh child of Emperor Dom Pedro I of Brazil and Empress Dona Maria Leopoldina and thus a member of the Brazilian branch of the House of Braganza. His father's abrupt abdication and flight to Europe in 1831 left a five-year-old Pedro II as Emperor and led to a grim and lonely childhood and adolescence. Obliged to spend his time studying in preparation for rule, he knew only brief moments of happiness and encountered few friends of his age. His experiences with court intrigues and political disputes during this period greatly affected his later character. Pedro II grew into a man with a strong sense of duty and devotion toward his country and his people. On the other hand, he increasingly resented his role as monarch.[PARAGRAPH:2]Inheriting an Empire on the verge of disintegration, Pedro II turned Portuguese-speaking Brazil into an emerging power in the international arena. The nation grew to be distinguished from its Hispanic neighbors on account of its political stability, zealously guarded freedom of speech, respect for civil rights, vibrant economic growth and especially for its form of government: a functional, representative parliamentary monarchy. Brazil was also victorious in three international conflicts (the Platine War, the Uruguayan War and the Paraguayan War) under his rule, as well as prevailing in several other international disputes and domestic tensions. Pedro II steadfastly pushed through the abolition of slavery despite opposition from powerful political and economic interests. A savant in his own right, the Emperor established a reputation as a vigorous sponsor of learning, culture and the sciences. He won the respect and admiration of scholars such as Charles Darwin, Victor Hugo and Friedrich Nietzsche, and was a friend to Richard Wagner, Louis Pasteur and Henry Wadsworth Longfellow, among others.[PARAGRAPH:2]Although there was no desire for a change in the form of government among most Brazilians, the Emperor was overthrown in a sudden coup d'йtat that had almost no support outside a clique of military leaders who desired a form of republic headed by a dictator. Pedro II had become weary of emperorship and despaired over the monarchy's future prospects, despite its overwhelming popular support. He allowed no prevention of his ouster and did not support any attempt to restore the monarchy. He spent the last two years of his life in exile in Europe, living alone on very little money.[PARAGRAPH:2]The reign of Pedro II thus came to an unusual end-he was overthrown while highly regarded by the people and at the pinnacle of his popularity, and some of his accomplishments were soon brought to naught as Brazil slipped into a long period of weak governments, dictatorships, and constitutional and economic crises. The men who had exiled him soon began to see in him a model for the Brazilian republic. A few decades after his death, his reputation was restored and his remains were returned to Brazil as those of a national hero. This reputation has lasted to the present day. Historians have regarded the Emperor in an extremely positive light, and he is usually ranked as the greatest Brazilian.[PARAGRAPH:1]</English>
 		<French>INSERT</French>
 		<German>INSERT</German>
 		<Italian>INSERT</Italian>
@@ -55,7 +55,7 @@
 	<!-- UU and UB -->
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BRAZILIAN_LENHADOR</Tag>
-		<Russian>&#204;&#224;&#228;&#229;&#240;&#229;&#233;&#240;&#238;</Russian>
+		<Russian>Мадерейро</Russian>
 		<English>Madeireiro</English>
 		<French>Madeireiro</French>
 		<German>Madeireiro</German>
@@ -64,22 +64,22 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILD_DEFORESTATION</Tag>
-		<Russian>&#206;&#225;&#229;&#231;&#235;&#229;&#241;&#229;&#237;&#232;&#229;</Russian>
+		<Russian>Обезлесение</Russian>
 		<English>Deforestation</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_BRAZILIAN_LENHADOR_HELP</Tag>
-		<Russian>[ICON_BULLET]&#209;&#238;&#231;&#228;&#224;�&#242; &#239;&#240;&#238;&#228;&#243;&#234;&#246;&#232;&#254; &#232; &#231;&#238;&#235;&#238;&#242;&#238; &#239;&#240;&#232; &#240;&#224;&#241;&#247;&#232;&#241;&#242;&#234;&#229; &#228;&#230;&#243;&#237;&#227;&#235;&#229;&#233; &#232; &#235;&#229;&#241;&#238;&#226;</Russian>
+		<Russian>[ICON_BULLET]Созда¸т продукцию и золото при расчистке джунглей и лесов</Russian>
 		<English>[ICON_BULLET]Create Production and Gold when Removing Jungles and Forests</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DEFORESTATION_EVENT</Tag>
-		<Russian>&#208;&#224;&#241;&#247;&#232;&#241;&#242;&#234;&#224; %s1 &#226;&#225;&#235;&#232;&#231;&#232; &#227;&#238;&#240;&#238;&#228;&#224; %s2 &#239;&#240;&#232;&#237;&#229;&#241;&#235;&#224; %d3 [ICON_GOLD] &#226; &#234;&#224;&#231;&#237;&#243;.</Russian>
+		<Russian>Расчистка %s1 вблизи города %s2 принесла %d3 [ICON_GOLD] в казну.</Russian>
 		<English>Removing a %s1 near your city of %s2 has created %d3 [ICON_GOLD] for your treasury.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_BRA_EMBASSY</Tag>
-		<Russian>&#193;&#240;&#224;&#231;&#232;&#235;&#252;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Бразильское посольство</Russian>
 		<English>Brazilian Embassy</English>
 		<French>Brazilian Embassy</French>
 		<German>Brazilian Embassy</German>
@@ -88,7 +88,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_BRAZILIAN_FAZENDA</Tag>
-		<Russian>&#212;&#224;&#231;&#229;&#237;&#228;&#224;</Russian>
+		<Russian>Фазенда</Russian>
 		<English>Fazenda</English>
 		<French>Fazenda</French>
 		<German>Fazenda</German>
@@ -97,12 +97,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_BRAZILIAN_FAZENDA_PEDIA</Tag>
-		<Russian>[TAB]In the mid-19th century, Brazil had been undergoing an economic transformation brought about by a new export crop: coffee. Coffee provided a new basis for agricultural expansion in southern Brazil. In the provinces of Rio de Janeiro and then S&#227;o Paulo, coffee estates, or fazendas, began to spread toward the interior as new lands were opened. By 1850, coffee made up more than 50% of Brazil's exports, and more than half of world coffee production.[PARAGRAPH:1]Along with the expansion of coffee growing came an intensification of slavery in Brazil, as the country's primary form of labor. More than 1.4 million Africans were forced to be slaves in Brazil in the last 50 years of the slave trade, and even after the trans-Atlantic slave trade ended, slavery continued until 1888.[PARAGRAPH:1]Because of the increased profit from the trade of coffee, the years after 1850 saw considerable growth and prosperity in Brazil. Dom Pedro II proved to be an enlightened man of middle-class habits who was anxious to reign over a tranquil and progressive nation, even if that tranquility was based on slave labor. Railroads, steamships and the telegraph were introduced to Brazil, all paid for by the money the fazendas supplied from their coffee crop. In growing cities such as Rio de Janeiro and S&#227;o Paulo, merchants, lawyers, a middle class, and an urban working class grew, once again paid for by the money coming from the fazendas.[PARAGRAPH:1]</Russian>
-		<English>[TAB]In the mid-19th century, Brazil had been undergoing an economic transformation brought about by a new export crop: coffee. Coffee provided a new basis for agricultural expansion in southern Brazil. In the provinces of Rio de Janeiro and then S&#227;o Paulo, coffee estates, or fazendas, began to spread toward the interior as new lands were opened. By 1850, coffee made up more than 50% of Brazil's exports, and more than half of world coffee production.[PARAGRAPH:1]Along with the expansion of coffee growing came an intensification of slavery in Brazil, as the country's primary form of labor. More than 1.4 million Africans were forced to be slaves in Brazil in the last 50 years of the slave trade, and even after the trans-Atlantic slave trade ended, slavery continued until 1888.[PARAGRAPH:1]Because of the increased profit from the trade of coffee, the years after 1850 saw considerable growth and prosperity in Brazil. Dom Pedro II proved to be an enlightened man of middle-class habits who was anxious to reign over a tranquil and progressive nation, even if that tranquility was based on slave labor. Railroads, steamships and the telegraph were introduced to Brazil, all paid for by the money the fazendas supplied from their coffee crop. In growing cities such as Rio de Janeiro and S&#227;o Paulo, merchants, lawyers, a middle class, and an urban working class grew, once again paid for by the money coming from the fazendas.[PARAGRAPH:1]</English>
-		<French>[TAB]In the mid-19th century, Brazil had been undergoing an economic transformation brought about by a new export crop: coffee. Coffee provided a new basis for agricultural expansion in southern Brazil. In the provinces of Rio de Janeiro and then S&#227;o Paulo, coffee estates, or fazendas, began to spread toward the interior as new lands were opened. By 1850, coffee made up more than 50% of Brazil's exports, and more than half of world coffee production.[PARAGRAPH:1]Along with the expansion of coffee growing came an intensification of slavery in Brazil, as the country's primary form of labor. More than 1.4 million Africans were forced to be slaves in Brazil in the last 50 years of the slave trade, and even after the trans-Atlantic slave trade ended, slavery continued until 1888.[PARAGRAPH:1]Because of the increased profit from the trade of coffee, the years after 1850 saw considerable growth and prosperity in Brazil. Dom Pedro II proved to be an enlightened man of middle-class habits who was anxious to reign over a tranquil and progressive nation, even if that tranquility was based on slave labor. Railroads, steamships and the telegraph were introduced to Brazil, all paid for by the money the fazendas supplied from their coffee crop. In growing cities such as Rio de Janeiro and S&#227;o Paulo, merchants, lawyers, a middle class, and an urban working class grew, once again paid for by the money coming from the fazendas.[PARAGRAPH:1]</French>
-		<German>[TAB]In the mid-19th century, Brazil had been undergoing an economic transformation brought about by a new export crop: coffee. Coffee provided a new basis for agricultural expansion in southern Brazil. In the provinces of Rio de Janeiro and then S&#227;o Paulo, coffee estates, or fazendas, began to spread toward the interior as new lands were opened. By 1850, coffee made up more than 50% of Brazil's exports, and more than half of world coffee production.[PARAGRAPH:1]Along with the expansion of coffee growing came an intensification of slavery in Brazil, as the country's primary form of labor. More than 1.4 million Africans were forced to be slaves in Brazil in the last 50 years of the slave trade, and even after the trans-Atlantic slave trade ended, slavery continued until 1888.[PARAGRAPH:1]Because of the increased profit from the trade of coffee, the years after 1850 saw considerable growth and prosperity in Brazil. Dom Pedro II proved to be an enlightened man of middle-class habits who was anxious to reign over a tranquil and progressive nation, even if that tranquility was based on slave labor. Railroads, steamships and the telegraph were introduced to Brazil, all paid for by the money the fazendas supplied from their coffee crop. In growing cities such as Rio de Janeiro and S&#227;o Paulo, merchants, lawyers, a middle class, and an urban working class grew, once again paid for by the money coming from the fazendas.[PARAGRAPH:1]</German>
-		<Italian>[TAB]In the mid-19th century, Brazil had been undergoing an economic transformation brought about by a new export crop: coffee. Coffee provided a new basis for agricultural expansion in southern Brazil. In the provinces of Rio de Janeiro and then S&#227;o Paulo, coffee estates, or fazendas, began to spread toward the interior as new lands were opened. By 1850, coffee made up more than 50% of Brazil's exports, and more than half of world coffee production.[PARAGRAPH:1]Along with the expansion of coffee growing came an intensification of slavery in Brazil, as the country's primary form of labor. More than 1.4 million Africans were forced to be slaves in Brazil in the last 50 years of the slave trade, and even after the trans-Atlantic slave trade ended, slavery continued until 1888.[PARAGRAPH:1]Because of the increased profit from the trade of coffee, the years after 1850 saw considerable growth and prosperity in Brazil. Dom Pedro II proved to be an enlightened man of middle-class habits who was anxious to reign over a tranquil and progressive nation, even if that tranquility was based on slave labor. Railroads, steamships and the telegraph were introduced to Brazil, all paid for by the money the fazendas supplied from their coffee crop. In growing cities such as Rio de Janeiro and S&#227;o Paulo, merchants, lawyers, a middle class, and an urban working class grew, once again paid for by the money coming from the fazendas.[PARAGRAPH:1]</Italian>
-		<Spanish>[TAB]In the mid-19th century, Brazil had been undergoing an economic transformation brought about by a new export crop: coffee. Coffee provided a new basis for agricultural expansion in southern Brazil. In the provinces of Rio de Janeiro and then S&#227;o Paulo, coffee estates, or fazendas, began to spread toward the interior as new lands were opened. By 1850, coffee made up more than 50% of Brazil's exports, and more than half of world coffee production.[PARAGRAPH:1]Along with the expansion of coffee growing came an intensification of slavery in Brazil, as the country's primary form of labor. More than 1.4 million Africans were forced to be slaves in Brazil in the last 50 years of the slave trade, and even after the trans-Atlantic slave trade ended, slavery continued until 1888.[PARAGRAPH:1]Because of the increased profit from the trade of coffee, the years after 1850 saw considerable growth and prosperity in Brazil. Dom Pedro II proved to be an enlightened man of middle-class habits who was anxious to reign over a tranquil and progressive nation, even if that tranquility was based on slave labor. Railroads, steamships and the telegraph were introduced to Brazil, all paid for by the money the fazendas supplied from their coffee crop. In growing cities such as Rio de Janeiro and S&#227;o Paulo, merchants, lawyers, a middle class, and an urban working class grew, once again paid for by the money coming from the fazendas.[PARAGRAPH:1]</Spanish>
+		<Russian>[TAB]In the mid-19th century, Brazil had been undergoing an economic transformation brought about by a new export crop: coffee. Coffee provided a new basis for agricultural expansion in southern Brazil. In the provinces of Rio de Janeiro and then Sгo Paulo, coffee estates, or fazendas, began to spread toward the interior as new lands were opened. By 1850, coffee made up more than 50% of Brazil's exports, and more than half of world coffee production.[PARAGRAPH:1]Along with the expansion of coffee growing came an intensification of slavery in Brazil, as the country's primary form of labor. More than 1.4 million Africans were forced to be slaves in Brazil in the last 50 years of the slave trade, and even after the trans-Atlantic slave trade ended, slavery continued until 1888.[PARAGRAPH:1]Because of the increased profit from the trade of coffee, the years after 1850 saw considerable growth and prosperity in Brazil. Dom Pedro II proved to be an enlightened man of middle-class habits who was anxious to reign over a tranquil and progressive nation, even if that tranquility was based on slave labor. Railroads, steamships and the telegraph were introduced to Brazil, all paid for by the money the fazendas supplied from their coffee crop. In growing cities such as Rio de Janeiro and Sгo Paulo, merchants, lawyers, a middle class, and an urban working class grew, once again paid for by the money coming from the fazendas.[PARAGRAPH:1]</Russian>
+		<English>[TAB]In the mid-19th century, Brazil had been undergoing an economic transformation brought about by a new export crop: coffee. Coffee provided a new basis for agricultural expansion in southern Brazil. In the provinces of Rio de Janeiro and then Sгo Paulo, coffee estates, or fazendas, began to spread toward the interior as new lands were opened. By 1850, coffee made up more than 50% of Brazil's exports, and more than half of world coffee production.[PARAGRAPH:1]Along with the expansion of coffee growing came an intensification of slavery in Brazil, as the country's primary form of labor. More than 1.4 million Africans were forced to be slaves in Brazil in the last 50 years of the slave trade, and even after the trans-Atlantic slave trade ended, slavery continued until 1888.[PARAGRAPH:1]Because of the increased profit from the trade of coffee, the years after 1850 saw considerable growth and prosperity in Brazil. Dom Pedro II proved to be an enlightened man of middle-class habits who was anxious to reign over a tranquil and progressive nation, even if that tranquility was based on slave labor. Railroads, steamships and the telegraph were introduced to Brazil, all paid for by the money the fazendas supplied from their coffee crop. In growing cities such as Rio de Janeiro and Sгo Paulo, merchants, lawyers, a middle class, and an urban working class grew, once again paid for by the money coming from the fazendas.[PARAGRAPH:1]</English>
+		<French>[TAB]In the mid-19th century, Brazil had been undergoing an economic transformation brought about by a new export crop: coffee. Coffee provided a new basis for agricultural expansion in southern Brazil. In the provinces of Rio de Janeiro and then Sгo Paulo, coffee estates, or fazendas, began to spread toward the interior as new lands were opened. By 1850, coffee made up more than 50% of Brazil's exports, and more than half of world coffee production.[PARAGRAPH:1]Along with the expansion of coffee growing came an intensification of slavery in Brazil, as the country's primary form of labor. More than 1.4 million Africans were forced to be slaves in Brazil in the last 50 years of the slave trade, and even after the trans-Atlantic slave trade ended, slavery continued until 1888.[PARAGRAPH:1]Because of the increased profit from the trade of coffee, the years after 1850 saw considerable growth and prosperity in Brazil. Dom Pedro II proved to be an enlightened man of middle-class habits who was anxious to reign over a tranquil and progressive nation, even if that tranquility was based on slave labor. Railroads, steamships and the telegraph were introduced to Brazil, all paid for by the money the fazendas supplied from their coffee crop. In growing cities such as Rio de Janeiro and Sгo Paulo, merchants, lawyers, a middle class, and an urban working class grew, once again paid for by the money coming from the fazendas.[PARAGRAPH:1]</French>
+		<German>[TAB]In the mid-19th century, Brazil had been undergoing an economic transformation brought about by a new export crop: coffee. Coffee provided a new basis for agricultural expansion in southern Brazil. In the provinces of Rio de Janeiro and then Sгo Paulo, coffee estates, or fazendas, began to spread toward the interior as new lands were opened. By 1850, coffee made up more than 50% of Brazil's exports, and more than half of world coffee production.[PARAGRAPH:1]Along with the expansion of coffee growing came an intensification of slavery in Brazil, as the country's primary form of labor. More than 1.4 million Africans were forced to be slaves in Brazil in the last 50 years of the slave trade, and even after the trans-Atlantic slave trade ended, slavery continued until 1888.[PARAGRAPH:1]Because of the increased profit from the trade of coffee, the years after 1850 saw considerable growth and prosperity in Brazil. Dom Pedro II proved to be an enlightened man of middle-class habits who was anxious to reign over a tranquil and progressive nation, even if that tranquility was based on slave labor. Railroads, steamships and the telegraph were introduced to Brazil, all paid for by the money the fazendas supplied from their coffee crop. In growing cities such as Rio de Janeiro and Sгo Paulo, merchants, lawyers, a middle class, and an urban working class grew, once again paid for by the money coming from the fazendas.[PARAGRAPH:1]</German>
+		<Italian>[TAB]In the mid-19th century, Brazil had been undergoing an economic transformation brought about by a new export crop: coffee. Coffee provided a new basis for agricultural expansion in southern Brazil. In the provinces of Rio de Janeiro and then Sгo Paulo, coffee estates, or fazendas, began to spread toward the interior as new lands were opened. By 1850, coffee made up more than 50% of Brazil's exports, and more than half of world coffee production.[PARAGRAPH:1]Along with the expansion of coffee growing came an intensification of slavery in Brazil, as the country's primary form of labor. More than 1.4 million Africans were forced to be slaves in Brazil in the last 50 years of the slave trade, and even after the trans-Atlantic slave trade ended, slavery continued until 1888.[PARAGRAPH:1]Because of the increased profit from the trade of coffee, the years after 1850 saw considerable growth and prosperity in Brazil. Dom Pedro II proved to be an enlightened man of middle-class habits who was anxious to reign over a tranquil and progressive nation, even if that tranquility was based on slave labor. Railroads, steamships and the telegraph were introduced to Brazil, all paid for by the money the fazendas supplied from their coffee crop. In growing cities such as Rio de Janeiro and Sгo Paulo, merchants, lawyers, a middle class, and an urban working class grew, once again paid for by the money coming from the fazendas.[PARAGRAPH:1]</Italian>
+		<Spanish>[TAB]In the mid-19th century, Brazil had been undergoing an economic transformation brought about by a new export crop: coffee. Coffee provided a new basis for agricultural expansion in southern Brazil. In the provinces of Rio de Janeiro and then Sгo Paulo, coffee estates, or fazendas, began to spread toward the interior as new lands were opened. By 1850, coffee made up more than 50% of Brazil's exports, and more than half of world coffee production.[PARAGRAPH:1]Along with the expansion of coffee growing came an intensification of slavery in Brazil, as the country's primary form of labor. More than 1.4 million Africans were forced to be slaves in Brazil in the last 50 years of the slave trade, and even after the trans-Atlantic slave trade ended, slavery continued until 1888.[PARAGRAPH:1]Because of the increased profit from the trade of coffee, the years after 1850 saw considerable growth and prosperity in Brazil. Dom Pedro II proved to be an enlightened man of middle-class habits who was anxious to reign over a tranquil and progressive nation, even if that tranquility was based on slave labor. Railroads, steamships and the telegraph were introduced to Brazil, all paid for by the money the fazendas supplied from their coffee crop. In growing cities such as Rio de Janeiro and Sгo Paulo, merchants, lawyers, a middle class, and an urban working class grew, once again paid for by the money coming from the fazendas.[PARAGRAPH:1]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_BRAZILIAN_FAZENDA_STRATEGY</Tag>
@@ -116,7 +116,7 @@
 	<!-- CityList -->
 	<TEXT>
 		<Tag>TXT_KEY_CITY_BRASILIA</Tag>
-		<Russian>&#193;&#240;&#224;&#231;&#232;&#235;&#232;&#224;</Russian>
+		<Russian>Бразилиа</Russian>
 		<English>Brasilia</English>
 		<French>Brasilia</French>
 		<German>Brasilia</German>
@@ -125,7 +125,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_PORTO_ALEGRE</Tag>
-		<Russian>&#207;&#238;&#240;&#242;&#243;-&#192;&#235;&#229;&#227;&#240;&#232;</Russian>
+		<Russian>Порту-Алегри</Russian>
 		<English>Porto Alegre</English>
 		<French>Porto Alegre</French>
 		<German>Porto Alegre</German>
@@ -134,7 +134,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_SALVADOR</Tag>
-		<Russian>&#209;&#224;&#235;&#226;&#224;&#228;&#238;&#240;</Russian>
+		<Russian>Салвадор</Russian>
 		<English>Salvador</English>
 		<French>Salvador</French>
 		<German>Salvador</German>
@@ -143,7 +143,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_RECIFE</Tag>
-		<Russian>&#208;&#229;&#241;&#232;&#244;&#232;</Russian>
+		<Russian>Ресифи</Russian>
 		<English>Recife</English>
 		<French>Recife</French>
 		<German>Recife</German>
@@ -152,7 +152,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_BELO_HORIZONTE</Tag>
-		<Russian>&#193;&#229;&#235;&#243;-&#206;&#240;&#232;&#231;&#238;&#237;&#242;&#232;</Russian>
+		<Russian>Белу-Оризонти</Russian>
 		<English>Belo Horizonte</English>
 		<French>Belo Horizonte</French>
 		<German>Belo Horizonte</German>
@@ -161,7 +161,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_MANAUS</Tag>
-		<Russian>&#204;&#224;&#237;&#224;&#243;&#241;</Russian>
+		<Russian>Манаус</Russian>
 		<English>Manaus</English>
 		<French>Manaus</French>
 		<German>Manaus</German>
@@ -170,7 +170,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_FORTALEZA</Tag>
-		<Russian>&#212;&#238;&#240;&#242;&#224;&#235;&#229;&#231;&#224;</Russian>
+		<Russian>Форталеза</Russian>
 		<English>Fortaleza</English>
 		<French>Fortaleza</French>
 		<German>Fortaleza</German>
@@ -179,25 +179,25 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_SAO_LUIS</Tag>
-		<Russian>&#209;&#224;&#237;-&#203;&#243;&#232;&#241;</Russian>
-		<English>S&#227;o Lu&#237;s</English>
-		<French>S&#227;o Lu&#237;s</French>
-		<German>S&#227;o Lu&#237;s</German>
-		<Italian>S&#227;o Lu&#237;s</Italian>
-		<Spanish>S&#227;o Lu&#237;s</Spanish>
+		<Russian>Сан-Луис</Russian>
+		<English>Sгo Luнs</English>
+		<French>Sгo Luнs</French>
+		<German>Sгo Luнs</German>
+		<Italian>Sгo Luнs</Italian>
+		<Spanish>Sгo Luнs</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_BELEM</Tag>
-		<Russian>&#193;&#229;&#235;&#229;&#237;</Russian>
-		<English>Bel&#233;m</English>
-		<French>Bel&#233;m</French>
-		<German>Bel&#233;m</German>
-		<Italian>Bel&#233;m</Italian>
-		<Spanish>Bel&#233;m</Spanish>
+		<Russian>Белен</Russian>
+		<English>Belйm</English>
+		<French>Belйm</French>
+		<German>Belйm</German>
+		<Italian>Belйm</Italian>
+		<Spanish>Belйm</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_CURITIBA</Tag>
-		<Russian>&#202;&#243;&#240;&#232;&#242;&#232;&#225;&#224;</Russian>
+		<Russian>Куритиба</Russian>
 		<English>Curitiba</English>
 		<French>Curitiba</French>
 		<German>Curitiba</German>
@@ -206,16 +206,16 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_GOIANIA</Tag>
-		<Russian>&#195;&#238;&#255;&#237;&#232;&#255;</Russian>
-		<English>Goi&#226;nia</English>
-		<French>Goi&#226;nia</French>
-		<German>Goi&#226;nia</German>
-		<Italian>Goi&#226;nia</Italian>
-		<Spanish>Goi&#226;nia</Spanish>
+		<Russian>Гояния</Russian>
+		<English>Goiвnia</English>
+		<French>Goiвnia</French>
+		<German>Goiвnia</German>
+		<Italian>Goiвnia</Italian>
+		<Spanish>Goiвnia</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_CAMPINAS</Tag>
-		<Russian>&#202;&#224;&#236;&#239;&#232;&#237;&#224;&#241;</Russian>
+		<Russian>Кампинас</Russian>
 		<English>Campinas</English>
 		<French>Campinas</French>
 		<German>Campinas</German>
@@ -224,7 +224,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_DUQUE_DE_CAXIAS</Tag>
-		<Russian>&#196;&#243;&#234;&#232;-&#228;&#232;-&#202;&#224;&#248;&#232;&#224;&#241;</Russian>
+		<Russian>Дуки-ди-Кашиас</Russian>
 		<English>Duque de Caxias</English>
 		<French>Duque de Caxias</French>
 		<German>Duque de Caxias</German>
@@ -233,7 +233,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_GUARULHOS</Tag>
-		<Russian>&#195;&#243;&#224;&#240;&#243;&#235;&#252;&#254;&#241;</Russian>
+		<Russian>Гуарульюс</Russian>
 		<English>Guarulhos</English>
 		<French>Guarulhos</French>
 		<German>Guarulhos</German>
@@ -242,7 +242,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NATAL</Tag>
-		<Russian>&#205;&#224;&#242;&#224;&#235;</Russian>
+		<Russian>Натал</Russian>
 		<English>Natal</English>
 		<French>Natal</French>
 		<German>Natal</German>
@@ -251,16 +251,16 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_CUIABA</Tag>
-		<Russian>&#202;&#243;&#255;&#225;&#224;</Russian>
-		<English>Cuiab&#225;</English>
-		<French>Cuiab&#225;</French>
-		<German>Cuiab&#225;</German>
-		<Italian>Cuiab&#225;</Italian>
-		<Spanish>Cuiab&#225;</Spanish>
+		<Russian>Куяба</Russian>
+		<English>Cuiabб</English>
+		<French>Cuiabб</French>
+		<German>Cuiabб</German>
+		<Italian>Cuiabб</Italian>
+		<Spanish>Cuiabб</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_ARACAJU</Tag>
-		<Russian>&#192;&#240;&#224;&#234;&#224;&#230;&#243;</Russian>
+		<Russian>Аракажу</Russian>
 		<English>Aracaju</English>
 		<French>Aracaju</French>
 		<German>Aracaju</German>
@@ -269,16 +269,16 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_SAO_JOSE</Tag>
-		<Russian>&#209;&#224;&#237; &#213;&#238;&#241;&#229;</Russian>
-		<English>S&#227;o Jos&#233;</English>
-		<French>S&#227;o Jos&#233;</French>
-		<German>S&#227;o Jos&#233;</German>
-		<Italian>S&#227;o Jos&#233;</Italian>
-		<Spanish>S&#227;o Jos&#233;</Spanish>
+		<Russian>Сан Хосе</Russian>
+		<English>Sгo Josй</English>
+		<French>Sгo Josй</French>
+		<German>Sгo Josй</German>
+		<Italian>Sгo Josй</Italian>
+		<Spanish>Sгo Josй</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_SOROCABA</Tag>
-		<Russian>&#209;&#238;&#240;&#238;&#234;&#224;&#225;&#224;</Russian>
+		<Russian>Сорокаба</Russian>
 		<English>Sorocaba</English>
 		<French>Sorocaba</French>
 		<German>Sorocaba</German>
@@ -287,25 +287,25 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_NITEROI</Tag>
-		<Russian>&#205;&#232;&#242;&#229;&#240;&#238;&#233;</Russian>
-		<English>Niter&#243;i</English>
-		<French>Niter&#243;i</French>
-		<German>Niter&#243;i</German>
-		<Italian>Niter&#243;i</Italian>
-		<Spanish>Niter&#243;i</Spanish>
+		<Russian>Нитерой</Russian>
+		<English>Niterуi</English>
+		<French>Niterуi</French>
+		<German>Niterуi</German>
+		<Italian>Niterуi</Italian>
+		<Spanish>Niterуi</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_FLORIANOPOLIS</Tag>
-		<Russian>&#212;&#235;&#238;&#240;&#232;&#224;&#237;&#238;&#239;&#238;&#235;&#232;&#241;</Russian>
-		<English>Florian&#243;polis</English>
-		<French>Florian&#243;polis</French>
-		<German>Florian&#243;polis</German>
-		<Italian>Florian&#243;polis</Italian>
-		<Spanish>Florian&#243;polis</Spanish>
+		<Russian>Флорианополис</Russian>
+		<English>Florianуpolis</English>
+		<French>Florianуpolis</French>
+		<German>Florianуpolis</German>
+		<Italian>Florianуpolis</Italian>
+		<Spanish>Florianуpolis</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_VILA_VELHA</Tag>
-		<Russian>&#194;&#232;&#235;&#224;-&#194;&#229;&#235;&#252;&#255;</Russian>
+		<Russian>Вила-Велья</Russian>
 		<English>Vila Velha</English>
 		<French>Vila Velha</French>
 		<German>Vila Velha</German>
@@ -314,16 +314,16 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_MACAPA</Tag>
-		<Russian>&#204;&#224;&#234;&#224;&#239;&#224;</Russian>
-		<English>Macap&#225;</English>
-		<French>Macap&#225;</French>
-		<German>Macap&#225;</German>
-		<Italian>Macap&#225;</Italian>
-		<Spanish>Macap&#225;</Spanish>
+		<Russian>Макапа</Russian>
+		<English>Macapб</English>
+		<French>Macapб</French>
+		<German>Macapб</German>
+		<Italian>Macapб</Italian>
+		<Spanish>Macapб</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_PORTO_VELHO</Tag>
-		<Russian>&#207;&#238;&#240;&#242;&#243;-&#194;&#229;&#235;&#252;&#254;</Russian>
+		<Russian>Порту-Велью</Russian>
 		<English>Porto Velho</English>
 		<French>Porto Velho</French>
 		<German>Porto Velho</German>
@@ -332,16 +332,16 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_VITORIA</Tag>
-		<Russian>&#194;&#232;&#242;&#238;&#240;&#232;&#255;</Russian>
-		<English>Vit&#243;ria</English>
-		<French>Vit&#243;ria</French>
-		<German>Vit&#243;ria</German>
-		<Italian>Vit&#243;ria</Italian>
-		<Spanish>Vit&#243;ria</Spanish>
+		<Russian>Витория</Russian>
+		<English>Vitуria</English>
+		<French>Vitуria</French>
+		<German>Vitуria</German>
+		<Italian>Vitуria</Italian>
+		<Spanish>Vitуria</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_RIO_BRANCO</Tag>
-		<Russian>&#208;&#232;&#243;-&#193;&#240;&#224;&#237;&#234;&#243;</Russian>
+		<Russian>Риу-Бранку</Russian>
 		<English>Rio Branco</English>
 		<French>Rio Branco</French>
 		<German>Rio Branco</German>
@@ -350,7 +350,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CITY_BOA_VISTA</Tag>
-		<Russian>&#193;&#238;&#224;&#226;&#232;&#248;&#242;&#224;</Russian>
+		<Russian>Боавишта</Russian>
 		<English>Boa Vista</English>
 		<French>Boa Vista</French>
 		<German>Boa Vista</German>

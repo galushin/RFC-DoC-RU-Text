@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,67 +6,67 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTEC_DESC</Tag>
-		<Russian>&#192;&#246;&#242;&#229;&#234;&#232;</Russian>
+		<Russian>Ацтеки</Russian>
 		<English>The Aztecs</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTECS_DESC_PEOPLES</Tag>
-		<Russian>&#204;&#229;&#234;&#241;&#232;&#234;&#224;&#237;&#241;&#234;&#232;&#229; &#237;&#224;&#240;&#238;&#228;&#251;</Russian>
+		<Russian>Мексиканские народы</Russian>
 		<English>Mexica Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTECS_DESC_DEFAULT</Tag>
-		<Russian>&#210;&#240;&#238;&#233;&#241;&#242;&#226;&#229;&#237;&#237;&#251;&#233; &#241;&#238;&#254;&#231; &#224;&#246;&#242;&#229;&#234;&#238;&#226;</Russian>
+		<Russian>Тройственный союз ацтеков</Russian>
 		<English>Aztec Triple Alliance</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTECS_DESC_DEMOCRATIC</Tag>
-		<Russian>&#209;&#238;&#229;&#228;&#232;&#237;&#229;&#237;&#237;&#251;&#229; &#216;&#242;&#224;&#242;&#251; &#204;&#229;&#234;&#241;&#232;&#234;&#232;</Russian>
+		<Russian>Соединенные Штаты Мексики</Russian>
 		<English>United Mexican States</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTECS_DESC_COMMUNIST</Tag>
-		<Russian>&#204;&#229;&#234;&#241;&#232;&#234;&#224;&#237;&#241;&#234;&#224;&#255; &#239;&#224;&#240;&#242;&#232;&#255; &#239;&#240;&#238;&#242;&#232;&#226;&#237;&#232;&#234;&#238;&#226; &#239;&#229;&#240;&#229;&#226;&#251;&#225;&#238;&#240;&#238;&#226;</Russian>
+		<Russian>Мексиканская партия противников перевыборов</Russian>
 		<English>Anti-Reelectionist Mexico</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTECS_DESC_FASCIST</Tag>
-		<Russian>&#204;&#229;&#234;&#241;&#232;&#234;&#224;&#237;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Мексиканская Империя</Russian>
 		<English>Mexican Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MEXICO_SHORT_DESC</Tag>
-		<Russian>&#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<Russian>Мексика</Russian>
 		<English>Mexico</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MEXICO_ADJECTIVE</Tag>
-		<Russian>&#204;&#229;&#234;&#241;&#232;&#234;&#224;&#237;&#241;&#234;&#232;&#233;</Russian>
+		<Russian>Мексиканский</Russian>
 		<English>Mexican</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTECS_ALTEPETL</Tag>
-		<Russian>&#204;&#229;&#234;&#241;&#232;&#234;&#224;&#237;&#241;&#234;&#232;&#233; &#224;&#235;&#252;&#242;&#229;&#239;&#229;&#242;&#235;&#252;</Russian>
+		<Russian>Мексиканский альтепетль</Russian>
 		<English>Mexican Altepetl</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTECS_EMPIRE</Tag>
-		<Russian>&#192;&#246;&#242;&#229;&#234;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Ацтекская империя</Russian>
 		<English>Aztec Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MEXICO_EMPIRE</Tag>
-		<Russian>&#204;&#229;&#234;&#241;&#232;&#234;&#224;&#237;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Мексиканская Империя</Russian>
 		<English>Mexican Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTECS_SOVIET_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<Russian>Советская Мексика</Russian>
 		<English>Soviet Mexico</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTECS_NAZI_VASSAL</Tag>
-		<Russian>&#195;&#229;&#240;&#236;&#224;&#237;&#241;&#234;&#224;&#255; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<Russian>Германская Мексика</Russian>
 		<English>German Mexico</English>
 	</TEXT>
 </Civ4GameText>

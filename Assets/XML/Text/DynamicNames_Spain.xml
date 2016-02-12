@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,162 +6,162 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_DESC</Tag>
-		<Russian>&#200;&#241;&#239;&#224;&#237;&#246;&#251;</Russian>
+		<Russian>Испанцы</Russian>
 		<English>The Spanish</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_DESC_PEOPLES</Tag>
-		<Russian>&#192;&#241;&#242;&#243;&#240;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Астурийцы</Russian>
 		<English>Asturian Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_DESC_DEFAULT</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#200;&#241;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Королевство Испания</Russian>
 		<English>Kingdom of Spain</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_DESC_DEMOCRATIC</Tag>
-		<Russian>&#200;&#241;&#239;&#224;&#237;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Испанская Республика</Russian>
 		<English>Spanish Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_DESC_COMMUNIST</Tag>
-		<Russian>&#200;&#241;&#239;&#224;&#237;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<Russian>Испанская Республика</Russian>
 		<English>Spanish Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_DESC_FASCIST</Tag>
-		<Russian>&#200;&#241;&#239;&#224;&#237;&#241;&#234;&#238;&#229; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Испанское государство</Russian>
 		<English>Spanish State</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_SULTANATE</Tag>
-		<Russian>&#209;&#243;&#235;&#242;&#224;&#237;&#224;&#242; &#192;&#235;&#252;-&#192;&#237;&#228;&#224;&#235;&#243;&#241;</Russian>
+		<Russian>Султанат Аль-Андалус</Russian>
 		<English>Sultanate of Al-Andalus</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_EMPIRE</Tag>
-		<Russian>&#200;&#241;&#239;&#224;&#237;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Испанская Империя</Russian>
 		<English>Spanish Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_CASTILLE</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#202;&#224;&#241;&#242;&#232;&#235;&#232;&#255;</Russian>
+		<Russian>Королевство Кастилия</Russian>
 		<English>Kingdom of Castille</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_CASTILIAN_EMPIRE</Tag>
-		<Russian>&#202;&#224;&#241;&#242;&#232;&#235;&#252;&#241;&#234;&#224;&#255; &#200;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Кастильская Империя</Russian>
 		<English>Castilian Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_IBERIA</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#200;&#225;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Королевство Иберия</Russian>
 		<English>Kingdom of Iberia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_ARAGON</Tag>
-		<Russian>&#192;&#240;&#224;&#227;&#238;&#237;&#241;&#234;&#224;&#255; &#234;&#238;&#240;&#238;&#237;&#224;</Russian>
+		<Russian>Арагонская корона</Russian>
 		<English>Crown of Aragon</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_NAZI_VASSAL</Tag>
-		<Russian>&#208;&#229;&#233;&#245;&#241;&#234;&#238;&#236;&#232;&#241;&#241;&#224;&#240;&#232;&#224;&#242; &#200;&#241;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Рейхскомиссариат Испания</Russian>
 		<English>Reichskommissariat Spain</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_SOVIET_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#200;&#241;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Советская Испания</Russian>
 		<English>Soviet Spain</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPANISH_VASSAL_GENERIC</Tag>
-		<Russian>&#194;&#232;&#246;&#229;&#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; %s1</Russian>
+		<Russian>Вицекоролевство %s1</Russian>
 		<English>Viceroyalty of %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PHOENICIA_SPANISH_VASSAL</Tag>
-		<Russian>&#200;&#241;&#239;&#224;&#237;&#241;&#234;&#232;&#233; &#203;&#232;&#226;&#224;&#237;</Russian>
+		<Russian>Испанский Ливан</Russian>
 		<English>Spanish Lebanon</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ETHIOPIA_SPANISH_VASSAL</Tag>
-		<Russian>&#200;&#241;&#239;&#224;&#237;&#241;&#234;&#224;&#255; &#194;&#238;&#241;&#242;&#238;&#247;&#237;&#224;&#255; &#192;&#244;&#240;&#232;&#234;&#224;</Russian>
+		<Russian>Испанская Восточная Африка</Russian>
 		<English>Spanish East Africa</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MAYA_SPANISH_VASSAL</Tag>
-		<Russian>&#192;&#240;&#245;&#232;&#229;&#239;&#224;&#240;&#245;&#232;&#255; &#222;&#234;&#224;&#242;&#224;&#237;&#224;</Russian>
-		<English>Dicesis of Yucat&#225;n</English>
+		<Russian>Архиепархия Юкатана</Russian>
+		<English>Dicesis of Yucatбn</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BYZANTIUM_SPANISH_VASSAL</Tag>
-		<Russian>&#203;&#224;&#242;&#232;&#237;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<Russian>Латинская империя</Russian>
 		<English>Latin Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_VIKINGS_SPANISH_VASSAL</Tag>
-		<Russian>&#194;&#232;&#246;&#229;&#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#209;&#234;&#224;&#237;&#228;&#232;&#237;&#224;&#226;&#232;&#255;</Russian>
+		<Russian>Вицекоролевство Скандинавия</Russian>
 		<English>Viceroyalty of Scandinavia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_KHMER_SPANISH_VASSAL</Tag>
-		<Russian>&#194;&#232;&#246;&#229;&#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#200;&#237;&#228;&#238;&#234;&#232;&#242;&#224;&#233;</Russian>
+		<Russian>Вицекоролевство Индокитай</Russian>
 		<English>Viceroyalty of Indochina</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDONESIA_SPANISH_VASSAL</Tag>
-		<Russian>&#200;&#241;&#239;&#224;&#237;&#241;&#234;&#224;&#255; &#206;&#241;&#242;-&#200;&#237;&#228;&#232;&#255;</Russian>
+		<Russian>Испанская Ост-Индия</Russian>
 		<English>Spanish East Indies</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_SPANISH_VASSAL</Tag>
-		<Russian>&#200;&#241;&#239;&#224;&#237;&#241;&#234;&#232;&#233; &#207;&#240;&#238;&#242;&#229;&#234;&#242;&#238;&#240;&#224;&#242; &#204;&#238;&#240;&#238;&#234;&#234;&#238;</Russian>
+		<Russian>Испанский Протекторат Морокко</Russian>
 		<English>Spanish Protectorate of Morocco</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_SPANISH_VASSAL</Tag>
-		<Russian>&#192;&#226;&#242;&#238;&#237;&#238;&#236;&#237;&#238;&#229; &#241;&#238;&#238;&#225;&#249;&#229;&#241;&#242;&#226;&#238; &#212;&#240;&#224;&#237;&#246;&#232;&#232;</Russian>
+		<Russian>Автономное сообщество Франции</Russian>
 		<English>Autonomous Community of France</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NETHERLANDS_SPANISH_VASSAL</Tag>
-		<Russian>&#200;&#241;&#239;&#224;&#237;&#241;&#234;&#232;&#229; &#205;&#232;&#228;&#229;&#240;&#235;&#224;&#237;&#228;&#251;</Russian>
+		<Russian>Испанские Нидерланды</Russian>
 		<English>Spanish Netherlands</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_SPANISH_VASSAL</Tag>
-		<Russian>&#200;&#241;&#239;&#224;&#237;&#241;&#234;&#224;&#255; &#199;&#224;&#239;&#224;&#228;&#237;&#224;&#255; &#192;&#244;&#240;&#232;&#234;&#224;</Russian>
+		<Russian>Испанская Западная Африка</Russian>
 		<English>Spanish West Africa</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_SPANISH_VASSAL</Tag>
-		<Russian>&#192;&#226;&#242;&#238;&#237;&#238;&#236;&#237;&#238;&#229; &#241;&#238;&#238;&#225;&#249;&#229;&#241;&#242;&#226;&#238; &#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#232;&#232;</Russian>
+		<Russian>Автономное сообщество Португалии</Russian>
 		<English>Autonomous Community of Portugal</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INCA_SPANISH_VASSAL</Tag>
-		<Russian>&#194;&#232;&#246;&#229;&#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#207;&#229;&#240;&#243;</Russian>
+		<Russian>Вицекоролевство Перу</Russian>
 		<English>Viceroyalty of Peru</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTECS_SPANISH_VASSAL</Tag>
-		<Russian>&#194;&#232;&#246;&#229;&#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#205;&#238;&#226;&#224;&#255; &#200;&#241;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Вицекоролевство Новая Испания</Russian>
 		<English>Viceroyalty of New Spain</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MUGHALS_SPANISH_VASSAL</Tag>
-		<Russian>&#194;&#232;&#246;&#229;&#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#199;&#224;&#239;&#224;&#228;&#237;&#224;&#255; &#200;&#237;&#228;&#232;&#255;</Russian>
+		<Russian>Вицекоролевство Западная Индия</Russian>
 		<English>Viceroyalty of West India</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_THAILAND_SPANISH_VASSAL</Tag>
-		<Russian>&#194;&#232;&#246;&#229;&#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#209;&#232;&#224;&#236;</Russian>
+		<Russian>Вицекоролевство Сиам</Russian>
 		<English>Viceroyalty of Siam</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AMERICA_SPANISH_VASSAL</Tag>
-		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#205;&#252;&#254; &#204;&#229;&#245;&#232;&#234;&#238;</Russian>
+		<Russian>Провинция Нью Мехико</Russian>
 		<English>Province of New Mexico</English>
 	</TEXT>
 </Civ4GameText>

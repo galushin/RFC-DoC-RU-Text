@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -26,7 +26,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Ot&#243;n I</Text>
+			<Text>Otуn I</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -37,14 +37,14 @@
 		<Tag>TXT_KEY_TECH_REFORMATION_PEDIA</Tag>
 		<Russian>[TAB]Christianity endured many schisms and heresies through the Dark Ages and Middle Ages, the most significant being the Great Schism of 1054, when the Roman Catholic and Eastern Orthodox churches separated. The Renaissance saw a split in Catholicism of perhaps even greater magnitude. The Protestant Reformation began as an internal reaction against corrupt practices and ended as a full-blown theological schism. The process began with Martin Luther's nailing of the Ninety-Five Theses to the door of Wittenberg Castle in 1517, and ended with the Peace of Westphalia in 1648, which permanently recognised the Catholic-Protestant division in Europe. Events between these include the conversion of many European states to Protestant faiths (of which there were many), the Council of Trent (beginning in 1545 to encourage internal Catholic reform), and the Thirty Years' War, beginning in 1618, which left Central Europe devastated.</Russian>
 		<English>[TAB]Christianity endured many schisms and heresies through the Dark Ages and Middle Ages, the most significant being the Great Schism of 1054, when the Roman Catholic and Eastern Orthodox churches separated. The Renaissance saw a split in Catholicism of perhaps even greater magnitude. The Protestant Reformation began as an internal reaction against corrupt practices and ended as a full-blown theological schism. The process began with Martin Luther's nailing of the Ninety-Five Theses to the door of Wittenberg Castle in 1517, and ended with the Peace of Westphalia in 1648, which permanently recognised the Catholic-Protestant division in Europe. Events between these include the conversion of many European states to Protestant faiths (of which there were many), the Council of Trent (beginning in 1545 to encourage internal Catholic reform), and the Thirty Years' War, beginning in 1618, which left Central Europe devastated.</English>
-		<French>[TAB]Les peuples du monde antique &#233;taient fascin&#233;s et intimid&#233;s par les forces de la nature. Les s&#233;ismes, temp&#234;tes et autres ph&#233;nom&#232;nes naturels &#233;taient g&#233;n&#233;ralement consid&#233;r&#233;s comme des signes du ciel. Des individus et des groupes se sont d&#233;marqu&#233;s en donnant des explications &#224; ces &#233;v&#233;nements et ont transmis leurs connaissances &#224; la tribu. Les pr&#234;tres et pr&#234;tresses du mysticisme, souvent appel&#233;s oracles, pr&#233;tendaient &#234;tre li&#233;s au divin par la m&#233;ditation et la transe. Le mysticisme primitif offrait &#224; l'humanit&#233; les premiers semblants de liens avec les puissances qui fa&#231;onnaient leur monde et repr&#233;sentait un premier pas vers les religions organis&#233;es &#224; venir, polyth&#233;istes ou monoth&#233;istes.</French>
-		<German>[TAB]Die V&#246;lker der alten Welt waren von den Naturm&#228;chten, die sie umgaben, gleicherma&#223;en fasziniert wie ge&#228;ngstigt: Erdbeben, St&#252;rme und andere Naturereignisse wurden allgemein als Zeichen der G&#246;tter interpretiert. Sowohl einzelne Mystiker als auch mystische Vereinigungen begannen, Erkl&#228;rungen f&#252;r diese Vorg&#228;nge zu formulieren und ihren St&#228;mmen kundzutun. Die Priester und Priesterinnen der Mystik, die oftmals als Orakel bezeichnet wurden, behaupteten, durch Meditation und im Trancezustand in direkter Verbindung mit den G&#246;ttern zu stehen. Auf diese Weise suggerierte die primitive Mystik den Menschen erste Kontakte mit den M&#228;chten, die ihre Welt erschaffen und geformt hatten - damit war der Grundstein f&#252;r die polytheistischen und monotheistischen Religionen der Zukunft gelegt.</German>
-		<Italian>[TAB]I popoli antichi erano affascinati e al tempo stesso intimiditi dalle forze della natura che li circondava: terremoti, tempeste e altri fenomeni erano generalmente visti come segni inviati dal cielo. Individui e gruppi tentarono di formulare spiegazioni per questi eventi, che si tramandarono poi di generazione in generazione. I sacerdoti e le sacerdotesse del misticismo, spesso chiamati &quot;oracoli&quot;, dichiaravano di entrare in contatto con la divinit� attraverso la meditazione profonda e la contemplazione in stato di trance. Il misticismo primitivo forn� all'umanit� il primo, tenue, legame con i poteri che formavano il mondo e rappresent� il primo passo verso le religioni organizzate, monoteiste e politeiste, che apparvero successivamente.</Italian>
-		<Spanish>[TAB]A los pueblos del mundo antiguo les fascinaban y sobrecog&#237;an las fuerzas de la naturaleza que les rodeaban. Los terremotos, tormentas y otros fen&#243;menos sol&#237;an ser considerados se&#241;ales del cielo. Surgieron individuos y grupos que formulaban explicaciones para estos sucesos, y transmit&#237;an dicho conocimiento a la tribu. Los sacerdotes y sacerdotisas del misticismo, llamados a menudo or&#225;culos, afirmaban unirse con la divinidad por medio de la meditaci&#243;n y de un estado contemplativo similar al trance. El misticismo primitivo ofreci&#243; a la humanidad los primeros y tenues v&#237;nculos con los poderes que daban forma a su mundo, y represent&#243; un primer paso en el camino hacia las futuras religiones organizadas, tanto polite&#237;stas como monote&#237;stas</Spanish>
+		<French>[TAB]Les peuples du monde antique йtaient fascinйs et intimidйs par les forces de la nature. Les sйismes, tempкtes et autres phйnomиnes naturels йtaient gйnйralement considйrйs comme des signes du ciel. Des individus et des groupes se sont dйmarquйs en donnant des explications а ces йvйnements et ont transmis leurs connaissances а la tribu. Les prкtres et prкtresses du mysticisme, souvent appelйs oracles, prйtendaient кtre liйs au divin par la mйditation et la transe. Le mysticisme primitif offrait а l'humanitй les premiers semblants de liens avec les puissances qui faзonnaient leur monde et reprйsentait un premier pas vers les religions organisйes а venir, polythйistes ou monothйistes.</French>
+		<German>[TAB]Die Vцlker der alten Welt waren von den Naturmдchten, die sie umgaben, gleichermaЯen fasziniert wie geдngstigt: Erdbeben, Stьrme und andere Naturereignisse wurden allgemein als Zeichen der Gцtter interpretiert. Sowohl einzelne Mystiker als auch mystische Vereinigungen begannen, Erklдrungen fьr diese Vorgдnge zu formulieren und ihren Stдmmen kundzutun. Die Priester und Priesterinnen der Mystik, die oftmals als Orakel bezeichnet wurden, behaupteten, durch Meditation und im Trancezustand in direkter Verbindung mit den Gцttern zu stehen. Auf diese Weise suggerierte die primitive Mystik den Menschen erste Kontakte mit den Mдchten, die ihre Welt erschaffen und geformt hatten - damit war der Grundstein fьr die polytheistischen und monotheistischen Religionen der Zukunft gelegt.</German>
+		<Italian>[TAB]I popoli antichi erano affascinati e al tempo stesso intimiditi dalle forze della natura che li circondava: terremoti, tempeste e altri fenomeni erano generalmente visti come segni inviati dal cielo. Individui e gruppi tentarono di formulare spiegazioni per questi eventi, che si tramandarono poi di generazione in generazione. I sacerdoti e le sacerdotesse del misticismo, spesso chiamati &quot;oracoli&quot;, dichiaravano di entrare in contatto con la divinità attraverso la meditazione profonda e la contemplazione in stato di trance. Il misticismo primitivo fornì all'umanità il primo, tenue, legame con i poteri che formavano il mondo e rappresentò il primo passo verso le religioni organizzate, monoteiste e politeiste, che apparvero successivamente.</Italian>
+		<Spanish>[TAB]A los pueblos del mundo antiguo les fascinaban y sobrecogнan las fuerzas de la naturaleza que les rodeaban. Los terremotos, tormentas y otros fenуmenos solнan ser considerados seсales del cielo. Surgieron individuos y grupos que formulaban explicaciones para estos sucesos, y transmitнan dicho conocimiento a la tribu. Los sacerdotes y sacerdotisas del misticismo, llamados a menudo orбculos, afirmaban unirse con la divinidad por medio de la meditaciуn y de un estado contemplativo similar al trance. El misticismo primitivo ofreciу a la humanidad los primeros y tenues vнnculos con los poderes que daban forma a su mundo, y representу un primer paso en el camino hacia las futuras religiones organizadas, tanto politeнstas como monoteнstas</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TECH_REFORMATION</Tag>
-		<Russian>&#208;&#229;&#244;&#238;&#240;&#236;&#224;&#246;&#232;&#255;</Russian>
+		<Russian>Реформация</Russian>
 		<English>Reformation</English>
 		<French>
 			<Text>Mysticisme</Text>
@@ -69,7 +69,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_REFORMATION_TITLE</Tag>
-		<Russian>&#208;&#229;&#244;&#238;&#240;&#236;&#224;&#246;&#232;&#255;!</Russian>
+		<Russian>Реформация!</Russian>
 		<English>The Reformation!</English>
 		<French>The Reformation!</French>
 		<German>The Reformation!</German>
@@ -89,103 +89,103 @@
 		<Tag>TXT_KEY_TECH_REFORMATION_QUOTE</Tag>
 		<Russian>"Peace if possible, truth at all costs." - Martin Luther</Russian>
 		<English>"Peace if possible, truth at all costs." - Martin Luther</English>
-		<French>"Une soci&#233;t&#233; pr&#234;te &#224; sacrifier un peu de libert&#233; contre un peu de s&#233;curit&#233; ne m&#233;rite ni l'une ni l'autre et finit par perdre les deux !" - Benjamin Franklin</French>
+		<French>"Une sociйtй prкte а sacrifier un peu de libertй contre un peu de sйcuritй ne mйrite ni l'une ni l'autre et finit par perdre les deux !" - Benjamin Franklin</French>
 		<German>"Eine Gesellschaft, die ihre Freiheit zugunsten der Sicherheit opfert, hat beides nicht verdient." - Benjamin Franklin</German>
-		<Italian>"Qualsiasi societ&#224; che sacrifica un po' di libert&#224; per una maggiore sicurezza non si merita nessuna delle due cose e le perde entrambe." - Benjamin Franklin</Italian>
-		<Spanish>"Cualquier sociedad que renuncie a un poco de libertad para obtener algo de seguridad no se merece ni una ni otra y acabar&#225; perdiendo ambas." - Benjamin Franklin</Spanish>
+		<Italian>"Qualsiasi societа che sacrifica un po' di libertа per una maggiore sicurezza non si merita nessuna delle due cose e le perde entrambe." - Benjamin Franklin</Italian>
+		<Spanish>"Cualquier sociedad que renuncie a un poco de libertad para obtener algo de seguridad no se merece ni una ni otra y acabarб perdiendo ambas." - Benjamin Franklin</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TECH_MONOTHEISM_STRATEGY</Tag>
 		<Russian>[COLOR_TECH_TEXT]Monotheism[COLOR_REVERT] enables the [COLOR_HIGHLIGHT_TEXT]Organized Religion[COLOR_REVERT] civic. </Russian>
 		<English>[COLOR_TECH_TEXT]Monotheism[COLOR_REVERT] enables the [COLOR_HIGHLIGHT_TEXT]Organized Religion[COLOR_REVERT] civic. </English>
-		<French>[COLOR_TECH_TEXT]Monoth&#233;isme[COLOR_REVERT] permet d'instaurer la [COLOR_HIGHLIGHT_TEXT]religion organis&#233;e[COLOR_REVERT].</French>
-		<German>Dar&#252;ber hinaus erm&#246;glicht sie die Staatsform [COLOR_HIGHLIGHT_TEXT]Organisierte Religion[COLOR_REVERT].</German>
+		<French>[COLOR_TECH_TEXT]Monothйisme[COLOR_REVERT] permet d'instaurer la [COLOR_HIGHLIGHT_TEXT]religion organisйe[COLOR_REVERT].</French>
+		<German>Darьber hinaus ermцglicht sie die Staatsform [COLOR_HIGHLIGHT_TEXT]Organisierte Religion[COLOR_REVERT].</German>
 		<Italian>[COLOR_TECH_TEXT]Monoteismo[COLOR_REVERT] permette la realizzazione della forma di governo [COLOR_HIGHLIGHT_TEXT]Religione organizzata[COLOR_REVERT].</Italian>
-		<Spanish>[COLOR_TECH_TEXT]Monote&#237;smo[COLOR_REVERT] activa el principio de la [COLOR_HIGHLIGHT_TEXT]Religi&#243;n organizada[COLOR_REVERT]. </Spanish>
+		<Spanish>[COLOR_TECH_TEXT]Monoteнsmo[COLOR_REVERT] activa el principio de la [COLOR_HIGHLIGHT_TEXT]Religiуn organizada[COLOR_REVERT]. </Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TECH_THEOLOGY_STRATEGY</Tag>
 		<Russian>The first to research this tech founds [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT]. It enables the [COLOR_HIGHLIGHT_TEXT]Theocracy[COLOR_REVERT] civic and allows construction of the [COLOR_BUILDING_TEXT]Sistine Chapel[COLOR_REVERT] wonder.</Russian>
 		<English>The first to research this tech founds [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT]. It enables the [COLOR_HIGHLIGHT_TEXT]Theocracy[COLOR_REVERT] civic and allows construction of the [COLOR_BUILDING_TEXT]Sistine Chapel[COLOR_REVERT] wonder.</English>
-		<French>La premi&#232;re civilisation qui atteint cette technologie fonde le [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT], qui permet d'instaurer la [COLOR_HIGHLIGHT_TEXT]th&#233;ocratie[COLOR_REVERT] et de construire la [COLOR_BUILDING_TEXT]Chapelle Sixtine[COLOR_REVERT].</French>
-		<German>Wer diese Technologie zuerst erforscht, begr&#252;ndet das [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT]. Letzteres ist die Voraussetzung f&#252;r die Staatsform [COLOR_HIGHLIGHT_TEXT]Theokratie[COLOR_REVERT] und erm&#246;glicht den Bau der [COLOR_BUILDING_TEXT]Sixtinischen Kapelle[COLOR_REVERT].</German>
+		<French>La premiиre civilisation qui atteint cette technologie fonde le [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT], qui permet d'instaurer la [COLOR_HIGHLIGHT_TEXT]thйocratie[COLOR_REVERT] et de construire la [COLOR_BUILDING_TEXT]Chapelle Sixtine[COLOR_REVERT].</French>
+		<German>Wer diese Technologie zuerst erforscht, begrьndet das [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT]. Letzteres ist die Voraussetzung fьr die Staatsform [COLOR_HIGHLIGHT_TEXT]Theokratie[COLOR_REVERT] und ermцglicht den Bau der [COLOR_BUILDING_TEXT]Sixtinischen Kapelle[COLOR_REVERT].</German>
 		<Italian>Chi ricerca per primo questa tecnologia scopre il [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT]. Inoltre, permette la realizzazione della forma di governo [COLOR_HIGHLIGHT_TEXT]Teocrazia[COLOR_REVERT] e la costruzione della Meraviglia [COLOR_BUILDING_TEXT]Cappella Sistina[COLOR_REVERT].</Italian>
-		<Spanish>El primero en investigar esta tecnolog&#237;a fundar&#225; el [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT]. &#201;ste activa el principio de [COLOR_HIGHLIGHT_TEXT]Teocracia[COLOR_REVERT] y permite la construcci&#243;n de la maravilla de la [COLOR_BUILDING_TEXT]Capilla Sixtina[COLOR_REVERT].</Spanish>
+		<Spanish>El primero en investigar esta tecnologнa fundarб el [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT]. Йste activa el principio de [COLOR_HIGHLIGHT_TEXT]Teocracia[COLOR_REVERT] y permite la construcciуn de la maravilla de la [COLOR_BUILDING_TEXT]Capilla Sixtina[COLOR_REVERT].</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TECH_REFORMATION_STRATEGY</Tag>
 		<Russian>The [COLOR_TECH_TEXT]Reformation[COLOR_REVERT] sparks a great schism in Christianity!</Russian>
 		<English>The [COLOR_TECH_TEXT]Reformation[COLOR_REVERT] sparks a great schism in Christianity!</English>
-		<French>Le [COLOR_TECH_TEXT]mysticisme[COLOR_REVERT] permet de construire l'[COLOR_BUILDING_TEXT]Ob&#233;lisque[COLOR_REVERT] et [COLOR_BUILDING_TEXT]Stonehenge[COLOR_REVERT]. Il m&#232;ne aussi &#224; la [COLOR_TECH_TEXT]m&#233;ditation[COLOR_REVERT] et au [COLOR_TECH_TEXT]polyth&#233;isme[COLOR_REVERT], ces deux technologies permettant au joueur en ayant fait la d&#233;couverte en premier de fonder une religion.</French>
-		<German>Die [COLOR_TECH_TEXT]Mystik[COLOR_REVERT] erm&#246;glicht den Bau von [COLOR_BUILDING_TEXT]Obelisken[COLOR_REVERT] und des Wunders von [COLOR_BUILDING_TEXT]Stonehenge[COLOR_REVERT]. Dar&#252;ber hinaus legt sie den Grundstein f&#252;r die [COLOR_TECH_TEXT]Meditation[COLOR_REVERT] und den [COLOR_TECH_TEXT]Polytheismus[COLOR_REVERT]. Der Entdecker des Polytheismus bzw. der Meditation erh&#228;lt eine Religion.</German>
-		<Italian>Il [COLOR_TECH_TEXT]Misticismo[COLOR_REVERT] permette la realizzazione di [COLOR_BUILDING_TEXT]obelischi[COLOR_REVERT] e della Meraviglia [COLOR_BUILDING_TEXT]Stonehenge[COLOR_REVERT]. Inoltre, conduce alla [COLOR_TECH_TEXT]Meditazione[COLOR_REVERT] e al [COLOR_TECH_TEXT]Politeismo[COLOR_REVERT], ciascuno delle quali fornisce una religione alla civilt&#224; che le scopre per prima.</Italian>
-		<Spanish>El [COLOR_TECH_TEXT]Misticismo[COLOR_REVERT] permite los [COLOR_BUILDING_TEXT]Obeliscos[COLOR_REVERT] y la maravilla de [COLOR_BUILDING_TEXT]Stonehenge[COLOR_REVERT]. Tambi&#233;n lleva a la [COLOR_TECH_TEXT]Meditaci&#243;n[COLOR_REVERT] y al [COLOR_TECH_TEXT]Polite&#237;smo[COLOR_REVERT], cada uno de los cuales proporciona una religi&#243;n al primero que lo descubra.</Spanish>
+		<French>Le [COLOR_TECH_TEXT]mysticisme[COLOR_REVERT] permet de construire l'[COLOR_BUILDING_TEXT]Obйlisque[COLOR_REVERT] et [COLOR_BUILDING_TEXT]Stonehenge[COLOR_REVERT]. Il mиne aussi а la [COLOR_TECH_TEXT]mйditation[COLOR_REVERT] et au [COLOR_TECH_TEXT]polythйisme[COLOR_REVERT], ces deux technologies permettant au joueur en ayant fait la dйcouverte en premier de fonder une religion.</French>
+		<German>Die [COLOR_TECH_TEXT]Mystik[COLOR_REVERT] ermцglicht den Bau von [COLOR_BUILDING_TEXT]Obelisken[COLOR_REVERT] und des Wunders von [COLOR_BUILDING_TEXT]Stonehenge[COLOR_REVERT]. Darьber hinaus legt sie den Grundstein fьr die [COLOR_TECH_TEXT]Meditation[COLOR_REVERT] und den [COLOR_TECH_TEXT]Polytheismus[COLOR_REVERT]. Der Entdecker des Polytheismus bzw. der Meditation erhдlt eine Religion.</German>
+		<Italian>Il [COLOR_TECH_TEXT]Misticismo[COLOR_REVERT] permette la realizzazione di [COLOR_BUILDING_TEXT]obelischi[COLOR_REVERT] e della Meraviglia [COLOR_BUILDING_TEXT]Stonehenge[COLOR_REVERT]. Inoltre, conduce alla [COLOR_TECH_TEXT]Meditazione[COLOR_REVERT] e al [COLOR_TECH_TEXT]Politeismo[COLOR_REVERT], ciascuno delle quali fornisce una religione alla civiltа che le scopre per prima.</Italian>
+		<Spanish>El [COLOR_TECH_TEXT]Misticismo[COLOR_REVERT] permite los [COLOR_BUILDING_TEXT]Obeliscos[COLOR_REVERT] y la maravilla de [COLOR_BUILDING_TEXT]Stonehenge[COLOR_REVERT]. Tambiйn lleva a la [COLOR_TECH_TEXT]Meditaciуn[COLOR_REVERT] y al [COLOR_TECH_TEXT]Politeнsmo[COLOR_REVERT], cada uno de los cuales proporciona una religiуn al primero que lo descubra.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_JEWISH_MISSIONARY_STRATEGY</Tag>
 		<Russian>Use this missionary to actively spread [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]). This increases your income if you have the [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT]</Russian>
 		<English>Use this missionary to actively spread [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]). This increases your income if you have the [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT]</English>
-		<French>Utilisez le missionnaire pour propager le [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] dans les villes alli&#233;es (ou les villes rivales avec lesquelles vous avez un accord de [COLOR_HIGHLIGHT_TEXT]libre passage[COLOR_REVERT]). Cela augmente vos revenus si vous avez construit le [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT].</French>
-		<German>Setzen Sie diesen Missionar ein, um in verb&#252;ndeten oder feindlichen St&#228;dten (mit [COLOR_HIGHLIGHT_TEXT]offenen Grenzen[COLOR_REVERT]) das [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] zu verbreiten. Haben Sie die [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT], erh&#246;hen sich dadurch Ihre Einnahmen.</German>
-		<Italian>Usa questo missionario per diffondere il [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] nelle citt&#224; amiche (o nelle citt&#224; rivali con le quali si ha [COLOR_HIGHLIGHT_TEXT]diritto di passaggio[COLOR_REVERT]). Aumentano le entrate se si possiede il [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT].</Italian>
-		<Spanish>Este misionero sirve para propagar el [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] por ciudades amigas (o de civilizaciones rivales con las que se tenga una [COLOR_HIGHLIGHT_TEXT]Apertura de fronteras[COLOR_REVERT]). Eso aumentar&#225; los ingresos si se tiene el [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT].</Spanish>
+		<French>Utilisez le missionnaire pour propager le [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] dans les villes alliйes (ou les villes rivales avec lesquelles vous avez un accord de [COLOR_HIGHLIGHT_TEXT]libre passage[COLOR_REVERT]). Cela augmente vos revenus si vous avez construit le [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT].</French>
+		<German>Setzen Sie diesen Missionar ein, um in verbьndeten oder feindlichen Stдdten (mit [COLOR_HIGHLIGHT_TEXT]offenen Grenzen[COLOR_REVERT]) das [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] zu verbreiten. Haben Sie die [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT], erhцhen sich dadurch Ihre Einnahmen.</German>
+		<Italian>Usa questo missionario per diffondere il [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] nelle cittа amiche (o nelle cittа rivali con le quali si ha [COLOR_HIGHLIGHT_TEXT]diritto di passaggio[COLOR_REVERT]). Aumentano le entrate se si possiede il [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT].</Italian>
+		<Spanish>Este misionero sirve para propagar el [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] por ciudades amigas (o de civilizaciones rivales con las que se tenga una [COLOR_HIGHLIGHT_TEXT]Apertura de fronteras[COLOR_REVERT]). Eso aumentarб los ingresos si se tiene el [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT].</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CHRISTIAN_MISSIONARY_STRATEGY</Tag>
 		<English>Use this missionary to actively spread [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] in friendly cities (or rival cities with whom you have [COLOR_HIGHLIGHT_TEXT]Open Borders[COLOR_REVERT]). This increases your income if you have the [COLOR_BUILDING_TEXT]Church of the Holy Sepulchre[COLOR_REVERT]</English>
-		<French>Utilisez le missionnaire pour propager le [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] dans les villes alli&#233;es (ou les villes rivales avec lesquelles vous avez un accord de [COLOR_HIGHLIGHT_TEXT]libre passage[COLOR_REVERT]). Cela augmente vos revenus si vous avez construit l'[COLOR_BUILDING_TEXT]Basilica of St. Peter[COLOR_REVERT]).</French>
-		<German>Setzen Sie diesen Missionar ein, um in verb&#252;ndeten oder feindlichen St&#228;dten (mit [COLOR_HIGHLIGHT_TEXT]offenen Grenzen[COLOR_REVERT]) den [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] zu verbreiten. Haben Sie den [COLOR_BUILDING_TEXT]Kirche des Heiligen Grabes[COLOR_REVERT], erh&#246;hen sich dadurch Ihre Einnahmen.</German>
-		<Italian>Usa questo missionario per diffondere il [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] nelle citt&#224; amiche (o nelle citt&#224; rivali con le quali si ha [COLOR_HIGHLIGHT_TEXT]diritto di passaggio[COLOR_REVERT]). Aumentano le entrate se si possiede la [COLOR_BUILDING_TEXT]Basilica of St. Peter[COLOR_REVERT].</Italian>
-		<Spanish>Este misionero sirve para propagar el [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] por ciudades amigas (o de civilizaciones rivales con las que se tenga una [COLOR_HIGHLIGHT_TEXT]Apertura de fronteras[COLOR_REVERT]). Eso aumentar&#225; los ingresos si se tiene la [COLOR_BUILDING_TEXT]Basilica of St. Peter[COLOR_REVERT]</Spanish>
+		<French>Utilisez le missionnaire pour propager le [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] dans les villes alliйes (ou les villes rivales avec lesquelles vous avez un accord de [COLOR_HIGHLIGHT_TEXT]libre passage[COLOR_REVERT]). Cela augmente vos revenus si vous avez construit l'[COLOR_BUILDING_TEXT]Basilica of St. Peter[COLOR_REVERT]).</French>
+		<German>Setzen Sie diesen Missionar ein, um in verbьndeten oder feindlichen Stдdten (mit [COLOR_HIGHLIGHT_TEXT]offenen Grenzen[COLOR_REVERT]) den [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] zu verbreiten. Haben Sie den [COLOR_BUILDING_TEXT]Kirche des Heiligen Grabes[COLOR_REVERT], erhцhen sich dadurch Ihre Einnahmen.</German>
+		<Italian>Usa questo missionario per diffondere il [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] nelle cittа amiche (o nelle cittа rivali con le quali si ha [COLOR_HIGHLIGHT_TEXT]diritto di passaggio[COLOR_REVERT]). Aumentano le entrate se si possiede la [COLOR_BUILDING_TEXT]Basilica of St. Peter[COLOR_REVERT].</Italian>
+		<Spanish>Este misionero sirve para propagar el [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] por ciudades amigas (o de civilizaciones rivales con las que se tenga una [COLOR_HIGHLIGHT_TEXT]Apertura de fronteras[COLOR_REVERT]). Eso aumentarб los ingresos si se tiene la [COLOR_BUILDING_TEXT]Basilica of St. Peter[COLOR_REVERT]</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_JEWISH_CATHEDRAL_STRATEGY</Tag>
 		<Russian>The [COLOR_BUILDING_TEXT]Protestant Cathedral[COLOR_REVERT] greatly increases a city's cultural output. It makes a city's citizens happy (if [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] is the state religion).</Russian>
 		<English>The [COLOR_BUILDING_TEXT]Protestant Cathedral[COLOR_REVERT] greatly increases a city's cultural output. It makes a city's citizens happy (if [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] is the state religion).</English>
-		<French>La [COLOR_BUILDING_TEXT]Protestant Cathedral[COLOR_REVERT] augmente nettement la production de culture d'une ville. Elle rend les citoyens de la ville heureux (si le [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] est la religion d'&#233;tat).</French>
-		<German>Die [COLOR_BUILDING_TEXT]Protestant Cathedral[COLOR_REVERT] erh&#246;ht den kulturellen Aussto&#223; einer Stadt deutlich. Ist das [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] in einer Stadt Staatsreligion, steigt die Zufriedenheit der Bev&#246;lkerung.</German>
-		<Italian>La [COLOR_BUILDING_TEXT]Protestant Cathedral[COLOR_REVERT] aumenta notevolmente la produzione culturale della citt&#224;. Inoltre, genera felicit&#224; tra i cittadini (se il [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] &#232; la religione di stato).</Italian>
-		<Spanish>La [COLOR_BUILDING_TEXT]Protestant Cathedral[COLOR_REVERT] aumenta mucho la producci&#243;n cultural de la ciudad. Tambi&#233;n hace felices a sus habitantes (si el [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] es la religi&#243;n oficial).</Spanish>
+		<French>La [COLOR_BUILDING_TEXT]Protestant Cathedral[COLOR_REVERT] augmente nettement la production de culture d'une ville. Elle rend les citoyens de la ville heureux (si le [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] est la religion d'йtat).</French>
+		<German>Die [COLOR_BUILDING_TEXT]Protestant Cathedral[COLOR_REVERT] erhцht den kulturellen AusstoЯ einer Stadt deutlich. Ist das [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] in einer Stadt Staatsreligion, steigt die Zufriedenheit der Bevцlkerung.</German>
+		<Italian>La [COLOR_BUILDING_TEXT]Protestant Cathedral[COLOR_REVERT] aumenta notevolmente la produzione culturale della cittа. Inoltre, genera felicitа tra i cittadini (se il [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] и la religione di stato).</Italian>
+		<Spanish>La [COLOR_BUILDING_TEXT]Protestant Cathedral[COLOR_REVERT] aumenta mucho la producciуn cultural de la ciudad. Tambiйn hace felices a sus habitantes (si el [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] es la religiуn oficial).</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_CHRISTIAN_CATHEDRAL_STRATEGY</Tag>
 		<Russian>The [COLOR_BUILDING_TEXT]Catholic Cathedral[COLOR_REVERT] greatly increases a city's cultural output. It makes a city's citizens happy (if [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] is the state religion).</Russian>
 		<English>The [COLOR_BUILDING_TEXT]Catholic Cathedral[COLOR_REVERT] greatly increases a city's cultural output. It makes a city's citizens happy (if [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] is the state religion).</English>
-		<French>La [COLOR_BUILDING_TEXT]Catholic Cathedral[COLOR_REVERT] augmente nettement la production de culture d'une ville. Elle rend les citoyens de la ville heureux (si le [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] est la religion d'&#233;tat).</French>
-		<German>Die [COLOR_BUILDING_TEXT]Catholic Cathedral[COLOR_REVERT] erh&#246;ht den kulturellen Aussto&#223; einer Stadt deutlich. Ist das [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] in einer Stadt Staatsreligion, steigt die Zufriedenheit der Bev&#246;lkerung.</German>
-		<Italian>La [COLOR_BUILDING_TEXT]Catholic Cathedral[COLOR_REVERT] aumenta notevolmente la produzione culturale della citt&#224;. Inoltre, genera felicit&#224; tra i cittadini (se il [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] &#232; la religione di stato).</Italian>
-		<Spanish>La [COLOR_BUILDING_TEXT]Catholic Cathedral[COLOR_REVERT] aumenta mucho la producci&#243;n cultural de la ciudad. Tambi&#233;n hace felices a los habitantes de la ciudad (si el [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] es la religi&#243;n oficial).</Spanish>
+		<French>La [COLOR_BUILDING_TEXT]Catholic Cathedral[COLOR_REVERT] augmente nettement la production de culture d'une ville. Elle rend les citoyens de la ville heureux (si le [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] est la religion d'йtat).</French>
+		<German>Die [COLOR_BUILDING_TEXT]Catholic Cathedral[COLOR_REVERT] erhцht den kulturellen AusstoЯ einer Stadt deutlich. Ist das [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] in einer Stadt Staatsreligion, steigt die Zufriedenheit der Bevцlkerung.</German>
+		<Italian>La [COLOR_BUILDING_TEXT]Catholic Cathedral[COLOR_REVERT] aumenta notevolmente la produzione culturale della cittа. Inoltre, genera felicitа tra i cittadini (se il [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] и la religione di stato).</Italian>
+		<Spanish>La [COLOR_BUILDING_TEXT]Catholic Cathedral[COLOR_REVERT] aumenta mucho la producciуn cultural de la ciudad. Tambiйn hace felices a los habitantes de la ciudad (si el [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] es la religiуn oficial).</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_JEWISH_SHRINE_STRATEGY</Tag>
 		<Russian>The [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Protestant Shrine[COLOR_REVERT]) produces one gold each turn for every city in the world that practises [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT]. It also spreads [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] thoughout the world and increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Prophet[COLOR_REVERT].</Russian>
 		<English>The [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Protestant Shrine[COLOR_REVERT]) produces one gold each turn for every city in the world that practises [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT]. It also spreads [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] thoughout the world and increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Prophet[COLOR_REVERT].</English>
-		<French>Le [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT] ([COLOR_BUILDING_TEXT]sanctuaire Protestant[COLOR_REVERT]) produit 1 unit&#233; d'or par tour pour chaque ville pratiquant le [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT]. Il r&#233;pand &#233;galement le [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] dans le monde et augmente les chances d'apparition d'un [COLOR_UNIT_TEXT]proph&#232;te illustre[COLOR_REVERT].</French>
-		<German>[COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Protestant Schrein[COLOR_REVERT]) produziert in allen St&#228;dten, die das [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] praktizieren, 1 Gold/Runde. Au&#223;erdem verbreitet er das [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] in aller Welt und erh&#246;ht die Chancen einer Stadt, einen [COLOR_UNIT_TEXT]Gro&#223;en Propheten[COLOR_REVERT] hervorzubringen.</German>
-		<Italian>Il [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT] (il [COLOR_BUILDING_TEXT]santuario Protestant[COLOR_REVERT]) produce un'unit&#224; d'oro a turno per ogni citt&#224; nel mondo che pratica il [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT]. Inoltre, diffonde nel mondo il [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] e aumenta la probabilit&#224; di generare un [COLOR_UNIT_TEXT]Grande Profeta[COLOR_REVERT].</Italian>
-		<Spanish>El [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT] (el [COLOR_BUILDING_TEXT]santuario Protestant[COLOR_REVERT]) produce uno de oro cada turno por cada ciudad del mundo en la que se practique el [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT]. Tambi&#233;n propaga el [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] por el globo y aumenta las posibilidades de que en su ciudad se genere un [COLOR_UNIT_TEXT]Gran profeta[COLOR_REVERT].</Spanish>
+		<French>Le [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT] ([COLOR_BUILDING_TEXT]sanctuaire Protestant[COLOR_REVERT]) produit 1 unitй d'or par tour pour chaque ville pratiquant le [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT]. Il rйpand йgalement le [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] dans le monde et augmente les chances d'apparition d'un [COLOR_UNIT_TEXT]prophиte illustre[COLOR_REVERT].</French>
+		<German>[COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Protestant Schrein[COLOR_REVERT]) produziert in allen Stдdten, die das [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] praktizieren, 1 Gold/Runde. AuЯerdem verbreitet er das [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] in aller Welt und erhцht die Chancen einer Stadt, einen [COLOR_UNIT_TEXT]GroЯen Propheten[COLOR_REVERT] hervorzubringen.</German>
+		<Italian>Il [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT] (il [COLOR_BUILDING_TEXT]santuario Protestant[COLOR_REVERT]) produce un'unitа d'oro a turno per ogni cittа nel mondo che pratica il [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT]. Inoltre, diffonde nel mondo il [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] e aumenta la probabilitа di generare un [COLOR_UNIT_TEXT]Grande Profeta[COLOR_REVERT].</Italian>
+		<Spanish>El [COLOR_BUILDING_TEXT]All Saints' Church[COLOR_REVERT] (el [COLOR_BUILDING_TEXT]santuario Protestant[COLOR_REVERT]) produce uno de oro cada turno por cada ciudad del mundo en la que se practique el [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT]. Tambiйn propaga el [COLOR_HIGHLIGHT_TEXT]Protestantism[COLOR_REVERT] por el globo y aumenta las posibilidades de que en su ciudad se genere un [COLOR_UNIT_TEXT]Gran profeta[COLOR_REVERT].</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_CHRISTIAN_SHRINE_STRATEGY</Tag>
 		<Russian>The [COLOR_BUILDING_TEXT]Church of the Nativity[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Catholic Shrine[COLOR_REVERT]) produces one gold each turn for every city in the world that practises [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT]. It also spreads [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] thoughout the world and increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Prophet[COLOR_REVERT].</Russian>
 		<English>The [COLOR_BUILDING_TEXT]Church of the Nativity[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Catholic Shrine[COLOR_REVERT]) produces one gold each turn for every city in the world that practises [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT]. It also spreads [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] thoughout the world and increases its city's chances of generating a [COLOR_UNIT_TEXT]Great Prophet[COLOR_REVERT].</English>
-		<French>L'[COLOR_BUILDING_TEXT]Church of the Nativity[COLOR_REVERT] ([COLOR_BUILDING_TEXT]sanctuaire Catholic[COLOR_REVERT]) produit 1 unit&#233; d'or par tour pour chaque ville pratiquant le [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT]. Elle r&#233;pand &#233;galement le [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] dans le monde et augmente les chances d'apparition d'un [COLOR_UNIT_TEXT]proph&#232;te illustre[COLOR_REVERT].</French>
-		<German>Die [COLOR_BUILDING_TEXT]Church of the Nativity[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Catholic Schrein[COLOR_REVERT]) produziert in allen St&#228;dten, die das [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] praktizieren, 1 Gold/Runde. Au&#223;erdem verbreitet sie das [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] in aller Welt und erh&#246;ht die Chancen einer Stadt, einen [COLOR_UNIT_TEXT]Gro&#223;en Propheten[COLOR_REVERT] hervorzubringen.</German>
-		<Italian>La [COLOR_BUILDING_TEXT]Church of the Nativity[COLOR_REVERT] (il [COLOR_BUILDING_TEXT]santuario Catholic[COLOR_REVERT]) produce un'unit&#224; d'oro a turno per ogni citt&#224; nel mondo che pratica il [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT]. Inoltre, diffonde nel mondo il [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] e aumenta la probabilit&#224; di generare un [COLOR_UNIT_TEXT]Grande Profeta[COLOR_REVERT].</Italian>
-		<Spanish>La [COLOR_BUILDING_TEXT]Church of the Nativity[COLOR_REVERT] (el [COLOR_BUILDING_TEXT]santuario Catholic[COLOR_REVERT]) produce uno de oro cada turno por cada ciudad del mundo en la que se practique el [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT]. Tambi&#233;n propaga el [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] por el globo y aumenta las posibilidades de que en su ciudad se genere un [COLOR_UNIT_TEXT]Gran profeta[COLOR_REVERT].</Spanish>
+		<French>L'[COLOR_BUILDING_TEXT]Church of the Nativity[COLOR_REVERT] ([COLOR_BUILDING_TEXT]sanctuaire Catholic[COLOR_REVERT]) produit 1 unitй d'or par tour pour chaque ville pratiquant le [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT]. Elle rйpand йgalement le [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] dans le monde et augmente les chances d'apparition d'un [COLOR_UNIT_TEXT]prophиte illustre[COLOR_REVERT].</French>
+		<German>Die [COLOR_BUILDING_TEXT]Church of the Nativity[COLOR_REVERT] ([COLOR_BUILDING_TEXT]Catholic Schrein[COLOR_REVERT]) produziert in allen Stдdten, die das [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] praktizieren, 1 Gold/Runde. AuЯerdem verbreitet sie das [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] in aller Welt und erhцht die Chancen einer Stadt, einen [COLOR_UNIT_TEXT]GroЯen Propheten[COLOR_REVERT] hervorzubringen.</German>
+		<Italian>La [COLOR_BUILDING_TEXT]Church of the Nativity[COLOR_REVERT] (il [COLOR_BUILDING_TEXT]santuario Catholic[COLOR_REVERT]) produce un'unitа d'oro a turno per ogni cittа nel mondo che pratica il [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT]. Inoltre, diffonde nel mondo il [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] e aumenta la probabilitа di generare un [COLOR_UNIT_TEXT]Grande Profeta[COLOR_REVERT].</Italian>
+		<Spanish>La [COLOR_BUILDING_TEXT]Church of the Nativity[COLOR_REVERT] (el [COLOR_BUILDING_TEXT]santuario Catholic[COLOR_REVERT]) produce uno de oro cada turno por cada ciudad del mundo en la que se practique el [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT]. Tambiйn propaga el [COLOR_HIGHLIGHT_TEXT]Catholicism[COLOR_REVERT] por el globo y aumenta las posibilidades de que en su ciudad se genere un [COLOR_UNIT_TEXT]Gran profeta[COLOR_REVERT].</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_PROTESTANT_SHRINE_PEDIA</Tag>
 		<Russian>[TAB]All Saints' Church is a Lutheran church in the town of Wittenberg in Germany. It is best known as the location where Martin Luther started the Reformation, by nailing his Ninety-Five Theses to the doors of the church. The Ninety-Five Theses were an attack on the sale of indulgences by the Catholic Church. "Indulgences" were purchased by those Catholics who, having already obtained forgiveness for their sins, wished to reduce the time they would spend in punishment in the afterlife for their sins, before eventually going to heaven. In practice, these were sold to fund the expenses of the Catholic Church on salaries and construction projects. It was Luther's contention that this turned penitence into a commercial transaction. [PARAGRAPH:2]Past heresies in Christianity were quickly quashed by the Church, which excommunicated and even declared crusades against dissenters. However, the development of the printing press ensured the rapid spread of Luther's message throughout Europe. Luther's refusal to recant his condemnations of Rome is seen as the beginning of the process of the Protestant Reformation.</Russian>
 		<English>[TAB]All Saints' Church is a Lutheran church in the town of Wittenberg in Germany. It is best known as the location where Martin Luther started the Reformation, by nailing his Ninety-Five Theses to the doors of the church. The Ninety-Five Theses were an attack on the sale of indulgences by the Catholic Church. "Indulgences" were purchased by those Catholics who, having already obtained forgiveness for their sins, wished to reduce the time they would spend in punishment in the afterlife for their sins, before eventually going to heaven. In practice, these were sold to fund the expenses of the Catholic Church on salaries and construction projects. It was Luther's contention that this turned penitence into a commercial transaction. [PARAGRAPH:2]Past heresies in Christianity were quickly quashed by the Church, which excommunicated and even declared crusades against dissenters. However, the development of the printing press ensured the rapid spread of Luther's message throughout Europe. Luther's refusal to recant his condemnations of Rome is seen as the beginning of the process of the Protestant Reformation.</English>
-		<French>[TAB]Selon la tradition juive, le Temple de Salomon est la premi&#232;re synagogue de J&#233;rusalem et en tant que "maison de Dieu", l'&#233;difice le plus important de la religion juive. Sa construction commence sous le r&#232;gne du roi David et s'ach&#232;ve sous celui de son fils, Salomon. Le Temple de Salomon est construit par des ouvriers ph&#233;niciens qui utilisent les plus beaux mat&#233;riaux disponibles : des pierres extraites de carri&#232;res situ&#233;es sous la ville, du bois du Liban, 3 000 tonnes d'or et 30 000 tonnes d'argent. Il en r&#233;sulte un &#233;difice d'une beaut&#233; surprenante mesurant pr&#232;s de 27 m de long, 9 m de large et 14 m de haut. Sa construction n&#233;cessite sept ann&#233;es. [PARAGRAPH:2] Le Temple de Salomon consiste en trois pi&#232;ces principales entour&#233;es de salles plus petites. Apr&#232;s avoir mont&#233; quelques marches, le visiteur entre dans le vestibule, surmont&#233; de deux &#233;normes piliers portant les noms de Yachin et Boaz. De l&#224;, le visiteur p&#233;n&#232;tre dans la "grande maison" ou "lieu saint", o&#249; s'effectuent les principaux services religieux. Apr&#232;s la grande maison se trouve le "Saint des Saints", une pi&#232;ce carr&#233;e lambriss&#233;e de bois de c&#232;dre qui abrite l'"Arche d'alliance". L'Arche d'alliance est un coffre sacr&#233; qui contient les tablettes de pierre sur lesquelles sont &#233;crits les Dix commandements que Mo&#239;se a re&#231;u de Dieu. Le b&#226;timent est entour&#233; d'une cour dans laquelle la population pratique sa religion. [PARAGRAPH:2] Le Temple de Salomon a fait l'objet de nombreux pillages au fil des ann&#233;es avant d'&#234;tre pill&#233; une derni&#232;re fois et enti&#232;rement br&#251;l&#233; par le roi Nabuchodonosor II de Babylone vers 580 av. J.-C. pendant la p&#233;riode de "captivit&#233; babylonienne". Des ann&#233;es plus tard, bon nombre des tr&#233;sors du Temple de Salomon sont rendus aux juifs par le roi [LINK=LEADER_CYRUS]Cyrus[\LINK] Ier de Perse, mais il manque l'Arche. Certains pensent que l'Arche a &#233;t&#233; enlev&#233;e et cach&#233;e avant l'attaque babylonienne ; d'autres estiment que l'Arche a &#233;t&#233; prise par Babylone puis d&#233;truite ou perdue. L'Eglise orthodoxe d'Ethiopie assure qu'elle poss&#232;de l'Arche qui lui aurait &#233;t&#233; apport&#233;e par l'un des fils de Salomon. En tout cas, le Temple de Salomon a &#233;t&#233; enti&#232;rement d&#233;truit et son emplacement d'origine fait l'objet de nombreuses controverses et discussions. [PARAGRAPH:2]Le "Second Temple", construit &#224; J&#233;rusalem vers 500 av. J.-C., est d&#233;truit &#224; son tour par les Romains en 70 ap. J.-C. Il en reste uniquement le "Mur occidental", plus connu sous le nom de "Mur des lamentations".</French>
-		<German>[TAB]Laut der j&#252;dischen &#220;berlieferung war Salomons Tempel der erste j&#252;dische Tempel in Jerusalem und als "Wohnst&#228;tte Gottes" das wichtigste Geb&#228;ude des Judentums. K&#246;nig David begann mit dem Bau, der von seinem Sohn Salomon schlie&#223;lich vollendet wurde. Der Tempel wurde von ph&#246;nizischen Arbeitern aus Steinquadern, libanesischem Holz, 3000 Tonnen Gold und 3000 Tonnen Silber errichtet. Nach seiner Fertigstellung war der pr&#228;chtige Tempel 30 Meter lang, 10 Meter breit und 16 Meter hoch. Der Bau des Gotteshauses nahm sieben Jahre in Anspruch.[PARAGRAPH:2]Der Tempel bestand aus drei Hauptr&#228;umen und war an drei Seiten von Seitenzimmern umgeben, in denen die Sch&#228;tze und religi&#246;sen Artefakte des Tempels aufbewahrt wurden. Die Vorhalle wurde von den beiden Bronzes&#228;ulen Iachin und Boas ("Festigkeit und St&#228;rke") getragen. Die Vorhalle m&#252;ndete in das so genannte "Heilige", in dem die goldenen Leuchter, der Schaubrottisch und der R&#228;ucheraltar standen. Hinter einem Vorhang befand sich das Allerheiligste mit der Bundeslade und den beiden Cherubim. Beide R&#228;ume waren mit Zedernholz get&#228;felt. Die Bundeslade war eine mit Gold &#252;berzogene Truhe aus Akazienholz, in der die zehn Gebote, die Moses von Gott erhalten hatte, aufbewahrt wurden. [PARAGRAPH:2]Der Tempel wurde zu Beginn der babylonischen Gefangenschaft im Jahr 586 vor Christus von den Babyloniern unter K&#246;nig Nebukadnezar II. gepl&#252;ndert und niedergebrannt. Viele Jahre sp&#228;ter gab K&#246;nig [LINK=LEADER_CYRUS]Kyrus[\LINK]. von Persien den Juden den Gro&#223;teil der Tempelsch&#228;tze zur&#252;ck. Die Bundeslade blieb jedoch verschwunden. Bis heute ist unklar, ob die Bundeslade vor dem Angriff der Babylonier versteckt oder von diesen erbeutet und zerst&#246;rt wurde. Nach der &#220;berlieferung der &#228;thiopischen Kirche wurde die Bundeslade gestohlen und befindet sich heute in Aksum, der heiligen Stadt &#196;thiopiens. Da der Tempel v&#246;llig zerst&#246;rt wurde, ist bis heute nicht eindeutig gekl&#228;rt, wo er gestanden hat. [PARAGRAPH:2]Der "Zweite Tempel" wurde etwa um 500 vor Christus in Jerusalem gebaut und 70 vor Christus von den R&#246;mern zerst&#246;rt. Alles, was von ihm noch &#252;brig ist, ist die westliche "Klagemauer".</German>
-		<Italian>[TAB]Secondo la tradizione Ebraica, il Tempio di Salomone fu il primo tempio Giudaico di Gerusalemme e il "luogo di residenza di Dio", l'edificio pi&#249; importante della religione israelita. La costruzione venne iniziata da re Davide e completata da suo figlio, Salomone. Il tempio venne realizzato dai lavoratori Fenici usando i migliori materiali disponibili: pietre scavate dal sottosuolo della citt&#224;, legno proveniente dal Libano, 3.000 tonnellate d'oro e 30.000 di argento. Il risultato di tali sforzi fu un bellissimo tempio lungo 27 metri, largo 10 e alto 15. Per completare il tempio ci vollero sette anni.[PARAGRAPH:2]Il tempio era composto da tre stanze principali, circondate da altre pi&#249; piccole. Salendo una rampa di scale, il visitatore poteva raggiungere il vestibolo che si trovava in cima a due grosse colonne Jachin e Boaz. Da qui si poteva procedere nella "casa maggiore" o "luogo sacro", dove venivano officiati importanti servizi. Dietro la "casa maggiore" si trova il "Sancta Santorum" una stanza quadrata con presente dei cedri all'interno della quale veniva conservata l'Arca dell'Alleanza. L'Arca dell'Alleanza era un contenitore sacro che conteneva i resti delle tavole sulle quali furono scritti i Dieci Comandamenti che Dio diede a Mos&#232;: l'edificio era circondato da un cortile all'interno del quale i fedeli potevano pregare. [PARAGRAPH:2]Il tempio venne saccheggiato molte volte nel corso dei secoli e infine raso al suolo dal re Nabucodonosor II di Babilonia intorno al 580 d. C. durante "l'esilio dei Giudei a Babilonia". Anni dopo, il tesoro venne restituito da re  [LINK=LEADER_CYRUS]Ciro[\LINK] di Persia, ma mancava l'Arca. Alcuni credono che l'Arca sia stata rimossa e nascosta prima dell'attacco dei Babilonesi, mentre altri credono che sia stata rubata e poi successivamente distrutta. La chiesa Ortodossa Etiope dichiara di possedere l'Arca, consegnata loro da uno dei figli di Salomone. In ogni caso, la distruzione del Tempio fu totale e si discute molto sulla destino dell'Arca. [PARAGRAPH:2]Il "secondo Tempio" fu costruito a Gerusalemme circa nel 500 a. C. per essere poi distrutto dai Romani nel 70 d. C. Tutto ci&#242; che rimane del Tempio &#232; il "muro occidentale", noto anche come "muro del pianto".</Italian>
-		<Spanish>[TAB]Seg&#250;n la tradici&#243;n jud&#237;a, el Templo de Salom&#243;n fue el primer templo jud&#237;o de Jerusal&#233;n y, como "morada de Dios", el edificio m&#225;s importante de la religi&#243;n jud&#237;a. Las obras se iniciaron en tiempos del rey David y se concluyeron en la &#233;poca de su hijo, Salom&#243;n. El templo fue levantado por trabajadores fenicios, que emplearon los mejores materiales disponibles: piedras de las canteras de la ciudad, madera del L&#237;bano, 3.000 toneladas de oro y otras 30.000 de plata. El resultado fue un edificio de extraordinaria belleza, de unos 30 metros de largo por 10 de ancho y 16 de altura. Tard&#243; siete a&#241;os en completarse.[PARAGRAPH:2]El Templo estaba formado por tres habitaciones principales, rodeadas por c&#225;maras de menor tama&#241;o. Tras subir las escaleras, el visitante acced&#237;a al vest&#237;bulo, sustentado por dos enormes pilares, conocidos como Jachin y Boaz. Desde all&#237; pod&#237;a pasar a la "Casa Mayor" o "Lugar Sagrado", donde se llevaban a cabo importantes ceremonias religiosas. M&#225;s all&#225; de la Casa Mayor se encontraba la "Sagrada de las Sagradas", una sala cuadrada forrada de cedro que conten&#237;a el "Arca de la Alianza". El Arca era un contenedor sagrado que albergaba las diez tablas de piedra en las que estaban escritos los Diez Mandamientos, entregados a Mois&#233;s por Dios. El edificio estaba rodeado por un patio en el que el pueblo celebraba sus ceremonias. [PARAGRAPH:2]A lo largo de los a&#241;os, el templo sufri&#243; numerosos saqueos, hasta que finalmente fue incendiado y destruido por el rey Nabucodonosor II de Babilonia alrededor del a&#241;o 580 a. C., durante el tiempo del "cautiverio babil&#243;nico". Muchos a&#241;os despu&#233;s, gran parte de los tesoros del templo fueron devueltos a los jud&#237;os por el rey [LINK=LEADER_CYRUS]Ciro[\LINK] de Persia, aunque el Arca no estaba entre ellos. Algunos creen que la escondieron antes del ataque babil&#243;nico, mientras que, para otros, fue capturada por los invasores, y luego se perdi&#243; o fue destruida. La Iglesia Ortodoxa de Etiop&#237;a asegura que posee el Arca aut&#233;ntica, llevada all&#237; por uno de los Hijos de Salom&#243;n. En cualquier caso, la destrucci&#243;n del templo fue total, y ha habido grandes controversias y debates sobre el lugar de su emplazamiento original. [PARAGRAPH:2]El "Segundo Templo" de Jerusal&#233;n se construy&#243; aproximadamente en el a&#241;o 500 a. C. Fue destruido por los romanos en el a&#241;o 70 d. C. Lo &#250;nico que queda de &#233;l es el muro occidental, tambi&#233;n conocido como "Muro de las Lamentaciones".</Spanish>
+		<French>[TAB]Selon la tradition juive, le Temple de Salomon est la premiиre synagogue de Jйrusalem et en tant que "maison de Dieu", l'йdifice le plus important de la religion juive. Sa construction commence sous le rиgne du roi David et s'achиve sous celui de son fils, Salomon. Le Temple de Salomon est construit par des ouvriers phйniciens qui utilisent les plus beaux matйriaux disponibles : des pierres extraites de carriиres situйes sous la ville, du bois du Liban, 3 000 tonnes d'or et 30 000 tonnes d'argent. Il en rйsulte un йdifice d'une beautй surprenante mesurant prиs de 27 m de long, 9 m de large et 14 m de haut. Sa construction nйcessite sept annйes. [PARAGRAPH:2] Le Temple de Salomon consiste en trois piиces principales entourйes de salles plus petites. Aprиs avoir montй quelques marches, le visiteur entre dans le vestibule, surmontй de deux йnormes piliers portant les noms de Yachin et Boaz. De lа, le visiteur pйnиtre dans la "grande maison" ou "lieu saint", oщ s'effectuent les principaux services religieux. Aprиs la grande maison se trouve le "Saint des Saints", une piиce carrйe lambrissйe de bois de cиdre qui abrite l'"Arche d'alliance". L'Arche d'alliance est un coffre sacrй qui contient les tablettes de pierre sur lesquelles sont йcrits les Dix commandements que Moпse a reзu de Dieu. Le bвtiment est entourй d'une cour dans laquelle la population pratique sa religion. [PARAGRAPH:2] Le Temple de Salomon a fait l'objet de nombreux pillages au fil des annйes avant d'кtre pillй une derniиre fois et entiиrement brыlй par le roi Nabuchodonosor II de Babylone vers 580 av. J.-C. pendant la pйriode de "captivitй babylonienne". Des annйes plus tard, bon nombre des trйsors du Temple de Salomon sont rendus aux juifs par le roi [LINK=LEADER_CYRUS]Cyrus[\LINK] Ier de Perse, mais il manque l'Arche. Certains pensent que l'Arche a йtй enlevйe et cachйe avant l'attaque babylonienne ; d'autres estiment que l'Arche a йtй prise par Babylone puis dйtruite ou perdue. L'Eglise orthodoxe d'Ethiopie assure qu'elle possиde l'Arche qui lui aurait йtй apportйe par l'un des fils de Salomon. En tout cas, le Temple de Salomon a йtй entiиrement dйtruit et son emplacement d'origine fait l'objet de nombreuses controverses et discussions. [PARAGRAPH:2]Le "Second Temple", construit а Jйrusalem vers 500 av. J.-C., est dйtruit а son tour par les Romains en 70 ap. J.-C. Il en reste uniquement le "Mur occidental", plus connu sous le nom de "Mur des lamentations".</French>
+		<German>[TAB]Laut der jьdischen Ьberlieferung war Salomons Tempel der erste jьdische Tempel in Jerusalem und als "Wohnstдtte Gottes" das wichtigste Gebдude des Judentums. Kцnig David begann mit dem Bau, der von seinem Sohn Salomon schlieЯlich vollendet wurde. Der Tempel wurde von phцnizischen Arbeitern aus Steinquadern, libanesischem Holz, 3000 Tonnen Gold und 3000 Tonnen Silber errichtet. Nach seiner Fertigstellung war der prдchtige Tempel 30 Meter lang, 10 Meter breit und 16 Meter hoch. Der Bau des Gotteshauses nahm sieben Jahre in Anspruch.[PARAGRAPH:2]Der Tempel bestand aus drei Hauptrдumen und war an drei Seiten von Seitenzimmern umgeben, in denen die Schдtze und religiцsen Artefakte des Tempels aufbewahrt wurden. Die Vorhalle wurde von den beiden Bronzesдulen Iachin und Boas ("Festigkeit und Stдrke") getragen. Die Vorhalle mьndete in das so genannte "Heilige", in dem die goldenen Leuchter, der Schaubrottisch und der Rдucheraltar standen. Hinter einem Vorhang befand sich das Allerheiligste mit der Bundeslade und den beiden Cherubim. Beide Rдume waren mit Zedernholz getдfelt. Die Bundeslade war eine mit Gold ьberzogene Truhe aus Akazienholz, in der die zehn Gebote, die Moses von Gott erhalten hatte, aufbewahrt wurden. [PARAGRAPH:2]Der Tempel wurde zu Beginn der babylonischen Gefangenschaft im Jahr 586 vor Christus von den Babyloniern unter Kцnig Nebukadnezar II. geplьndert und niedergebrannt. Viele Jahre spдter gab Kцnig [LINK=LEADER_CYRUS]Kyrus[\LINK]. von Persien den Juden den GroЯteil der Tempelschдtze zurьck. Die Bundeslade blieb jedoch verschwunden. Bis heute ist unklar, ob die Bundeslade vor dem Angriff der Babylonier versteckt oder von diesen erbeutet und zerstцrt wurde. Nach der Ьberlieferung der дthiopischen Kirche wurde die Bundeslade gestohlen und befindet sich heute in Aksum, der heiligen Stadt Дthiopiens. Da der Tempel vцllig zerstцrt wurde, ist bis heute nicht eindeutig geklдrt, wo er gestanden hat. [PARAGRAPH:2]Der "Zweite Tempel" wurde etwa um 500 vor Christus in Jerusalem gebaut und 70 vor Christus von den Rцmern zerstцrt. Alles, was von ihm noch ьbrig ist, ist die westliche "Klagemauer".</German>
+		<Italian>[TAB]Secondo la tradizione Ebraica, il Tempio di Salomone fu il primo tempio Giudaico di Gerusalemme e il "luogo di residenza di Dio", l'edificio piщ importante della religione israelita. La costruzione venne iniziata da re Davide e completata da suo figlio, Salomone. Il tempio venne realizzato dai lavoratori Fenici usando i migliori materiali disponibili: pietre scavate dal sottosuolo della cittа, legno proveniente dal Libano, 3.000 tonnellate d'oro e 30.000 di argento. Il risultato di tali sforzi fu un bellissimo tempio lungo 27 metri, largo 10 e alto 15. Per completare il tempio ci vollero sette anni.[PARAGRAPH:2]Il tempio era composto da tre stanze principali, circondate da altre piщ piccole. Salendo una rampa di scale, il visitatore poteva raggiungere il vestibolo che si trovava in cima a due grosse colonne Jachin e Boaz. Da qui si poteva procedere nella "casa maggiore" o "luogo sacro", dove venivano officiati importanti servizi. Dietro la "casa maggiore" si trova il "Sancta Santorum" una stanza quadrata con presente dei cedri all'interno della quale veniva conservata l'Arca dell'Alleanza. L'Arca dell'Alleanza era un contenitore sacro che conteneva i resti delle tavole sulle quali furono scritti i Dieci Comandamenti che Dio diede a Mosи: l'edificio era circondato da un cortile all'interno del quale i fedeli potevano pregare. [PARAGRAPH:2]Il tempio venne saccheggiato molte volte nel corso dei secoli e infine raso al suolo dal re Nabucodonosor II di Babilonia intorno al 580 d. C. durante "l'esilio dei Giudei a Babilonia". Anni dopo, il tesoro venne restituito da re  [LINK=LEADER_CYRUS]Ciro[\LINK] di Persia, ma mancava l'Arca. Alcuni credono che l'Arca sia stata rimossa e nascosta prima dell'attacco dei Babilonesi, mentre altri credono che sia stata rubata e poi successivamente distrutta. La chiesa Ortodossa Etiope dichiara di possedere l'Arca, consegnata loro da uno dei figli di Salomone. In ogni caso, la distruzione del Tempio fu totale e si discute molto sulla destino dell'Arca. [PARAGRAPH:2]Il "secondo Tempio" fu costruito a Gerusalemme circa nel 500 a. C. per essere poi distrutto dai Romani nel 70 d. C. Tutto ciт che rimane del Tempio и il "muro occidentale", noto anche come "muro del pianto".</Italian>
+		<Spanish>[TAB]Segъn la tradiciуn judнa, el Templo de Salomуn fue el primer templo judнo de Jerusalйn y, como "morada de Dios", el edificio mбs importante de la religiуn judнa. Las obras se iniciaron en tiempos del rey David y se concluyeron en la йpoca de su hijo, Salomуn. El templo fue levantado por trabajadores fenicios, que emplearon los mejores materiales disponibles: piedras de las canteras de la ciudad, madera del Lнbano, 3.000 toneladas de oro y otras 30.000 de plata. El resultado fue un edificio de extraordinaria belleza, de unos 30 metros de largo por 10 de ancho y 16 de altura. Tardу siete aсos en completarse.[PARAGRAPH:2]El Templo estaba formado por tres habitaciones principales, rodeadas por cбmaras de menor tamaсo. Tras subir las escaleras, el visitante accedнa al vestнbulo, sustentado por dos enormes pilares, conocidos como Jachin y Boaz. Desde allн podнa pasar a la "Casa Mayor" o "Lugar Sagrado", donde se llevaban a cabo importantes ceremonias religiosas. Mбs allб de la Casa Mayor se encontraba la "Sagrada de las Sagradas", una sala cuadrada forrada de cedro que contenнa el "Arca de la Alianza". El Arca era un contenedor sagrado que albergaba las diez tablas de piedra en las que estaban escritos los Diez Mandamientos, entregados a Moisйs por Dios. El edificio estaba rodeado por un patio en el que el pueblo celebraba sus ceremonias. [PARAGRAPH:2]A lo largo de los aсos, el templo sufriу numerosos saqueos, hasta que finalmente fue incendiado y destruido por el rey Nabucodonosor II de Babilonia alrededor del aсo 580 a. C., durante el tiempo del "cautiverio babilуnico". Muchos aсos despuйs, gran parte de los tesoros del templo fueron devueltos a los judнos por el rey [LINK=LEADER_CYRUS]Ciro[\LINK] de Persia, aunque el Arca no estaba entre ellos. Algunos creen que la escondieron antes del ataque babilуnico, mientras que, para otros, fue capturada por los invasores, y luego se perdiу o fue destruida. La Iglesia Ortodoxa de Etiopнa asegura que posee el Arca autйntica, llevada allн por uno de los Hijos de Salomуn. En cualquier caso, la destrucciуn del templo fue total, y ha habido grandes controversias y debates sobre el lugar de su emplazamiento original. [PARAGRAPH:2]El "Segundo Templo" de Jerusalйn se construyу aproximadamente en el aсo 500 a. C. Fue destruido por los romanos en el aсo 70 d. C. Lo ъnico que queda de йl es el muro occidental, tambiйn conocido como "Muro de las Lamentaciones".</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_JEWISH_MISSIONARY</Tag>
-		<Russian>&#207;&#240;&#238;&#242;&#229;&#241;&#242;&#224;&#237;&#242;&#241;&#234;&#232;&#233; &#236;&#232;&#241;&#241;&#232;&#238;&#237;&#229;&#240;</Russian>
+		<Russian>Протестантский миссионер</Russian>
 		<English>Protestant Missionary</English>
 		<French>
 			<Text>Protestant Missionary</Text>
@@ -210,10 +210,10 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CHRISTIAN_MISSIONARY</Tag>
-		<Russian>&#202;&#224;&#242;&#238;&#235;&#232;&#247;&#229;&#241;&#234;&#232;&#233; &#236;&#232;&#241;&#241;&#232;&#238;&#237;&#229;&#240;</Russian>
+		<Russian>Католический миссионер</Russian>
 		<English>Catholic Missionary</English>
 		<French>
-			<Text>Missionnaire chr&#233;tien</Text>
+			<Text>Missionnaire chrйtien</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -235,7 +235,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_JUDAISM</Tag>
-		<Russian>&#207;&#240;&#238;&#242;&#229;&#241;&#242;&#224;&#237;&#241;&#242;&#226;&#238;</Russian>
+		<Russian>Протестанство</Russian>
 		<English>Protestantism</English>
 		<French>
 			<Text>Protestantism</Text>
@@ -260,7 +260,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_CHRISTIANITY</Tag>
-		<Russian>&#202;&#224;&#242;&#238;&#235;&#232;&#246;&#232;&#231;&#236;</Russian>
+		<Russian>Католицизм</Russian>
 		<English>Catholicism</English>
 		<French>
 			<Text>Catholicism</Text>
@@ -285,7 +285,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_JEWISH_TEMPLE</Tag>
-		<Russian>&#207;&#240;&#238;&#242;&#229;&#241;&#242;&#224;&#237;&#242;&#241;&#234;&#232;&#233; &#245;&#240;&#224;&#236;</Russian>
+		<Russian>Протестантский храм</Russian>
 		<English>Protestant Church</English>
 		<French>
 			<Text>Protestant Temple</Text>
@@ -310,7 +310,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_JEWISH_MONASTERY</Tag>
-		<Russian>&#207;&#240;&#238;&#242;&#229;&#241;&#242;&#224;&#237;&#242;&#241;&#234;&#232;&#233; &#236;&#238;&#237;&#224;&#241;&#242;&#251;&#240;&#252;</Russian>
+		<Russian>Протестантский монастырь</Russian>
 		<English>Protestant Monastery</English>
 		<French>
 			<Text>Protestant Monastery</Text>
@@ -335,7 +335,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_JEWISH_CATHEDRAL</Tag>
-		<Russian>&#207;&#240;&#238;&#242;&#229;&#241;&#242;&#224;&#237;&#242;&#241;&#234;&#232;&#233; &#241;&#238;&#225;&#238;&#240;</Russian>
+		<Russian>Протестантский собор</Russian>
 		<English>Protestant Cathedral</English>
 		<French>
 			<Text>Protestant Cathedral</Text>
@@ -360,7 +360,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_JEWISH_SHRINE</Tag>
-		<Russian>&#214;&#229;&#240;&#234;&#238;&#226;&#252; &#194;&#241;&#229;&#245; &#209;&#226;&#255;&#242;&#251;&#245;</Russian>
+		<Russian>Церковь Всех Святых</Russian>
 		<English>All Saints' Church</English>
 		<French>
 			<Text>All Saints' Church</Text>
@@ -385,7 +385,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_CHRISTIAN_TEMPLE</Tag>
-		<Russian>&#202;&#224;&#242;&#238;&#235;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#246;&#229;&#240;&#234;&#238;&#226;&#252;</Russian>
+		<Russian>Католическая церковь</Russian>
 		<English>Catholic Church</English>
 		<French>
 			<Text>Catholic Temple</Text>
@@ -410,7 +410,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_CHRISTIAN_MONASTERY</Tag>
-		<Russian>&#202;&#224;&#242;&#238;&#235;&#232;&#247;&#229;&#241;&#234;&#232;&#233; &#236;&#238;&#237;&#224;&#241;&#242;&#251;&#240;&#252;</Russian>
+		<Russian>Католический монастырь</Russian>
 		<English>Catholic Monastery</English>
 		<French>
 			<Text>Catholic Monastery</Text>
@@ -435,7 +435,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_CHRISTIAN_CATHEDRAL</Tag>
-		<Russian>&#202;&#224;&#242;&#238;&#235;&#232;&#247;&#229;&#241;&#234;&#232;&#233; &#241;&#238;&#225;&#238;&#240;</Russian>
+		<Russian>Католический собор</Russian>
 		<English>Catholic Cathedral</English>
 		<French>
 			<Text>Catholic Cathedral</Text>
@@ -460,10 +460,10 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_CHRISTIAN_SHRINE</Tag>
-		<Russian>&#213;&#240;&#224;&#236; &#195;&#240;&#238;&#225;&#224; &#195;&#238;&#241;&#239;&#238;&#228;&#237;&#255;</Russian>
+		<Russian>Храм Гроба Господня</Russian>
 		<English>Church of the Holy Sepulchre</English>
 		<French>
-			<Text>�glise du Saint-S�pulcre</Text>
+			<Text>Église du Saint-Sépulcre</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
@@ -486,7 +486,7 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_CORPORATION_1</Tag>
-		<Russian>&#216;&#229;&#235;&#234;&#238;&#226;&#251;&#233; &#239;&#243;&#242;&#252;</Russian>
+		<Russian>Шелковый путь</Russian>
 		<English>Silk Route</English>
 		<French>
 			<Text>Silk Route</Text>
@@ -494,7 +494,7 @@
 			<Plural>1</Plural>
 		</French>
 		<German>
-			<Text>Seidenstra�e</Text>
+			<Text>Seidenstraße</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
@@ -511,7 +511,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CORPORATION_2</Tag>
-		<Russian>&#210;&#238;&#240;&#227;&#238;&#226;&#224;&#255; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Торговая компания</Russian>
 		<English>Trading Company</English>
 		<French>
 			<Text>Trading Company</Text>
@@ -536,7 +536,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CORPORATION_3</Tag>
-		<Russian>&#192;&#227;&#240;&#238;&#239;&#240;&#238;&#236;&#251;&#248;&#235;&#229;&#237;&#237;&#224;&#255; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Агропромышленная компания</Russian>
 		<English>Cereal Industry</English>
 		<French>
 			<Text>Cereal Industry</Text>
@@ -561,7 +561,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>CHANGED_TXT_KEY_CORPORATION_4</Tag>
-		<Russian>&#208;&#251;&#225;&#238;&#239;&#240;&#238;&#236;&#251;&#248;&#235;&#229;&#237;&#237;&#224;&#255; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Рыбопромышленная компания</Russian>
 		<English>Fishing Industry</English>
 		<French>
 			<Text>Fishing Industry</Text>
@@ -586,7 +586,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CORPORATION_7</Tag>
-		<Russian>&#205;&#229;&#244;&#242;&#255;&#237;&#224;&#255; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Нефтяная компания</Russian>
 		<English>Oil Industry</English>
 		<French>
 			<Text>Oil Industry</Text>
@@ -594,7 +594,7 @@
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>�lindustrie</Text>
+			<Text>Ölindustrie</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
@@ -611,7 +611,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CORPORATION_9</Tag>
-		<Russian>&#202;&#238;&#236;&#239;&#252;&#254;&#242;&#229;&#240;&#237;&#224;&#255; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Компьютерная компания</Russian>
 		<English>Computer Industry</English>
 		<French>
 			<Text>Computer Industry</Text>
@@ -636,7 +636,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CORPORATION_6</Tag>
-		<Russian>&#204;&#229;&#242;&#224;&#235;&#235;&#243;&#240;&#227;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Металлургическая компания</Russian>
 		<English>Steel Industry</English>
 		<French>
 			<Text>Steel Industry</Text>
@@ -661,7 +661,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CORPORATION_5</Tag>
-		<Russian>&#210;&#229;&#234;&#241;&#242;&#232;&#235;&#252;&#237;&#224;&#255; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Текстильная компания</Russian>
 		<English>Textile Industry</English>
 		<French>
 			<Text>Textile Industry</Text>
@@ -686,7 +686,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CORPORATION_8</Tag>
-		<Russian>&#222;&#226;&#229;&#235;&#232;&#240;&#237;&#224;&#255; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<Russian>Ювелирная компания</Russian>
 		<English>Luxury Industry</English>
 		<French>
 			<Text>Luxury Industry</Text>
@@ -711,7 +711,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_EXECUTIVE_1</Tag>
-		<Russian>&#192;&#227;&#229;&#237;&#242; &#192;&#227;&#240;&#238;&#239;&#240;&#238;&#236;&#251;&#248;&#235;&#229;&#237;&#237;&#238;&#233; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#232;</Russian>
+		<Russian>Агент Агропромышленной компании</Russian>
 		<English>Cereal Industry Executive</English>
 		<French>
 			<Text>Directeur des Cereal Industry</Text>
@@ -736,7 +736,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_EXECUTIVE_2</Tag>
-		<Russian>&#192;&#227;&#229;&#237;&#242; &#208;&#251;&#225;&#238;&#239;&#240;&#238;&#236;&#251;&#248;&#235;&#229;&#237;&#237;&#238;&#233; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#232;</Russian>
+		<Russian>Агент Рыбопромышленной компании</Russian>
 		<English>Fishing Industry Executive</English>
 		<French>
 			<Text>Dirigeant de Fishing Industry</Text>
@@ -761,7 +761,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_EXECUTIVE_3</Tag>
-		<Russian>&#192;&#227;&#229;&#237;&#242; &#205;&#229;&#244;&#242;&#255;&#237;&#238;&#233; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#232;</Russian>
+		<Russian>Агент Нефтяной компании</Russian>
 		<English>Oil Industry Executive</English>
 		<French>
 			<Text>Directeur d'Oil Industry </Text>
@@ -786,7 +786,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_EXECUTIVE_4</Tag>
-		<Russian>&#192;&#227;&#229;&#237;&#242; &#202;&#238;&#236;&#239;&#242;&#252;&#254;&#242;&#229;&#240;&#237;&#238;&#233; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#232;</Russian>
+		<Russian>Агент Комптьютерной компании</Russian>
 		<English>Computer Industry Executive</English>
 		<French>
 			<Text>Directeur de Computer Industry</Text>
@@ -811,7 +811,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_EXECUTIVE_5</Tag>
-		<Russian>&#192;&#227;&#229;&#237;&#242; &#210;&#229;&#234;&#241;&#242;&#232;&#235;&#252;&#237;&#238;&#233; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#232;</Russian>
+		<Russian>Агент Текстильной компании</Russian>
 		<English>Textile Industry Executive</English>
 		<French>
 			<Text>Directeur de la Textile Industry</Text>
@@ -836,7 +836,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_EXECUTIVE_6</Tag>
-		<Russian>&#192;&#227;&#229;&#237;&#242; &#204;&#229;&#242;&#224;&#235;&#235;&#243;&#240;&#227;&#232;&#247;&#229;&#241;&#234;&#238;&#233; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#232;</Russian>
+		<Russian>Агент Металлургической компании</Russian>
 		<English>Steel Industry Executive</English>
 		<French>
 			<Text>Directeur d'Steel Industry</Text>
@@ -861,7 +861,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_EXECUTIVE_7</Tag>
-		<Russian>&#192;&#227;&#229;&#237;&#242; &#222;&#226;&#229;&#235;&#232;&#240;&#237;&#238;&#233; &#234;&#238;&#236;&#239;&#224;&#237;&#232;&#232;</Russian>
+		<Russian>Агент Ювелирной компании</Russian>
 		<English>Luxury Industry Executive</English>
 		<French>
 			<Text>Directeur des Luxury Industry</Text>

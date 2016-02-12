@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
@@ -6,67 +6,67 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_DESC</Tag>
-		<Russian>&#204;&#224;&#237;&#228;&#232;&#237;&#234;&#224;</Russian>
+		<Russian>Мандинка</Russian>
 		<English>The Mandinka</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_ADJECTIVE</Tag>
-		<Russian>&#204;&#224;&#235;&#232;&#233;&#246;&#251;</Russian>
+		<Russian>Малийцы</Russian>
 		<English>Mande</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SONGHAI_ADJECTIVE</Tag>
-		<Russian>&#209;&#238;&#237;&#227;&#224;&#233;&#241;&#234;&#232;&#233;</Russian>
+		<Russian>Сонгайский</Russian>
 		<English>Songhai</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SONGHAI_SHORT_DESC</Tag>
-		<Russian>&#209;&#238;&#237;&#227;&#224;&#233;</Russian>
+		<Russian>Сонгай</Russian>
 		<English>Songhai</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_DESC_PEOPLES</Tag>
-		<Russian>&#205;&#224;&#240;&#238;&#228; &#236;&#224;&#237;&#228;&#232;&#237;&#234;&#224;</Russian>
+		<Russian>Народ мандинка</Russian>
 		<English>Mandinka Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_DESC_DEFAULT</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#204;&#224;&#235;&#232;</Russian>
+		<Russian>Империя Мали</Russian>
 		<English>Mali Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_DESC_DEMOCRATIC</Tag>
-		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#204;&#224;&#235;&#232;</Russian>
+		<Russian>Республика Мали</Russian>
 		<English>Republic of Mali</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_DESC_COMMUNIST</Tag>
-		<Russian>&#205;&#224;&#240;&#238;&#228;&#237;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#204;&#224;&#235;&#232;</Russian>
+		<Russian>Народная Республика Мали</Russian>
 		<English>People's Republic of Mali</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_DESC_FASCIST</Tag>
-		<Russian>&#194;&#238;&#229;&#237;&#237;&#251;&#233; &#202;&#238;&#236;&#232;&#242;&#229;&#242; &#204;&#224;&#235;&#232;</Russian>
+		<Russian>Военный Комитет Мали</Russian>
 		<English>Military Comittee of Mali</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_DESC_ISLAMIC_MODERN</Tag>
-		<Russian>&#200;&#241;&#235;&#224;&#236;&#241;&#234;&#224;&#255; &#240;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#204;&#224;&#235;&#232;</Russian>
+		<Russian>Исламская республика Мали</Russian>
 		<English>Islamic Republic of Mali</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_SONGHAI</Tag>
-		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#209;&#238;&#237;&#227;&#224;&#233;</Russian>
+		<Russian>Империя Сонгай</Russian>
 		<English>Songhai Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_SOVIET_VASSAL</Tag>
-		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#232;&#233; &#204;&#224;&#235;&#232;</Russian>
+		<Russian>Советский Мали</Russian>
 		<English>Soviet Mali</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_NAZI_VASSAL</Tag>
-		<Russian>&#195;&#229;&#240;&#236;&#224;&#237;&#241;&#234;&#224;&#255; &#199;&#224;&#239;&#224;&#228;&#237;&#224;&#255; &#192;&#244;&#240;&#232;&#234;&#224;</Russian>
+		<Russian>Германская Западная Африка</Russian>
 		<English>German West Africa</English>
 	</TEXT>
 </Civ4GameText>

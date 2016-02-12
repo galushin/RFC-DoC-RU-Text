@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!--
 	Color Translations
 
@@ -28,7 +28,7 @@
 		<Russian>Green</Russian>
 		<English>Green</English>
 		<French>Vert</French>
-		<German>Grün</German>
+		<German>GrÃ¼n</German>
 		<Italian>Verde</Italian>
 		<Spanish>Verde</Spanish>
 	</TEXT>
@@ -37,9 +37,9 @@
 		<Russian>Cyan</Russian>
 		<English>Cyan</English>
 		<French>Cyan</French>
-		<German>Türkis</German>
+		<German>TÃ¼rkis</German>
 		<Italian>Azzurro</Italian>
-		<Spanish>Ci&#225;nico</Spanish>
+		<Spanish>CiÐ±nico</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_BLUE</Tag>
@@ -64,7 +64,7 @@
 		<Russian>White</Russian>
 		<English>White</English>
 		<French>Blanc</French>
-		<German>Weiß</German>
+		<German>WeiÃŸ</German>
 		<Italian>Bianco</Italian>
 		<Spanish>Blanco</Spanish>
 	</TEXT>
@@ -72,7 +72,7 @@
 		<Tag>TXT_KEY_COLOR_LIGHT_GREY</Tag>
 		<Russian>Light Grey</Russian>
 		<English>Light Grey</English>
-		<French>Gris Pâle</French>
+		<French>Gris PÃ¢le</French>
 		<German>Hellgrau</German>
 		<Italian>Grigio Chiaro</Italian>
 		<Spanish>Gris Ligero</Spanish>
@@ -90,7 +90,7 @@
 		<Tag>TXT_KEY_COLOR_DARK_GREY</Tag>
 		<Russian>Dark Grey</Russian>
 		<English>Dark Grey</English>
-		<French>Gris Foncé</French>
+		<French>Gris FoncÃ©</French>
 		<German>Dunkelgrau</German>
 		<Italian>Grigio Scuro</Italian>
 		<Spanish>Gris Oscuro</Spanish>

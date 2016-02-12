@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!--
 	BUG Option Screen
 	Title, Button, Tab, and Label Translations
@@ -33,8 +33,8 @@
 		<Tag>TXT_KEY_BUG_OPTBUTTON_HELP_HOVER</Tag>
 		<Russian>Opens the BUG Mod help file. You can hit [ALT + CTRL + F1] from the main interface.</Russian>
 		<English>Opens the BUG Mod help file. You can hit [ALT + CTRL + F1] from the main interface.</English>
-		<French>Ouvre le fichier d'aide du BUG Mod. Vous pouvez aussi utiliser [ALT + CTRL + F1] dans l'écran principal du jeu.</French>
-		<German>Öffnet die Hilfe-Datei der BUG Mod (Tastenkombination [STRG + ALT + F1] im Hauptbildschirm)</German>
+		<French>Ouvre le fichier d'aide du BUG Mod. Vous pouvez aussi utiliser [ALT + CTRL + F1] dans l'Ã©cran principal du jeu.</French>
+		<German>Ã–ffnet die Hilfe-Datei der BUG Mod (Tastenkombination [STRG + ALT + F1] im Hauptbildschirm)</German>
 		<Italian>Apre il file della Guida del BUG Mod. Puoi utilizzare la scorciatoia [ALT + CTRL + F1] dall'interfaccia principale.</Italian>
 		<Spanish>Opens the BUG Mod help file. You can hit [ALT + CTRL + F1] from the main interface.</Spanish>
 	</TEXT>
@@ -42,7 +42,7 @@
 		<Tag>TXT_KEY_BUG_OPTBUTTON_EXIT_HOVER</Tag>
 		<Russian>Exits the BUG Options screen.</Russian>
 		<English>Exits the BUG Options screen.</English>
-		<French>Sortir de l'écran d'options du BUG.</French>
+		<French>Sortir de l'Ã©cran d'options du BUG.</French>
 		<German>Den Optionensbildschirm der BUG Mod verlassen</German>
 		<Italian>Esci dalla schermata delle Opzioni del BUG Mod.</Italian>
 		<Spanish>Exits the BUG Options screen.</Spanish>
@@ -65,7 +65,7 @@
 		<Tag>TXT_KEY_BUG_OPTTAB_GENERAL</Tag>
 		<Russian>General</Russian>
 		<English>General</English>
-		<French>Général</French>
+		<French>GÃ©nÃ©ral</French>
 		<German>Allgemein</German>
 		<Italian>Generale</Italian>
 		<Spanish>General</Spanish>
@@ -137,9 +137,9 @@
 		<Tag>TXT_KEY_BUG_OPTLABEL_INIFILENOTFOUND</Tag>
 		<Russian>Cannot Find INI File</Russian>
 		<English>Cannot Find INI File</English>
-		<French>Fichier INI Non Trouvé</French>
+		<French>Fichier INI Non TrouvÃ©</French>
 		<German>INI-Datei nicht gefunden</German>
-		<Italian>Il file 'BUG Mod.ini' non è stato trovato</Italian>
+		<Italian>Il file 'BUG Mod.ini' non Ã¨ stato trovato</Italian>
 		<Spanish>Cannot Find INI File</Spanish>
 	</TEXT>
 	
@@ -177,7 +177,7 @@
 		<Russian>Tile Hover:</Russian>
 		<English>Tile Hover:</English>
 		<French>Tile Hover:</French>
-		<German>Geländefeld-Tooltip:</German>
+		<German>GelÃ¤ndefeld-Tooltip:</German>
 		<Italian>Tile Hover:</Italian>
 		<Spanish>Tile Hover:</Spanish>
 	</TEXT>
@@ -234,7 +234,7 @@
 		<Russian>Military [F5]:</Russian>
 		<English>Military [F5]:</English>
 		<French>Militaire [F5]:</French>
-		<German>Militär [F5]:</German>
+		<German>MilitÃ¤r [F5]:</German>
 		<Italian>Militare [F5]:</Italian>
 		<Spanish>Military [F5]:</Spanish>
 	</TEXT>
@@ -297,7 +297,7 @@
 		<Russian>Ratio:</Russian>
 		<English>Ratio:</English>
 		<French>Pro Rata:</French>
-		<German>Spionagepunktverhältnis:</German>
+		<German>SpionagepunktverhÃ¤ltnis:</German>
 		<Italian>Rapporto:</Italian>
 		<Spanish>Ratio:</Spanish>
 	</TEXT>
@@ -319,7 +319,7 @@
 		<English>City Screen</English>
 		<French>City Screen</French>
 		<German>Stadt-Bildschirm</German>
-		<Italian>Città</Italian>
+		<Italian>CittÃ </Italian>
 		<Spanish>City Screen</Spanish>
 	</TEXT>
 	<TEXT>
@@ -336,7 +336,7 @@
 		<Russian>Great Person Bar:</Russian>
 		<English>Great Person Bar:</English>
 		<French>Great Person Bar:</French>
-		<German>Anzeige für Große Persönlichkeit-Punkte:</German>
+		<German>Anzeige fÃ¼r GroÃŸe PersÃ¶nlichkeit-Punkte:</German>
 		<Italian>Barra dei Grandi Personaggi:</Italian>
 		<Spanish>Great Person Bar:</Spanish>
 	</TEXT>
@@ -345,7 +345,7 @@
 		<Russian>Building Actual Effects:</Russian>
 		<English>Building Actual Effects:</English>
 		<French>Building Actual Effects:</French>
-		<German>Effektive Gebäudeerträge:</German>
+		<German>Effektive GebÃ¤udeertrÃ¤ge:</German>
 		<Italian>Effetti degli Edifici:</Italian>
 		<Spanish>Building Actual Effects:</Spanish>
 	</TEXT>
@@ -441,8 +441,8 @@
 		<Russian>Dead Civilizations:</Russian>
 		<English>Dead Civilizations:</English>
 		<French>Civilisations Mortes:</French>
-		<German>Ausgelöschte Zivilisationen:</German>
-		<Italian>Civiltà scomparse:</Italian>
+		<German>AusgelÃ¶schte Zivilisationen:</German>
+		<Italian>CiviltÃ  scomparse:</Italian>
 		<Spanish>Dead Civilizations:</Spanish>
 	</TEXT>
 	<TEXT>
@@ -450,7 +450,7 @@
 		<Russian>Additional Columns:</Russian>
 		<English>Additional Columns:</English>
 		<French>Additional Columns:</French>
-		<German>Zusätzliche Spalten:</German>
+		<German>ZusÃ¤tzliche Spalten:</German>
 		<Italian>Colonne aggiuntive:</Italian>
 		<Spanish>Additional Columns:</Spanish>
 	</TEXT>
@@ -467,7 +467,7 @@
 		<Tag>TXT_KEY_BUG_OPTLABEL_SCORES_GRID</Tag>
 		<Russian>Advanced Layout:</Russian>
 		<English>Advanced Layout:</English>
-		<French>Layout Avancé:</French>
+		<French>Layout AvancÃ©:</French>
 		<German>Erweitertes Layout:</German>
 		<Italian>Layout avanzato:</Italian>
 		<Spanish>Advanced Layout:</Spanish>
@@ -490,7 +490,7 @@
 		<English>Plot List</English>
 		<French>Plot List</French>
 		<German>Einheitenliste</German>
-		<Italian>Icone Unità</Italian>
+		<Italian>Icone UnitÃ </Italian>
 		<Spanish>Plot List</Spanish>
 	</TEXT>
 	<TEXT>
@@ -498,7 +498,7 @@
 		<Russian>Indicators:</Russian>
 		<English>Indicators:</English>
 		<French>Indicators:</French>
-		<German>Zusätzliche Anzeigen:</German>
+		<German>ZusÃ¤tzliche Anzeigen:</German>
 		<Italian>Indicatori:</Italian>
 		<Spanish>Indicators:</Spanish>
 	</TEXT>
@@ -506,9 +506,9 @@
 		<Tag>TXT_KEY_BUG_OPTLABEL_PLE_UNIT_INFO_TOOLTIP</Tag>
 		<Russian>Unit Info Tooltip:</Russian>
 		<English>Unit Info Tooltip:</English>
-		<French>Infobulle d'Info d'Unité:</French>
+		<French>Infobulle d'Info d'UnitÃ©:</French>
 		<German>Info-Tooltip:</German>
-		<Italian>Informazioni sulle Unità:</Italian>
+		<Italian>Informazioni sulle UnitÃ :</Italian>
 		<Spanish>Unit Info Tooltip:</Spanish>
 	</TEXT>
 	<TEXT>
@@ -525,7 +525,7 @@
 		<Russian>Unit Specialties:</Russian>
 		<English>Unit Specialties:</English>
 		<French>Unit Specialties:</French>
-		<German>Spezialfähigkeiten:</German>
+		<German>SpezialfÃ¤higkeiten:</German>
 		<Italian>Caratteristiche:</Italian>
 		<Spanish>Unit Specialties:</Spanish>
 	</TEXT>
@@ -538,7 +538,7 @@
 		<English>Odds</English>
 		<French>Odds</French>
 		<German>Siegchancen</German>
-		<Italian>Probabilità</Italian>
+		<Italian>ProbabilitÃ </Italian>
 		<Spanish>Odds</Spanish>
 	</TEXT>
 	
@@ -558,8 +558,8 @@
 		<Russian>City:</Russian>
 		<English>City:</English>
 		<French>Ville:</French>
-		<German>Städte:</German>
-		<Italian>Città:</Italian>
+		<German>StÃ¤dte:</German>
+		<Italian>CittÃ :</Italian>
 		<Spanish>City:</Spanish>
 	</TEXT>
 	<TEXT>
@@ -615,15 +615,15 @@
 		<Russian>Cities:</Russian>
 		<English>Cities:</English>
 		<French>Villes:</French>
-		<German>Städte:</German>
-		<Italian>Città:</Italian>
+		<German>StÃ¤dte:</German>
+		<Italian>CittÃ :</Italian>
 		<Spanish>Cities:</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPTLABEL_AUTOLOG_EVENTS</Tag>
 		<Russian>Events:</Russian>
 		<English>Events:</English>
-		<French>Evènements:</French>
+		<French>EvÃ¨nements:</French>
 		<German>Ereignisse:</German>
 		<Italian>Eventi:</Italian>
 		<Spanish>Events:</Spanish>
@@ -662,9 +662,9 @@
 		<Tag>TXT_KEY_BUG_OPTTAB_UNITNAMING</Tag>
 		<Russian>Unit Naming</Russian>
 		<English>Unit Naming</English>
-		<French>Noms des Unités</French>
+		<French>Noms des UnitÃ©s</French>
 		<German>Einheitennamen</German>
-		<Italian>Nomi Unità</Italian>
+		<Italian>Nomi UnitÃ </Italian>
 		<Spanish>Unit Naming</Spanish>
 	</TEXT>
 	
@@ -760,7 +760,7 @@
 		<English>Advanced Unit Naming Options File:</English>
 		<French>Fichier d'options Advanced Unit Naming:</French>
 		<German>"Advanced Unit Naming"-Optionsdatei:</German>
-		<Italian>File per la Denominazione avanzata delle Unità:</Italian>
+		<Italian>File per la Denominazione avanzata delle UnitÃ :</Italian>
 		<Spanish>Advanced Unit Naming Options File:</Spanish>
 	</TEXT>
 	<TEXT>
@@ -816,7 +816,7 @@
 		<Russian>Translators</Russian>
 		<English>Translators</English>
 		<French>Traducteurs</French>
-		<German>Übersetzer</German>
+		<German>Ãœbersetzer</German>
 		<Italian>Traduttori</Italian>
 		<Spanish>Translators</Spanish>
 	</TEXT>

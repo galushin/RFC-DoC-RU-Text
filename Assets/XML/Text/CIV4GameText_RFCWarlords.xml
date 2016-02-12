@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -8,7 +8,7 @@
 	<!--Please place any new text entries into this file-->
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CELT_DESC</Tag>
-		<Russian>&#202;&#229;&#235;&#252;&#242;&#251;</Russian>
+		<Russian>Кельты</Russian>
 		<English>Celtic peoples</English>
 		<French>
 			<Text>Peuples celtes</Text>
@@ -16,7 +16,7 @@
 			<Plural>1</Plural>
 		</French>
 		<German>
-			<Text>Keltenv&#246;lkerreich:Keltenv&#246;lkerreich:Keltenv&#246;lkerreich</Text>
+			<Text>Keltenvцlkerreich:Keltenvцlkerreich:Keltenvцlkerreich</Text>
 			<Gender>Neuter:Neuter:Neuter</Gender>
 			<Plural>0:0:0</Plural>
 		</German>
@@ -41,7 +41,7 @@
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>T&#252;rkisches Reich:T&#252;rkische Reich:T&#252;rkischen Reich</Text>
+			<Text>Tьrkisches Reich:Tьrkische Reich:Tьrkischen Reich</Text>
 			<Gender>Neuter:Neuter:Neuter</Gender>
 			<Plural>0:0:0</Plural>
 		</German>
@@ -59,7 +59,7 @@
 -->
 	<TEXT>
 		<Tag>TXT_KEY_CIV_OTTOMAN_SHORT_DESC</Tag>
-		<Russian>&#210;&#243;&#240;&#234;&#232;</Russian>
+		<Russian>Турки</Russian>
 		<English>Turkey</English>
 		<French>
 			<Text>Turquie</Text>
@@ -67,7 +67,7 @@
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>T&#252;rkei</Text>
+			<Text>Tьrkei</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
@@ -77,7 +77,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Turqu&#237;a</Text>
+			<Text>Turquнa</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -110,7 +110,7 @@
 -->
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BABYLONIA_SHORT_DESC</Tag>
-		<Russian>&#194;&#224;&#226;&#232;&#235;&#238;&#237;&#232;&#255;</Russian>
+		<Russian>Вавилония</Russian>
 		<English>Babylonia</English>
 		<French>
 			<Text>Babylone</Text>
@@ -135,40 +135,40 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDEPENDENT_DESC</Tag>
-		<Russian>&#205;&#229;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#251;&#229; &#227;&#238;&#240;&#238;&#228;&#224;</Russian>
+		<Russian>Независимые города</Russian>
 		<English>Independent Cities</English>
 		<French>
-			<Text>Villes ind&#233;pendantes</Text>
+			<Text>Villes indйpendantes</Text>
 			<Gender>Female</Gender>
 			<Plural>1</Plural>
 		</French>
 		<German>
-			<Text>Unabh&#228;ngiges St&#228;dtereich:Unabh&#228;ngige St&#228;dtereich:Unabh&#228;ngigen St&#228;dtereich</Text>
+			<Text>Unabhдngiges Stдdtereich:Unabhдngige Stдdtereich:Unabhдngigen Stдdtereich</Text>
 			<Gender>Neuter:Neuter:Neuter</Gender>
 			<Plural>0:0:0</Plural>
 		</German>
 		<Italian>
-			<Text>Citt&#224; indipendenti</Text>
+			<Text>Cittа indipendenti</Text>
 			<Gender>Female</Gender>
 			<Plural>1</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Grupo de las ciudades aut&#243;nomas</Text>
+			<Text>Grupo de las ciudades autуnomas</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDEPENDENT_SHORT_DESC</Tag>
-		<Russian>&#205;&#229;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#251;&#229;</Russian>
+		<Russian>Независимые</Russian>
 		<English>Independents</English>
 		<French>
-			<Text>Ind&#233;pendants</Text>
+			<Text>Indйpendants</Text>
 			<Gender>Male</Gender>
 			<Plural>1</Plural>
 		</French>
 		<German>
-			<Text>Land der Unabh&#228;ngigen</Text>
+			<Text>Land der Unabhдngigen</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</German>
@@ -185,15 +185,15 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_INDEPENDENT</Tag>
-		<Russian>&#205;&#229;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#251;&#229; &#235;&#232;&#228;&#229;&#240;&#251;</Russian>
+		<Russian>Независимые лидеры</Russian>
 		<English>Independent Leader</English>
 		<French>
-			<Text>Dirigeant ind&#233;pendant</Text>
+			<Text>Dirigeant indйpendant</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>Unabh&#228;ngigen-Staatsoberhaupt</Text>
+			<Text>Unabhдngigen-Staatsoberhaupt</Text>
 			<Gender>Neuter</Gender>
 			<Plural>0</Plural>
 		</German>
@@ -203,14 +203,14 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>L&#237;der aut&#243;nomo</Text>
+			<Text>Lнder autуnomo</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NATIVE_DESC</Tag>
-		<Russian>&#192;&#225;&#238;&#240;&#232;&#227;&#229;&#237;&#251;</Russian>
+		<Russian>Аборигены</Russian>
 		<English>Native peoples</English>
 		<French>
 			<Text>Peuples natifs</Text>
@@ -235,7 +235,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_NATIVE_SHORT_DESC</Tag>
-		<Russian>&#192;&#225;&#238;&#240;&#232;&#227;&#229;&#237;&#251;</Russian>
+		<Russian>Аборигены</Russian>
 		<English>Natives</English>
 		<French>
 			<Text>Natifs</Text>
@@ -260,7 +260,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_NATIVE</Tag>
-		<Russian>&#203;&#232;&#228;&#229;&#240;&#251; &#224;&#225;&#238;&#240;&#232;&#227;&#229;&#237;&#238;&#226;</Russian>
+		<Russian>Лидеры аборигенов</Russian>
 		<English>Native Leader</English>
 		<French>
 			<Text>Dirigeant natif</Text>
@@ -278,14 +278,14 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>L&#237;der nativo</Text>
+			<Text>Lнder nativo</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>MOD_TXT_KEY_RESOURCE_COTTON</Tag>
-		<Russian>&#213;&#235;&#238;&#239;&#238;&#234;</Russian>
+		<Russian>Хлопок</Russian>
 		<English>Cotton</English>
 		<French>
 			<Text>Coton</Text>
@@ -303,7 +303,7 @@
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>Algod&#243;n</Text>
+			<Text>Algodуn</Text>
 			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
@@ -311,32 +311,32 @@
 	<TEXT>
 		<Tag>TXT_KEY_CHINESE_UNIFICATION_BONUS_COTTON_PEDIA</Tag>
 		<English>[TAB]Important for production of cloth, cotton is a soft fiber which can be extracted from cotton plants. After removal from the plant, the fibers are processed to remove seeds and wax, and then they are spun into threads. Cotton grows well in both tropical and warm temperate climates, and it can be cultivated across much of the inhabited portions of the world.[PARAGRAPH:1]Many civilizations recognized the value cotton very early in their development - examples include the Egyptians, (Asian) Indians and even some pre-Colombian American cultures. The Industrial Revolution saw the invention of the "Spinning Jenny" and cotton gin, which enabled mass production of cotton-based cloth. After these developments the demand for the plant fiber became almost insatiable, driving up labor demands for its cultivation across the world - leading to, among other things, the continuation of slavery in the United States into the mid-nineteenth century. Today, however, most cotton in western nations is harvested mechanically. It remains an important good worldwide.</English>
-		<French>Le coton, mati�re primordiale pour la production de tissus, est une fibre souple extraite de la plante du m�me nom. Apr�s avoir �t� s�par�es de la plante, les fibres sont trait�es afin d'en supprimer graines et cire, avant d'�tre fil�es. Le coton s'adapte particuli�rement aux climats chauds ou tropicaux et peut �tre cultiv� dans de nombreuses r�gions d�sertiques du monde.[PARAGRAPH:2]De nombreuses civilisations ont vite compris l'importance que pouvait avoir le coton pour leur d�veloppement, par exemple, les Egyptiens, les Indiens (d'Asie) et certaines cultures pr�colombiennes. L'invention, � la R�volution industrielle, de la Jenny (une machine � filer le coton) et de l'�greneuse � coton, va permettre une production massive de v�tements. Apr�s ce d�veloppement, la demande pour cette fibre devient presque impossible � satisfaire, ce qui incite au d�veloppement de sa culture � travers le monde et entra�ne, entre autres choses, la poursuite de l'esclavage aux Etats-Unis au XIXe si�cle. De nos jours, la plus grande partie des r�coltes du monde occidental est effectu�e m�caniquement et le coton demeure un produit important dans le monde entier. </French>
-		<German>Baumwolle ist eine weiche Faser, die aus der Baumwollpflanze gewonnen und vorwiegend in der Textilfertigung genutzt wird. Nach der Ernte werden die Samenhaare in einem ersten Verarbeitungsprozess zun&#228;chst von den Samen sowie von Wachsr&#252;ckst&#228;nden befreit und dann zu F&#228;den gesponnen. Besonders gut gedeiht die Baumwollpflanze in tropischem und warmem Klima, grunds&#228;tzlich kann sie aber in den meisten bewohnten Gebieten der Erde angebaut werden.[PARAGRAPH:2]Viele Zivilisationen erkannten bereits sehr fr&#252;h den Wert der Baumwolle, so zum Beispiel die �gypter, die Inder sowie einige pr&#228;kolumbianische Kulturen auf dem amerikanischen Kontinent. Doch erst die Erfindung der "Spinning Jenny" (Spinnmaschine) und der "Cotton Gin" (Egreniermaschine zur Entk&#246;rnung von Baumwolle) im Zeitalter der Industriellen Revolution erm&#246;glichte die Massenfertigung von Baumwolltextilien. In der darauf folgenden Zeit stieg die Nachfrage nach der Pflanzenfaser schier ins Unermessliche, so dass weltweit Unmengen von Arbeitskr&#228;ften f&#252;r den Anbau der Baumwollpflanze ben&#246;tigt wurden - dies war unter anderem auch ein Grund daf&#252;r, dass die Sklaverei in den Vereinigten Staaten bis Mitte des 19. Jahrhunderts aufrechterhalten blieb. Heute wird Baumwolle, die nach wie vor zu den wichtigsten Handelsg&#252;tern der Welt geh&#246;rt, in den westlichen L&#228;ndern &#252;berwiegend mechanisch geerntet.</German>
-		<Italian>Importante per la produzione dell'abbigliamento, il cotone &#232; una fibra soffice che si estrae dalla pianta di cotone. Dopo essere state estratte dalla pianta, le fibre vengono trattate per privarle di semi e cera, quindi sono filate (tessute in fili). Il cotone cresce bene nei climi tropicali e in quelli temperati e perci&#242; &#232; coltivabile in buona parte del mondo abitato.[PARAGRAPH:2]Molte civilt&#224;, tra cui Egizi, Indiani (d'Asia) e certe culture pre-colombiane, hanno apprezzato sin da subito il valore del cotone. La Rivoluzione Industriale vide l'introduzione del &quot;filatoio multiplo&quot; e della sgranatrice, che permisero la produzione di massa dei capi in cotone. In seguito a questi sviluppi, la domanda di cotone divenne quasi insaziabile, facendo impennare la domanda di lavoro nelle piantagioni di cotone in tutto il mondo. Questo port&#242;, tra le altre cose, alla continuazione della pratica della schiavit� negli Stati Uniti fino alla met&#224; del diciannovesimo secolo. Oggi, invece, nelle nazioni occidentali il cotone &#232; raccolto meccanicamente e rimane sempre un bene importante.</Italian>
-		<Spanish>Importante para la producci&#243;n de tela, el algod&#243;n es una fibra suave que se extrae de la planta de algod&#243;n. Tras su extracci&#243;n, las fibras se procesan para quitarles las semillas y la cera y, a continuaci&#243;n, se utilizan para formar hebras. El algod&#243;n se cultiva en climas tanto tropicales como c&#225;lidos y puede producirse en buena parte de las regiones habitadas del mundo.[PARAGRAPH:2]Muchas civilizaciones reconocieron el valor del algod&#243;n en un momento muy temprano de su desarrollo. Entre los ejemplos m&#225;s caracter&#237;sticos tenemos a los egipcios, los hind�es e incluso algunas culturas precolombinas. La Revoluci&#243;n Industrial asisti&#243; a la invenci&#243;n de &quot;Jenny la hilandera&quot; y de la desmotadora, que permit&#237;an la producci&#243;n en serie de tela de algod&#243;n. Tras estos inventos, la demanda de fibra de algod&#243;n se hizo casi insaciable y el cultivo de la planta se extendi&#243; por todo el mundo lo que, entre otras cosas, foment&#243; la supervivencia de la esclavitud en los Estados Unidos hasta el siglo XIX. En nuestros d&#237;as, no obstante, en las naciones occidentales el algod&#243;n se recoge por medios mec&#225;nicos. Sigue siendo una mercanc&#237;a important&#237;sima en todo el mundo.</Spanish>
+		<French>Le coton, matière primordiale pour la production de tissus, est une fibre souple extraite de la plante du même nom. Après avoir été séparées de la plante, les fibres sont traitées afin d'en supprimer graines et cire, avant d'être filées. Le coton s'adapte particulièrement aux climats chauds ou tropicaux et peut être cultivé dans de nombreuses régions désertiques du monde.[PARAGRAPH:2]De nombreuses civilisations ont vite compris l'importance que pouvait avoir le coton pour leur développement, par exemple, les Egyptiens, les Indiens (d'Asie) et certaines cultures précolombiennes. L'invention, à la Révolution industrielle, de la Jenny (une machine à filer le coton) et de l'égreneuse à coton, va permettre une production massive de vêtements. Après ce développement, la demande pour cette fibre devient presque impossible à satisfaire, ce qui incite au développement de sa culture à travers le monde et entraîne, entre autres choses, la poursuite de l'esclavage aux Etats-Unis au XIXe siècle. De nos jours, la plus grande partie des récoltes du monde occidental est effectuée mécaniquement et le coton demeure un produit important dans le monde entier. </French>
+		<German>Baumwolle ist eine weiche Faser, die aus der Baumwollpflanze gewonnen und vorwiegend in der Textilfertigung genutzt wird. Nach der Ernte werden die Samenhaare in einem ersten Verarbeitungsprozess zunдchst von den Samen sowie von Wachsrьckstдnden befreit und dann zu Fдden gesponnen. Besonders gut gedeiht die Baumwollpflanze in tropischem und warmem Klima, grundsдtzlich kann sie aber in den meisten bewohnten Gebieten der Erde angebaut werden.[PARAGRAPH:2]Viele Zivilisationen erkannten bereits sehr frьh den Wert der Baumwolle, so zum Beispiel die Ägypter, die Inder sowie einige prдkolumbianische Kulturen auf dem amerikanischen Kontinent. Doch erst die Erfindung der "Spinning Jenny" (Spinnmaschine) und der "Cotton Gin" (Egreniermaschine zur Entkцrnung von Baumwolle) im Zeitalter der Industriellen Revolution ermцglichte die Massenfertigung von Baumwolltextilien. In der darauf folgenden Zeit stieg die Nachfrage nach der Pflanzenfaser schier ins Unermessliche, so dass weltweit Unmengen von Arbeitskrдften fьr den Anbau der Baumwollpflanze benцtigt wurden - dies war unter anderem auch ein Grund dafьr, dass die Sklaverei in den Vereinigten Staaten bis Mitte des 19. Jahrhunderts aufrechterhalten blieb. Heute wird Baumwolle, die nach wie vor zu den wichtigsten Handelsgьtern der Welt gehцrt, in den westlichen Lдndern ьberwiegend mechanisch geerntet.</German>
+		<Italian>Importante per la produzione dell'abbigliamento, il cotone и una fibra soffice che si estrae dalla pianta di cotone. Dopo essere state estratte dalla pianta, le fibre vengono trattate per privarle di semi e cera, quindi sono filate (tessute in fili). Il cotone cresce bene nei climi tropicali e in quelli temperati e perciт и coltivabile in buona parte del mondo abitato.[PARAGRAPH:2]Molte civiltа, tra cui Egizi, Indiani (d'Asia) e certe culture pre-colombiane, hanno apprezzato sin da subito il valore del cotone. La Rivoluzione Industriale vide l'introduzione del &quot;filatoio multiplo&quot; e della sgranatrice, che permisero la produzione di massa dei capi in cotone. In seguito a questi sviluppi, la domanda di cotone divenne quasi insaziabile, facendo impennare la domanda di lavoro nelle piantagioni di cotone in tutto il mondo. Questo portт, tra le altre cose, alla continuazione della pratica della schiavitù negli Stati Uniti fino alla metа del diciannovesimo secolo. Oggi, invece, nelle nazioni occidentali il cotone и raccolto meccanicamente e rimane sempre un bene importante.</Italian>
+		<Spanish>Importante para la producciуn de tela, el algodуn es una fibra suave que se extrae de la planta de algodуn. Tras su extracciуn, las fibras se procesan para quitarles las semillas y la cera y, a continuaciуn, se utilizan para formar hebras. El algodуn se cultiva en climas tanto tropicales como cбlidos y puede producirse en buena parte de las regiones habitadas del mundo.[PARAGRAPH:2]Muchas civilizaciones reconocieron el valor del algodуn en un momento muy temprano de su desarrollo. Entre los ejemplos mбs caracterнsticos tenemos a los egipcios, los hindúes e incluso algunas culturas precolombinas. La Revoluciуn Industrial asistiу a la invenciуn de &quot;Jenny la hilandera&quot; y de la desmotadora, que permitнan la producciуn en serie de tela de algodуn. Tras estos inventos, la demanda de fibra de algodуn se hizo casi insaciable y el cultivo de la planta se extendiу por todo el mundo lo que, entre otras cosas, fomentу la supervivencia de la esclavitud en los Estados Unidos hasta el siglo XIX. En nuestros dнas, no obstante, en las naciones occidentales el algodуn se recoge por medios mecбnicos. Sigue siendo una mercancнa importantнsima en todo el mundo.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_ENGLISH_STOCK_EXCHANGE</Tag>
-		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#234;&#224;&#255; &#225;&#232;&#240;&#230;&#224;</Russian>
+		<Russian>Королевская биржа</Russian>
 		<English>Royal Exchange</English>
 		<French>Bourse Royale</French>
-		<German>K&#246;nigliche B&#246;rse</German>
+		<German>Kцnigliche Bцrse</German>
 		<Italian>Borsa Reale</Italian>
 		<Spanish>Bolsa Real</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_ENGLISH_STOCK_EXCHANGE_STRATEGY</Tag>
-		<Russian>[COLOR_BUILDING_TEXT]&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#234;&#224;&#255; &#225;&#232;&#240;&#230;&#224;[COLOR_REVERT], &#224;&#237;&#227;&#235;&#232;&#233;&#241;&#234;&#224;&#255; &#231;&#224;&#236;&#229;&#237;&#224; [COLOR_BUILDING_TEXT]&#193;&#224;&#237;&#234;&#224;[COLOR_REVERT], &#243;&#226;&#229;&#235;&#232;&#247;&#232;&#226;&#224;&#229;&#242; &#228;&#238;&#245;&#238;&#228; &#227;&#238;&#240;&#238;&#228;&#224; &#229;&#249;&#229; &#225;&#238;&#235;&#252;&#248;&#229;, &#247;&#229;&#236;  [COLOR_BUILDING_TEXT]&#193;&#224;&#237;&#234;[COLOR_REVERT].</Russian>
+		<Russian>[COLOR_BUILDING_TEXT]Королевская биржа[COLOR_REVERT], английская замена [COLOR_BUILDING_TEXT]Банка[COLOR_REVERT], увеличивает доход города еще больше, чем  [COLOR_BUILDING_TEXT]Банк[COLOR_REVERT].</Russian>
 		<English>A [COLOR_BUILDING_TEXT]Royal Exchange[COLOR_REVERT], the English replacement for a [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT], increases a city's production of wealth even more than a [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT].</English>
 		<French>La [COLOR_BUILDING_TEXT]Bourse Royale[COLOR_REVERT], version anglaise de la [COLOR_BUILDING_TEXT]banque[COLOR_REVERT], augmente la production de richesse d'une ville davantage que la [COLOR_BUILDING_TEXT]banque[COLOR_REVERT].</French>
-		<German>Die englische [COLOR_BUILDING_TEXT]K&#246;nigliche B&#246;rse[COLOR_REVERT] ersetzt die [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT], bewirkt jedoch einen noch gr&#246;&#223;eren Anstieg des Wohlstands einer Stadt.</German>
-		<Italian>La [COLOR_BUILDING_TEXT]Borsa reale[COLOR_REVERT], l'equivalente inglese della [COLOR_BUILDING_TEXT]Banca[COLOR_REVERT], incrementa la produzione di ricchezza della citt&#224; ancor pi� della [COLOR_BUILDING_TEXT]banca[COLOR_REVERT] stessa.</Italian>
-		<Spanish>El [COLOR_BUILDING_TEXT]Royal Exchange[COLOR_REVERT], el equivalente ingl&#233;s del [COLOR_BUILDING_TEXT]Banco[COLOR_REVERT], aumenta la producci&#243;n de riqueza de la ciudad a�n m&#225;s que este �ltimo.</Spanish>
+		<German>Die englische [COLOR_BUILDING_TEXT]Kцnigliche Bцrse[COLOR_REVERT] ersetzt die [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT], bewirkt jedoch einen noch grцЯeren Anstieg des Wohlstands einer Stadt.</German>
+		<Italian>La [COLOR_BUILDING_TEXT]Borsa reale[COLOR_REVERT], l'equivalente inglese della [COLOR_BUILDING_TEXT]Banca[COLOR_REVERT], incrementa la produzione di ricchezza della cittа ancor più della [COLOR_BUILDING_TEXT]banca[COLOR_REVERT] stessa.</Italian>
+		<Spanish>El [COLOR_BUILDING_TEXT]Royal Exchange[COLOR_REVERT], el equivalente inglйs del [COLOR_BUILDING_TEXT]Banco[COLOR_REVERT], aumenta la producciуn de riqueza de la ciudad aún mбs que este último.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_WANGKON</Tag>
-		<Russian>&#194;&#224;&#237; &#195;&#238;&#237;</Russian>
+		<Russian>Ван Гон</Russian>
 		<English>Wang Kon</English>
 		<French>
 			<Text>Wang Kon</Text>
