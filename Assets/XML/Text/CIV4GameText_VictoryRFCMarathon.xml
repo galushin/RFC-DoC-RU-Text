@@ -6,7 +6,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_UHV_MAY1_NOTURN</Tag>
-		<Russian>Discover Calendar by 600 AD</Russian>
+		<Russian>Открыть Календарь до 600 г. н.э.</Russian>
 		<English>Discover Calendar by 600 AD</English>
 		<French>Découvrir le calendrier avant 600 ap. J.-C.</French>
 		<German>Erforschen Sie bis zum Jahr 600 n. Chr. die Technologie Kalender</German>
@@ -15,7 +15,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_KHM1_EPIC</Tag>
-		<Russian>Have more than 18000 Culture in 1450 AD</Russian>
+		<Russian>Обладать 18000 Культуры в 1450 году</Russian>
 		<English>Have more than 18000 Culture in 1450 AD</English>
 		<French>Avoir plus de 18000 en Culture en 1450 ap. J.-C.</French>
 		<German>Haben Sie im Jahr 1450 n. Chr. mehr als 18.000 Kulturpunkte</German>
@@ -24,7 +24,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_KHM1_MARATHON</Tag>
-		<Russian>Have more than 36000 Culture in 1450 AD</Russian>
+		<Russian>Обладать 36000 Культуры в 1450 году</Russian>
 		<English>Have more than 36000 Culture in 1450 AD</English>
 		<French>Avoir plus de 36000 en Culture en 1450 ap. J.-C.</French>
 		<German>Haben Sie im Jahr 1450 n. Chr. mehr als 36.000 Kulturpunkte</German>
@@ -33,6 +33,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_EGY1_EPIC</Tag>
+		<Russian>Обладать 750 Культуры в 850 г. до н.э.</Russian>
 		<English>Have more than 750 Culture in 850 BC</English>
 		<French>Avoir plus de 750 en Culture en 850 av. J.-C.</French>
 		<German>Erzielen Sie im Jahr 850 v. Chr. mehr als 750 Kulturpunkte</German>
@@ -41,6 +42,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_EGY1_MARATHON</Tag>
+		<Russian>Обладать 1500 Культуры в 850 г. до н.э.</Russian>
 		<English>Have more than 1500 Culture in 850 BC</English>
 		<French>Avoir plus de 1500 en Culture en 850 av. J.-C.</French>
 		<German>Erzielen Sie im Jahr 850 v. Chr. mehr als 1500 Kulturpunkte</German>
@@ -49,6 +51,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_EGY2_EPIC</Tag>
+		<Russian>Построить Пирамиды, Великую Библиотеку и Великий маяк до 100 г. до н.э.</Russian>
 		<English>Build the Pyramids, the Great Library, and the Great Lighthouse by 100 BC</English>
 		<French>Construire les Pyramides, la Grande Bibliothèque et le Phare avant 100 av. J.-C.</French>
 		<German>Bauen Sie bis zum Jahr 100 v. Chr. die Pyramiden, die Große Bibliothek und den Großen Leuchtturm</German>
@@ -57,7 +60,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_EGY2_MARATHON</Tag>
-		<English>Build the Pyramids, the Great Library, and the Great Lighthouse by 100 BC</English>
+		<Russian>Построить Пирамиды, Великую Библиотеку и Великий маяк до 100 г. до н.э.</Russian>
 		<French>Construire les Pyramides, la Grande Bibliothèque et le Phare avant 100 av. J.-C.</French>
 		<German>Bauen Sie bis zum Jahr 100 v. Chr. die Pyramiden, die Große Bibliothek und den Großen Leuchtturm</German>
 		<Italian>Devi costruire le Piramidi, la Grande Biblioteca e il Grande Faro entro il 100 a.C.</Italian>
@@ -65,6 +68,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_EGY3_EPIC</Tag>
+		<Russian>Обладать 7500 Культуры в 170 г. н.э.</Russian>
 		<English>Have more than 7500 Culture in 170 AD</English>
 		<French>Avoir plus de 7500 en Culture en 170 ap. J.-C.</French>
 		<German>Erzielen Sie im Jahr 170 n. Chr. mehr als 7.500 Kulturpunkte</German>
@@ -73,6 +77,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_EGY3_MARATHON</Tag>
+		<Russian>Обладать 15000 Культуры в 170 г. н.э.</Russian>
 		<English>Have more than 15000 Culture in 170 AD</English>
 		<French>Avoir plus de 15000 en Culture en 170 ap. J.-C.</French>
 		<German>Erzielen Sie im Jahr 170 n. Chr. mehr als 15.000 Kulturpunkte</German>
@@ -81,7 +86,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_GRE2_NOTURN</Tag>
-		<Russian>Build the Oracle, the Parthenon, the Colossus, and the Temple of Artemis by 250 BC</Russian>
+		<Russian>Построить Оракул, Парфенон, Колосс и Храм Артемиды до 250 г. до н.э.</Russian>
 		<English>Build the Oracle, the Parthenon, the Colossus, and the Temple of Artemis by 250 BC</English>
 		<French>Construire l'Oracle, le Parthénon, le Colosse et le Temple d'Artémis avant 250 av. J.-C.</French>
 		<German>Bauen Sie bis zum Jahr 250 v. Chr. das Orakel, den Parthenon, den Koloss und den Artemis-Tempel</German>
@@ -90,7 +95,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_PER1_NOTURN</Tag>
-		<Russian>Control 8% of world territory by 140 AD</Russian>
+		<Russian>Контролировать 8% территории мира до 140 г. н.э.</Russian>
 		<English>Control 8% of world territory by 140 AD</English>
 		<French>Contrôler 8% du territoire mondial avant 140 ap. J.-C.</French>
 		<German>Kontrollieren Sie bis zum Jahr 140 n. Chr. 8% der Weltkarte</German>
@@ -99,7 +104,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_PER2_NOTURN</Tag>
-		<Russian>Control 7 world wonders by 350 AD</Russian>
+		<Russian>Контролировать 7 чудес света до 350 г. н.э.</Russian>
 		<English>Control 7 world wonders by 350 AD</English>
 		<French>Contrôler 7 merveilles du monde avant 350 ap. J.-C.</French>
 		<German>Kontrollieren Sie bis zum Jahr 350 n. Chr. 7 Weltwunder</German>
@@ -108,7 +113,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_PER3_NOTURN</Tag>
-		<Russian>Control 2 holy city shrines in 350 AD</Russian>
+		<Russian>Контролировать 2 священных города со святынями в 350 г. н.э.</Russian>
 		<English>Control 2 holy city shrines in 350 AD</English>
 		<French>Contrôler 2 autels de villes saintes en 350 ap. J.-C.</French>
 		<German>Kontrollieren Sie im Jahr 350 n. Chr. 2 heilige Schreine</German>
@@ -117,7 +122,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ROM1_NOTURN</Tag>
-		<Russian>Build 6 Barracks, 5 Aqueducts, 4 Amphitheatres and 3 Forums by 100 AD</Russian>
+		<Russian>Построить 6 Казарм, 5 Акведуков, 4 Амфитеатра и 3 Форума к 100 г. н.э.</Russian>
 		<English>Build 6 Barracks, 5 Aqueducts, 4 Amphitheatres and 3 Forums by 100 AD</English>
 		<French>Construire 5 Casernes, 5 Aqueducs, 5 amphithéâtres avant 100 ap. J.-C.</French>
 		<German>Bauen Sie bis zum Jahr 100 n. Chr. 6 Kasernen, 5 Aquädukten, 4 Amphitheatern und 3 Foren</German>
@@ -126,7 +131,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_ROM2_NOTURN</Tag>
-		<Russian>Control in 320 AD all the area historically known as the Western Roman Empire</Russian>
+		<Russian>Контролировать в 320 г. н.э. все земли, исторически принадлежавшие Западной Римской Империи</Russian>
 		<English>Control in 320 AD all the area historically known as the Western Roman Empire</English>
 		<French>Contrôler tout le territoire connu historiquement comme l'Empire romain d'Occident en 470 ap. J.-C.</French>
 		<German>Kontrollieren Sie im Jahr 320 n. Chr. das gesamte historische Gebiet des Weströmischen Reiches</German>
@@ -167,6 +172,7 @@
 	</TEXT-->
 	<TEXT>
 		<Tag>TXT_KEY_UHV_INC2_EPIC</Tag>
+		<Russian>Владеть 3750 золота в 1550 году</Russian>
 		<English>Have 3750 gold in 1550 AD</English>
 		<French>Avoir 4500 en or en 1700 ap. J.-C.</French>
 		<German>Verfügen Sie im Jahr 1550 n. Chr. über 3.750 Gold</German>
@@ -175,6 +181,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_INC2_MARATHON</Tag>
+		<Russian>Владеть 7500 золота в 1550 году</Russian>
 		<English>Have 7500 gold in 1550 AD</English>
 		<French>Avoir 9000 en or en 1700 ap. J.-C.</French>
 		<German>Verfügen Sie im Jahr 1550 n. Chr. über 7.500 Gold</German>
@@ -183,7 +190,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BAB2_NOTURN</Tag>
-		<Russian>Make Babylon the most populous city in the world in 850 BC</Russian>
+		<Russian>Вавилон должен быть самым населённым городом мира в 850 г. до н.э.</Russian>
 		<English>Make Babylon the most populous city in the world in 850 BC</English>
 		<French>Faire de Babylone la ville la plus peuplée avant 850 av. J.-C.</French>
 		<German>Sorgen Sie dafür, dass Babylon im Jahr 850 v. Chr. die größte Stadt der Welt ist</German>
@@ -192,7 +199,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_BAB3_NOTURN</Tag>
-		<Russian>Make Babylon the most culturally advanced city in the world by 700 BC</Russian>
+		<Russian>Вавилон должен быть самым культурным городом в мире до 700 г. до н.э.</Russian>
 		<English>Make Babylon the most culturally advanced city in the world by 700 BC</English>
 		<French>Faire de Babylone la ville la plus avancée culturellement avant 700 av. J.-C.</French>
 		<German>Machen Sie Babylon bis zum Jahr 700 v. Chr. zur kulturell bedeutendsten Stadt</German>
@@ -201,7 +208,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_CAR1_NOTURN</Tag>
-		<Russian>Control 5 coastal cities in the Mediterranean in 100 BC</Russian>
+		<Russian>Контролировать 5 прибрежных городов в Средиземноморье в 100 г. до н.э.</Russian>
 		<English>Control 5 coastal cities in the Mediterranean in 100 BC</English>
 		<French>Contrôler 5 villes côtières en Méditerranée en 100 av. J.-C.</French>
 		<German>Kontrollieren Sie im Jahr 100 v. Chr. 7 Küstenstädte im Mittelmeerraum</German>
@@ -210,7 +217,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_CAR2_NOTURN</Tag>
-		<Russian>Secure through trade or take control of 4 dye resources by 200 AD</Russian>
+		<Russian>Получить через торговлю или владение 4 ресурса красителей до 200 г. н.э.</Russian>
 		<English>Secure through trade or take control of 4 dye resources by 200 AD</English>
 		<French>Se procurer par le commerce ou prendre le contrôle de 4 ressources de teinture avant 200 ap. J.-C.</French>
 		<German>Sichern Sie sich bis zum Jahr 200 n. Chr. 4 Färbemittel-Ressourcen über den Handel oder bringen Sie sie unter Ihre Kontrolle</German>
@@ -219,7 +226,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_VIK3_EPIC</Tag>
-		<Russian>Acquire 4500 gold by pillaging, conquering cities and sinking ships by 1500 AD</Russian>
+		<Russian>Получить 4500 золота за счет разорения, захвата городов и потопления кораблей до 1500 года</Russian>
 		<English>Acquire 4500 gold by pillaging, conquering cities and sinking ships by 1500 AD</English>
 		<French>Etre le premier à fonder une ville en Amérique</French>
 		<German>Erwerben Sie bis 1500 n. Chr. 4500 Gold, indem sie plündern, Städte erobern oder Schiffe versenken</German>
@@ -228,7 +235,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UHV_VIK3_MARATHON</Tag>
-		<Russian>Acquire 9000 gold by pillaging, conquering cities and sinking ships by 1500 AD</Russian>
+		<Russian>Получить 9000 золота за счет разорения, захвата городов и потопления кораблей до 1500 года</Russian>
 		<English>Acquire 9000 gold by pillaging, conquering cities and sinking ships by 1500 AD</English>
 		<French>Etre le premier à fonder une ville en Amérique</French>
 		<German>Erwerben Sie bis 1500 n. Chr. 9000 Gold, indem sie plündern, Städte erobern oder Schiffe versenken</German>
