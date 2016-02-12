@@ -91,7 +91,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_TRANSOXANIA</Tag>
-		<Russian>Трансоксиана</Russian>
+		<Russian>Мавераннахр</Russian>
 		<English>Transoxania</English>
 	</TEXT>
 	<TEXT>
@@ -101,7 +101,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_MOST_CULTURED_CITY_VALUE</Tag>
-		<Russian>Most cultured city: %s1_city (%d2 / %d3)</Russian>
+		<Russian>Наиболее культурный город: %s1_city (%d2 / %d3)</Russian>
 		<English>Most cultured city: %s1_city (%d2 / %d3)</English>
 	</TEXT>
 	<TEXT>
@@ -141,12 +141,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NUM_AQUEDUCTS</Tag>
-		<Russian>&#192;кведуки: %d1 / %d2</Russian>
+		<Russian>Акведуки: %d1 / %d2</Russian>
 		<English>Aqueducts: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NUM_AMPHITHEATRES</Tag>
-		<Russian>&#192;мфитеатры: %d1 / %d2</Russian>
+		<Russian>Амфитеатры: %d1 / %d2</Russian>
 		<English>Amphitheatres: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
@@ -161,22 +161,22 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ROME_CONTROL_FRANCE</Tag>
-		<Russian>Gaul: %d1 / %d2</Russian>
+		<Russian>Галлия: %d1 / %d2</Russian>
 		<English>Gaul: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ROME_CONTROL_ENGLAND</Tag>
-		<Russian>Britain: %d1 / %d2</Russian>
+		<Russian>Британия: %d1 / %d2</Russian>
 		<English>Britain: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ROME_CONTROL_CARTHAGE</Tag>
-		<Russian>Africa: %d1 / %d2</Russian>
+		<Russian>Африка: %d1 / %d2</Russian>
 		<English>Africa: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ROME_CONTROL_BYZANTIUM</Tag>
-		<Russian>Греция и &#192;натолия: %d1 / %d2</Russian>
+		<Russian>Греция и Анатолия: %d1 / %d2</Russian>
 		<English>Greece and Anatolia: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
@@ -206,17 +206,17 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_AFRICAN_COLONIES_CURRENT</Tag>
-		<Russian>В настоящий момент европейских колоний в Восточной и Субэкваториальной &#192;фрике нет</Russian>
+		<Russian>В настоящий момент европейских колоний в Восточной и Субэкваториальной Африке нет</Russian>
 		<English>Currently no European colonies in East and Subequatorial Africa</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_AFRICAN_COLONIES_1500</Tag>
-		<Russian>Не допустить существования европейских колоинй в Восточной и Субэкваториальной &#192;фрике в 1500 году</Russian>
+		<Russian>Не допустить существования европейских колоинй в Восточной и Субэкваториальной Африке в 1500 году</Russian>
 		<English>No European colonies in East and Subequatorial Africa in 1500 AD</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_AFRICAN_COLONIES_1910</Tag>
-		<Russian>Не допустить существования европейских колоинй в Восточной и Субэкваториальной &#192;фрике в 1910 году</Russian>
+		<Russian>Не допустить существования европейских колоинй в Восточной и Субэкваториальной Африке в 1910 году</Russian>
 		<English>No European colonies in East and Subequatorial Africa in 1910 AD</English>
 	</TEXT>
 	<TEXT>
@@ -236,7 +236,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NORTH_AFRICA</Tag>
-		<Russian>Северная &#192;фрика: %d1 / %d2</Russian>
+		<Russian>Северная Африка: %d1 / %d2</Russian>
 		<English>North Africa: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
@@ -326,32 +326,32 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NORTH_AMERICAN_TERRITORY</Tag>
-		<Russian>Территория Северной &#192;мерики: %s1 / %s2%%</Russian>
+		<Russian>Территория Северной Америки: %s1 / %s2%%</Russian>
 		<English>North American territory: %s1 / %s2%%</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ENGLAND_CONTROL_NORTH_AMERICA</Tag>
-		<Russian>Северная &#192;мерика: %d1 / %d2</Russian>
+		<Russian>Северная Америка: %d1 / %d2</Russian>
 		<English>North America: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ENGLAND_CONTROL_ASIA</Tag>
-		<Russian>&#192;зия: %d1 / %d2</Russian>
+		<Russian>Азия: %d1 / %d2</Russian>
 		<English>Asia: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ENGLAND_CONTROL_AFRICA</Tag>
-		<Russian>&#192;фрика: %d1 / %d2</Russian>
+		<Russian>Африка: %d1 / %d2</Russian>
 		<English>Africa: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ENGLAND_CONTROL_SOUTH_AMERICA</Tag>
-		<Russian>Южная &#192;мерика, Центральная &#192;мерика и Карибы: %d1 / %d2</Russian>
+		<Russian>Южная Америка, Центральная Америка и Карибы: %d1 / %d2</Russian>
 		<English>South America, Central America and the Caribbean: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ENGLAND_CONTROL_OCEANIA</Tag>
-		<Russian>&#192;встралия и Океания: %d1 / %d2</Russian>
+		<Russian>Австралия и Океания: %d1 / %d2</Russian>
 		<English>Australia and Oceania: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
@@ -386,7 +386,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_RUSSIA_CONTROL_SIBERIA</Tag>
-		<Russian>Cities in Siberia: %d1 / %d2</Russian>
+		<Russian>Городов в Сибири: %d1 / %d2</Russian>
 		<English>Cities in Siberia: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
@@ -426,12 +426,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_EXTRA_EUROPEAN_COLONIES</Tag>
-		<Russian>Колоний в Бразилий, &#192;фрике и &#192;зии: %d1 / %d2</Russian>
+		<Russian>Колоний в Бразилий, Африке и Азии: %d1 / %d2</Russian>
 		<English>Colonies in Brazil, Africa and Asia: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_SOUTH_AMERICAN_COLONIES</Tag>
-		<Russian>Не допустить европейских колоний в Южной &#192;мерике (кроме Бразилии)</Russian>
+		<Russian>Не допустить европейских колоний в Южной Америке (кроме Бразилии)</Russian>
 		<English>No European colonies in South America (except Brazil)</English>
 	</TEXT>
 	<TEXT>
@@ -461,7 +461,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_CENTRAL_AMERICAN_COLONIES</Tag>
-		<Russian>Нет европейских колоний в Центральной &#192;мерике, Южных СШ&#192; и на Карибах</Russian>
+		<Russian>Нет европейских колоний в Центральной Америке, Южных США и на Карибах</Russian>
 		<English>No European colonies in Central America, Southern USA and the Caribbean</English>
 	</TEXT>
 	<TEXT>
@@ -506,12 +506,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_SOUTH_ASIAN_COLONIES</Tag>
-		<Russian>Нет иностранных колоний в Южной &#192;зии</Russian>
+		<Russian>Нет иностранных колоний в Южной Азии</Russian>
 		<English>No foreign colonies in South Asia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_NORTH_AMERICAN_COLONIES</Tag>
-		<Russian>Нет европейских колоний в Северной и центральной &#192;мерике и на Карибах</Russian>
+		<Russian>Нет европейских колоний в Северной и центральной Америке и на Карибах</Russian>
 		<English>No European colonies in North and Central America and the Caribbean</English>
 	</TEXT>
 	<TEXT>
@@ -566,7 +566,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_WEST_AFRICA</Tag>
-		<Russian>Западная &#192;фрика: %d1 / %d2</Russian>
+		<Russian>Западная Африка: %d1 / %d2</Russian>
 		<English>West Africa: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
@@ -576,7 +576,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_APOSTOLIC_VOTE_PERCENT</Tag>
-		<Russian>Голосов в &#192;постольском Дворце: %s1 / %s2%%</Russian>
+		<Russian>Голосов в Апостольском Дворце: %s1 / %s2%%</Russian>
 		<English>Votes in the Apostolic Palace: %s1 / %s2%%</English>
 	</TEXT>
 	<TEXT>
@@ -601,42 +601,42 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NUM_TEMPLES</Tag>
-		<Russian>Pagan Temples: %d1 / %d2</Russian>
+		<Russian>Языческие храмы: %d1 / %d2</Russian>
 		<English>Pagan Temples: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NUM_ALTARS</Tag>
-		<Russian>Sacrificial Altars: %d1 / %d2</Russian>
+		<Russian>Жертвенные алтари: %d1 / %d2</Russian>
 		<English>Sacrificial Altars: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NUM_TAMBOS</Tag>
-		<Russian>Tambos: %d1 / %d2</Russian>
+		<Russian>Тамбо: %d1 / %d2</Russian>
 		<English>Tambos: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ANDEAN_ROAD</Tag>
-		<Russian>Road along the Andean Coast in your territory</Russian>
+		<Russian>Дорога вдоль андского побережья на нашей территории</Russian>
 		<English>Road along the Andean Coast in your territory</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_SOUTH_AMERICAN_TERRITORY</Tag>
-		<Russian>South American territory: %s1 / %s2%%</Russian>
+		<Russian>Территория Южной Америки: %s1 / %s2%%</Russian>
 		<English>South American territory: %s1 / %s2%%</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CENTRAL_AMERICAN_CITIES</Tag>
-		<Russian>Central America: %d1 / %d2</Russian>
+		<Russian>Центральная Америка: %d1 / %d2</Russian>
 		<English>Central America: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_WESTERN_NORTH_AMERICA_CITIES</Tag>
-		<Russian>Western North America: %d1 / %d2</Russian>
+		<Russian>Западная Северная Америка: %d1 / %d2</Russian>
 		<English>Western North America: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_LARGEST_RELIGION_CIV</Tag>
-		<Russian>Civilization with the largest Catholic population: </Russian>
+		<Russian>Цивилизация с наибольшим католическим населением: </Russian>
 		<English>Civilization with the largest Catholic population: </English>
 	</TEXT>
 	<TEXT>
@@ -646,267 +646,282 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NATIONAL_PARK_CAPITAL</Tag>
-		<Russian>National Park in capital</Russian>
+		<Russian>Национальный парк в столице</Russian>
 		<English>National Park in capital</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_GREAT_GENERALS_CAPITAL</Tag>
-		<Russian>Great Generals in capital: %d1 / %d2</Russian>
+		<Russian>Великих генералов в столице: %d1 / %d2</Russian>
 		<English>Great Generals in capital: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_HIGHEST_COMMERCE_PER_CAPITA</Tag>
-		<Russian>Highest commerce per capita: %s1</Russian>
+		<Russian>Наибольшая коммерция на душу населения: %s1</Russian>
 		<English>Highest commerce per capita: %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_GREAT_GENERALS</Tag>
-		<Russian>Great Generals created: %d1 / %d2</Russian>
+		<Russian>Создано великих генералов: %d1 / %d2</Russian>
 		<English>Great Generals created: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_STATE_RELIGION_CATHEDRALS</Tag>
-		<Russian>%s1 Cathedrals built: %d2 / %d3</Russian>
+		<Russian>%s1 собор, построено: %d2 / %d3</Russian>
 		<English>%s1 Cathedrals built: %d2 / %d3</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_GREAT_ARTISTS_SETTLED</Tag>
-		<Russian>Great artists settled in %s1: %d2 / %d3</Russian>
+		<Russian>Поселено великих художников в %s1: %d2 / %d3</Russian>
 		<English>Great artists settled in %s1: %d2 / %d3</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_COLONIES_PERU</Tag>
-		<Russian>No colonies in Peru</Russian>
+		<Russian>В Перу нет колоний</Russian>
 		<English>No colonies in Peru</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_COLONIES_GRAN_COLOMBIA</Tag>
-		<Russian>No colonies in Gran Colombia</Russian>
+		<Russian>В Великой Колумбии нет колоний</Russian>
 		<English>No colonies in Gran Colombia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_COLONIES_GUAYANAS</Tag>
-		<Russian>No colonies in the Guayanas</Russian>
+		<Russian>В Гвиане нет колоний</Russian>
 		<English>No colonies in the Guayanas</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_COLONIES_CARIBBEAN</Tag>
-		<Russian>No colonies in the Caribbean</Russian>
+		<Russian>На Карибах нет колоний</Russian>
 		<English>No colonies in the Caribbean</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CONTROL_SOUTH_AMERICA</Tag>
-		<Russian>South America</Russian>
+		<Russian>Южная Америка</Russian>
 		<English>South America</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_TRADE_GOLD_RESOURCES</Tag>
-		<Russian>Gold from trading resources: %d1 / %d2</Russian>
+		<Russian>Золота от торговли ресурсами: %d1 / %d2</Russian>
 		<English>Gold from trading resources: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_PROTESTANT_MERCHANTS</Tag>
-		<Russian>Protestant great merchants: %d1 / %d2</Russian>
+		<Russian>Протестантских великих торговцев: %d1 / %d2</Russian>
 		<English>Protestant great merchants: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_PROTESTANT_ENGINEERS</Tag>
-		<Russian>Protestant great engineers: %d1 / %d2</Russian>
+		<Russian>Протестантских великих инжинеров: %d1 / %d2</Russian>
 		<English>Protestant great engineers: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_PROTESTANT_CIVS</Tag>
-		<Russian>Protestant or secular civilizations: %d1 / %d2</Russian>
+		<Russian>Протестантских или светских цивилизаций: %d1 / %d2</Russian>
 		<English>Protestant or secular civilizations: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_POPE_TURNS</Tag>
-		<Russian>Turns as Pope: %d1 / %d2</Russian>
+		<Russian>Ходов в качестве Папы: %d1 / %d2</Russian>
 		<English>Turns as Pope: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CATHOLIC_SAINTS</Tag>
-		<Russian>Catholic great prophets: %d1 / %d2</Russian>
+		<Russian>Католическхи великих пророков: %d1 / %d2</Russian>
 		<English>Catholic great prophets: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CATHOLIC_WORLD_TERRITORY</Tag>
-		<Russian>Territory controlled by Catholic civilizations: %s1 / %s2%</Russian>
+		<Russian>Контролируемая католическими цивилизациями территория: %s1 / %s2%%</Russian>
 		<English>Territory controlled by Catholic civilizations: %s1 / %s2%</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ORTHODOX_CATHEDRALS</Tag>
-		<Russian>Orthodox cathedrals: %d1 / %d2</Russian>
+		<Russian>Православные соборы: %d1 / %d2</Russian>
 		<English>Orthodox cathedrals: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ORTHODOX_CULTURE_CITIES</Tag>
-		<Russian>Top five Orthodox cities: %d1 / %d2</Russian>
+		<Russian>Пять самых культурных православных городов: %d1 / %d2</Russian>
 		<English>Top five Orthodox cities: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CITY_GREAT_PEOPLE</Tag>
-		<Russian>Great people in %s1: %d2 / %d3</Russian>
+		<Russian>Великих людей в %s1: %d2 / %d3</Russian>
 		<English>Great people in %s1: %d2 / %d3</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NO_CATHOLICS</Tag>
-		<Russian>No Catholic civilizations</Russian>
+		<Russian>Католические цивилизации отсутствуют</Russian>
 		<English>No Catholic civilizations</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CITY_DIFFERENT_GREAT_PEOPLE</Tag>
-		<Russian>Different great people in %s1: %d2 / %d3</Russian>
+		<Russian>Различных великих людей в %s1: %d2 / %d3</Russian>
 		<English>Different great people in %s1: %d2 / %d3</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_GOLDEN_AGE_TURNS</Tag>
-		<Russian>Golden age turns: %d1 / %d2</Russian>
+		<Russian>Ходов золотых веков: %d1 / %d2</Russian>
 		<English>Golden age turns: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_HINDU_LARGEST_CITIES</Tag>
-		<Russian>Top five Hindu cities: %d1 / %d2</Russian>
+		<Russian>Пять самых населенных индуистских городов: %d1 / %d2</Russian>
 		<English>Top five Hindu cities: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_PEACE_TURNS</Tag>
-		<Russian>Turns spent at peace: %d1 / %d2</Russian>
+		<Russian>Ходов мира: %d1 / %d2</Russian>
 		<English>Turns spent at peace: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_HAPPINESS_TURNS</Tag>
-		<Russian>Turns with highest approval rating: %d1 / %d2</Russian>
+		<Russian>Ходов с наибольшим рейтингом одобрения: %d1 / %d2</Russian>
 		<English>Turns with highest approval rating: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CAUTIOUS_OR_BETTER_RELATIONS</Tag>
+		<Russian>Осторожные или лучшие отношения: %d1 / %d2</Russian>
 		<English>Cautious or better relations: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_FRIENDLY_CIVS</Tag>
-		<Russian>Friendly civilizations: %d1 / %d2</Russian>
+		<Russian>Дружественные цивилизации: %d1 / %d2</Russian>
 		<English>Friendly civilizations: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CHINESE_SHRINE_INCOME</Tag>
-		<Russian>Combined shrine income: %d1 / %d2</Russian>
+		<Russian>Общий доход от святынь: %d1 / %d2</Russian>
 		<English>Combined shrine income: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_TAOIST_CIVS</Tag>
-		<Russian>Other Taoist civilizations: %d1 / %d2</Russian>
+		<Russian>Других таосистских цивилизаций: %d1 / %d2</Russian>
 		<English>Other Taoist civilizations: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_HOLY_CITY_WONDERS</Tag>
-		<Russian>Wonders in %s1: %d2 / %d3</Russian>
+		<Russian>Чудес в %s1: %d2 / %d3</Russian>
 		<English>Wonders in %s1: %d2 / %d3</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_LEGENDARY_CULTURE_CITY</Tag>
-		<Russian>Legendary culture in %s1</Russian>
+		<Russian>Легендарная культура в %s1</Russian>
 		<English>Legendary culture in %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CONTROL_HOLY_CITY</Tag>
-		<Russian>Control %s1</Russian>
+		<Russian>Контролировать %s1</Russian>
 		<English>Control %s1</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NUM_PAGAN_TEMPLES_WORLD</Tag>
-		<Russian>Pagan temples in the world: %d1 / %d2</Russian>
+		<Russian>Языческих храмов в мире: %d1 / %d2</Russian>
 		<English>Pagan temples in the world: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NUM_NONRELIGIOUS_WONDERS</Tag>
-		<Russian>Controlled nonreligious wonders: %d1 / %d2</Russian>
+		<Russian>Контролируемые нерелигиозные чудеса: %d1 / %d2</Russian>
 		<English>Controlled nonreligious wonders: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_POLYTHEISM_NEVER_RELIGION</Tag>
-		<Russian>Never more than half of all cities with a religion</Russian>
+		<Russian>Не более половины городов имееют религию</Russian>
 		<English>Never more than half of all cities with a religion</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_DIFFERENT_TEMPLES</Tag>
-		<Russian>Temples of different religions: %d1 / %d2</Russian>
+		<Russian>Храмов разных религий: %d1 / %d2</Russian>
 		<English>Temples of different religions: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_SECULAR_UNIVERSITIES</Tag>
-		<Russian>Universities in secular civilizations: %d1 / %d2</Russian>
+		<Russian>Университетов у светских цивилизаций: %d1 / %d2</Russian>
 		<English>Universities in secular civilizations: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_PIRACY</Tag>
-		<Russian>Gold from piracy: %d1 / %d2</Russian>
+		<Russian>Золота от пиратства: %d1 / %d2</Russian>
 		<English>Gold from piracy: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_HEALTH_TURNS</Tag>
-		<Russian>Turns with highest life expectancy rating: %d1 / %d2</Russian>
+		<Russian>Ходов с наибольшей продолжительностью жизни: %d1 / %d2</Russian>
 		<English>Turns with highest life expectancy rating: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CONTROL_NUM_UNITS</Tag>
-		<Russian>Number of melee and gunpowder units: %d1 / %d2</Russian>
+		<Russian>Число рукопашных и огнестрельных отрядов: %d1 / %d2</Russian>
 		<English>Number of melee and gunpowder units: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_ATLANTIC_RAILROAD</Tag>
+		<Russian>Железная дорога до атлантического порта</Russian>
 		<English>Railroad to an Atlantic port</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_PACIFIC_RAILROAD</Tag>
+		<Russian>Железная дорога до тихоокеанского порта</Russian>
 		<English>Railroad to a Pacific port</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CONTROL_CANADA</Tag>
+		<Russian>Канадская территория: %s1 / %s2%%</Russian>
 		<English>Canadian territory: %s1 / %s2%%</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CONTROL_CANADA_CITIES</Tag>
+		<Russian>Контролировать все города в Канаде</Russian>
 		<English>Controls all cities in Canada</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_CANADIAN_PEACE_DEALS</Tag>
+		<Russian>Устроено мирных соглашений: %d1 / %d2</Russian>
 		<English>Peace deals arranged: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_HAWAII</Tag>
+		<Russian>Гавайи</Russian>
 		<English>Hawaii</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NEW_ZEALAND</Tag>
+		<Russian>Новая Зеландия</Russian>
 		<English>New Zealand</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_MARQUESAS</Tag>
+		<Russian>Маркизские острова</Russian>
 		<English>Marquesas</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_EASTER_ISLAND</Tag>
+		<Russian>Остров Пасхи</Russian>
 		<English>Easter Island</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NUM_BATHS</Tag>
+		<Russian>Бани: %d1 / %d2</Russian>
 		<English>Baths: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_NUM_WALLS</Tag>
+		<Russian>Стены: %d1 / %d2</Russian>
 		<English>Walls: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_TOTAL_POPULATION</Tag>
+		<Russian>Общее население: %d1 / %d2</Russian>
 		<English>Total population: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_AVERAGE_CULTURE</Tag>
+		<Russian>Средняя культура: %d1 / %d2</Russian>
 		<English>Average Culture: %d1 / %d2</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_TECHS_FIRST_DISCOVERED</Tag>
+		<Russian>Стал первооткрывателем технологии в эре %s1: %d2 / %d3</Russian>
 		<English>First to discover technologies in the %s1 era: %d2 / %d3</English>
 	</TEXT>
 	<TEXT>
