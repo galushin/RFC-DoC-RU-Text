@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Soren Johnson (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -134,7 +134,7 @@
 <!-- UU and UB -->
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_INDONESIAN_CANDI</Tag>
-		<Russian>&#202;&#224;&#237;&#228;&#232;</Russian>
+		<Russian>Канди</Russian>
 		<English>Candi</English>
 		<French>Candi</French>
 		<German>Candi</German>
@@ -161,7 +161,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_INDONESIAN_ORANG_LAUT</Tag>
-		<Russian>&#206;&#240;&#224;&#237;&#227;-&#235;&#224;&#243;&#242;</Russian>
+		<Russian>Оранг-лаут</Russian>
 		<English>Orang Laut</English>
 		<French>Orang Laut</French>
 		<German>Orang Laut</German>
