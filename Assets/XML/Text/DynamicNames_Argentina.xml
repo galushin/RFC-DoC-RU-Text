@@ -6,62 +6,62 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARGENTINA_DESC</Tag>
-		<Russian>The Argentinians</Russian>
+		<Russian>Аргентинцы</Russian>
 		<English>The Argentinians</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARGENTINA_DESC_PEOPLES</Tag>
-		<Russian>Argentine Peoples</Russian>
+		<Russian>Аргентинские народы</Russian>
 		<English>Argentine Peoples</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARGENTINA_DESC_DEFAULT</Tag>
-		<Russian>United Provinces of the River Plate</Russian>
+		<Russian>Соединенные провинции Рио-де-Ла-Плата</Russian>
 		<English>United Provinces of the River Plate</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARGENTINA_DESC_DEMOCRATIC</Tag>
-		<Russian>Argentine Republic</Russian>
+		<Russian>Аргентинская Республика</Russian>
 		<English>Argentine Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARGENTINA_DESC_COMMUNIST</Tag>
-		<Russian>Argentine Socialist Republic</Russian>
+		<Russian>Аргентинская Социалистическая Республика</Russian>
 		<English>Argentine Socialist Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARGENTINA_DESC_FASCIST</Tag>
-		<Russian>Argentine Junta</Russian>
+		<Russian>Аргентинская Хунта</Russian>
 		<English>Argentine Junta</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARGENTINA_EMPIRE</Tag>
-		<Russian>Argentine Empire</Russian>
+		<Russian>Аргентинская Империя</Russian>
 		<English>Argentine Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARGENTINA_CONFEDERATION</Tag>
-		<Russian>Argentine Empire</Russian>
+		<Russian>Аргентинская Империя</Russian>
 		<English>Argentine Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARGENTINA_SPANISH_VASSAL</Tag>
-		<Russian>Viceroyalty of the Rio de la Plata</Russian>
+		<Russian>Вицекоролевство Рио-де-Ла-Плата</Russian>
 		<English>Viceroyalty of the Rio de la Plata</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARGENTINA_BRAZILIAN_VASSAL</Tag>
-		<Russian>Transplatine Province</Russian>
+		<Russian>Транслаплатская Провинция</Russian>
 		<English>Transplatine Province</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARGENTINA_SOVIET_VASSAL</Tag>
-		<Russian>Soviet Argentina</Russian>
+		<Russian>Советская Аргентина</Russian>
 		<English>Soviet Argentina</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARGENTINA_NAZI_VASSAL</Tag>
-		<Russian>German Argentina</Russian>
+		<Russian>Германская Аргентина</Russian>
 		<English>German Argentina</English>
 	</TEXT>
 </Civ4GameText>

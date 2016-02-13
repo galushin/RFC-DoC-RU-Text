@@ -51,22 +51,22 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INCA_BOLIVIA</Tag>
-		<Russian>Republic of Bolivia</Russian>
+		<Russian>Республика Боливия</Russian>
 		<English>Republic of Bolivia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INCA_PERU</Tag>
-		<Russian>Republic of Peru</Russian>
+		<Russian>Республка Перу</Russian>
 		<English>Republic of Peru</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INCA_NAZI_VASSAL</Tag>
-		<Russian>German Peru</Russian>
+		<Russian>Германское Перу</Russian>
 		<English>German Peru</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INCA_SOVIET_VASSAL</Tag>
-		<Russian>Soviet Peru</Russian>
+		<Russian>Советское Перу</Russian>
 		<English>Soviet Peru</English>
 	</TEXT>
 </Civ4GameText>

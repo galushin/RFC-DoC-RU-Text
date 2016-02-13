@@ -7,6 +7,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_LOGISTICS1</Tag>
+		<Russian>Логистика I</Russian>
 		<English>Logistics I</English>
 		<French>Logistique I</French>
 		<German>Logistik I</German>
@@ -15,6 +16,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_LOGISTICS2</Tag>
+		<Russian>Логистика II</Russian>
 		<English>Logistics II</English>
 		<French>Logistique II</French>
 		<German>Logistik II</German>
@@ -23,6 +25,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_LOGISTICS3</Tag>
+		<Russian>Логистика III</Russian>
 		<English>Logistics III</English>
 		<French>Logistique III</French>
 		<German>Logistik III</German>
@@ -31,6 +34,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_DECEPTION1</Tag>
+		<Russian>Хитрость I</Russian>
 		<English>Deception I</English>
 		<French>Déception I</French>
 		<German>Täuschung I</German>
@@ -39,6 +43,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_DECEPTION2</Tag>
+		<Russian>Хитрость II</Russian>
 		<English>Deception II</English>
 		<French>Déception II</French>
 		<German>Täuschung II</German>
@@ -47,6 +52,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_DECEPTION3</Tag>
+		<Russian>Хитрость III</Russian>
 		<English>Deception III</English>
 		<French>Déception III</French>
 		<German>Täuschung III</German>
@@ -55,6 +61,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_SECURITY1</Tag>
+		<Russian>Осведомитель I</Russian>
 		<English>Informant I</English>
 		<French>Dénonciateur  I</French>
 		<German>Informant I</German>
@@ -63,6 +70,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_SECURITY2</Tag>
+		<Russian>Осведомитель II</Russian>
 		<English>Informant II</English>
 		<French>Dénonciateur  II</French>
 		<German>Informant II</German>
@@ -71,6 +79,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_SECURITY3</Tag>
+		<Russian>Осведомитель III</Russian>
 		<English>Informant III</English>
 		<French>Dénonciateur  III</French>
 		<German>Informant III</German>
@@ -79,6 +88,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_IMPROVISE1</Tag>
+		<Russian>Импровизатор I</Russian>
 		<English>Improviser I</English>
 		<French>Improvisateur I</French>
 		<German>Improvisator  I</German>
@@ -87,6 +97,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_IMPROVISE2</Tag>
+		<Russian>Импровизатор II</Russian>
 		<English>Improviser II</English>
 		<French>Improvisateur II</French>
 		<German>Improvisator  II</German>
@@ -95,6 +106,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_IMPROVISE3</Tag>
+		<Russian>Импровизатор III</Russian>
 		<English>Improviser III</English>
 		<French>Improvisateur III</French>
 		<German>Improvisator  III</German>
@@ -103,6 +115,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_IMPROVISE4</Tag>
+		<Russian>Импровизатор IV</Russian>
 		<English>Improviser IV</English>
 		<French>Improvisateur IV</French>
 		<German>Improvisator  IV</German>
@@ -111,6 +124,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_IMPROVISE5</Tag>
+		<Russian>Импровизатор V</Russian>
 		<English>Improviser V</English>
 		<French>Improvisateur V</French>
 		<German>Improvisator  V</German>
@@ -119,6 +133,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_LOYALTY</Tag>
+		<Russian>Верность</Russian>
 		<English>Loyalty</English>
 		<French>Fidélité </French>
 		<German>Loyalität</German>
@@ -127,6 +142,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_INSTIGATOR1</Tag>
+		<Russian>Провокатор I</Russian>
 		<English>Instigator I</English>
 		<French>Instigateur I</French>
 		<German>Aufhetzer I</German>
@@ -135,6 +151,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_INSTIGATOR2</Tag>
+		<Russian>Провокатор II</Russian>
 		<English>Instigator II</English>
 		<French>Instigateur II</French>
 		<German>Aufhetzer II</German>
@@ -143,6 +160,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_INSTIGATOR3</Tag>
+		<Russian>Провокатор III</Russian>
 		<English>Instigator III</English>
 		<French>Instigateur III</French>
 		<German>Aufhetzer III</German>
@@ -151,6 +169,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_ALCHEMIST1</Tag>
+		<Russian>Алхимик I</Russian>
 		<English>Alchemist I</English>
 		<French>Alchimiste I</French>
 		<German>Alchemist I</German>
@@ -159,6 +178,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_ALCHEMIST2</Tag>
+		<Russian>Алхимик II</Russian>
 		<English>Alchemist II</English>
 		<French>Alchimiste II</French>
 		<German>Alchemist II</German>
@@ -167,6 +187,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_ALCHEMIST3</Tag>
+		<Russian>Алхимик III</Russian>
 		<English>Alchemist III</English>
 		<French>Alchimiste III</French>
 		<German>Alchemist III</German>
@@ -175,6 +196,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_ESCAPE1</Tag>
+		<Russian>Мастер побега I</Russian>
 		<English>Escape Artist I</English>
 		<French>Artiste d'évasion I</French>
 		<German>Fluchtexperte I</German>
@@ -183,6 +205,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_ESCAPE2</Tag>
+		<Russian>Мастер побега II</Russian>
 		<English>Escape Artist II</English>
 		<French>Artiste d'évasion II</French>
 		<German>Fluchtexperte II</German>
@@ -191,6 +214,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNITCOMBAT_SPY</Tag>
+		<Russian>Разведовательные отряды</Russian>
 		<English>Espionage Units</English>
 		<French>Unités d'espionnage</French>
 		<German>Spionage-Einheiten</German>
@@ -199,6 +223,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_UPGRADE_DISCOUNT_TEXT_SPY</Tag>
+		<Russian>[ICON_BULLET]Бонус подготовки %d1_percent%%</Russian>
 		<English>[ICON_BULLET]%d1_percent%% Free Preparation Bonus</English>
 		<French>[ICON_BULLET] bonification libre de préparation de %d1_percent%%</French>
 		<German>[ICON_BULLET]%d1_percent%% freier Vorbereitungsbonus</German>
@@ -207,6 +232,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_EVASION_TEXT_SPY</Tag>
+		<Russian>[ICON_BULLET]Бонус избегания обнаружения %d1_percent%%</Russian>
 		<English>[ICON_BULLET]%d1_percent%% Detection Evasion Bonus</English>
 		<French>[ICON_BULLET] bonification d'évasion de détection de %d1_percent%%</French>
 		<German>[ICON_BULLET]%d1_percent%% Bonus gegen Entdeckung</German>
@@ -215,6 +241,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_INTERCEPT_TEXT_SPY</Tag>
+		<Russian>[ICON_BULLET]Бонус обнаружения вражеских шпионов %d1_percent%%</Russian>
 		<English>[ICON_BULLET]%d1_percent%% Enemy Spy Detection Bonus</English>
 		<French>[ICON_BULLET] bonification ennemie de détection d'espion de %d1_percent%%</French>
 		<German>[ICON_BULLET]%d1_percent%% Bonus zur Entdeckung feindlicher Agenten</German>
@@ -223,6 +250,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_INTERCEPT_TEXT_SPY_COUNTER</Tag>
+		<Russian>[ICON_BULLET]Бонус %d1_percent%% к контрразведке</Russian>
 		<English>[ICON_BULLET]%d1_percent%% Bonus To Counter Espionage Missions</English>
 		<French>[ICON_BULLET] bonification de %d1_percent%% aux missions de contre- espionnage</French>
 		<German>[ICON_BULLET]%d1_percent%% Bonus auf Spionageabwehr</German>
@@ -231,6 +259,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_EVADE_INTERCEPTION_SPY</Tag>
+		<Russian>[ICON_BULLET]Может избежать обнаружение врагом (Шанс %d1_Amount%%)</Russian>
 		<English>[ICON_BULLET]Can Evade Enemy Detection (%d1_Amount%% Chance)</English>
 		<French>[ICON_BULLET] Peut éluder la détection ennemie (la chance de %d1_Amount%%)</French>
 		<German>[ICON_BULLET]Kann Entdeckung vermeiden (%d1_Amount%% Chance)</German>
@@ -239,6 +268,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_INTERCEPT_AIRCRAFT_SPY</Tag>
+		<Russian>[ICON_BULLET]Может перехватывать вражеских шпионов (Шанс %d1_Amount%%)</Russian>
 		<English>[ICON_BULLET]Can Intercept Enemy Spies (%d1_Amount%% Chance)</English>
 		<French>[ICON_BULLET] Peut arrêter les espions ennemis (la chance de %d1_Amount%%)</French>
 		<German>[ICON_BULLET]Kann feindliche Agenten abfangen (%d1_Amount%% Chance)</German>
@@ -247,6 +277,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_INTERCEPT_AIRCRAFT_SPY_COUNTER</Tag>
+		<Russian>[ICON_BULLET]Улучшенная контрразведка (%d1_Amount%%)</Russian>
 		<English>[ICON_BULLET]Improved Counter Espionage Missions (%d1_Amount%%)</English>
 		<French>[ICON_BULLET] Missions améliorées de contre- espionnage (%d1_Amount%%)</French>
 		<German>[ICON_BULLET]Verbesserte Spionageabwehr (%d1_Amount%%)</German>
@@ -255,6 +286,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_LOYALTY_TEXT_SPY</Tag>
+		<Russian>[ICON_BULLET]Никогда не раскрывает национальность</Russian>
 		<English>[ICON_BULLET]Never Reveals Nationality</English>
 		<French>[ICON_BULLET] N'indique jamais la nationalité </French>
 		<German>[ICON_BULLET]Enthüllt niemals Heimatnation</German>
@@ -263,6 +295,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_INSTIGATE_TEXT_SPY</Tag>
+		<Russian>[ICON_BULLET]Дополнительно %d1_percent%% к беспорядкам в результате заданий</Russian>
 		<English>[ICON_BULLET]%d1_percent%% Bonus Unrest From Missions</English>
 		<French>[ICON_BULLET] malaise de bonification de %d1_percent%% des missions</French>
 		<German>[ICON_BULLET]%d1_percent%% mehr Unruhe durch Einsätze</German>
@@ -271,6 +304,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_INSTIGATE2_TEXT_SPY</Tag>
+		<Russian>[ICON_BULLET]Дополнительно %d1_percent%% к восстаниям в результате заданий</Russian>
 		<English>[ICON_BULLET]%d1_percent%% Bonus City Revolt From Missions</English>
 		<French>[ICON_BULLET] révolte de ville de bonification de %d1_percent%% des missions</French>
 		<German>[ICON_BULLET]%d1_percent%% effektivere Revolte durch Einsätze</German>
@@ -279,6 +313,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_POISON_TEXT_SPY</Tag>
+		<Russian>[ICON_BULLET]Дополнительно %d1_percent%% к нездоровью в результате заданий</Russian>
 		<English>[ICON_BULLET]%d1_percent%% Bonus Unhealthiness From Missions</English>
 		<French>[ICON_BULLET] maladie de bonification de %d1_percent%% des missions</French>
 		<German>[ICON_BULLET]%d1_percent%% zusätzliche Krankheit durch Einsätze</German>
@@ -287,6 +322,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ESCAPE_SPY</Tag>
+		<Russian>[ICON_BULLET]Молжет избежать плена (Шанс %d1_Amount%%)</Russian>
 		<English>[ICON_BULLET]Can Escape Capture (%d1_Amount%% Chance)</English>
 		<French>[ICON_BULLET] Peut échapper à la capture (la chance de %d1_Amount%%)</French>
 		<German>[ICON_BULLET]Kann Gefangennahme entkommen (%d1_Amount%% Chance)</German>
@@ -295,6 +331,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_ESCAPE_TEXT_SPY</Tag>
+		<Russian>[ICON_BULLET]Дополнительно %d1_percent%% к шансу избежать плена</Russian>
 		<English>[ICON_BULLET]%d1_percent%% Bonus Escape Chance</English>
 		<French>[ICON_BULLET] chance d'évasion de bonification de %d1_percent%%</French>
 		<German>[ICON_BULLET]%d1_percent%% Chance einer Gefangennahme zu entkommen</German>
@@ -303,6 +340,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROMOTION_RADIATION_TEXT_SPY</Tag>
+		<Russian>[ICON_BULLET]Создает радиоактивные осадки на саботируемых объектах.</Russian>
 		<English>[ICON_BULLET]Creates fallout on sabotaged improvements.</English>
 		<French>[ICON_BULLET] Crée des retombées radioactives sur des améliorations sabotées.</French>
 		<German>[ICON_BULLET]Erzeugt Kontamination auf sabotierten Verbesserungen</German>
@@ -311,6 +349,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPY_ESCAPED_REVEAL</Tag>
+		<Russian>%s1_civ_adjective %s2_unit смог сбежать из %s3_civ_adjective города %s4_city!</Russian>
 		<English>A %s1_civ_adjective %s2_unit managed to escape from the %s3_civ_adjective city of %s4_city!</English>
 		<French>Un %s1_civ_adjective %s2_unit est parvenu à s'échapper de la ville de %s3_civ_adjective de %s4_city!</French>
 		<German>Ein %[s1_civ_adjective]er %s2_unit konnte aus der %[s3_civ_adjective]en Stadt %s4_city entkommen!</German>
@@ -319,6 +358,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPY_ESCAPED</Tag>
+		<Russian>%s1_unit смог сбежать из %s2_civ_adjective города %s3_city!</Russian>
 		<English>A %s1_unit managed to escape from the %s2_civ_adjective city of %s3_city!</English>
 		<French>Un %s1_unit est parvenu à s'échapper de la ville de %s2_civ_adjective de %s3_city!</French>
 		<German>Einem %[s1_unit]en gelang die Flucht aus der %s2_civ_adjective Stadt %s3_city!</German>
@@ -327,6 +367,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ESPIONAGE_TARGET_SOMETHING_DESTROYED</Tag>
+		<Russian>Вражеские шпионы уничтожили %s1_ThingName!</Russian>
 		<English>A %s1_ThingName was destroyed by enemy infiltrators!</English>
 		<French>Un %s1_ThingName a été détruit par les envahisseurs ennemis!</French>
 		<German>Eine %s1_ThingName wurde durch einen feindlichen Geheimdienst zerstört!</German>
@@ -335,6 +376,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ESPIONAGE_TARGET_SOMETHING_DESTROYED_NEAR_CITY</Tag>
+		<Russian>Вражеские шпионы уничтожили %s1_ThingName возле города %s2_CityName!</Russian>
 		<English>A %s1_ThingName was destroyed by enemy infiltrators near %s2_CityName!</English>
 		<French></French>
 		<German>Eine %s1_ThingName nahe %s2_CityName wurde durch einen feindlichen Geheimdienst zerstört!</German>
@@ -343,6 +385,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ESPIONAGE_TARGET_SOMETHING_ASSASSINATED</Tag>
+		<Russian>Вражеские шпионы убили %s1_ThingName в городе %s2_CityName!</Russian>
 		<English>A %s1_ThingName was assassinated by enemy infiltrators at %s2_CityName!</English>
 		<French>Un %s1_ThingName a été assassiné par les envahisseurs ennemis à %s2_CityName!</French>
 		<German>Ein %s1_ThingName wurde durch einen feindlichen Geheimdienst in %s2_CityName ermordet!</German>
@@ -351,6 +394,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ESPIONAGE_TARGET_SOMETHING_BRIBED</Tag>
+		<Russian>Вражеские шпионы подкупили %s1_ThingName!</Russian>
 		<English>A %s1_ThingName was bribed by enemy infiltrators!</English>
 		<French>Un %s1_ThingName a été suborné par les envahisseurs ennemis!</French>
 		<German>Ein %s1_ThingName wurde durch einen feindlichen Geheimdienst bestochen!</German>
@@ -359,6 +403,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ESPIONAGE_TARGET_SOMETHING_BRIBED_NEAR_CITY</Tag>
+		<Russian>Вражеские шпионы подкупили %s1_ThingName возле города %s2_CityName!</Russian>
 		<English>A %s1_ThingName was bribed by enemy infiltrators near %s2_CityName!</English>
 		<French>Un %s1_ThingName a été suborné par les envahisseurs ennemis près de %s2_CityName!</French>
 		<German>Ein %s1_ThingName wurde einen feindlichen Geheimdienst nahe %s2_CityName bestochen!</German>
@@ -367,6 +412,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ESPIONAGE_HELP_DESTROY_IMPROVEMENT_RADIATION</Tag>
+		<Russian>Создаст радиоактивные осадки на клетке.</Russian>
 		<English>Will create fallout on the tile.</English>
 		<French>Créera des retombées radioactives sur la tuile.</French>
 		<German>Erzeugt Kontamination auf dem Feld.</German>
@@ -375,6 +421,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ESPIONAGE_USED_RADIATION</Tag>
+		<Russian>Была взорвана грязная бомба! Выпали радиоактивные осадки!</Russian>
 		<English>A dirty bomb was used! Radioactive fallout has covered the area!</English>
 		<French>Une bombe sale a été employée! Les retombées radioactives radioactives ont couvert le domaine!</French>
 		<German>Eine schmutzige Bombe wurde benutzt! Die betroffenen Gebiete wurden radioaktiv kontaminiert</German>
@@ -383,6 +430,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ACTION_ASSASSIN_MISSION</Tag>
+		<Russian>Устранить %s1_unit за %d2[ICON_ESPIONAGE] с шансом успеха %d3_percent%%.</Russian>
 		<English>Eliminate %s1_unit for %d2[ICON_ESPIONAGE] %d3_percent%% chance of success.</English>
 		<French>Éliminez %s1_unit pour la chance de %d2[ICON_ESPIONAGE] %d3_percent%% de succès.</French>
 		<German>Eliminiert %s1_unit gegen %d2[ICON_ESPIONAGE] mit einer %d3_percent%% Erfolgschance.</German>
@@ -391,6 +439,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_ASSASSIN</Tag>
+		<Russian>Ликвидация</Russian>
 		<English>Assassinate</English>
 		<French>Assassinez</French>
 		<German>Attentat verüben</German>
@@ -399,6 +448,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_ASSASSIN_HELP</Tag>
+		<Russian>Разведчик пытается убить великого специалиста в городе противника.</Russian>
 		<English>The spy attempts to kill a great specialist inside a rival city.</English>
 		<French>L'espion essaye de tuer un grand spécialiste à l'intérieur d'une ville rivale.</French>
 		<German>Versucht eine großen Spezialisten in einer feindlichen Stadt zu ermorden.</German>
@@ -407,6 +457,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_BRIBE</Tag>
+		<Russian>Подкупить работника</Russian>
 		<English>Bribe Worker</English>
 		<French>Subornez ouvrier</French>
 		<German>Arbeiter bestechen</German>
@@ -415,6 +466,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_BRIBE_HELP</Tag>
+		<Russian>Разведчик пытается завербовать иностранного работника.</Russian>
 		<English>The spy attempts to win the allegiance of a foreign worker.</English>
 		<French>L'espion essaye de gagner l'allégeance d'un travailleur étranger.</French>
 		<German>Versucht einen fremden Arbeitstrupp abzuwerben.</German>
@@ -423,6 +475,7 @@
 	</TEXT>
 		<TEXT>
 		<Tag>TXT_KEY_PROCESS_ESPIONAGE</Tag>
+		<Russian>Внешняя разведка</Russian>
 		<English>Espionage</English>
 		<French>
 			<Text>Espionnage</Text>
@@ -443,6 +496,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROCESS_ESPIONAGE_STRATEGY</Tag>
+		<Russian>Сосредоточение на внешней разведке преобразует продукцию данного города в разведку.</Russian>
 		<English>Focusing on espionage converts production into espionage within that particular city.</English>
 		<French>Si vous favorisez le espionnage, la production est transformйe en espionnage dans cette ville.</French>
 		<German>Schwerpunkt auf Kultur wandelt in dieser Stadt Produktionserträge [ICON_PRODUCTION] in Spionageerträge [ICON_ESPIONAGE] um.</German>

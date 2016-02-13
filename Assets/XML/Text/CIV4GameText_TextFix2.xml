@@ -3,107 +3,6 @@
 <!-- Sid Meier's Civilization 4 -->
 <!-- -->
 <Civ4GameText xmlns="http://www.firaxis.com">
-<!--
-	<TEXT>
-		<Tag>TXT_KEY_CIV_VIKING_DESC</Tag>
-		<English>Viking Empire</English>
-		<French>
-			<Text>Empire viking</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</French>
-		<German>
-			<Text>Wikingerreich:Wikingerreich:Wikingerreich</Text>
-			<Gender>Neuter:Neuter:Neuter</Gender>
-			<Plural>0:0:0</Plural>
-		</German>
-		<Italian>
-			<Text>Impero Vichingo</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Italian>
-		<Spanish>
-			<Text>Imperio Vikingo</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Spanish>
-	</TEXT>
--->
-<!--BTS-->
-<!--
-	<TEXT>
-		<Tag>TXT_KEY_CIV_NETHERLANDS_DESC</Tag>
-		<English>Dutch Empire</English>
-		<French>
-			<Text>Empire nйerlandais</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</French>
-		<German>
-			<Text>Hollдndisches Reich:Hollдndische Reich:Hollдndischen Reich</Text>
-			<Gender>Neuter:Neuter:Neuter</Gender>
-			<Plural>0:0:0</Plural>
-		</German>
-		<Italian>
-			<Text>Impero Olandese</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Italian>
-		<Spanish>
-			<Text>Imperio Holandйs</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Spanish>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_MAYA_DESC</Tag>
-		<English>Maya Empire</English>
-		<French>
-			<Text>Empire Maya</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</French>
-		<German>
-			<Text>Mayareich:Mayareich:Mayareich</Text>
-			<Gender>Neuter:Neuter:Neuter</Gender>
-			<Plural>0:0:0</Plural>
-		</German>
-		<Italian>
-			<Text>Impero Maya</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Italian>
-		<Spanish>
-			<Text>Imperio Maya</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Spanish>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_CIV_ETHIOPIA_DESC</Tag>
-		<English>Ethiopian Empire</English>
-		<French>
-			<Text>Empire йthiopien</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</French>
-		<German>
-			<Text>Дthiopisches Reich:Дthiopische Reich:Дthiopischen Reich</Text>
-			<Gender>Neuter:Neuter:Neuter</Gender>
-			<Plural>0:0:0</Plural>
-		</German>
-		<Italian>
-			<Text>Impero Etiope</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Italian>
-		<Spanish>
-			<Text>Imperio Etнope</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Spanish>
-	</TEXT>
--->
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ETHIOPIA_SHORT_DESC</Tag>
 		<Russian>Эфиопия</Russian>
@@ -129,57 +28,6 @@
 			<Plural>0</Plural>
 		</Spanish>
 	</TEXT>
-<!--
-	<TEXT>
-		<Tag>TXT_KEY_CIV_KHMER_DESC</Tag>
-		<English>Khmer Empire</English>
-		<French>
-			<Text>Empire khmer</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</French>
-		<German>
-			<Text>Khmer-Reich:Khmer-Reich:Khmer-Reich</Text>
-			<Gender>Neuter:Neuter:Neuter</Gender>
-			<Plural>0:0:0</Plural>
-		</German>
-		<Italian>
-			<Text>Impero Khmer</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Italian>
-		<Spanish>
-			<Text>Imperio Jйmer</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Spanish>
-	</TEXT>
-
-	<TEXT>
-		<Tag>TXT_KEY_CIV_PORTUGAL_DESC</Tag>
-		<English>Portuguese Empire</English>
-		<French>
-			<Text>Empire portugais</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</French>
-		<German>
-			<Text>Portugiesisches Reich:Portugiesische Reich:Portugiesischen Reich</Text>
-			<Gender>Neuter:Neuter:Neuter</Gender>
-			<Plural>0:0:0</Plural>
-		</German>
-		<Italian>
-			<Text>Impero Portoghese</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Italian>
-		<Spanish>
-			<Text>Imperio Portuguйs</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Spanish>
-	</TEXT>
--->
 	<TEXT>
 		<Tag>TXT_KEY_CIV_PORTUGAL_SHORT_DESC</Tag>
 		<Russian>Португалия</Russian>
@@ -233,7 +81,7 @@
 <!-- vanilla -->
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AMERICA_SHORT_DESC</Tag>
-		<Russian>America</Russian>
+		<Russian>Америка</Russian>
 		<English>America</English>
 		<French>
 			<Text>America</Text>
@@ -258,7 +106,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_SHORT_DESC</Tag>
-		<Russian>Arabia</Russian>
+		<Russian>Арабы</Russian>
 		<English>Arabia</English>
 		<French>
 			<Text>Arabie</Text>
@@ -283,7 +131,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_AZTEC_SHORT_DESC</Tag>
-		<Russian>Aztec</Russian>
+		<Russian>Ацтеки</Russian>
 		<English>Aztec</English>
 		<French>
 			<Text>Aztиques</Text>
@@ -308,7 +156,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_CHINA_SHORT_DESC</Tag>
-		<Russian>China</Russian>
+		<Russian>Китай</Russian>
 		<English>China</English>
 		<French>
 			<Text>Chine</Text>
@@ -333,7 +181,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_EGYPT_SHORT_DESC</Tag>
-		<Russian>Egypt</Russian>
+		<Russian>Египет</Russian>
 		<English>Egypt</English>
 		<French>
 			<Text>Йgypte</Text>
@@ -356,35 +204,9 @@
 			<Plural>0</Plural>
 		</Spanish>
 	</TEXT>
-<!--
-	<TEXT>
-		<Tag>TXT_KEY_CIV_ENGLAND_DESC</Tag>
-		<English>English Empire</English>
-		<French>
-			<Text>Empire anglais</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</French>
-		<German>
-			<Text>Englisches Reich:Englische Reich:Englischen Reich</Text>
-			<Gender>Neuter:Neuter:Neuter</Gender>
-			<Plural>0:0:0</Plural>
-		</German>
-		<Italian>
-			<Text>Impero Inglese</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Italian>
-		<Spanish>
-			<Text>Imperio Inglйs</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Spanish>
-	</TEXT>
--->
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ENGLAND_SHORT_DESC</Tag>
-		<Russian>England</Russian>
+		<Russian>Англия</Russian>
 		<English>England</English>
 		<French>
 			<Text>Angleterre</Text>
@@ -409,7 +231,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_FRANCE_SHORT_DESC</Tag>
-		<Russian>France</Russian>
+		<Russian>Франция</Russian>
 		<English>France</English>
 		<French>
 			<Text>France</Text>
@@ -434,7 +256,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GERMANY_SHORT_DESC</Tag>
-		<Russian>Germany</Russian>
+		<Russian>Германия</Russian>
 		<English>Germany</English>
 		<French>
 			<Text>Allemagne</Text>
@@ -484,7 +306,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INCA_SHORT_DESC</Tag>
-		<Russian>Inca</Russian>
+		<Russian>Инки</Russian>
 		<English>Inca</English>
 		<French>
 			<Text>Inca</Text>
@@ -535,7 +357,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_JAPAN_SHORT_DESC</Tag>
-		<Russian>Japan</Russian>
+		<Russian>Япония</Russian>
 		<English>Japan</English>
 		<French>
 			<Text>Japon</Text>
@@ -560,7 +382,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MALI_SHORT_DESC</Tag>
-		<Russian>Mali</Russian>
+		<Russian>Мали</Russian>
 		<English>Mali</English>
 		<French>
 			<Text>Mali</Text>
@@ -585,7 +407,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MONGOL_SHORT_DESC</Tag>
-		<Russian>Mongolia</Russian>
+		<Russian>Монголия</Russian>
 		<English>Mongolia</English>
 		<French>
 			<Text>Mongolia</Text>
@@ -660,7 +482,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_SHORT_DESC</Tag>
-		<Russian>Russia</Russian>
+		<Russian>Россия</Russian>
 		<English>Russia</English>
 		<French>
 			<Text>Russie</Text>
@@ -685,7 +507,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_SPAIN_SHORT_DESC</Tag>
-		<Russian>Spain</Russian>
+		<Russian>Испания</Russian>
 		<English>Spain</English>
 		<French>
 			<Text>Espagne</Text>
@@ -710,7 +532,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_BARBARIAN_SHORT_DESC</Tag>
-		<Russian>Barbarians</Russian>
+		<Russian>Варвары</Russian>
 		<English>Barbarians</English>
 		<French>
 			<Text>Barbares</Text>
@@ -733,35 +555,9 @@
 			<Plural>0</Plural>
 		</Spanish>
 	</TEXT>
-<!--
-	<TEXT>
-		<Tag>TXT_KEY_CIV_MAYA_DESC</Tag>
-		<English>Mayan Empire</English>
-		<French>
-			<Text>Empire maya</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</French>
-		<German>
-			<Text>Mayareich:Mayareich:Mayareich</Text>
-			<Gender>Neuter:Neuter:Neuter</Gender>
-			<Plural>0:0:0</Plural>
-		</German>
-		<Italian>
-			<Text>Impero maya</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Italian>
-		<Spanish>
-			<Text>Imperio Maya</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Spanish>
-	</TEXT>
--->
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MAYA_SHORT_DESC</Tag>
-		<Russian>Maya</Russian>
+		<Russian>Майя</Russian>
 		<English>Maya</English>
 		<French>
 			<Text>Mayas</Text>
@@ -786,7 +582,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_JUDAISM_ADJECTIVE</Tag>
-		<Russian>Protestant</Russian>
+		<Russian>Протестантский</Russian>
 		<English>Protestant</English>
 		<German>
 			<Text>Jьdisch:jьdischen:jьdische</Text>
@@ -796,7 +592,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_CHRISTIANITY_ADJECTIVE</Tag>
-		<Russian>Catholic</Russian>
+		<Russian>Католический</Russian>
 		<English>
 			<Text>Catholic</Text>
 			<Gender>Male</Gender>
@@ -810,7 +606,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_ORTHODOXY_ADJECTIVE</Tag>
-		<Russian>Orthodox</Russian>
+		<Russian>Православный</Russian>
 		<English>
 			<Text>Orthodox</Text>
 			<Gender>Male</Gender>
@@ -824,7 +620,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_ISLAM_ADJECTIVE</Tag>
-		<Russian>Islamic</Russian>
+		<Russian>Исламский</Russian>
 		<English>
 			<Text>Islamic</Text>
 			<Gender>Male</Gender>
@@ -853,7 +649,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_HINDUISM_ADJECTIVE</Tag>
-		<Russian>Hindu</Russian>
+		<Russian>Индуистский</Russian>
 		<English>
 			<Text>Hindu</Text>
 			<Gender>Male</Gender>
@@ -882,7 +678,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_BUDDHISM_ADJECTIVE</Tag>
-		<Russian>Buddhist</Russian>
+		<Russian>Буддистский</Russian>
 		<English>
 			<Text>Buddhist</Text>
 			<Gender>Male</Gender>
@@ -911,6 +707,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_CONFUCIANISM_ADJECTIVE</Tag>
+		<English>Конфуцианский</English>
 		<English>
 			<Text>Confucian</Text>
 			<Gender>Male</Gender>
@@ -939,6 +736,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_ZOROASTRIANISM_ADJECTIVE</Tag>
+		<Russian>Зороастрийский</Russian>
 		<English>
 			<Text>Zoroastrian</Text>
 			<Gender>Male</Gender>
@@ -947,7 +745,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_RELIGION_TAOISM_ADJECTIVE</Tag>
-		<Russian>Taoist</Russian>
+		<Russian>Даосистский</Russian>
 		<English>
 			<Text>Taoist</Text>
 			<Gender>Male</Gender>
@@ -1115,9 +913,7 @@
 		<English>Orthodox Missionary</English>
 		<German>Orthodoxer Missionar</German>
 	</TEXT>
-	
 	<!-- text for new French culverine -->
-
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_FRENCH_HEAVY_CANNON</Tag>
 		<Russian>Тяжелая пушка</Russian>
@@ -1127,7 +923,6 @@
 		<Russian>Бомбарда</Russian>
 		<English>Bombard</English>
 	</TEXT>
-
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_CHINESE_ACADEMY</Tag>
 		<Russian>Конфуцианская академия</Russian>
@@ -1303,33 +1098,8 @@
 			<Plural>0:1</Plural>
 		</Spanish>
 	</TEXT>
-	<!--TEXT>
-		<Tag>TXT_KEY_BUILDING_LEANING_TOWER</Tag>
-		<English>The Pantheon</English>
-		<French>
-			<Text></Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</French>
-		<German>
-			<Text>Das Pantheon</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</German>
-		<Italian>
-			<Text>:</Text>
-			<Gender>Male</Gender>
-			<Plural>0:1</Plural>
-		</Italian>
-		<Spanish>
-			<Text>:</Text>
-			<Gender>Male</Gender>
-			<Plural>0:1</Plural>
-		</Spanish>
-	</TEXT-->
-
 	<TEXT>
-		<Tag>TXT_KEY_FEATURE_CAPE_COAST</Tag>	<!-- missing translations -->
+		<Tag>TXT_KEY_FEATURE_CAPE_COAST</Tag>
 		<Russian>Мыс</Russian>
 		<English>Cape</English>
 		<French>
@@ -1385,7 +1155,7 @@
 
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_THAI_CHANG_SUEK</Tag>
-		<Russian>Chang Suek</Russian>
+		<Russian>Боевой слон</Russian>
 		<English>Chang Suek</English>
 		<German>Chang Suek</German>
 	</TEXT>
@@ -1397,12 +1167,13 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVIC_WE_LOVE_CONSUL</Tag>
-		<Russian>"We Love the Consul Day"</Russian>
+		<Russian>Праздник "Мы любим правителя"</Russian>
 		<English>"We Love the Consul Day"</English>
 		<German>"Konsul-Feiertag"</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_REPUBLIC</Tag>
+		<Russian>Резолюция ООН № 3445 (Глобальная парадигма - Республика)</Russian>
 		<English>U.N. Resolution #3445 (Global Civic - Republic)</English>
 		<French>Rйsolution de l'ONU n&#176; 3445 (Doctrine mondiale - libertй d'expression)</French>
 		<German>U.N.-Resolution Nr. 3445 (Globale Staatsform - Republik)</German>
@@ -1411,6 +1182,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_EGALITARIANISM</Tag>
+		<Russian>Резолюция ООН № #743 (Глобальная парадигма - Эгалитаризм)</Russian>
 		<English>U.N. Resolution #743 (Global Civic - Egalitarianism)</English>
 		<French>Rйsolution de l'ONU n&#176; 743 (Doctrine mondiale - йmancipation)</French>
 		<German>U.N.-Resolution Nr. 743 (Globale Staatsform - Egalitarianism)</German>
@@ -1419,6 +1191,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_SECULARISM</Tag>
+		<Russian>Резолюция ООН № #427 (Глобальная парадигма - Секуляризм)</Russian>
 		<English>U.N. Resolution #427 (Global Civic - Secularism)</English>
 		<French>Rйsolution de l'ONU n&#176; 427 (Doctrine mondiale - libertй de culte)</French>
 		<German>U.N.-Resolution Nr. 427 (Globale Staatsform - Sekularismus)</German>
@@ -1427,35 +1200,43 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_SECULARISM</Tag>
+		<Russian>Резолюция ООН № #413 (Глобальная парадигма - Мультилатерализм)</Russian>
 		<English>U.N. Resolution #413 (Global Civic - Multilateralism)</English>
 		<German>U.N.-Resolution Nr. 413 (Globale Staatsform - Multilateralism)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_PUBLIC_WELFARE</Tag>
+		<Russian>Резолюция ООН № #631 (Глобальная парадигма - Общественное благосостояние)</Russian>
 		<English>U.N. Resolution #631 (Global Civic - Public Welfare)</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_COLLECT_TITHE</Tag>
+		<Russian>Собрать десятину</Russian>
 		<English>Collect Tithe</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_INQUISITION</Tag>
+		<Russian>Инквизиция</Russian>
 		<English>Inquisition</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_EXCOMMUNICATION</Tag>
+		<Russian>Отлучить от церкви</Russian>
 		<English>Excommunication</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_FORCE_WAR</Tag>
+		<Russian>Крестовый поход</Russian>
 		<English>Crusade</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_UN_DECOLONIZE</Tag>
+		<Russian>Деколонизация</Russian>
 		<English>Decolonization</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VOTE_UN_RELEASE_CIVILIZATION</Tag>
+		<Russian>Отпустить цивилизацию</Russian>
 		<English>Release Civilization</English>
 	</TEXT>
 </Civ4GameText>
