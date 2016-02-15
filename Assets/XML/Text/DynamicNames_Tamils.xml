@@ -36,46 +36,57 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_NAZI_VASSAL</Tag>
+		<Russian>Германская Дравида</Russian>
 		<English>German Dravida</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_SOVIET_VASSAL</Tag>
+		<Russian>Советская Дравида</Russian>
 		<English>Soviet Dravida</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_VIJAYANAGARA</Tag>
+		<Russian>Германская Дравида</Russian>
 		<English>Kingdom of Vijayanagara</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_VIJAYANAGARA_EMPIRE</Tag>
+		<Russian>Виджаянагарская империя</Russian>
 		<English>Vijayanagara Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_MYSORE</Tag>
+		<Russian>Королевство Майсур</Russian>
 		<English>Kingdom of Mysore</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_CHOLA_EMPIRE</Tag>
+		<Russian>Империя Чола</Russian>
 		<English>Chola Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_PANDYAN_EMPIRE</Tag>
+		<Russian>Империя Пандья</Russian>
 		<English>Pandyan Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_CHERA_EMPIRE</Tag>
+		<Russian>Империя Чера</Russian>
 		<English>Chera Empire</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_PANDYAN_KINGDOM</Tag>
+		<Russian>Короелвство Пандья</Russian>
 		<English>Pandyan Kingdom</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_CHERA_KINGDOM</Tag>
+		<Russian>Королевство Чера</Russian>
 		<English>Chera Kingdom</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_TAMILS_</Tag>
+		<Russian></Russian>
 		<English></English>
 	</TEXT>
 </Civ4GameText>

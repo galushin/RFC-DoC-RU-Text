@@ -7,7 +7,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_ACO_VS</Tag>
-		<Russian>[COLOR_POSITIVE_TEXT]%s1[COLOR_REVERT] vs. [COLOR_NEGATIVE_TEXT]%s2[COLOR_REVERT]</Russian>
+		<Russian>[COLOR_POSITIVE_TEXT]%s1[COLOR_REVERT] против [COLOR_NEGATIVE_TEXT]%s2[COLOR_REVERT]</Russian>
 		<English>[COLOR_POSITIVE_TEXT]%s1[COLOR_REVERT] vs. [COLOR_NEGATIVE_TEXT]%s2[COLOR_REVERT]</English>
 		<French>[COLOR_POSITIVE_TEXT]%s1[COLOR_REVERT] vs. [COLOR_NEGATIVE_TEXT]%s2[COLOR_REVERT]</French>
 		<German>[COLOR_POSITIVE_TEXT]%s1[COLOR_REVERT] gegen [COLOR_NEGATIVE_TEXT]%s2[COLOR_REVERT]</German>
@@ -142,7 +142,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_GuaranteedNoDefenderHit</Tag>
-		<Russian>[NEWLINE][COLOR_HIGHLIGHT_TEXT]Guaranteed! Defender cannot score a hit.[COLOR_REVERT]</Russian>
+		<Russian>[NEWLINE][COLOR_HIGHLIGHT_TEXT]Гарантировано! Защищающийся не сможет нанести удар.[COLOR_REVERT]</Russian>
 		<English>[NEWLINE][COLOR_HIGHLIGHT_TEXT]Guaranteed! Defender cannot score a hit.[COLOR_REVERT]</English>
 		<French>[NEWLINE][COLOR_HIGHLIGHT_TEXT]C'est garantie! L'unité défensive ne peut marquer de coup.[COLOR_REVERT]</French>
 		<German>[NEWLINE][COLOR_HIGHLIGHT_TEXT]Sicher! Der Verteidiger kann keinen Treffer landen.[COLOR_REVERT]</German>
@@ -151,7 +151,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_ACO_HitsAt</Tag>
-		<Russian>hits at</Russian>
+		<Russian>ударов по</Russian>
 		<English>hits at</English>
 		<French>frappe à</French>
 		<German>trifft</German>

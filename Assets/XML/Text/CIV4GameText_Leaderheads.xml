@@ -439,7 +439,7 @@
   	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_ATATURK</Tag>
-		<Russian>Мустафа Кемаль Ататюрк</Russian>
+		<Russian>Ататюрк</Russian>
 		<English>Atat�rk</English>
 		<French>
 			<Text>Atat�rk</Text>
@@ -638,8 +638,6 @@
 		<English>Krishna Deva Raya</English>
 		<German>Krishna Deva Raya</German>
 	</TEXT>
-
-
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_NICHOLAS_II</Tag>
 		<Russian>Николай II</Russian>

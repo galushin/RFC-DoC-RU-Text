@@ -7,7 +7,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_RED</Tag>
-		<Russian>Red</Russian>
+		<Russian>Красный</Russian>
 		<English>Red</English>
 		<French>Rouge</French>
 		<German>Rot</German>
@@ -16,7 +16,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_YELLOW</Tag>
-		<Russian>Yellow</Russian>
+		<Russian>Желтый</Russian>
 		<English>Yellow</English>
 		<French>Jaune</French>
 		<German>Gelb</German>
@@ -25,7 +25,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_GREEN</Tag>
-		<Russian>Green</Russian>
+		<Russian>Зеленый</Russian>
 		<English>Green</English>
 		<French>Vert</French>
 		<German>Grün</German>
@@ -34,7 +34,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_CYAN</Tag>
-		<Russian>Cyan</Russian>
+		<Russian>Циановый</Russian>
 		<English>Cyan</English>
 		<French>Cyan</French>
 		<German>Türkis</German>
@@ -43,7 +43,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_BLUE</Tag>
-		<Russian>Blue</Russian>
+		<Russian>Синий</Russian>
 		<English>Blue</English>
 		<French>Bleu</French>
 		<German>Blau</German>
@@ -52,7 +52,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_MAGENTA</Tag>
-		<Russian>Magenta</Russian>
+		<Russian>Пурпурный</Russian>
 		<English>Magenta</English>
 		<French>Magenta</French>
 		<German>Magenta</German>
@@ -61,7 +61,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_WHITE</Tag>
-		<Russian>White</Russian>
+		<Russian>Белый</Russian>
 		<English>White</English>
 		<French>Blanc</French>
 		<German>Weiß</German>
@@ -70,7 +70,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_LIGHT_GREY</Tag>
-		<Russian>Light Grey</Russian>
+		<Russian>Светло-серый</Russian>
 		<English>Light Grey</English>
 		<French>Gris Pâle</French>
 		<German>Hellgrau</German>
@@ -79,7 +79,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_GREY</Tag>
-		<Russian>Grey</Russian>
+		<Russian>Серый</Russian>
 		<English>Grey</English>
 		<French>Gris</French>
 		<German>Grau</German>
@@ -88,7 +88,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_DARK_GREY</Tag>
-		<Russian>Dark Grey</Russian>
+		<Russian>Темно-серый</Russian>
 		<English>Dark Grey</English>
 		<French>Gris Foncé</French>
 		<German>Dunkelgrau</German>
@@ -97,7 +97,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_COLOR_BLACK</Tag>
-		<Russian>Black</Russian>
+		<Russian>Черный</Russian>
 		<English>Black</English>
 		<French>Noir</French>
 		<German>Schwarz</German>

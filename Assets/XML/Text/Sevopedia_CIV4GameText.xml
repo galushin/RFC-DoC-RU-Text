@@ -15,7 +15,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_SCREEN_INDEX</Tag>
-		<Russian>Index</Russian>
+		<Russian>Алфавитный указатель</Russian>
 		<English>Index</English>
 		<French>Index</French>
 		<German>Index</German>
@@ -24,7 +24,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_SCREEN_CONTENTS</Tag>
-		<Russian>Contents</Russian>
+		<Russian>Содержание</Russian>
 		<English>Contents</English>
 		<French>Matières</French>
 		<German>Inhalt</German>
@@ -33,7 +33,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_UNIT_UPGRADES</Tag>
-		<Russian>Unit Upgrades</Russian>
+		<Russian>Улучшения отрядов</Russian>
 		<English>Unit Upgrades</English>
 		<French>Améliorations des Unités</French>
 		<German>Modernisierungen</German>
@@ -42,7 +42,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_PROMOTION_TREE</Tag>
-		<Russian>Promotion Tree</Russian>
+		<Russian>Дерево квалификаций</Russian>
 		<English>Promotion Tree</English>
 		<French>Arborescence des Promotions</French>
 		<German>Beförderungsbaum</German>
@@ -69,7 +69,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_CATEGORY_CONCEPT_NEW</Tag>
-		<Russian>BTS Concepts</Russian>
+		<Russian>Концепции Эпохи Огня</Russian>
 		<English>BTS Concepts</English>
 		<French>Conceptes BTS</French>
 		<German>Beyond the Sword-Konzepte</German>
@@ -87,7 +87,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_FAV_CIVIC_AND_RELIGION</Tag>
-		<Russian>Favorite Civic and Religion</Russian>
+		<Russian>Любимые парадигмы и религии</Russian>
 		<English>Favorite Civic and Religion</English>
 		<French>Doctrine et Religion Préférée</French>
 		<German>Bevorzugte Staatsform und Religion</German>

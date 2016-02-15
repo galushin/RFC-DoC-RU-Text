@@ -21,32 +21,32 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_DESC_DEMOCRATIC</Tag>
-		<Russian>Moroccan Republic</Russian>
+		<Russian>Республика Марокко</Russian>
 		<English>Moroccan Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_DESC_COMMUNIST</Tag>
-		<Russian>Socialist Republic of Morocco</Russian>
+		<Russian>Социалистическая Республика Марокко</Russian>
 		<English>Socialist Republic of Morocco</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_DESC_FASCIST</Tag>
-		<Russian>Moroccan State</Russian>
+		<Russian>Мароканнское государство</Russian>
 		<English>Moroccan State</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_NAZI_VASSAL</Tag>
-		<Russian>German Maghreb</Russian>
+		<Russian>Германский Магриб</Russian>
 		<English>German Maghreb</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_SOVIET_VASSAL</Tag>
-		<Russian>Soviet Morocco</Russian>
+		<Russian>Советское Марокко</Russian>
 		<English>Soviet Morocco</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_CALIPHATE</Tag>
-		<Russian>Caliphate of Córdoba</Russian>
+		<Russian>Кордовский Халифат</Russian>
 		<English>Caliphate of Córdoba</English>
 	</TEXT>
 	<TEXT>
@@ -61,7 +61,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MOORS_CORDOBA</Tag>
-		<Russian>Эмират Кордоба</Russian>
+		<Russian>Кордобский Эмират</Russian>
 		<English>Emirate of Cordoba</English>
 	</TEXT>
 	<TEXT>
@@ -71,7 +71,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_ARABIA_MOORISH_VASSAL</Tag>
-		<Russian>Emirate of Hejaz</Russian>
+		<Russian>Империя Хиджаз</Russian>
 		<English>Emirate of Hejaz</English>
 	</TEXT>
 </Civ4GameText>

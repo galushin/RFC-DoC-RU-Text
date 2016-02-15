@@ -32,7 +32,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_COLOMBIAN_ALBION_LEGION_STRATEGY</Tag>
-		<Russian>This Colombian [COLOR_UNIT_TEXT]Grenadier[COLOR_REVERT] replacement is very mobile and especially effective against cities.</Russian>
+		<Russian>Эта колумбийская замена [COLOR_UNIT_TEXT]Гренадера[COLOR_REVERT] очень мобильна и особенно эффективна против городов.</Russian>
 		<English>This Colombian [COLOR_UNIT_TEXT]Grenadier[COLOR_REVERT] replacement is very mobile and especially effective against cities.</English>
 	</TEXT>
 	<TEXT>
@@ -42,7 +42,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_COLOMBIAN_HACIENDA_STRATEGY</Tag>
-		<Russian>The [COLOR_BUILDING_TEXT]Hacienda[COLOR_REVERT], the Colombian replacement for the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT], increases a city's wealth and provides additional gold with access to [COLOR_HIGHLIGHT_TEXT]Coffee[COLOR_REVERT]. It also increases the city's health with access to [COLOR_HIGHLIGHT_TEXT]Spices[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Sugar[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Wine[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Bananas[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Coffee[COLOR_REVERT]. A [COLOR_BUILDING_TEXT]Hacienda[COLOR_REVERT] is required to build [COLOR_BUILDING_TEXT]Supermarkets[COLOR_REVERT].</Russian>
+		<Russian>[COLOR_BUILDING_TEXT]Асьенда[COLOR_REVERT], колумбийская замена [COLOR_BUILDING_TEXT]Торговых рядов[COLOR_REVERT], увеличивает доход города и дает дополнительное золото при наличии доступа к[COLOR_HIGHLIGHT_TEXT]Кофе[COLOR_REVERT]. Она также увеличивает здоровье при наличии доступа к [COLOR_HIGHLIGHT_TEXT]специям[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]сахару[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]вину[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]бананам[COLOR_REVERT], или [COLOR_HIGHLIGHT_TEXT]кофе[COLOR_REVERT]. [COLOR_BUILDING_TEXT]Асьенда[COLOR_REVERT] требуется для постройки [COLOR_BUILDING_TEXT]Супермаркетов[COLOR_REVERT].</Russian>
 		<English>The [COLOR_BUILDING_TEXT]Hacienda[COLOR_REVERT], the Colombian replacement for the [COLOR_BUILDING_TEXT]Grocer[COLOR_REVERT], increases a city's wealth and provides additional gold with access to [COLOR_HIGHLIGHT_TEXT]Coffee[COLOR_REVERT]. It also increases the city's health with access to [COLOR_HIGHLIGHT_TEXT]Spices[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Sugar[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Wine[COLOR_REVERT], [COLOR_HIGHLIGHT_TEXT]Bananas[COLOR_REVERT], or [COLOR_HIGHLIGHT_TEXT]Coffee[COLOR_REVERT]. A [COLOR_BUILDING_TEXT]Hacienda[COLOR_REVERT] is required to build [COLOR_BUILDING_TEXT]Supermarkets[COLOR_REVERT].</English>
 	</TEXT>
 	<TEXT>

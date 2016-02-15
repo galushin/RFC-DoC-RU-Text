@@ -16,7 +16,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_2</Tag>
-		<Russian>Rhye's of Civilization for Civilization III reached 25,000 downloads in 2005.</Russian>
+		<Russian>Модификация Rhye's of Civilization для Civilization III достигла 25,000 загрузок в 2005 году.</Russian>
 		<English>Rhye's of Civilization for Civilization III reached 25,000 downloads in 2005.</English>
 		<French>Rhye's of Civilization pour Civilization III a été téléchargé 25 000 fois en 2005.</French>
 		<German>Rhye's of Civilization für Civilization III wurde im Jahr 2005 25.000 Mal heruntergeladen.</German>
@@ -25,7 +25,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_3</Tag>
-		<Russian>Switching from an authoritarian civic to Democracy will cause a period of instability.</Russian>
+		<Russian>Переключение с авторитарных парадигм на демократию приведет к периоду нестабильности.</Russian>
 		<English>Switching from an authoritarian civic to Democracy will cause a period of instability.</English>
 		<French>Si vous passez d'une doctrine autoritaire à la démocratie, votre empire connaîtra une période d'instabilité.</French>
 		<German>Durch den Wechsel von einer autoritären Staatsform zur Demokratie wird eine Phase der Instabilität ausgelöst.</German>
@@ -43,7 +43,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_5</Tag>
-		<Russian>Rhye has been making Civilization mods since Civ II, with his "Ultima Online: T2A" scenario, and has continued modding through each of Civilization's sequels and expansions.</Russian>
+		<Russian>Rhye делал модификации для Civilization начиная с Civ II, с его сценарием "Ultima Online: T2A", а затем продолжал для всех сиквелов и расширения Civilization.</Russian>
 		<English>Rhye has been making Civilization mods since Civ II, with his "Ultima Online: T2A" scenario, and has continued modding through each of Civilization's sequels and expansions.</English>
 		<French>Rhye a commencé à créer des mods pour Civilization avec son scénario "Ultima Online: T2A" pour Civ II et continue depuis à sortir des mods pour chaque nouvel épisode de Civilization et leurs extensions.</French>
 		<German>Angefangen mit seinem "Ultima Online: T2A"-Szenario entwickelt Rhye schon seit Civilization II Civ-Mods und hat dies auch für alle folgenden Civilization-Teile und -Expansion Packs getan.</German>
@@ -61,7 +61,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_7</Tag>
-		<Russian>Visit the official site for "Rhye's and Fall" at http://rhye.civfanatics.net</Russian>
+		<Russian>Посетите официальный сайт "Rhye's and Fall" на http://rhye.civfanatics.net</Russian>
 		<English>Visit the official site for "Rhye's and Fall" at http://rhye.civfanatics.net</English>
 		<French>Visitez le site officiel de "Rhye's and Fall" sur http://rhye.civfanatics.net (site en anglais).</French>
 		<German>Besuchen Sie die offizielle "Rhye's and Fall"-Website unter http://rhye.civfanatics.net.</German>
@@ -70,7 +70,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_8</Tag>
-		<Russian>Attack Russia to find out if Napoleon was right when he talked about "General Winter"</Russian>
+		<Russian>Нападите на Россию, чтобы выяснить, что Наполеон был прав, когда говорил о "Генерале Морозе".</Russian>
 		<English>Attack Russia to find out if Napoleon was right when he talked about "General Winter"</English>
 		<French>Attaquez la Russie pour découvrir si Napoléon avait raison au sujet de l'hiver russe.</French>
 		<German>Greifen Sie Russland an und überzeugen Sie sich von der Richtigkeit von Napoleons Aussage über den "General Winter".</German>
@@ -79,7 +79,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_9</Tag>
-		<Russian>Aztec military units can enslave defeated enemy units</Russian>
+		<Russian>Ацтекские военные отряды могут порабощать побежденные вражеские отряды.</Russian>
 		<English>Aztec military units can enslave defeated enemy units</English>
 		<French>Les unités militaires aztèques peuvent asservir les unités ennemies vaincues.</French>
 		<German>Aztekische Militäreinheiten können besiegte feindliche Einheiten versklaven.</German>
@@ -568,14 +568,17 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_33</Tag>
+		<Russian>Slaves can be created using the "enslave" button in cities in Sub-Saharan Africa while using Slavery.</Russian>
 		<English>Slaves can be created using the "enslave" button in cities in Sub-Saharan Africa while using Slavery.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_34</Tag>
+		<Russian>Defeating Impis and Pombos on your territory while using Slavery has a chance to create a slave unit.</Russian>
 		<English>Defeating Impis and Pombos on your territory while using Slavery has a chance to create a slave unit.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_35</Tag>
+		<Russian>Acquire slaves to build slave plantations or settle them in your cities. This option is only available in North America or in Africa unless your capital is in Africa.</Russian>
 		<English>Acquire slaves to build slave plantations or settle them in your cities. This option is only available in North America or in Africa unless your capital is in Africa.</English>
 	</TEXT>
 	<TEXT>
@@ -585,6 +588,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_37</Tag>
+		<Russian>Slave plantations and slave specialists are removed once you adopt Egalitarianism.</Russian>
 		<English>Slave plantations and slave specialists are removed once you adopt Egalitarianism.</English>
 	</TEXT>
 	<TEXT>
@@ -594,90 +598,112 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_39</Tag>
+		<Russian>The area certain civilizations flip on spawn is not always identical to their core. Several civilizations can flip larger areas.</Russian>
 		<English>The area certain civilizations flip on spawn is not always identical to their core. Several civilizations can flip larger areas.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_40</Tag>
+		<Russian>The core of several civilizations expands on certain conditions, such as entering a new era.</Russian>
 		<English>The core of several civilizations expands on certain conditions, such as entering a new era.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_41</Tag>
+		<Russian>The stability and flip zone maps for all civilizations can be found in the Maps folder.</Russian>
 		<English>The stability and flip zone maps for all civilizations can be found in the Maps folder.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_42</Tag>
+		<Russian>The Tamils, Moors, Tibetan, Polish and Congolese civilizations can be configured not to appear in every game. Edit the XML\GlobalDefinesAlt.xml file.</Russian>
 		<English>The Tamils, Moors, Tibetan, Polish and Congolese civilizations can be configured not to appear in every game. Edit the XML\GlobalDefinesAlt.xml file.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_43</Tag>
+		<Russian>The Polynesian and Harappan civilizations are intended for the human player only. You can enable them for the AI in XML\GlobalDefinesAlt.xml, however their AI will not be geared towards playing successfully or realistically.</Russian>
 		<English>The Polynesian and Harappan civilizations are intended for the human player only. You can enable them for the AI in XML\GlobalDefinesAlt.xml, however their AI will not be geared towards playing successfully or realistically.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_44</Tag>
+		<Russian>Stability checks can increase or reduce your stability level and in the latter case, lead to crises and even collapse!</Russian>
 		<English>Stability checks can increase or reduce your stability level and in the latter case, lead to crises and even collapse!</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_45</Tag>
+		<Russian>Stability checks are triggered by a variety of events including discovering techs, changing civics and losing or acquiring cities.</Russian>
 		<English>Stability checks are triggered by a variety of events including discovering techs, changing civics and losing or acquiring cities.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_46</Tag>
+		<Russian>Golden Ages protect you from most negative effects of being unstable. The protection only lasts as long as the Golden Age, however.</Russian>
 		<English>Golden Ages protect you from most negative effects of being unstable. The protection only lasts as long as the Golden Age, however.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_47</Tag>
+		<Russian>DoC adds a new terrain feature, rainforests. They resemble jungles, but cause no unhealthiness and can be improved after the discovery of Metal Casting.</Russian>
 		<English>DoC adds a new terrain feature, rainforests. They resemble jungles, but cause no unhealthiness and can be improved after the discovery of Metal Casting.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_48</Tag>
+		<Russian>В DoC, океанские клетки не приносят пищи. Улучшения на океанских клетках требуют открытия Компаса, но взамен дают одну дополнительную единицу еды.</Russian>
 		<English>In DoC, Ocean tiles start out yielding no food. Improvements on Ocean tiles require Compass, but in turn provide one additional food.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_49</Tag>
+		<Russian>Острова - это новая особенность морской местности, дающая дополнительные производство, защиту и более быстрое распространение культуры.</Russian>
 		<English>Islands are a new maritime terrain feature that provides additional production, tile defense and faster culture spread.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_50</Tag>
+		<Russian>Вместо распространения культуры кольцами с каждый уровнем культуры, города распространяют культурный контроль по отдельным клеткам с ростом культуры.</Russian>
 		<English>Instead of spreading their culture in rings with every new culture level, cities spread cultural control over individual tiles as their culture grows.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_51</Tag>
+		<Russian>Количество культуры, необходимое для покрытия клетки, зависит от типа и особенностей местности, а также от расстояния до городов.</Russian>
 		<English>The amount of culture needed to cover a tile depends on its terrain type and features, as well as the distance to cities.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_52</Tag>
+		<Russian>Города сначала покрывают культурой клетки с наименьшей культурной стоимостью.</Russian>
 		<English>Cities will start with covering tiles with the lowest culture costs.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_53</Tag>
+		<Russian>Культура города никогда не распространяется дальше третьего кольца.</Russian>
 		<English>City culture will never expand beyond the third ring.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_54</Tag>
+		<Russian>Количество культуры, требуемое для покрытия следующей клетки, отображается на экране культуры как штрих на полоске культуры.</Russian>
 		<English>The amount of culture required for the next tile to be covered is displayed as tick marks on the culture bar in the city screen.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_55</Tag>
+		<Russian>Фиолетовый круг на экране города отмечает клетку, которая будет покрыта культурой следующей.</Russian>
 		<English>A purple circle marks the next tile to be culturally covered in the city screen.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_56</Tag>
+		<Russian>A Great Statesman can put an end to war or anarchy, improve diplomatic relations, build an Administrative Center or reform your civics for free.</Russian>
 		<English>A Great Statesman can put an end to war or anarchy, improve diplomatic relations, build an Administrative Center or reform your civics for free.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_57</Tag>
+		<Russian>Оазисы производят больше пищи и меньше коммерции. Взамен в оазисах можно строить дома.</Russian>
 		<English>Oases provide more food and less commerce. In exchange, cottages can be built on Oases.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_58</Tag>
+		<Russian>Разведчики могут накапливать опыт и получать квалификации при успешном выполнении заданий.</Russian>
 		<English>Spies can now accumulate experience and acquire promotions by successfully completing missions.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_59</Tag>
+		<Russian>Специалисты-разведчики в городах были упразднены. Вместо этого, глобальный опыт разведчиков накапливается аналогично боевому опыту. Когда полоска заполняется целиком, наиболее опытный разведчик становится Великим разведчиком.</Russian>
 		<English>Spy specialists have been removed. Instead, global spy experience is accumulated similar to military experience. If the bar is full, your most experienced spy becomes a Great Spy.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HINT_DOC_60</Tag>
+		<Russian>If you have problems with game performance in the late game, enabling graphics paging in the BUG menu can help on some machines.</Russian>
 		<English>If you have problems with game performance in the late game, enabling graphics paging in the BUG menu can help on some machines.</English>
 	</TEXT>
 </Civ4GameText>
