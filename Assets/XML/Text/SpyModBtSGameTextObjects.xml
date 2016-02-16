@@ -214,7 +214,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNITCOMBAT_SPY</Tag>
-		<Russian>Разведовательные отряды</Russian>
+		<Russian>Шпионские отряды</Russian>
 		<English>Espionage Units</English>
 		<French>Unités d'espionnage</French>
 		<German>Spionage-Einheiten</German>
@@ -448,7 +448,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_ASSASSIN_HELP</Tag>
-		<Russian>Разведчик пытается убить великого специалиста в городе противника.</Russian>
+		<Russian>Шпион пытается убить великого специалиста в городе противника.</Russian>
 		<English>The spy attempts to kill a great specialist inside a rival city.</English>
 		<French>L'espion essaye de tuer un grand spécialiste à l'intérieur d'une ville rivale.</French>
 		<German>Versucht eine großen Spezialisten in einer feindlichen Stadt zu ermorden.</German>
@@ -466,7 +466,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_BRIBE_HELP</Tag>
-		<Russian>Разведчик пытается завербовать иностранного работника.</Russian>
+		<Russian>Шпион пытается завербовать иностранного работника.</Russian>
 		<English>The spy attempts to win the allegiance of a foreign worker.</English>
 		<French>L'espion essaye de gagner l'allégeance d'un travailleur étranger.</French>
 		<German>Versucht einen fremden Arbeitstrupp abzuwerben.</German>
@@ -475,7 +475,7 @@
 	</TEXT>
 		<TEXT>
 		<Tag>TXT_KEY_PROCESS_ESPIONAGE</Tag>
-		<Russian>Внешняя разведка</Russian>
+		<Russian>Шпионаж</Russian>
 		<English>Espionage</English>
 		<French>
 			<Text>Espionnage</Text>
@@ -496,7 +496,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PROCESS_ESPIONAGE_STRATEGY</Tag>
-		<Russian>Сосредоточение на внешней разведке преобразует продукцию данного города в разведку.</Russian>
+		<Russian>Сосредоточение на шпионаже преобразует продукцию данного города в разведку.</Russian>
 		<English>Focusing on espionage converts production into espionage within that particular city.</English>
 		<French>Si vous favorisez le espionnage, la production est transformйe en espionnage dans cette ville.</French>
 		<German>Schwerpunkt auf Kultur wandelt in dieser Stadt Produktionserträge [ICON_PRODUCTION] in Spionageerträge [ICON_ESPIONAGE] um.</German>

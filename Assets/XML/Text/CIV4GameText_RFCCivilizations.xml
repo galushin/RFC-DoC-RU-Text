@@ -6,47 +6,47 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_CIV_THAILAND_DESC</Tag>
-		<Russian>The Thais</Russian>
+		<Russian>Тайцы</Russian>
 		<English>The Thais</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_THAILAND_SHORT_DESC</Tag>
-		<Russian>Thailand</Russian>
+		<Russian>Тайланд</Russian>
 		<English>Thailand</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_THAILAND_ADJECTIVE</Tag>
-		<Russian>Thai</Russian>
+		<Russian>Тайцы</Russian>
 		<English>Thai</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MUGHALS_DESC</Tag>
-		<Russian>The Mughals</Russian>
+		<Russian>Моголы</Russian>
 		<English>The Mughals</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MUGHALS_SHORT_DESC</Tag>
-		<Russian>Mughals</Russian>
+		<Russian>Моголы</Russian>
 		<English>Mughals</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_MUGHALS_ADJECTIVE</Tag>
-		<Russian>Mughal</Russian>
+		<Russian>Моголы</Russian>
 		<English>Mughal</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDONESIA_DESC</Tag>
-		<Russian>The Indonesians</Russian>
+		<Russian>Индонезийцы</Russian>
 		<English>The Indonesians</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDONESIA_SHORT_DESC</Tag>
-		<Russian>Indonesia</Russian>
+		<Russian>Индонезия</Russian>
 		<English>Indonesia</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_INDONESIA_ADJECTIVE</Tag>
-		<Russian>Indonesian</Russian>
+		<Russian>Индонезийцы</Russian>
 		<English>Indonesian</English>
 	</TEXT>
 	<TEXT>
@@ -57,7 +57,7 @@
 <!-- Leaders -->
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_HAYAM_WURUK</Tag>
-		<Russian>Hayam Wuruk</Russian>
+		<Russian>Хаям Вурук</Russian>
 		<English>Hayam Wuruk</English>
 	</TEXT>
 	<TEXT>
@@ -67,7 +67,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_SUHARTO</Tag>
-		<Russian>Suharto</Russian>
+		<Russian>Сухарто</Russian>
 		<English>Suharto</English>
 	</TEXT>
 	<TEXT>
@@ -77,7 +77,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_DHARMASETU</Tag>
-		<Russian>Dharmasetu</Russian>
+		<Russian>Дхармасету</Russian>
 		<English>Dharmasetu</English>
 	</TEXT>
 	<TEXT>
@@ -108,7 +108,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_IRAN_DESC</Tag>
-		<Russian>The Iranians</Russian>
+		<Russian>Иранцы</Russian>
 		<English>The Iranians</English>
 	</TEXT>
 	<TEXT>

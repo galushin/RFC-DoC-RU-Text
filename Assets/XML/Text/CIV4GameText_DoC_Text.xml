@@ -5,42 +5,42 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TCC_ACQUIRE</Tag>
-		<Russian>Will offer %d1 gold to %s2 for their cities of %s3. Their refusal will lead to war.</Russian>
+		<Russian>Предложить золото %d1 народу %s2 за их город %s3. Их отказ приведет к войне.</Russian>
 		<English>Will offer %d1 gold to %s2 for their cities of %s3. Their refusal will lead to war.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TCC_COLONIZE</Tag>
-		<Russian>Will offer %d1 gold to our colonists to settle %s2.</Russian>
+		<Russian>Предложить %d1 золота нашим колонистам, чтобы они заселили %s2.</Russian>
 		<English>Will offer %d1 gold to our colonists to settle %s2.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TCC_NO_CITIES</Tag>
-		<Russian>There are no cities that your armies could conquer.</Russian>
+		<Russian>Нет городов, которые наши армии могли бы завоевать.</Russian>
 		<English>There are no cities that your armies could conquer.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TCC_CONQUEST</Tag>
-		<Russian>Will draft armies to attack %s1 to conquer their cities of %s2.</Russian>
+		<Russian>Призвать армии, чтобы напасть на %s1 и завоевать их города %s2.</Russian>
 		<English>Will draft armies to attack %s1 to conquer their cities of %s2.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_REFORMATION_EMBRACE</Tag>
-		<Russian>State religion and most of your cities will change to Protestantism. Catholicism can remain in larger cities. Seizing control of Church assets in Catholic cities is expected to bring %d1 gold to your treasury. If you have founded Protestantism, a shrine will be built in its holy city. Catholic civilizations may declare war on you to stop the Reformation.</Russian>
+		<Russian>Государственная религия и религия большинства Ваших городов сменится на Протестантство. Католицизм может остаться в крупных города. Изъятие имущества Церкви в католических городах принесёт %d1 золота в Вашу казну. Если Вы основали Протестантизм, в его святом городе будет построена святыня. Католические цивилизации могут объявить Вам войну, чтобы остановить Реформацию.</Russian>
 		<English>State religion and most of your cities will change to Protestantism. Catholicism can remain in larger cities. Seizing control of Church assets in Catholic cities is expected to bring %d1 gold to your treasury. If you have founded Protestantism, a shrine will be built in its holy city. Catholic civilizations may declare war on you to stop the Reformation.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_REFORMATION_TOLERATE_STATE</Tag>
-		<Russian>Your state religion remains Catholic. Protestantism can spread to your cities and even replace Catholicism.</Russian>
+		<Russian>Католицизм остаётся Вашей государственной религией. Протестантизм может распространиться в Вашим города и даже заменить Католицизм.</Russian>
 		<English>Your state religion remains Catholic. Protestantism can spread to your cities and even replace Catholicism.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_REFORMATION_TOLERATE</Tag>
-		<Russian>Protestantism can spread to your cities and even replace Catholicism.</Russian>
+		<Russian>Протестантизм может распространиться в Вашим города и даже заменить Католицизм.</Russian>
 		<English>Protestantism can spread to your cities and even replace Catholicism.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_REFORMATION_COUNTER</Tag>
-		<Russian>Your state religion remains Catholic. Protestantism will only spread to some of your larger cities. You will declare war on all civilizations that decided to convert to Protestantism.</Russian>
+		<Russian>Католицизм остаётся Вашей государственной религией. Протестантизм распространится только в некоторых крупных городах. Вы объвите войну всем цивилизациям, решившим обратиться в Протестантизм.</Russian>
 		<English>Your state religion remains Catholic. Protestantism will only spread to some of your larger cities. You will declare war on all civilizations that decided to convert to Protestantism.</English>
 	</TEXT>
 	<TEXT>
@@ -50,7 +50,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ENSLAVE</Tag>
-		<Russian>ENSLAVE</Russian>
+		<Russian>ПОРАБОТИТЬ</Russian>
 		<English>ENSLAVE</English>
 	</TEXT>
 	<TEXT>
@@ -60,7 +60,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILD_SLAVE_PLANTATION</Tag>
-		<Russian>Create [LINK=IMPROVEMENT_SLAVE_PLANTATION]Slave Plantation[\LINK]</Russian>
+		<Russian>Создать [LINK=IMPROVEMENT_SLAVE_PLANTATION]Рабскую плантацию[\LINK]</Russian>
 		<English>Create [LINK=IMPROVEMENT_SLAVE_PLANTATION]Slave Plantation[\LINK]</English>
 	</TEXT>
 	<TEXT>
@@ -75,7 +75,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUTTON_SACRIFICE</Tag>
-		<Russian>[COLOR_HIGHLIGHT_TEXT]Sacrifice[COLOR_REVERT][NEWLINE]+1 [ICON_HAPPY] for %d1 turns.[NEWLINE]This order sacrifice the slave, leading to extra happiness and celebrations in the city for %d2 turns. This will consume the slave.</Russian>
+		<Russian>[COLOR_HIGHLIGHT_TEXT]Жертвоприношение[COLOR_REVERT][NEWLINE]+1 [ICON_HAPPY] на %d1 ходов.[NEWLINE]Приказть принести в жертву раба, что приведет к повышению счастья и празднованию в городе на протяжении %d2 ходов. Раб при этом исчезает.</Russian>
 		<English>[COLOR_HIGHLIGHT_TEXT]Sacrifice[COLOR_REVERT][NEWLINE]+1 [ICON_HAPPY] for %d1 turns.[NEWLINE]This order sacrifice the slave, leading to extra happiness and celebrations in the city for %d2 turns. This will consume the slave.</English>
 	</TEXT>
 	<TEXT>
@@ -135,7 +135,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_11</Tag>
-		<Russian>Civic Cap</Russian>
+		<Russian>Предел парадигм</Russian>
 		<English>Civic Cap</English>
 	</TEXT>
 	<TEXT>
@@ -145,12 +145,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_13</Tag>
-		<Russian>Foreign Core Cities</Russian>
+		<Russian>Города на чужой родине</Russian>
 		<English>Foreign Core Cities</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_14</Tag>
-		<Russian>City Happiness</Russian>
+		<Russian>Счастье в городах</Russian>
 		<English>City Happiness</English>
 	</TEXT>
 	<TEXT>
@@ -160,22 +160,22 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_16</Tag>
-		<Russian>City Culture</Russian>
+		<Russian>Культура городов</Russian>
 		<English>City Culture</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_17</Tag>
-		<Russian>Total City Stability</Russian>
+		<Russian>Общая стабильность городов</Russian>
 		<English>Total City Stability</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_18</Tag>
-		<Russian>Trade</Russian>
+		<Russian>Торговля</Russian>
 		<English>Trade</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_19</Tag>
-		<Russian>Economy</Russian>
+		<Russian>Экономика</Russian>
 		<English>Economy</English>
 	</TEXT>
 	<TEXT>
@@ -455,12 +455,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_GREAT_DEPRESSION</Tag>
-		<Russian>Great Depression</Russian>
+		<Russian>Великая Депрессия</Russian>
 		<English>Great Depression</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_FOREIGN_GREAT_DEPRESSION</Tag>
-		<Russian>Great Depression (foreign)</Russian>
+		<Russian>Великая Депрессия (за границей)</Russian>
 		<English>Great Depression (foreign)</English>
 	</TEXT>
 	<TEXT>
@@ -480,7 +480,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STABILITY_FALL</Tag>
-		<Russian>Historicity</Russian>
+		<Russian>Историчность</Russian>
 		<English>Historicity</English>
 	</TEXT>
 	<TEXT>
@@ -495,6 +495,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_HELP_PROD_HOLY_ROME</Tag>
+		<Russian>[ICON_BULLET]%D1%%[ICON_PRODUCTION] за здание государственной религии</Russian>
 		<English>[ICON_BULLET]%D1%%[ICON_PRODUCTION] for State Religion Building</English>
 	</TEXT>
 	<TEXT>
@@ -514,6 +515,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ADJECTIVE_GOKTURK</Tag>
+		<Russian>Тюркютский</Russian>
 		<English>Gцktьrk</English>
 	</TEXT>
 	<TEXT>
@@ -528,6 +530,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ADJECTIVE_KHITAN</Tag>
+		<Russian>Киданский</Russian>
 		<English>Khitan</English>
 	</TEXT>
 	<TEXT>
@@ -546,7 +549,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ADJECTIVE_HEPHTHALITE</Tag>
-		<Russian>Hephthalite</Russian>
+		<Russian>Эфталитский</Russian>
 		<English>Hephthalite</English>
 	</TEXT>
 	<TEXT>
@@ -566,12 +569,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ADJECTIVE_HUNNIC</Tag>
-		<Russian>Hunnic</Russian>
+		<Russian>Гуннский</Russian>
 		<English>Hunnic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ADJECTIVE_AVAR</Tag>
-		<Russian>Avar</Russian>
+		<Russian>Аварский</Russian>
 		<English>Avar</English>
 	</TEXT>
 	<TEXT>
@@ -581,7 +584,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ADJECTIVE_CUMAN</Tag>
-		<Russian>Cuman</Russian>
+		<Russian>Половецкий</Russian>
 		<English>Cuman</English>
 	</TEXT>
 	<TEXT>
@@ -596,12 +599,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ADJECTIVE_TURKIC</Tag>
-		<Russian>Turkic</Russian>
+		<Russian>Тюркский</Russian>
 		<English>Turkic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ADJECTIVE_ELAMITE</Tag>
-		<Russian>Elamite</Russian>
+		<Russian>Эламский</Russian>
 		<English>Elamite</English>
 	</TEXT>
 	<TEXT>
@@ -616,7 +619,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ADJECTIVE_GHANAIAN</Tag>
-		<Russian>Ghanaian</Russian>
+		<Russian>Ганский</Russian>
 		<English>Ghanaian</English>
 	</TEXT>
 	<TEXT>
@@ -651,12 +654,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_ASVAKA</Tag>
-		<Russian>Асвака</Russian>
+		<Russian>Асвакский</Russian>
 		<English>Asvaka</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MOHAWK</Tag>
-		<Russian>Мохок</Russian>
+		<Russian>Мохокский</Russian>
 		<English>Mohawk</English>
 	</TEXT>
 	<TEXT>
@@ -811,7 +814,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HAPPY_SPECIALISTS</Tag>
-		<Russian>%D1_Change[ICON_HAPPY]: "Settled artists entertain us!"</Russian>
+		<Russian>%D1_Change[ICON_HAPPY]: "Живущий здесь художник развлекает нас!"</Russian>
 		<English>%D1_Change[ICON_HAPPY]: "Settled artists entertain us!"</English>
 		<German>%D1_Change[ICON_HAPPY]: "Angesiedelte Künstler unterhalten uns!"</German>
 	</TEXT>
@@ -823,16 +826,19 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HAPPY_CORPORATION</Tag>
+		<Russian>%D1_Change[ICON_HAPPY]: "Наши корпорации хорошо нас обслуживают!"</Russian>
 		<English>%D1_Change[ICON_HAPPY]: "Our corporations treat us well!"</English>
 		<German>%D1_Change[ICON_HAPPY]: "Unsere Kapitalgesellschaften behandeln uns gut!"</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ANGER_CORPORATION</Tag>
+		<Russian>%D1_Change[ICON_UNHAPPY]: "Наших работников эксплуатируют!"</Russian>
 		<English>%D1_Change[ICON_UNHAPPY]: "Our workers are being exploited!"</English>
 		<German>%D1_Change[ICON_UNHAPPY]: "Unsere Arbeiter werden ausgebeutet!"</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_HEALTH_FROM_CORPORATIONS</Tag>
+		<Russian>%D1_Change[ICON_UNHEALTHY] от корпораций</Russian>
 		<English>%D1_Change[ICON_UNHEALTHY] from Corporations</English>
 		<German>%D1_Change[ICON_UNHEALTHY] durch Kapitalgesellschaften</German>
 	</TEXT>
@@ -862,21 +868,25 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PLAYER_OPTION_MODDER_1</Tag>
+		<Russian>Display UHV End Turns</Russian>
 		<English>Display UHV End Turns</English>
 		<German>EHS Endrunden Anzeigen</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PLAYER_OPTION_MODDER_1_HELP</Tag>
+		<Russian>Номер хода, в который Ваша уникальная историческая победа должна быть достигнута, отображается даже после открытия Календаря.</Russian>
 		<English>The turn in which your UHV goals must be completed is displayed even after the discovery of Calendar.</English>
 		<German>Die Runde, in der Ihre EHS-Ziele erfüllt werden müssen, wird auch nach der Entdeckung des Kalenders angezeigt.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_VICTORY_UHV_END_TURN</Tag>
+		<Russian>(Ход %d1)</Russian>
 		<English>(Turn %d1)</English>
 		<German>(Runde %d1)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_FREE_TECH</Tag>
+		<Russian>[ICON_BULLET]1 бесплатная технология из текущей или предшествующих эр</Russian>
 		<English>[ICON_BULLET]1 Free Technology From Your Current Or Earlier Eras</English>
 		<French>[ICON_BULLET]1 technologie gratuite</French>
 		<German>[ICON_BULLET]1 freie Technologie aus Ihrer aktuellen oder früheren Zeitaltern</German>
@@ -885,6 +895,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_FREE_TECHS</Tag>
+		<Russian>[ICON_BULLET]%d1_Num бесплатных технологий из текущей или предшествующих эр</Russian>
 		<English>[ICON_BULLET]%d1_Num Free Technologies From Your Current Or Earlier Eras</English>
 		<French>[ICON_BULLET]%d1_Num technologies gratuites</French>
 		<German>[ICON_BULLET]%d1_Num freie Technologien aus Ihrer aktuellen oder früheren Zeitaltern</German>
@@ -893,6 +904,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVIC_UNLIMTED</Tag>
+		<Russian>[ICON_BULLET]Удвоенное количество мест для[SPACE]</Russian>
 		<English>[ICON_BULLET]Doubled slots for[SPACE]</English>
 		<French>[ICON_BULLET]Sans limite[SPACE]</French>
 		<German>[ICON_BULLET]Erlaubt doppelt soviele[SPACE]</German>
@@ -901,303 +913,364 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_STATE_RELIGION</Tag>
+		<Russian>Государственная религия</Russian>
 		<English>State Religion</English>
 		<German>Staatsreligion</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_REQUIRES_CIVIC</Tag>
+		<Russian>[COLOR_WARNING_TEXT]Требует [LINK=literal]%s1[\LINK][COLOR_REVERT]</Russian>
 		<English>[COLOR_WARNING_TEXT]Requires [LINK=literal]%s1[\LINK][COLOR_REVERT]</English>
 		<German>[COLOR_WARNING_TEXT]Erfordert: [LINK=literal]%s1[\LINK][COLOR_REVERT]</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_ELECTION_COLLECT_TITHE</Tag>
+		<Russian>Собрать десятину (требует %d1 из %d2 голосов)</Russian>
 		<English>Collect Tithe (Requires %d1 of %d2 Total Votes)</English>
 		<German>Den Zehnt eintreiben (Benötigt %d1 von insgesamt %d2 Stimmen)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_ELECTION_INQUISITION</Tag>
+		<Russian>Послать инквизицию к %s1 (требует %d2 из %d3 голосов)</Russian>
 		<English>Send Inquisition to %s1 (Requires %d2 of %d3 Total Votes)</English>
 		<German>Inquisition nach %s1 entsenden (Benötigt %d2 von insgesamt %d3 Stimmen)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_ELECTION_EXCOMMUNICATION</Tag>
+		<Russian>Отлучить %s1 (требует %d2 из %d3 голосов)</Russian>
 		<English>Excommunicate %s1 (Requires %d2 of %d3 Total Votes)</English>
 		<German>%s1 exkommunizieren (Benötigt %d2 von insgesamt %d3 Stimmen)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_ELECTION_FORCE_WAR</Tag>
+		<Russian>Крестовый поход против %s1_player (Требует %d2_ReqNum из %d3_TotNum голосов)</Russian>
 		<English>Crusade against %s1_player (Requires %d2_ReqNum of %d3_TotNum Total Votes)</English>
 		<German>Kreuzzug gegen %s1_player (Erfordert %d2_ReqNum on insgesamt %d3_TotNum Stimmen.)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_ELECTION_DECOLONIZE</Tag>
+		<Russian>Резолюция ООН - Деколонизировать %s1_city (%s2_player) (требует %d3_ReqNum из %d4_TotNum голосов)</Russian>
 		<English>UN Resolution - Decolonize %s1_city (%s2_player) (Requires %d3_ReqNum of %d4_TotNum Total Votes)</English>
 		<German>UN Resolution - %s1_city (%s2_player) dekolonisieren (Erfordert %d3_ReqNum on insgesamt %d4_TotNum Stimmen.)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_POPUP_ELECTION_RELEASE</Tag>
+		<Russian>Резолюция ООН - Освободить %s1_player от власти %s2_civ_adjective (требует %d3_ReqNum из %d4_TotNum голосов)</Russian>
 		<English>UN Resolution - Free %s1_player from %s2_civ_adjective Control (Requires %d3_ReqNum of %d4_TotNum Total Votes)</English>
 		<German>UN Resolution - %s1_player aus %s2:1_civ_adjective Kontrolle befreien (Erfordert %d3_ReqNum on insgesamt %d4_TotNum Stimmen.)</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HANDICAP_HEIR_HELP</Tag>
+		<Russian>The Heir difficulty is the right level for beginners. Your cities receive additional happiness and your research, unit production and upkeep costs are lower than those of your AI opponents.</Russian>
 		<English>The Heir difficulty is the right level for beginners. Your cities receive additional happiness and your research, unit production and upkeep costs are lower than those of your AI opponents.</English>
 		<German>Dieser Schwierigkeitsgrad ist die richtige Stufe für Anfänger. Eure Städte erhalten zusätzliche Zufriedenheit und Eure Forschungs-, Produktions- und Unterhaltskosten sind geringer als die Eurer KI-Gegner</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HANDICAP_REGENT_HELP</Tag>
+		<Russian>As a Regent, you are facing a fairly balanced challenge and are evenly matched in terms of modifiers with your AI adversaries.</Russian>
 		<English>As a Regent, you are facing a fairly balanced challenge and are evenly matched in terms of modifiers with your AI adversaries.</English>
 		<German>Als Regent, Ihr steht einer relativ balancierten Herausforderung gegenüber und seid auf demselben Level wie Eure KI-Widersacher was Modifikatoren angeht.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HANDICAP_MONARCH_HELP</Tag>
+		<Russian>Monarch players play under the same conditions as Regents, but will face more formidable AI opponents.</Russian>
 		<English>Monarch players play under the same conditions as Regents, but will face more formidable AI opponents.</English>
 		<German>Monarchen-Spieler spielen unter denselben Bedingungen wie Regenten, stehen allerdings stärkeren KI-Gegnern gegenüber.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HANDICAP_EMPEROR_HELP</Tag>
+		<Russian>The Emperor level is for experienced players. You will play under significant research, unit production, upkeep and happiness penalties, while the AI receives even more advantages in these areas.</Russian>
 		<English>The Emperor level is for experienced players. You will play under significant research, unit production, upkeep and happiness penalties, while the AI receives even more advantages in these areas.</English>
 		<German>Die Kaiser-Stufe ist für erfahrene Spieler. Ihr werdet unter erheblichen Forschungs-, Produktions-, Unterhalts- und Zufriedenheits-Mali, während die KI in diesen Bereichen noch mehr Vorteile erhält.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_HANDICAP_PARAGON_HELP</Tag>
+		<Russian>Can you beat this game on this level and prove that you are truly a Paragon? Compared to Emperor, your AI adversaries will receive even more unit production and research advantages.</Russian>
 		<English>Can you beat this game on this level and prove that you are truly a Paragon? Compared to Emperor, your AI adversaries will receive even more unit production and research advantages.</English>
 		<German>Könnt Ihr dieses Spiel auf diesem Level gewinnen und beweisen, dass ihr wirklich ein Paragon seid? Verglichen mit Kaiser werden Eure KI-Widersacher noch mehr Produktions- und Forschungsvorteile erhalten.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_EVENT_RESOURCE_EXHAUSTED</Tag>
+		<Russian>Наш источник [COLOR_HIGHLIGHT_TEXT]%s1_BonusName[COLOR_REVERT] вблизи города %s2_CityName исчерпан!</Russian>
 		<English>Our source of [COLOR_HIGHLIGHT_TEXT]%s1_BonusName[COLOR_REVERT] near %s2_CityName has been exhausted!</English>
 		<German>Unser Vorkommen des Bonusguts [COLOR_HIGHLIGHT_TEXT]%s1_BonusName[COLOR_REVERT] in der Nähe von %s2_CityName ist aufgebraucht!</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_INTERFACE_CITY_EXPANSION_TURNS</Tag>
+		<Russian>Расширение границ: %d1 ходов</Russian>
 		<English>Border expands in: %d1 Turns</English>
 		<German>Gebietsweiterung in: %d1 Runden</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_OVERFLOW</Tag>
+		<Russian>Переполнение в (%d1, %d2), метод: %s3</Russian>
 		<English>Overflow in (%d1, %d2), method: %s3</English>
 		<German>Overflow in (%d1, %d2), method: %s3</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_IMPROVEMENT_HIGH_SEA_FISHING_BOATS</Tag>
+		<Russian>Рыбацкие лодки в открытом море</Russian>
 		<English>High Sea Fishing Boats</English>
 		<German>Hochsee-Fischerboot</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILD_HIGH_SEA_FISHING_BOATS</Tag>
+		<Russian>Создать [LINK=IMPROVEMENT_HIGH_SEA_FISHING_BOATS]Рыбацкие лодки в открытом море[\LINK]</Russian>
 		<English>Create [LINK=IMPROVEMENT_HIGH_SEA_FISHING_BOATS]High Sea Fishing Boats[\LINK]</English>
 		<German>Create [LINK=IMPROVEMENT_HIGH_SEA_FISHING_BOATS]High Sea Fishing Boats[\LINK]</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FEATURE_ISLANDS</Tag>
+		<Russian>Острова</Russian>
 		<English>Islands</English>
 		<German>Inseln</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BONUS_PEARL</Tag>
+		<Russian>Жемчуг</Russian>
 		<English>Pearls</English>
 		<German>Perlen</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTE_MOD_DISTANCE</Tag>
+		<Russian>%D1%%: за дальность до города</Russian>
 		<English>%D1%%: from City Distance</English>
 		<German>%D1%%: durch Stadtentfernung</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_BONUS_PLOTS</Tag>
+		<Russian>Improved [LINK=literal]%s1[\LINK] Tiles</Russian>
 		<English>Improved [LINK=literal]%s1[\LINK] Tiles</English>
 		<German>[LINK=literal]%s1[\LINK]-Gelдndefelder mit Verbesserung</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_GREAT_SPY</Tag>
+		<Russian>Великий шпион: %d1_Curr/%d2_Need Опыта</Russian>
 		<English>Great Spy: %d1_Curr/%d2_Need Experience</English>
 		<German>GroЯer Spion: %d1_Curr/%d2_Need Erfahrung</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_ESPIONAGE_EXPERIENCE</Tag>
+		<Russian>Опыт шпионажа</Russian>
 		<English>Espionage Experience</English>
 		<German>Spionage-Erfahrung</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_ADMIN_CENTER</Tag>
+		<Russian>Административный центр</Russian>
 		<English>Administrative Center</English>
 		<German>Verwaltungszentrum</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPECIALIST_STATESMAN</Tag>
+		<Russian>Политик</Russian>
 		<English>Statesman</English>
 		<German>Staatsmann</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_SPECIALIST_GREAT_STATESMAN</Tag>
+		<Russian>Великий политик</Russian>
 		<English>Great Statesman</English>
 		<German>Großer Staatsmann</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_GREAT_STATESMAN</Tag>
+		<Russian>Великий политик</Russian>
 		<English>Great Statesman</English>
 		<German>Großer Staatsmann</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_REFORM_GOVERNMENT</Tag>
+		<Russian>Реформа</Russian>
 		<English>Reform Government</English>
 		<German>Regierung Reformieren</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ACTION_REFORM_GOVERNMENT</Tag>
+		<Russian>Приказывает великому человеку провести реформу, что позволит сменить парадигмы на этом ходу без анархии. Великий человек исчезает.</Russian>
 		<English>This will order the Great Person to reform your government, allowing you to change civics this turn without any anarchy. It consumes the Great Person.</English>
 		<German>Dies wird die Großen Persönlichkeit veranlassen, Eure Regierung zu reformieren, was Euch erlaubt diese Runde Staatsformen ohne jegliche Anarchie zu wechseln. Die Große Persönlichkeit wird dabei aufgebraucht.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CAN_REFORM_GOVERNMENT</Tag>
+		<Russian>[ICON_BULLET]Может провести реформу</Russian>
 		<English>[ICON_BULLET]Can Reform the Government</English>
 		<German>[ICON_BULLET]Kann die Regierung reformieren</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_RESOLVE_CRISIS</Tag>
+		<Russian>Разрешить кризис</Russian>
 		<English>Resolve Crisis</English>
 		<German>Krise Überwinden</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ACTION_RESOLVE_CRISIS</Tag>
+		<Russian>Приказать Великому человеку закончить анархию в Вашей стране и беспорядки во всех городах. Великий человек исчезает.</Russian>
 		<English>This will order the Great Person to end the anarchy in your civilization and the unrest in all your cities. It consumes the Great Person.</English>
 		<German>Dies wird die Große Persönlichkeit veranlassen, the Anarchie in Eurer Zivilisation sowie den Aufruhr in all Euren Städten zu beenden. Die Große Persönlichkeit wird dabei aufgebraucht.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CAN_RESOLVE_CRISIS</Tag>
+		<Russian>[ICON_BULLET]Может разрешить кризис</Russian>
 		<English>[ICON_BULLET]Can Resolve a Crisis</English>
 		<German>[ICON_BULLET]Kann eine Krise überwinden</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_DIPLOMATIC_MISSION</Tag>
+		<Russian>Дипломатическая миссия</Russian>
 		<English>Diplomatic Mission</English>
 		<German>Diplomatische Mission</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ACTION_DIPLOMATIC_MISSION_WAR</Tag>
+		<Russian>Великий человек немедленно заключает мир между Вами и Вашим врагом. Великий человек исчезает.</Russian>
 		<English>The Great Person will broker an immediate peace treaty between you and your enemy. It consumes the Great Person.</English>
 		<German>Die Große Persönlichkeit wird einen unmittelbaren Friedensvertrag zwischen Euch und Eurem Feind aushandeln. Die Große Persönlichkeit wird dabei aufgebraucht.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ACTION_DIPLOMATIC_MISSION_PEACE</Tag>
+		<Russian>Великий человек заставляет другую цивилизацию забыть прошлые прегрешния и улучшает отношения с ней. Великий человек исчезает.</Russian>
 		<English>The Great Person will make another civilization forget your past transgressions and improve your relations. It consumes the Great Person.</English>
 		<German>Die Große Persönlichkeit wird eine andere Zivilisation eure Vergehen aus der Vergangenheit vergessen lassen und eure Beziehungen verbessern. Die Große Persönlichkeit wird dabei aufgebraucht.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CAN_DIPLOMATIC_MISSION</Tag>
+		<Russian>[ICON_BULLET]Может осуществить дипломатическую миссию</Russian>
 		<English>[ICON_BULLET]Can Conduct Diplomatic Missions</English>
 		<German>[ICON_BULLET]Kann diplomatische Missionen durchführen</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TECH_BASE_COST</Tag>
+		<Russian> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Базовая стоимость:[COLOR_REVERT]</Russian>
 		<English> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Base Cost:[COLOR_REVERT]</English>
 		<German> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Grundkosten:[COLOR_REVERT]</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TECH_EMPIRE_SIZE</Tag>
+		<Russian> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Размер империи:[COLOR_REVERT]</Russian>
 		<English> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Empire Size:[COLOR_REVERT]</English>
 		<German> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Reichsgröße:[COLOR_REVERT]</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TECH_LEADER_MODIFIER</Tag>
+		<Russian> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Научное лидерство:[COLOR_REVERT]</Russian>
 		<English> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Tech Lead:[COLOR_REVERT]</English>
 		<German> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Technologievorsprung:[COLOR_REVERT]</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TECH_SPREAD_MODIFIER</Tag>
+		<Russian> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Диффузия технологий:[COLOR_REVERT]</Russian>
 		<English> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Tech Spread:[COLOR_REVERT]</English>
 		<German> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Technologieverbreitung:[COLOR_REVERT]</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TECH_SPAWN_MODIFIER</Tag>
+		<Russian> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Взлет цивилизации:[COLOR_REVERT]</Russian>
 		<English> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Rise of Civilization:[COLOR_REVERT]</English>
 		<German> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Aufstieg der Zivilisation:[COLOR_REVERT]</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TECH_MODERNIZATION_MODIFIER</Tag>
+		<Russian> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Модернизация:[COLOR_REVERT]</Russian>
 		<English> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Modernization:[COLOR_REVERT]</English>
 		<German> [ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Modernisierung:[COLOR_REVERT]</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_PEDIA_BONUS_PLAYER_TRADE</Tag>
+		<Russian>Торговля</Russian>
 		<English>Trade</English>
 		<German>Handel</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_BONUS_PLAYER_TRADE</Tag>
+		<Russian>[ICON_BULLET]Разрешает торговлю[SPACE]</Russian>
 		<English>[ICON_BULLET]Allows Trade of[SPACE]</English>
 		<German>[ICON_BULLET]Erlaubt Handel von:[SPACE]</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_FEATURE_RAINFOREST</Tag>
+		<Russian>Дождевой лес</Russian>
 		<English>Rainforest</English>
 		<German>Regenwald</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_HELP_FOOD_FROM_HEALTH</Tag>
+		<Russian>[ICON_BULLET]%D1%F2 от избытка здоровья</Russian>
 		<English>[ICON_BULLET]%D1%F2 from Excess Health</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_APOSTOLIC_PALACE_COLLECT_TITHE</Tag>
+		<Russian>Мы собрали десятину в размере %d1 с католического мира.</Russian>
 		<English>We have collected a tithe of %d1 from the Catholic world.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_HELP_STATUE_OF_ZEUS_EFFECT</Tag>
+		<Russian>[ICON_BULLET]%D1%%[ICON_PRODUCTION] от %s2_unit_or_building со статуей Зевса</Russian>
 		<English>[ICON_BULLET]%D1%%[ICON_PRODUCTION] from %s2_unit_or_building with Statue of Zeus</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_GP_BORN_OUTSIDE</Tag>
+		<Russian>%s1_GPName родился вблизи города %s2_CityName!</Russian>
 		<English>%s1_GPName has been born near %s2_CityName!</English>
 		<German>Die GroЯe Persцnlichkeit %s1_GPName wurde nahe %s2_CityName geboren!</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISC_SPY_UPGRADED</Tag>
+		<Russian>Ваш шпион достиг статуса Великого шпиона!</Russian>
 		<English>Your Spy has reached the status of a Great Spy!</English>
 		<German>Ihr Spion hat den Status eines GroЯen Spions erreicht!</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVIC_NO_FOREIGN_TRADE_MODIFIER</Tag>
+		<Russian>[ICON_BULLET]Нет дополнительного дохода от иностранных торговых путей</Russian>
 		<English>[ICON_BULLET]No Additional Income from Foreign Trade Routes</English>
 		<German>[ICON_BULLET]Kein zusätzliches Einkommen durch ausländische Handelsrouten</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVIC_NO_UNHAPPINESS_CORPORATION</Tag>
+		<Russian>[ICON_BULLET]Нет [ICON_UNHAPPY] от корпораций</Russian>
 		<English>[ICON_BULLET]No [ICON_UNHAPPY] from Corporations</English>
 		<German>[ICON_BULLET]Kein [ICON_UNHAPPY] durch Kapitalgesellschaften</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVIC_NO_UNHAPPINESS_CORPORATION_MOD</Tag>
+		<Russian>[ICON_BULLET]%D1_Mod%% [ICON_UNHAPPY] от корпораций</Russian>
 		<English>[ICON_BULLET]%D1_Mod%% [ICON_UNHAPPY] from Corporations</English>
 		<German>[ICON_BULLET]%D1_Mod%% [ICON_UNHAPPY] durch Kapitalgesellschaften</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVIC_WONDER_PRODUCTION</Tag>
+		<Russian>[ICON_BULLET]%D1_Mod%% [ICON_PRODUCTION] при постройке Чудес</Russian>
 		<English>[ICON_BULLET]%D1_Mod%% [ICON_PRODUCTION] when building Wonders</English>
 		<German>[ICON_BULLET]%D1_Mod%% [ICON_PRODUCTION] beim Bau von Wundern</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVIC_CAPITAL_TRADE_MODIFIER</Tag>
+		<Russian>[ICON_BULLET]%D1_Mod%% дохода от [ICON_TRADE] проходящих через Вашу столицу</Russian>
 		<English>[ICON_BULLET]%D1_Mod%% Income from [ICON_TRADE] going through your Capital</English>
 		<German>[ICON_BULLET]%D1_Mod%% Einkommen durch [ICON_TRADE] durch die Hauptstadt</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTE_MOD_CAPITAL_ROUTE</Tag>
+		<Russian>%D1_Mod%%: от торговли через столицу</Russian>
 		<English>%D1_Mod%%: for trading through Capital</English>
 		<German>%D1_Mod%%: durch Handel durch die Hauptstadt</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIVIC_DEFENSIVE_PACT_TRADE_MODIFIER</Tag>
+		<Russian>[ICON_BULLET]%D1_Mod%% дохода от [ICON_TRADE] с партнерами по оборонительным союзам</Russian>
 		<English>[ICON_BULLET]%D1_Mod%% Income from [ICON_TRADE] with Defensive Pact partners</English>
 		<German>[ICON_BULLET]%D1_Mod%% Einkommen durch [ICON_TRADE] mit Verteidigungsbündnispartnern</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_TRADE_ROUTE_MOD_DEFENSIVE_PACT</Tag>
+		<Russian>%D1_Mod%%: за торговлю с партнерами по оборонительным союзам</Russian>
 		<English>%D1_Mod%%: for trading with Defensive Pact partner</English>
 		<German>%D1_Mod%%: durch Handel mit einem Verteidigungsbündnispartner</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_</Tag>
+		<Russian></Russian>
 		<English></English>
 		<German></German>
 	</TEXT>
