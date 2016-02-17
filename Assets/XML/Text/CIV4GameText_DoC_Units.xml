@@ -117,7 +117,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_AMERICAN_MINUTEMAN</Tag>
-		<Russian>Minuteman</Russian>
+		<Russian>Минитмэн</Russian>
 		<English>Minuteman</English>
 	</TEXT>
 	<!--TEXT>
@@ -126,17 +126,17 @@
 	</TEXT-->
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_AMERICAN_MINUTEMAN_STRATEGY</Tag>
-		<Russian>The Minuteman is the American replacement for the Rifleman. They only cost as much as Musketmen to produce.</Russian>
+		<Russian>Минитмэн - это американская замена для Стрелков. Они стоят столько же, сколько Мушкетеры.</Russian>
 		<English>The Minuteman is the American replacement for the Rifleman. They only cost as much as Musketmen to produce.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MEXICO_RURALES</Tag>
-		<Russian>Rurales</Russian>
+		<Russian>Руралес</Russian>
 		<English>Rurales</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MEXICO_RURALES_STRATEGY</Tag>
-		<Russian>This unit marks the transition from melee to gunpowder-based cavalry. The [COLOR_UNIT_TEXT]Rurales[COLOR_REVERT] (the Mexican replacement for the [COLOR_UNIT_TEXT]Cuirassier[COLOR_REVERT]) is the strongest land unit until the entrance of the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT]. It is slightly less expensive and receives the [COLOR_HIGHLIGHT_TEXT]Combat I[COLOR_REVERT] promotion.</Russian>
+		<Russian>Этот отряд является переходом кавалерии от холодного оружия к огнестрельному. [COLOR_UNIT_TEXT]Руралес[COLOR_REVERT] (мексиканская замена [COLOR_UNIT_TEXT]Кирасиров[COLOR_REVERT]) - сильнейший наземный отряд вплоть до появления [COLOR_UNIT_TEXT]Кавалерии[COLOR_REVERT]. Он немного менее дорог и получает квалификацию [COLOR_HIGHLIGHT_TEXT]Бой I[COLOR_REVERT].</Russian>
 		<English>This unit marks the transition from melee to gunpowder-based cavalry. The [COLOR_UNIT_TEXT]Rurales[COLOR_REVERT] (the Mexican replacement for the [COLOR_UNIT_TEXT]Cuirassier[COLOR_REVERT]) is the strongest land unit until the entrance of the [COLOR_UNIT_TEXT]Cavalry[COLOR_REVERT]. It is slightly less expensive and receives the [COLOR_HIGHLIGHT_TEXT]Combat I[COLOR_REVERT] promotion.</English>
 	</TEXT>
 	<TEXT>
@@ -151,34 +151,42 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MOORISH_CORSAIR</Tag>
+		<Russian>Корсар</Russian>
 		<English>Corsair</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MOORISH_CORSAIR_HELP</Tag>
+		<Russian>[ICON_BULLET]Получает [ICON_GOLD] за потопление вражеских кораблей</Russian>
 		<English>[ICON_BULLET]Receives [ICON_GOLD] for Sinking Enemy Ships</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_MAYA_HOLKAN_HELP</Tag>
+		<Russian>[ICON_BULLET]Получает [ICON_FOOD] за победу над вражескими отрядами</Russian>
 		<English>[ICON_BULLET]Receives [ICON_FOOD] for Defeating Enemy Units</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MAYA_HOLKAN_EFFECT</Tag>
+		<Russian>Ваши холканы получают %d3 [ICON_FOOD] за %s4, победив %s1 отряд %s2.</Russian>
 		<English>Your Holkan has defeated a %s1 %s2, acquiring %d3 [ICON_FOOD] for %s4.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_INDIAN_BAMBOO_BOWMAN</Tag>
+		<Russian>Патийодха</Russian>
 		<English>Patiyodha</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_HARAPPAN_SETTLER</Tag>
+		<Russian>Градостроитель</Russian>
 		<English>City Builder</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_HARAPPAN_SETTLER_HELP</Tag>
+		<Russian>[ICON_BULLET]Новые города имеют большее население</Russian>
 		<English>[ICON_BULLET]New cities start with additional population</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_PERSECUTOR</Tag>
+		<Russian>Religious Persecutor</Russian>
 		<English>Religious Persecutor</English>
 		<French>Religious Persecutor</French>
 		<German>Religious Persecutor</German>
@@ -187,6 +195,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_PERSECUTOR_PEDIA</Tag>
+		<Russian>[TAB]A Religious Persecutor is an official who roots out heresy and apostasy from within the population, often employing the most brutal methods to do so. The Roman Catholic church has conducted a number of Inquisitions in past centuries - perhaps the most famous being the Spanish Inquisition of the fifteenth century, which targeted Muslims and Jews in Spain - but numerous other religions have engaged in similar practices throughout history.</Russian>
 		<English>[TAB]A Religious Persecutor is an official who roots out heresy and apostasy from within the population, often employing the most brutal methods to do so. The Roman Catholic church has conducted a number of Inquisitions in past centuries - perhaps the most famous being the Spanish Inquisition of the fifteenth century, which targeted Muslims and Jews in Spain - but numerous other religions have engaged in similar practices throughout history.</English>
 		<French>[TAB]Un Inquisiteur est un responsable religieux qui traque l'hйrйsie et l'apostasie parmi la population, souvent au moyen de mйthodes brutales. L'Eglise catholique a menй nombre d'inquisitions lors des siиcles passйs. La plus cйlиbre fut sans doute l'Inquisition espagnole du quinziиme siиcle, qui prenait pour cible les Musulmans et les Juifs d'Espagne. De nombreuses autres religions se sont engagйes dans des pratiques similaires durant l'Histoire.</French>
 		<German>[TAB]Ein Inquisitor ist ein offizieller religiцser Beauftragter, der in der Bevцlkerung Hдresien und Ketzereien ausmerzt und dabei oft дuЯerst brutal vorgeht. Die Rцmisch-Katholische Kirche fьhrte in den vergangenen Jahrhunderten mehrere Inquisitionen durch - die vielleicht berьhmteste war die Spanische Inquisition im 15. Jahrhundert, die sich gegen Muslime und Juden richtete - doch viele andere Religionen haben im Lauf der Geschichte дhnliche Praktiken verwendet.</German>
@@ -195,6 +204,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_PERSECUTOR_STRATEGY</Tag>
+		<Russian>Employ a Religious Persecutor to remove non-State religions from a city. The Persecutor is consumed in the operation.</Russian>
 		<English>Employ a Religious Persecutor to remove non-State religions from a city. The Persecutor is consumed in the operation.</English>
 		<French>Utilisez un Inquisiteur pour supprimer toutes les religions d'une ville qui ne sont pas des religions d'йtat. L'Inquisiteur est dйtruit au cours de l'opйration.</French>
 		<German>Setzen Sie einen Inquisitor ein, um alle Nicht-Staatsreligionen aus einer Stadt zu entfernen. Der Inquisitor wird dabei verbraucht.</German>
@@ -203,6 +213,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_UNIT_CAN_PERSECUTE</Tag>
+		<Russian>[ICON_BULLET]Может удалять негосударственные религии и соответствующие строения</Russian>
 		<English>[ICON_BULLET]Can remove non-state religions and associated buildings</English>
 		<French>[ICON_BULLET]Can remove non-state religions and associated buildings</French>
 		<German>[ICON_BULLET]Can remove non-state religions and associated buildings</German>
@@ -211,6 +222,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MISSION_PERSECUTE</Tag>
+		<Russian>[COLOR_HIGHLIGHT_TEXT]Persecution[COLOR_REVERT]</Russian>
 		<English>[COLOR_HIGHLIGHT_TEXT]Persecution[COLOR_REVERT]</English>
 		<French>[COLOR_HIGHLIGHT_TEXT]Persecution[COLOR_REVERT]</French>
 		<German>[COLOR_HIGHLIGHT_TEXT]Persecution[COLOR_REVERT]</German>
@@ -219,6 +231,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_ACTION_PERSECUTION</Tag>
+		<Russian>Attempts to remove one non-State religion from the city. This will consume the Prosecutor.</Russian>
 		<English>Attempts to remove one non-State religion from the city. This will consume the Prosecutor.</English>
 		<French>Attempts to remove one non-State religion from the city. This will consume the Prosecutor.</French>
 		<German>Attempts to remove one non-State religion from the city. This will consume the Prosecutor.</German>
@@ -227,6 +240,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MESSAGE_PERSECUTION</Tag>
+		<Russian>Your persecutor has successfully purged %s2_religion from %s1_city and confiscated %d3_gold[ICON_GOLD] from the victims.</Russian>
 		<English>Your persecutor has successfully purged %s2_religion from %s1_city and confiscated %d3_gold[ICON_GOLD] from the victims.</English>
 		<French>Your persecutor has successfully purged %s2_religion from %s1_city and confiscated %d3_gold[ICON_GOLD] from the victims.</French>
 		<German>Your persecutor has successfully purged %s2_religion from %s1_city and confiscated %d3_gold[ICON_GOLD] from the victims.</German>
@@ -235,6 +249,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_MESSAGE_PERSECUTION_FAIL</Tag>
+		<Russian>Your persecutor in %s1_city was unsuccessful.</Russian>
 		<English>Your persecutor in %s1_city was unsuccessful.</English>
 		<French>Your persecutor in %s1_city was unsuccessful.</French>
 		<German>Your persecutor in %s1_city was unsuccessful.</German>

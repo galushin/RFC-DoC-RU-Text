@@ -8,7 +8,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_TECHWINDOW__VIEWTYPE_TEXT</Tag>
-		<Russian>View</Russian>
+		<Russian>Вид</Russian>
 		<English>View</English>
 		<French>View</French>
 		<German>Ansicht</German>
@@ -17,7 +17,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_TECHWINDOW__VIEWTYPE_HOVER</Tag>
-		<Russian>Determines the view to display when you discover a technology.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Original[COLOR_REVERT] - Default minimal Civ4 view.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Detailed[COLOR_REVERT] - Adds more detailed information.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Wide[COLOR_REVERT] - Wider version of the Detailed view.</Russian>
+		<Russian>Определяет вид экрана при открытии технологии.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Исходный[COLOR_REVERT] - Обычный минималистичный вид Civ4.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Детализированный[COLOR_REVERT] - Более детализированная информация.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Широкий[COLOR_REVERT] - Более широкая версия Детализированного вида.</Russian>
 		<English>Determines the view to display when you discover a technology.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Original[COLOR_REVERT] - Default minimal Civ4 view.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Detailed[COLOR_REVERT] - Adds more detailed information.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Wide[COLOR_REVERT] - Wider version of the Detailed view.</English>
 		<French>Determines the view to display when you discover a technology.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Original[COLOR_REVERT] - Default minimal Civ4 view.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Detailed[COLOR_REVERT] - Adds more detailed information.[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Wide[COLOR_REVERT] - Wider version of the Detailed view.</French>
 		<German>Bestimmt das Aussehen des Popups, das nach Erforschung oder Erwerb einer Technologie angezeigt wird:[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Standard[COLOR_REVERT] - Minimale Standardansicht aus Civ4[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Ausführlich[COLOR_REVERT] - Zeigt die Informationen übersichtlicher an[NEWLINE][ICON_BULLET][COLOR_HIGHLIGHT_TEXT]Verbreitert[COLOR_REVERT] - Breitere Version der ausführlichen Ansicht</German>
@@ -26,7 +26,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_TECHWINDOW__VIEWTYPE_LIST</Tag>
-		<Russian>Original|Detailed|Wide</Russian>
+		<Russian>Исходный|Детализированный|Широкий</Russian>
 		<English>Original|Detailed|Wide</English>
 		<French>Original|Detailed|Wide</French>
 		<German>Standard|Ausführlich|Verbreitert</German>
@@ -35,7 +35,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_TECHWINDOW__CIVILOPEDIATEXT_TEXT</Tag>
-		<Russian>Show Civilopedia Text</Russian>
+		<Russian>Показывать текст из Цивилопедии</Russian>
 		<English>Show Civilopedia Text</English>
 		<French>Show Civilopedia Text</French>
 		<German>Civilopedia-Text anzeigen</German>
@@ -44,7 +44,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_TECHWINDOW__CIVILOPEDIATEXT_HOVER</Tag>
-		<Russian>When checked, includes the Civilopedia text after the quote for the discovered technology.</Russian>
+		<Russian>Если выбрано, включяет текст из Цивилопедии после цитаты для исследованной технологии.</Russian>
 		<English>When checked, includes the Civilopedia text after the quote for the discovered technology.</English>
 		<French>When checked, includes the Civilopedia text after the quote for the discovered technology.</French>
 		<German>Zeigt den kompletten Eintrag einer erforschten oder erworbenen Technolgie aus der Civilopedia zusätzlich zu deren Zitat an</German>
