@@ -16,7 +16,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_FOREST_FIRE_1</Tag>
-		<Russian>A forest fire sparked by lightning has raged across the land near %s2_city.</Russian>
+		<Russian>Возникшний из-за удара молнии пожар, бушует возле города %s2_city.</Russian>
 		<English>A forest fire sparked by lightning has raged across the land near %s2_city.</English>
 		<French>Un feu de forкt provoquй par la foudre s'est propagй autour de %s2_city.</French>
 		<German>Ein durch einen Blitz verursachter Waldbrand hat Lдndereien in der Nдhe von %s2_city verwьstet.</German>
@@ -26,7 +26,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_FOREST_FIRE_2</Tag>
-		<Russian>Criminals have set fire to the forest near %s2_city in a failed bid to aid their escape from justice.</Russian>
+		<Russian>Преступники подожгли лес возле города %s2_city, чтобы скрыться от правосудия.</Russian>
 		<English>Criminals have set fire to the forest near %s2_city in a failed bid to aid their escape from justice.</English>
 		<French>Des criminels ont mis le feu а la forкt prиs de %s2_city en tentant vainement d'йchapper а la justice.</French>
 		<German>Kriminelle haben in einem Wald nahe %s2_city ein Feuer gelegt, um der Justiz zu entkommen - vergeblich.</German>
@@ -35,7 +35,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_FOREST_FIRE_3</Tag>
-		<Russian>Tragedy has struck near %s2_city as a village fire spread to the forest, scarring the land for miles.</Russian>
+		<Russian>Возле города %s2_city произошла трагедия: пожар в деревне перекинулся на лес и распространился на километры.</Russian>
 		<English>Tragedy has struck near %s2_city as a village fire spread to the forest, scarring the land for miles.</English>
 		<French>Catastrophe а %s2_city : l'incendie d'un village s'est propagй а la forкt, brыlant des milliers d'hectares.</French>
 		<German>Nahe %s2_city hat sich eine Tragцdie ereignet: Ein Feuer griff von einem Dorf auf den Wald ьber und verwьstete kilometerlange Landstriche.</German>
@@ -44,7 +44,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_FOREST_FIRE_1</Tag>
-		<Russian>Organize a replanting effort.</Russian>
+		<Russian>Организовать новые посадки леса.</Russian>
 		<English>Organize a replanting effort.</English>
 		<French>Organiser une campagne de reboisement.</French>
 		<German>Organisiert eine Aufforstung.</German>
@@ -53,7 +53,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_FOREST_FIRE_2</Tag>
-		<Russian>Send emissaries to assist the bereaved.</Russian>
+		<Russian>Отправить помощь пострадавшим.</Russian>
 		<English>Send emissaries to assist the bereaved.</English>
 		<French>Envoyer des йmissaires pour aider les victimes.</French>
 		<German>Sendet Helfer zur Unterstьtzung der Hinterbliebenen aus.</German>
@@ -62,7 +62,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_FOREST_FIRE_3</Tag>
-		<Russian>We are too pressed to spare any aid.</Russian>
+		<Russian>Мы слишком стеснены в средствах, чтобы оказать поомщь.</Russian>
 		<English>We are too pressed to spare any aid.</English>
 		<French>Nous n'avons pas assez d'argent pour offrir notre aide.</French>
 		<German>Wir kцnnen zurzeit keine Hilfe leisten.</German>
@@ -71,7 +71,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENTTRIGGER_CITY_RUINS</Tag>
-		<Russian>%s1_civ_adjective explorers have discovered valuable information buried in ruins near %s2_city.</Russian>
+		<Russian>%s1_civ_adjective исследователи обнаружили важные сведения, погребенные в руинах возле города %s2_city.</Russian>
 		<English>%s1_civ_adjective explorers have discovered valuable information buried in ruins near %s2_city.</English>
 		<French>Des explorateurs %s1:3_civ_adjective ont dйcouvert des informations cruciales en fouillant les ruines prиs de %s2_city.</French>
 		<German>%s1:3_civ_adjective Kundschafter haben in den Ruinen nahe %s2_city wertvolle Informationen entdeckt.</German>
@@ -80,7 +80,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_CITY_RUINS_ANCIENT_1</Tag>
-		<Russian>Scouts exploring ruins near %s2_city have discovered a cache of knowledge.</Russian>
+		<Russian>Разведчики, обследовавшие руины вблизи города %s2_city, обнаружили клад.</Russian>
 		<English>Scouts exploring ruins near %s2_city have discovered a cache of knowledge.</English>
 		<French>En fouillant les ruines prиs de %s2_city, des йclaireurs ont dйcouvert des informations capitales.</French>
 		<German>Spдher haben in den Ruinen nahe %s2_city geheimes Wissen entdeckt.</German>
@@ -89,7 +89,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_CITY_RUINS_INDUSTRIAL_1</Tag>
-		<Russian>An archaeological expedition to city ruins near %s2_city has uncovered lost treasures, texts and artifacts.</Russian>
+		<Russian>Археологическая экспедиция обнаружила в руинах возле города %s2_city сокровища, тексты и артефакты.</Russian>
 		<English>An archaeological expedition to city ruins near %s2_city has uncovered lost treasures, texts and artifacts.</English>
 		<French>Une expйdition archйologique partie explorer les ruines prиs de %s2_city a dйcouvert des trйsors, des textes et des artefacts perdus.</French>
 		<German>Eine archдologische Expedition hat in den Ruinen in der Nдhe von %s2_city verloren geglaubte Schдtze, Schriften und Artefakte zutage gefцrdert.</German>
@@ -98,7 +98,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_CITY_RUINS_1</Tag>
-		<Russian>Send commendations to the leaders of the exploring party.</Russian>
+		<Russian>Отправить благодарность руководителям исследователей.</Russian>
 		<English>Send commendations to the leaders of the exploring party.</English>
 		<French>Envoyer nos fйlicitations aux chefs des йquipes d'exploration.</French>
 		<German>Sendet Belobigungsschreiben an die Leiter der Expedition.</German>
@@ -107,7 +107,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_CITY_RUINS_2</Tag>
-		<Russian>Fund additional exploratory efforts.</Russian>
+		<Russian>Профинансировать дополнительные усилия.</Russian>
 		<English>Fund additional exploratory efforts.</English>
 		<French>Financer des campagnes d'exploration supplйmentaires.</French>
 		<German>Finanziert weitere Expeditionen.</German>
@@ -116,7 +116,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENTTRIGGER_HAPPY_HUNTING</Tag>
-		<Russian>Surplus game harvested by hunters near the %s1_civ_adjective city of %s2_city has fueled a minor population boom.</Russian>
+		<Russian>%s1_civ_adjective охотники получили богатую добычу вблизи города %s2_city, это привело к небольшому буму рождаемости.</Russian>
 		<English>Surplus game harvested by hunters near the %s1_civ_adjective city of %s2_city has fueled a minor population boom.</English>
 		<French>Un surplus de gibier dйbusquй par des chasseurs prиs de la ville %s1:2_civ_adjective de %s2_city a donnй lieu а une brusque hausse de la population.</French>
 		<German>Das von Jдgern in der Nдhe der %s1:2_civ_adjective Stadt %s2_city erbeutete zusдtzliche Wild hat einen geringen Bevцlkerungszuwachs bewirkt.</German>
@@ -125,7 +125,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_HAPPY_HUNTING_1</Tag>
-		<Russian>Moose herds near %s2_city have grown particularly large. Our hunters have harvested a cache of surplus food.</Russian>
+		<Russian>Стада лосей вблизи города %s2_city стали особенно многочисленными. Наши охотники добыли больше пищи.</Russian>
 		<English>Moose herds near %s2_city have grown particularly large. Our hunters have harvested a cache of surplus food.</English>
 		<French>Des troupeaux d'йlans prиs de %s2_city se sont fortement dйveloppйs. Nos chasseurs ont rйcoltй un surplus de nourriture.</French>
 		<German>Dank der besonders umfangreichen Elchherden nahe der Stadt %s2_city konnten unsere Jдger zusдtzliche Nahrungsvorrдte sichern.</German>
@@ -134,7 +134,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_HAPPY_HUNTING_2</Tag>
-		<Russian>The people of %s2_city celebrate as the latest caribou hunting season has brought a rich harvest.</Russian>
+		<Russian>Жители города %s2_city празднуют окончание удачного сезона охоты на карибу.</Russian>
 		<English>The people of %s2_city celebrate as the latest caribou hunting season has brought a rich harvest.</English>
 		<French>Les citoyens de %s2_city cйlиbrent une saison de chasse aux йlans particuliиrement fructueuse.</French>
 		<German>Die Bьrger von %s2_city feiern die hцchst ertragreiche letzte Karibu-Jagdsaison.</German>
@@ -143,7 +143,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_HAPPY_HUNTING_3</Tag>
-		<Russian>Deer proliferate through the forest near %s2_city, allowing our hunters to store up extra meat.</Russian>
+		<Russian>Олени сильно размножились в лесах вблизи города %s2_city, позволив нашим охотникам добыть больше мяса.</Russian>
 		<English>Deer proliferate through the forest near %s2_city, allowing our hunters to store up extra meat.</English>
 		<French>Les cerfs prolifиrent dans la forкt prиs de %s2_city, permettant а nos chasseurs de stocker de la nourriture supplйmentaire.</French>
 		<German>Dank der umfangreichen Rotwildbestдnde in dem Waldstьck nahe %s2_city kцnnen unsere Jдger zusдtzliche Fleischvorrдte anhдufen.</German>
@@ -152,7 +152,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_HAPPY_HUNTING_1</Tag>
-		<Russian>Send congratulations to the citizens.</Russian>
+		<Russian>Отправить гражданам поздравление.</Russian>
 		<English>Send congratulations to the citizens.</English>
 		<French>Fйliciter les citoyens.</French>
 		<German>Gratuliert den Bьrgern.</German>
@@ -161,7 +161,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENTTRIGGER_MOTHER_LODE</Tag>
-		<Russian>Gold miners near the %s1_civ_adjective city of %s2_city have struck the mother lode.</Russian>
+		<Russian>%s1_civ_adjective шахтеры наткнулись на золотую жилу вблизи города %s2_city.</Russian>
 		<English>Gold miners near the %s1_civ_adjective city of %s2_city have struck the mother lode.</English>
 		<French>Des mineurs prиs de la ville %s1:2_civ_adjective de %s2_city ont trouvй une importante veine d'or.</French>
 		<German>Die Goldgrдber sind nahe der %s1:2_civ_adjective Stadt %s2_city auf die Hauptader gestoЯen.</German>
@@ -170,7 +170,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_MOTHER_LODE_1</Tag>
-		<Russian>Our gold miners near %s2_city have struck the mother lode! We are rich, rich, rich!</Russian>
+		<Russian>Наши шахтеры нашли золотую жилу вблизи города %s2_city! Мы богаты, богаты, богаты!</Russian>
 		<English>Our gold miners near %s2_city have struck the mother lode! We are rich, rich, rich!</English>
 		<French>Nos mineurs prиs de %s2_city ont trouvй une importante veine d'or ! Nous sommes riches, riches, riches !</French>
 		<German>Unsere Goldgrдber sind in der Nдhe von %s2_city auf die Hauptader gestoЯen! Wir sind reich, reich, reich!</German>
@@ -179,7 +179,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_MOTHER_LODE_1</Tag>
-		<Russian>Cash in on our success!</Russian>
+		<Russian>Заработаем на нашем успехе!</Russian>
 		<English>Cash in on our success!</English>
 		<French>Rйcolter les fruits de notre rйussite !</French>
 		<German>Schlagen wir Kapital aus diesem Erfolg!</German>
@@ -188,7 +188,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENTTRIGGER_WASHED_OUT</Tag>
-		<Russian>Floods have washed out some of the routes near the %s1_civ_adjective city of %s2_city.</Russian>
+		<Russian>Паводки смыли некоторые дороги вблизи города %s2_city народа %s1_civ_adjective.</Russian>
 		<English>Floods have washed out some of the routes near the %s1_civ_adjective city of %s2_city.</English>
 		<French>Des inondations ont noyй les routes prиs de la ville %s1:2_civ_adjective de %s2_city.</French>
 		<German>Einige StraЯen in der Nдhe der %s1:2_civ_adjective Stadt %s2_city wurden ьberflutet.</German>
@@ -197,7 +197,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_WASHED_OUT_1</Tag>
-		<Russian>Floods have washed out the routes near %s2_city.</Russian>
+		<Russian>Паводки смыли дороги вблизи города %s2_city.</Russian>
 		<English>Floods have washed out the routes near %s2_city.</English>
 		<French>Des inondations ont noyй les routes prиs de %s2_city.</French>
 		<German>Einige StraЯen in der Nдhe der Stadt %s2_city wurden ьberflutet.</German>
@@ -206,7 +206,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_WASHED_OUT_1</Tag>
-		<Russian>We will have to send workers to repair them at a later time.</Russian>
+		<Russian>Мы отправим работников для ремонта позже.</Russian>
 		<English>We will have to send workers to repair them at a later time.</English>
 		<French>Nous enverrons des travailleurs les rйparer plus tard.</French>
 		<German>Wir mьssen Arbeiter aussenden, um sie spдter zu reparieren.</German>
@@ -215,7 +215,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_WASHED_OUT_2</Tag>
-		<Russian>Dispatch emergency crews to repair the damage, without heed to cost.</Russian>
+		<Russian>Отправить аварийные бригады для устранения ущерба, несмотря на затраты.</Russian>
 		<English>Dispatch emergency crews to repair the damage, without heed to cost.</English>
 		<French>Envoyer des йquipes d'urgence rйparer les dйgвts, quel qu'en soit le coыt.</French>
 		<German>Sendet Baukolonnen aus, um die Schдden zu beseitigen - Geld spielt keine Rolle.</German>
