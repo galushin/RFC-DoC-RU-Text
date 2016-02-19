@@ -224,7 +224,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENTTRIGGER_AT_THE_SWORD</Tag>
-		<Russian>%s1_civ_adjective soldiers have rallied behind their heroes of the sword.</Russian>
+		<Russian>%s1_civ_adjective солдаты сплотились вокруг своих героев меча.</Russian>
 		<English>%s1_civ_adjective soldiers have rallied behind their heroes of the sword.</English>
 		<French>Des soldats %s1:3_civ_adjective se sont ralliйs а leurs hйros de guerre.</French>
 		<German>%s1:3_civ_adjective Soldaten haben sich hinter ihren heldenhaften Schwertkдmpfern versammelt.</German>
@@ -233,7 +233,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_AT_THE_SWORD_1</Tag>
-		<Russian>Soldiers from our victorious %s3_unit have rallied behind their combat heroes! Their strength and resolve have firmed! Their proficiency has increased!</Russian>
+		<Russian>Солдаты из нашего отряда %s3_unit сплотились вокруг своих героев! Их сила и решительность укрепились! Их профессиональность возрасла!</Russian>
 		<English>Soldiers from our victorious %s3_unit have rallied behind their combat heroes! Their strength and resolve have firmed! Their proficiency has increased!</English>
 		<French>Des soldats de notre glorieuse unitй (%s3_unit) se sont ralliйs а leurs hйros de guerre ! Leur force et leur dйtermination se sont aguerries ! Leur compйtence s'est accrue !</French>
 		<German>Soldaten unserer siegreichen Einheit %s3_unit haben sich hinter ihren Helden des Schlachtfeldes versammelt! Ihre Stдrke und Entschlossenheit hat sich gefestigt und ihre Fertigkeiten haben sich verbessert!</German>
@@ -242,7 +242,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_AT_THE_SWORD_1</Tag>
-		<Russian>Decorate our glorious heroes of the sword!</Russian>
+		<Russian>Наградить наших славных героев меча!</Russian>
 		<English>Decorate our glorious heroes of the sword!</English>
 		<French>Dйcorer nos glorieux hйros !</French>
 		<German>Verleiht unseren glorreichen Helden des Schwertes eine Auszeichnung!</German>
@@ -251,7 +251,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_UNIT_AT_THE_SWORD</Tag>
-		<Russian>Heroes of the Sword</Russian>
+		<Russian>Герои Меча</Russian>
 		<English>Heroes of the Sword</English>
 		<French>Hйros de guerre</French>
 		<German>Helden des Schwertes</German>
@@ -260,7 +260,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_MAN_NAMED_JED_1</Tag>
-		<Russian>While hunting, our %s3_unit has discovered a rich supply of a black oil that burns rather hot.</Russian>
+		<Russian>Во время охоты наш отряд %s3_unit обнаружил богатые залежи черного масла, которое очень хорошо горит.</Russian>
 		<English>While hunting, our %s3_unit has discovered a rich supply of a black oil that burns rather hot.</English>
 		<French>Pendant qu'il chassait, notre %s3_unit a dйcouvert une source importante d'une sorte d'huile noire brыlant d'un feu vif.</French>
 		<German>Unsere Einheit %s3_unit hat wдhrend der Jagd ein reichhaltiges Rohцlvorkommen entdeckt, das ziemlich gut brennt.</German>
@@ -269,7 +269,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_MAN_NAMED_JED_1</Tag>
-		<Russian>We have no time for such nonsense. Order them to continue scouting.</Russian>
+		<Russian>У нас нет времени на эту чушь. Прикажите им продолжить разведку.</Russian>
 		<English>We have no time for such nonsense. Order them to continue scouting.</English>
 		<French>Nous n'avons pas de temps а consacrer а ces bкtises. Donnez-leur l'ordre de continuer leurs explorations.</French>
 		<German>Wir haben keine Zeit fьr solchen Unsinn. Sie sollen ihren Erkundungszug fortsetzen.</German>
@@ -278,7 +278,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_MAN_NAMED_JED_2</Tag>
-		<Russian>This substance must be studied to see how we might make use of it.</Russian>
+		<Russian>Это вещество нужно изучить, чтобы понять, как мы можем его использовать.</Russian>
 		<English>This substance must be studied to see how we might make use of it.</English>
 		<French>Cette substance doit кtre йtudiйe pour lui trouver une utilitй.</French>
 		<German>Die Substanz muss untersucht werden, damit wir herausfinden, wie wir sie nutzen kцnnen.</German>
@@ -287,7 +287,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENTTRIGGER_INSPIRED_MISSION</Tag>
-		<Russian>Inspired %s3_religion_adjective missionaries from the %s1_civ_adjective city of %s2_city have greatly expanded the influence of their religion!</Russian>
+		<Russian>Вдохновленные %s3_religion_adjective миссионеры из %s1_civ_adjective города %s2_city сильно разширили влияние своей религии!</Russian>
 		<English>Inspired %s3_religion_adjective missionaries from the %s1_civ_adjective city of %s2_city have greatly expanded the influence of their religion!</English>
 		<French>Des missionnaires %s3:3_religion_adjective de la ville %s1:2_civ_adjective de %s2_city ont considйrablement augmentй l'influence de leur religion !</French>
 		<German>Eifrige %s3:3_religion_adjective Missionare aus der %s1:2_civ_adjective Stadt %s2_city haben fьr eine groЯe Verbreitung ihrer Religion gesorgt!</German>
@@ -296,7 +296,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_INSPIRED_MISSION_1</Tag>
-		<Russian>Inspired %s4_religion_adjective missionaries have spread their influence out of %s2_city. They now seek an audience with you, requesting your assistance in funding additional missions to the %s1_civ_adjective Empire.</Russian>
+		<Russian>Вдохновленные %s4_religion_adjective миссионеры распространили свое влияние из города %s2_city. Теперь они ищут встречи с Вами, чтобы попросить помощи в финансировании дополнительных миссий к народу %s1_civ_adjective.</Russian>
 		<English>Inspired %s4_religion_adjective missionaries have spread their influence out of %s2_city. They now seek an audience with you, requesting your assistance in funding additional missions to the %s1_civ_adjective Empire.</English>
 		<French>Des missionnaires %s4:3_religion_adjective ont propagй leur influence en dehors de %s2_city. Ils souhaiteraient maintenant vous rencontrer pour que vous les aidiez а financer de nouvelles missions dans l'empire %s1:1_civ_adjective.</French>
 		<German>Eifrige %s4:3_religion_adjective Missionare haben ihre Religion ьber die Grenzen von %s2_city hinaus verbreiten kцnnen. Jetzt bitten sie um eine Audienz, weil sie sich finanzielle Unterstьtzung fьr weitere Missionen im %s1:2_civ_adjective Reich erhoffen.</German>
@@ -305,7 +305,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_INSPIRED_MISSION_1</Tag>
-		<Russian>We are unable to assist at this time.</Russian>
+		<Russian>Мы не можем помочь в этот раз.</Russian>
 		<English>We are unable to assist at this time.</English>
 		<French>Nous ne pouvons pas les aider pour l'instant.</French>
 		<German>Wir kцnnen ihnen im Moment nicht behilflich sein.</German>
@@ -314,7 +314,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_INSPIRED_MISSION_2</Tag>
-		<Russian>We can afford a small donation.</Russian>
+		<Russian>Мы можем позволить себе небольшое пожертвование.</Russian>
 		<English>We can afford a small donation.</English>
 		<French>Nous pouvons leur octroyer une modeste donation.</French>
 		<German>Eine kleine Spende kцnnen wir uns wohl leisten.</German>
@@ -323,7 +323,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_INSPIRED_MISSION_3</Tag>
-		<Russian>We are pleased to provide any assistance they may require!</Russian>
+		<Russian>Мы ради предоставить любую помощь, которая может им потребоваться!</Russian>
 		<English>We are pleased to provide any assistance they may require!</English>
 		<French>Nous serons ravis de leur offrir toute l'aide qu'ils dйsirent !</French>
 		<German>Es ist uns eine Freude, ihnen jegliche Unterstьtzung zu gewдhren, die sie brauchen!</German>
@@ -332,7 +332,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENTTRIGGER_HYMNS_AND_SCULPTURES</Tag>
-		<Russian>Inspired by religious music and sculpture in %s2_city, a new Great Artist has emerged in the %s1_civ_adjective Empire.</Russian>
+		<Russian>Вдохновшись религиозной музыкой и скульптурами в городе %s2_city, среди народа %s1_civ_adjective появился новый Великий талант.</Russian>
 		<English>Inspired by religious music and sculpture in %s2_city, a new Great Artist has emerged in the %s1_civ_adjective Empire.</English>
 		<French>Inspirй par la musique et les sculptures religieuses de %s2_city, un nouvel artiste illustre a йmergй dans l'empire %s1:1_civ_adjective.</French>
 		<German>Von den religiцsen Klдngen und Skulpturen in der Stadt %s2_city inspiriert, wurde im %s1:2_civ_adjective Reich ein neuer GroЯer Kьnstler ausgebildet.</German>
@@ -341,7 +341,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_HYMNS_AND_SCULPTURES_1</Tag>
-		<Russian>The music played in your %s5_building in %s2_city has inspired a young person, who has grown into a Great Artist!</Russian>
+		<Russian>Музыка, исполняемая в %s5_building в городе %s2_city вдохновила молодого человека и он вырос Великим Талантом!</Russian>
 		<English>The music played in your %s5_building in %s2_city has inspired a young person, who has grown into a Great Artist!</English>
 		<French>La musique jouйe dans votre %s5_building de %s2_city a inspirй une jeune personne, laquelle est devenue un artiste illustre !</French>
 		<German>Die Musik, die in Eurem Gebдude %s5_building in %s2_city gespielt wird, hat einen jungen Menschen dazu inspiriert, sich zu einem GroЯen Kьnstler ausbilden zu lassen!</German>
@@ -350,7 +350,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_HYMNS_AND_SCULPTURES_2</Tag>
-		<Russian>The art and sculpture decorating the %s5_building in %s2_city has nurtured the imagination and talents of a new Great Artist!</Russian>
+		<Russian>Изображения и скульптуры, укрошающие %s5_building в городе %s2_city питали воображение и способности нового Великого Таланта!</Russian>
 		<English>The art and sculpture decorating the %s5_building in %s2_city has nurtured the imagination and talents of a new Great Artist!</English>
 		<French>L'art et les sculptures ornant votre %s5_building de %s2_city ont nourri l'imagination et le talent d'un nouvel artiste illustre !</French>
 		<German>Die in dem Gebдude %s5_building der Stadt %s2_city zu besichtigende Kunst und Bildhauerei hat der Vorstellungskraft und dem Talent eines neuen GroЯen Kьnstlers Vorschub geleistet!</German>
@@ -359,7 +359,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_HYMNS_AND_SCULPTURES_1</Tag>
-		<Russian>Please grant an audience to this promising new artist so that we may decide how best to make use of their talents.</Russian>
+		<Russian>Предоставим аудиенцию этому многообещающему художнику, чтобы мы могли решить, как лучше использовать его таланты.</Russian>
 		<English>Please grant an audience to this promising new artist so that we may decide how best to make use of their talents.</English>
 		<French>Accorder une audience а ce nouvel artiste prometteur afin de dйterminer la meilleure faзon d'utiliser ses talents.</French>
 		<German>Gewдhrt diesem viel versprechenden neuen Kьnstler eine Audienz, damit wir entscheiden kцnnen, wie wir seine Talente am besten nutzen kцnnen.</German>
@@ -368,7 +368,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENTTRIGGER_CARELESS_APPRENTICE</Tag>
-		<Russian>A fire has destroyed the Forge in the %s1_civ_adjective city of %s2_city.</Russian>
+		<Russian>Пожар уничтожил Кузницу в городе %s2_city народа %s1_civ_adjective.</Russian>
 		<English>A fire has destroyed the Forge in the %s1_civ_adjective city of %s2_city.</English>
 		<French>Un feu a dйtruit la forge de la ville %s1:2_civ_adjective de %s2_city.</French>
 		<German>Die Schmiede in der %s1:2_civ_adjective Stadt %s2_city ist einem Feuer zum Opfer gefallen.</German>
@@ -377,7 +377,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_CARELESS_APPRENTICE_1</Tag>
-		<Russian>A careless apprentice started a fire at the Forge in %s2_city, during which the facility was destroyed.</Russian>
+		<Russian>Беспечный подмастерье устроил пожар в кузнице в городе %s2_city, строение уничтожено.</Russian>
 		<English>A careless apprentice started a fire at the Forge in %s2_city, during which the facility was destroyed.</English>
 		<French>Un apprenti a nйgligemment provoquй un incendie а %s2_city, entraоnant la destruction de la forge.</French>
 		<German>Ein unachtsamer Lehrling hat einen Brand in der Schmiede von %s2_city verursacht, durch den das Gebдude zerstцrt wurde.</German>
@@ -386,7 +386,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_CARELESS_APPRENTICE_2</Tag>
-		<Russian>Brush fires sparked by dry conditions near %s2_city spread to the trade district. The Forge was burned down.</Russian>
+		<Russian>Лесные пожары, возникшие из-за сухой погоды, вблизи города %s2_city перекинулись на торговый квартал. Кузница сгорела до тла.</Russian>
 		<English>Brush fires sparked by dry conditions near %s2_city spread to the trade district. The Forge was burned down.</English>
 		<French>Des feux de broussailles provoquйs par une canicule prиs de %s2_city se sont propagйs au quartier commerзant. La forge a йtй brыlйe.</French>
 		<German>Ein durch die in %s2_city herrschende Trockenheit verursachtes Lauffeuer hat auf das Handelsviertel ьbergegriffen. Die Schmiede ist abgebrannt.</German>
@@ -395,7 +395,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_CARELESS_APPRENTICE_3</Tag>
-		<Russian>Unknown arsonists have torched the Forge in %s2_city.</Russian>
+		<Russian>Неизвестные поджигатели спалили Кузницу в городе %s2_city.</Russian>
 		<English>Unknown arsonists have torched the Forge in %s2_city.</English>
 		<French>Des incendiaires inconnus ont incendiй la forge de %s2_city.</French>
 		<German>Brandstifter haben die Schmiede in %s2_city abgebrannt.</German>
@@ -404,7 +404,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_CARELESS_APPRENTICE_1</Tag>
-		<Russian>Organize a rebuilding effort.</Russian>
+		<Russian>Примите меры по восстановлению.</Russian>
 		<English>Organize a rebuilding effort.</English>
 		<French>Procйder aux rйparations.</French>
 		<German>Organisiert den Wiederaufbau.</German>
@@ -413,7 +413,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_CARELESS_APPRENTICE_2</Tag>
-		<Russian>Investigate the cause of the fire.</Russian>
+		<Russian>Расследуйте причины пожара.</Russian>
 		<English>Investigate the cause of the fire.</English>
 		<French>Enquкter sur l'origine du feu.</French>
 		<German>Untersucht die Brandursache.</German>
@@ -422,7 +422,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_CARELESS_APPRENTICE_3</Tag>
-		<Russian>We are too pressed to spare any attention to a small fire.</Russian>
+		<Russian>Мы слишком заняты, чтобы обращать внимание на мелкий пожар.</Russian>
 		<English>We are too pressed to spare any attention to a small fire.</English>
 		<French>Nous n'avons pas assez d'argent pour prкter attention а un petit incendie.</French>
 		<German>Wir haben Besseres zu tun, als uns um ein kleines Feuerchen zu kьmmern.</German>
