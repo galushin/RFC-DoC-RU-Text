@@ -431,7 +431,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_FAMINE_1</Tag>
-		<Russian>A dreadful harvest for our %s1_civ_adjective neighbors in the city of %s6_city just across the border has left its people starving. We may have a chance to gain favor with them if we provide humanitarian assistance from %s2_city.</Russian>
+		<Russian>Плохой урожай у наших соседей %s1_civ_adjective из города %s6_city рядом с нашей границей вызвал голод. У нас есть возможность улучшить отношения с ними, если мы окажем гуманитарную помощь из города %s2_city.</Russian>
 		<English>A dreadful harvest for our %s1_civ_adjective neighbors in the city of %s6_city just across the border has left its people starving. We may have a chance to gain favor with them if we provide humanitarian assistance from %s2_city.</English>
 		<French>Nos voisins %s1:3_civ_adjective de la ville frontaliиre de %s6_city ont subi une rйcolte catastrophique qui a provoquй la famine de la population. Nous pourrions gagner leur estime si nous leur offrions l'aide humanitaire de %s2_city.</French>
 		<German>Wegen der katastrophalen Ernte bei unseren %s1:2_civ_adjective Nachbarn in der Stadt %s6_city gleich an der Grenze mьssen die Bьrger dort Hunger leiden. Wir kцnnten die Gelegenheit nutzen, um uns ihre Gunst sichern, indem wir ihnen von %s2_city aus humanitдre Hilfe zukommen lassen.</German>
@@ -440,7 +440,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_FAMINE_2</Tag>
-		<Russian>Famine has struck the city of %s6_city. Our people in %s2_city have enough food on hand to assist their %s1_civ_adjective neighbors. We stand ready to provide aid and comfort.</Russian>
+		<Russian>В городе %s6_city начался голод. В нашем народе %s2_city имеется досточно пищи, чтобы помочь их %s1_civ_adjective соседям. Мы готовы предоставить помощь и утешение.</Russian>
 		<English>Famine has struck the city of %s6_city. Our people in %s2_city have enough food on hand to assist their %s1_civ_adjective neighbors. We stand ready to provide aid and comfort.</English>
 		<French>La famine s'est emparйe de %s6_city. Nos citoyens de %s2_city ont assez de nourriture pour aider leurs voisins %s1:3_civ_adjective. Nous attendons vos ordres pour leur procurer aide et rйconfort.</French>
 		<German>In der Stadt %s6_city herrscht Hungersnot. Unsere Bьrger in %s2_city haben genug Nahrungsvorrдte, um ihre %s1:2_civ_adjective Nachbarn zu unterstьtzen. Wir sind bereit, Hilfe zu leisten und Trost zu spenden.</German>
@@ -449,7 +449,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_FAMINE_3</Tag>
-		<Russian>Tragedy has struck just beyond your border, as the %s1_civ_adjective Empire struggles to feed all its hungry people in %s6_city. Many will die without enough to eat. Should the citizens of %s2_city move to assist them?</Russian>
+		<Russian>У наших границ произошла трагедия, так как %s1_civ_adjective власти не могут накормить всех голодных жителей города %s6_city. Многие погибнут без еду. Должны ли граждане города %s2_city помочь им?</Russian>
 		<English>Tragedy has struck just beyond your border, as the %s1_civ_adjective Empire struggles to feed all its hungry people in %s6_city. Many will die without enough to eat. Should the citizens of %s2_city move to assist them?</English>
 		<French>L'horreur sйvit а quelques lieues de votre frontiиre : l'empire %s1:1_civ_adjective peine а nourrir les citoyens affamйs de %s6_city. De nombreux habitants mourront faute de nourriture. Voulez-vous leur octroyer l'aide des citoyens de %s2_city ?</French>
 		<German>Gleich hinter Eurer Grenze ereignet sich eine Tragцdie: Das %s1:3_civ_adjective Reich kдmpft darum, die Versorgung der Hunger leidenden Bevцlkerung von %s6_city zu sichern. Ohne Nahrung werden viele Menschen sterben. Sollen die Bьrger von %s2_city ihnen helfen?</German>
@@ -458,7 +458,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_FAMINE_1</Tag>
-		<Russian>We are unable to assist at this time. Send our condolensces to their leaders.</Russian>
+		<Russian>В этот раз мы не можем помочь. Пошлите их властям соболезнования.</Russian>
 		<English>We are unable to assist at this time. Send our condolensces to their leaders.</English>
 		<French>Nous ne pouvons les aider pour l'instant. Envoyez nos condolйances а leurs dirigeants.</French>
 		<German>Wir kцnnen ihnen zurzeit nicht helfen. Sprecht ihren Staatsoberhдuptern unser Beileid aus.</German>
@@ -467,7 +467,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_FAMINE_2</Tag>
-		<Russian>Open the city granaries and send half the stores to our troubled neighbors.</Russian>
+		<Russian>Открыть городские амбары и отправьте половину запасов нашим соседям в беде.</Russian>
 		<English>Open the city granaries and send half the stores to our troubled neighbors.</English>
 		<French>Ouvrir les greniers de la ville et envoyer la moitiй de leur stock а nos voisins accablйs.</French>
 		<German>Цffnet die stдdtischen Kornspeicher und schickt die Hдlfte der Lagerbestдnde an unsere gebeutelten Nachbarn.</German>
@@ -476,7 +476,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_FAMINE_3</Tag>
-		<Russian>Send all of the food stores! Spare no expense to aid our friends!</Russian>
+		<Russian>Отправьте все наши запасы. Не жалейте ничего для помощи нашим друзьям!</Russian>
 		<English>Send all of the food stores! Spare no expense to aid our friends!</English>
 		<French>Envoyer tout notre stock ! Ne reculons devant aucune dйpense pour aider nos amis !</French>
 		<German>Schickt ihnen unsere gesamten Nahrungsvorrдte! Wir werden keine Mьhe scheuen, um unseren Freunden zu helfen!</German>
@@ -485,7 +485,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_NEWS_EVENT_FAMINE_2</Tag>
-		<Russian>The generous people of %s2_city have donated famine relief to the endangered people of %s4_city. This humanitarian effort has brought the two nations closer together.</Russian>
+		<Russian>Щедрые люди из города %s2_city оказали помощь голодающим из города %s4_city. Это сблизи две нации.</Russian>
 		<English>The generous people of %s2_city have donated famine relief to the endangered people of %s4_city. This humanitarian effort has brought the two nations closer together.</English>
 		<French>Les gйnйreux citoyens de %s2_city ont donnй de la nourriture aux habitants de %s4_city. Cette aide humanitaire a rapprochй les deux nations.</French>
 		<German>Die groЯzьgigen Bьrger von %s2_city haben die Menschen in %s4_city aus der Hungersnot errettet. Dieser Akt der humanitдren Hilfe hat die beiden Nationen einander nдher gebracht.</German>
@@ -494,7 +494,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_NEWS_EVENT_FAMINE_3</Tag>
-		<Russian>The generous people of %s2_city have donated massive famine relief to the starving people of %s4_city. This generous humanitarian effort has brought the two nations much closer together.</Russian>
+		<Russian>Щедрые люди из города %s2_city оказали существенную помощь голодающим из города %s4_city. Это сильно сблизи две нации.</Russian>
 		<English>The generous people of %s2_city have donated massive famine relief to the starving people of %s4_city. This generous humanitarian effort has brought the two nations much closer together.</English>
 		<French>Les gйnйreux citoyens de %s2_city sont massivement venus en aide au peuple affamй de %s4_city. Cette aide humanitaire gйnйreuse a considйrablement rapprochй les deux nations.</French>
 		<German>Die groЯzьgige Bevцlkerung von %s2_city hat die Bьrger von %s4_city durch massive Nahrungsspenden aus der Hungersnot errettet. Dieser selbstlose Akt der humanitдren Hilfe hat die beiden Nationen einander nдher gebracht.</German>
@@ -503,7 +503,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_FAMINE_OTHER_2</Tag>
-		<Russian>The %s1_civ_adjective people in %s2_city have sent half their stored food to your city of %s4_city to fend off starvation caused by a poor local harvest. This humanitarian relief may represent a positive turning point in your relations.</Russian>
+		<Russian>%s1_civ_adjective из города %s2_city отправили половину своих запасов в наш город %s4_city, чтобы помочь с голодом, вызванным плохим урожаем. Эта гуманитарная акция может стать поворотным пунктом в наших отношениях.</Russian>
 		<English>The %s1_civ_adjective people in %s2_city have sent half their stored food to your city of %s4_city to fend off starvation caused by a poor local harvest. This humanitarian relief may represent a positive turning point in your relations.</English>
 		<French>Les citoyens %s1:3_civ_adjective de %s2_city ont envoyй la moitiй de leurs stocks de nourriture dans votre ville de %s4_city pour lutter contre la famine provoquйe par une mauvaise rйcolte. cette aide humanitaire pourrait reprйsenter un tournant positif dans vos relations.</French>
 		<German>Das %s1:3_civ_adjective Volk in %s2_city hat die Hдlfte seiner Nahrungsvorrдte in Eure Stadt %s4_city geschickt, um der durch die miserable Ernte ausgelцsten Hungersnot entgegenzuwirken. Dieser Akt der humanitдren Hilfe kцnnte einen Wendepunkt fьr die Beziehung der beiden Nationen darstellen.</German>
@@ -512,7 +512,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_FAMINE_OTHER_3</Tag>
-		<Russian>The generous %s1_civ_adjective people in %s2_city have sent all of their food stores to your city of %s4_city to prevent famine caused by a poor local harvest. This humanitarian effort has brought your two peoples much closer together!</Russian>
+		<Russian>Щедрые %s1_civ_adjective из города %s2_city отправили все свои запасы в наш город %s4_city, чтобы помочь с голодом, вызванным плохим урожаем. Эта гуманитарная акция сильно сблизила два наших народа.</Russian>
 		<English>The generous %s1_civ_adjective people in %s2_city have sent all of their food stores to your city of %s4_city to prevent famine caused by a poor local harvest. This humanitarian effort has brought your two peoples much closer together!</English>
 		<French>Les gйnйreux citoyens %s1:3_civ_adjective de %s2_city ont envoyй tous leurs stocks de nourriture dans votre ville de %s4_city pour enrayer une famine due а une mauvaise rйcolte. Cette aide humanitaire a considйrablement rapprochй vos deux peuples !</French>
 		<German>Die selbstlosen %s1:2_civ_adjective Bьrger von %s2_city haben ihre gesamten Nahrungsvorrдte in Eure Stadt %s4_city geschickt, um der durch die miserable Ernte ausgelцsten Hungersnot entgegenzuwirken. Durch diesen Akt der humanitдren Hilfe sind sich die beiden Nationen deutlich nдher gekommen!</German>
@@ -521,7 +521,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENTTRIGGER_SLAVE_REVOLT</Tag>
-		<Russian>A slave revolt has taken place in the %s1_civ_adjective city of %s2_city!</Russian>
+		<Russian>%s1_civ_adjective рабы из города %s2_city подняли бунт!</Russian>
 		<English>A slave revolt has taken place in the %s1_civ_adjective city of %s2_city!</English>
 		<French>Une rйvolte d'esclaves a eu lieu dans la ville %s1:2_civ_adjective de %s2_city !</French>
 		<German>In der %s1:2_civ_adjective Stadt %s2_city tobt ein Sklavenaufstand!</German>
@@ -530,7 +530,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_1</Tag>
-		<Russian>A slave revolt has taken place in %s2_city!</Russian>
+		<Russian>В городе %s2_city началось восстание рабов!</Russian>
 		<English>A slave revolt has taken place in %s2_city!</English>
 		<French>Une rйvolte d'esclaves a eu lieu а %s2_city !</French>
 		<German>In %s2_city tobt ein Sklavenaufstand!</German>
@@ -539,7 +539,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_2</Tag>
-		<Russian>The slaves in %s2_city have rebelled against their keepers. The city is in chaos.</Russian>
+		<Russian>Рабы в городе %s2_city подняли бунт против рабовладельцев. Город погрузился в хаос.</Russian>
 		<English>The slaves in %s2_city have rebelled against their keepers. The city is in chaos.</English>
 		<French>Les esclaves de %s2_city se sont rebellйs contre leurs gardiens. La ville est plongйe dans le chaos.</French>
 		<German>Die Sklaven in %s2_city haben sich gegen ihre Besitzer erhoben. In der Stadt herrscht das Chaos.</German>
@@ -548,7 +548,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_3</Tag>
-		<Russian>Production at %s2_city has been halted temporarily by rebellious slaves.</Russian>
+		<Russian>Производство в городе %s2_city временно остановилось из-за восстания рабов.</Russian>
 		<English>Production at %s2_city has been halted temporarily by rebellious slaves.</English>
 		<French>A %s2_city, toute production a йtй temporairement arrкtйe en raison d'une rйvolte d'esclaves.</French>
 		<German>Wegen der Sklavenaufstдnde ist die Produktion in %s2_city vorьbergehend zum Erliegen gekommen.</German>
@@ -557,7 +557,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENTTRIGGER_SLAVE_REVOLT_AGAIN</Tag>
-		<Russian>The slaves in %s2_city are still in revolt. Local authorities are bumbling the crackdown.</Russian>
+		<Russian>Рабы в городе %s2_city все еще бунтуют. Местные власти не могут сломить их сопротивление.</Russian>
 		<English>The slaves in %s2_city are still in revolt. Local authorities are bumbling the crackdown.</English>
 		<French>Les esclaves de %s2_city sont toujours en rйbellion. Les autoritйs locales peinent а rйtablir l'ordre.</French>
 		<German>Die Sklaven in %s2_city rebellieren noch immer. Die цrtlichen Behцrden greifen hart durch.</German>
@@ -566,7 +566,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_AGAIN_1</Tag>
-		<Russian>The local authorities in %s2_city have so far been unable to put down the slave revolt.</Russian>
+		<Russian>Местные власти города %s2_city так и не смогли подавить восстание рабов.</Russian>
 		<English>The local authorities in %s2_city have so far been unable to put down the slave revolt.</English>
 		<French>Les autoritйs locales а %s2_city sont dans l'incapacitй de mater la rйvolte d'esclaves.</French>
 		<German>Die цrtlichen Behцrden in %s2_city waren bisher nicht in der Lage, den Sklavenaufstand niederzuschlagen.</German>
@@ -575,7 +575,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_SLAVE_REVOLT_AGAIN_2</Tag>
-		<Russian>The slave revolt in %s2_city continues unabated. The economy there is at a standstill.</Russian>
+		<Russian>Восстание рабов в городе %s2_city продолжается. Экономическая жизнь замерла.</Russian>
 		<English>The slave revolt in %s2_city continues unabated. The economy there is at a standstill.</English>
 		<French>La rйvolte d'esclaves а %s2_city n'est toujours pas matйe. L'йconomie locale est paralysйe.</French>
 		<German>Der Sklavenaufstand in %s2_city dauert weiterhin an. Die Stadt liegt wirtschaftlich am Boden.</German>
@@ -584,7 +584,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_SLAVE_REVOLT_1</Tag>
-		<Russian>Crack down on the rebels. Put down the revolt. Re-establish order.</Russian>
+		<Russian>Сломить сопротивление бунтовщиков. Прекратить восстание. Восстановить порядок.</Russian>
 		<English>Crack down on the rebels. Put down the revolt. Re-establish order.</English>
 		<French>Mater les rebelles. Rйprimer la rйvolte. Rйtablir l'ordre. </French>
 		<German>Greift hart gegen die Rebellen durch. Schlagt die Revolte nieder und stellt die Ordnung wieder her.</German>
@@ -593,7 +593,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_SLAVE_REVOLT_2</Tag>
-		<Russian>Restore order first, then investigate and redress some of the slaves' grievances.</Russian>
+		<Russian>Сначала восстановить порядок, а затем провести расследование и удовлетворить некоторые из требований рабов.</Russian>
 		<English>Restore order first, then investigate and redress some of the slaves' grievances.</English>
 		<French>Rйtablir l'ordre en premier lieu, puis йcouter et rйpondre aux griefs des esclaves.</French>
 		<German>Stellt zuerst die Ordnung wieder her und dann untersucht und beseitigt die Missstдnde bei den Sklaven.</German>
@@ -602,7 +602,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_SLAVE_REVOLT_3</Tag>
-		<Russian>We are too busy to be bothered. Leave the matter to the local authorities. (Revolt may continue)</Russian>
+		<Russian>Мы слишком заняты. Пусть разбираются местные власти (Восстание может продолжиться)</Russian>
 		<English>We are too busy to be bothered. Leave the matter to the local authorities. (Revolt may continue)</English>
 		<French>Nous sommes trop occupйs pour ces broutilles. Laisser les autoritйs locales s'en charger (la rйvolte risque de continuer).</French>
 		<German>Wir haben keine Zeit, uns darum zu kьmmern. Ьberlasst die Sache den цrtlichen Behцrden. (Die Revolte kцnnte fortdauern.)</German>
@@ -611,7 +611,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_BLESSED_SEA_1</Tag>
-		<Russian>Our spiritual leaders are urging us to seek the blessings of the sea![PARAGRAPH:1]The wise masters have divined the way regarding our relationship with the sea. They urge us to embrace the sea, to broaden our influence over it and spread our traditions to new lands.</Russian>
+		<Russian>Наши духовные лидеры призывают искать благословение морей![PARAGRAPH:1]Мудрецы определили, как строить наши отношения с морем. Они призывают нам взяться за моря, расширить наши влияние на них и распространить наши традиции на новые земли.</Russian>
 		<English>Our spiritual leaders are urging us to seek the blessings of the sea![PARAGRAPH:1]The wise masters have divined the way regarding our relationship with the sea. They urge us to embrace the sea, to broaden our influence over it and spread our traditions to new lands.</English>
 		<French>Nos chefs religieux nous exhortent а rechercher la faveur des ocйans ![PARAGRAPH:1]Les sages prйdisent que la mer nous couvrira de bienfaits. Ils nous poussent а partir en mer pour йlargir notre influence et propager nos traditions а de nouvelles contrйes.</French>
 		<German>Unsere geistigen Fьhrer mahnen uns, den Segen des Meeres zu erbitten![PARAGRAPH:1]Die weisen Mдnner sagen, dass die See eine bedeutende Rolle fьr unsere Zukunft spielt. Sie raten uns, die See zu umarmen, um unseren Einfluss ьber das Meer hinaus auszuweiten und unsere Traditionen in neue Lдnder zu tragen.</German>
@@ -620,7 +620,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_BLESSED_SEA_1</Tag>
-		<Russian>The Blessed Sea[PARAGRAPH:1]You are tasked by your religious leaders to found cities on new landmasses. If you can build enough cities on new landmasses you will please the masters, who will offer you a choice of rewards.</Russian>
+		<Russian>Благословенное море[PARAGRAPH:1]Религиозные лидеры поручили Вам основать города на новых частях суши. Если Вы построите достаточно городов на новых частях суши, то угодите владыкам, а они позволят Вам выбрать награду.</Russian>
 		<English>The Blessed Sea[PARAGRAPH:1]You are tasked by your religious leaders to found cities on new landmasses. If you can build enough cities on new landmasses you will please the masters, who will offer you a choice of rewards.</English>
 		<French>La mer bйnie[PARAGRAPH:1]Vous кtes chargй par vos chefs religieux de fonder des villes sur de nouveaux continents. Si vous parvenez а construire suffisamment de villes sur de nouveaux continents, vous honorerez vos maоtres, qui vous couvriront de rйcompenses.</French>
 		<German>Gesegnete See[PARAGRAPH:1]Eure religiцsen Fьhrer haben Euch aufgetragen, Stдdte in neuen Lдndern anzusiedeln. Wenn Ihr genьgend Stдdte in anderen Lдndern grьndet, werden die weisen Mдnner zufrieden sein und Euch zahlreiche Belohnungen anbieten.</German>
@@ -629,7 +629,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_BLESSED_SEA_HELP</Tag>
-		<Russian>[PARAGRAPH:1]To complete this quest, you must establish or capture cities on %d1 total landmasses of any size, from one-plot islands to massive continents. All landmasses where you have at least one city are counted. Note that additional cities on the same island or continent do not help in this quest. The goal is to establish your presence on a number of different landmasses and thereby prove your mastery over the waters.[PARAGRAPH:1] You will fail this quest if you change state religions, cease to have a state religion or reach [COLOR_TECH_TEXT]Industrialism[COLOR_REVERT] without having met the conditions.</Russian>
+		<Russian>[PARAGRAPH:1]Чтобы завершить это задание, нужно основать или захватить города на %d1 разных частях суши любого размера, от островов размером в одну клетку до огромных континентов. Засчитываются все части суши, на которых у Вас есть хотя бы один город. Заметьте, что дополнительные города на том же острове или континенте не помогают завершить это задание. Цель - установить присутствие на нескольких разных частях суши и тем самым доказать владычество над морями.[PARAGRAPH:1]Задание будет провалено, если Вы измените государственную религию, откажитесь от государственной религии или достигните [COLOR_TECH_TEXT]Индустриализма[COLOR_REVERT], не выполнив условия задания.</Russian>
 		<English>[PARAGRAPH:1]To complete this quest, you must establish or capture cities on %d1 total landmasses of any size, from one-plot islands to massive continents. All landmasses where you have at least one city are counted. Note that additional cities on the same island or continent do not help in this quest. The goal is to establish your presence on a number of different landmasses and thereby prove your mastery over the waters.[PARAGRAPH:1] You will fail this quest if you change state religions, cease to have a state religion or reach [COLOR_TECH_TEXT]Industrialism[COLOR_REVERT] without having met the conditions.</English>
 		<French>Pour mener votre quкte а bien, vous devez fonder ou capturer des villes sur un total de %d1 continents, dont la taille varie d'une seule case а une surface colossale. Tous les continents oщ vous avez au moins une ville sont pris en compte. Sachez que la construction de nouvelles villes sur une mкme оle ou sur un mкme continent ne contribuera pas а l'achиvement de votre quкte. Le but est d'йtablir votre prйsence sur plusieurs continents diffйrents et dйmontrer ainsi votre maоtrise des mers.[PARAGRAPH:1]Vous йchouerez dans votre quкte si vous changez les religions d'Etat,cessez d'avoir une religion d'Etat ou atteignez l'industrialisme sans en avoir rempli les conditions.</French>
 		<German>[PARAGRAPH:1]Um diese Quest zu erfьllen, mьssen Sie auf insgesamt %d1 Lдndern beliebiger GrцЯe, von kleinen Inseln bis hin zu groЯen Kontinenten, Stдdte errichten oder einnehmen. Es zдhlen alle Landmassen, auf denen Sie mindestens eine Stadt unterhalten. Beachten Sie jedoch, dass zusдtzliche Stдdte auf derselben Insel oder demselben Kontinent in diesem Fall nicht helfen. Das Questziel lautet, Ihre Anwesenheit auf einer Reihe verschiedener Landmassen zu etablieren und dadurch Ihre Dominanz auf dem Meer zu beweisen.[PARAGRAPH:1]Diese Quest gilt als gescheitert, wenn Sie die Staatsreligion wechseln, die Staatsreligion abschaffen oder die Industrialisierung erreichen, ohne die geforderten Bedingungen erfьllt zu haben.</German>
@@ -638,7 +638,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENTTRIGGER_BLESSED_SEA_DONE</Tag>
-		<Russian>%s4_religion_adjective leaders have bestowed grand rewards upon the %s1_civ_adjective people for completing the Quest of the Blessed Sea!</Russian>
+		<Russian>%s4_religion_adjective лидеры даровали большую награду народу %s1_civ_adjective за завершение задания Благословенное море!</Russian>
 		<English>%s4_religion_adjective leaders have bestowed grand rewards upon the %s1_civ_adjective people for completing the Quest of the Blessed Sea!</English>
 		<French>Les dirigeants %s4:3_religion_adjective ont accordй de grandes rйcompenses aux citoyens %s1:3_civ_adjective pour avoir rйussi la quкte de la mer bйnie !</French>
 		<German>Die %s4:2_religion_adjective Staatsoberhдupter haben das %s1:3_civ_adjective Volk fьr die Erfьllung der Quest "Gesegnete See" reich belohnt!</German>
@@ -647,7 +647,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_BLESSED_SEA_DONE_1</Tag>
-		<Russian>Congratulations! You have met the goals of your religious masters and spread your civilization across the waters. You have completed the quest of The Blessed Sea.</Russian>
+		<Russian>Поздравляем! Вы выполнили задачу Ваших религиозных владык и распространили свою цивилизацию за море. Вы завершили задание Благословенное море.</Russian>
 		<English>Congratulations! You have met the goals of your religious masters and spread your civilization across the waters. You have completed the quest of The Blessed Sea.</English>
 		<French>Fйlicitations! Vous avez atteint le but fixй par vos chefs religieux et propagй votre civilisation а travers les mers. Vous avez rйussi la quкte de la mer bйnie.</French>
 		<German>Gratulation! Sie haben die Zielsetzungen Ihrer religiцsen Fьhrer erfьllt und Ihre Zivilisation ьber das Meer hinaus ausgedehnt. Sie haben die Quest "Gesegnete See" erfolgreich abgeschlossen!</German>
@@ -656,7 +656,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_BLESSED_SEA_DONE_1</Tag>
-		<Russian>Establish your religion in a number of your cities.</Russian>
+		<Russian>Распространить нашу религию в нескольких наших городах.</Russian>
 		<English>Establish your religion in a number of your cities.</English>
 		<French>Etablir votre religion dans un certain nombre de vos villes.</French>
 		<German>Etabliert Eure Religion in mehreren Stдdten.</German>
@@ -665,7 +665,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_BLESSED_SEA_DONE_2</Tag>
-		<Russian>Receive a Temple improvement in all cities with five population or more, where your State Religion is present.</Russian>
+		<Russian>Построить Храм во всех наших городах с населением не меньше 5, в которых представлена наша государственная религия.</Russian>
 		<English>Receive a Temple improvement in all cities with five population or more, where your State Religion is present.</English>
 		<French>Obtenir un temple dans toutes les villes d'au moins cinq habitants, sous rйserve que votre religion d'Etat y soit prйsente.</French>
 		<German>Ihr erhaltet eine Tempel-Modernisierung in allen Stдdten mit einer BevцlkerungsgrцЯe von 5 oder mehr, in denen Eure Staatsreligion vorherrscht.</German>
@@ -674,7 +674,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_BLESSED_SEA_DONE_3</Tag>
-		<Russian>Receive a Great Prophet.</Russian>
+		<Russian>Получить Великого Пророка</Russian>
 		<English>Receive a Great Prophet.</English>
 		<French>Obtenir un prophиte illustre.</French>
 		<German>Ihr erhaltet einen GroЯen Propheten.</German>
@@ -683,7 +683,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_FAIL_BLESSED_SEA</Tag>
-		<Russian>You have failed the quest of The Blessed Sea.</Russian>
+		<Russian>Вам не удалось выполнить задание Благословенное море.</Russian>
 		<English>You have failed the quest of The Blessed Sea.</English>
 		<French>Vous n'avez pas rйussi la quкte de la mer bйnie.</French>
 		<German>Die Quest "Gesegnete See" ist gescheitert.</German>
@@ -692,7 +692,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENTTRIGGER_AIRLINER_CRASH</Tag>
-		<Russian>A %s4_civ_adjective passenger aircraft has crashed within %s1_civ_adjective territory. Neither side has provided any details of the incident.</Russian>
+		<Russian>Пассажирский самолет народа %s4_civ_adjective разбился на территории народа %s1_civ_adjective. Ни одна из сторон не сообщает о деталях проишествия.</Russian>
 		<English>A %s4_civ_adjective passenger aircraft has crashed within %s1_civ_adjective territory. Neither side has provided any details of the incident.</English>
 		<French>Un avion commercial %s4_civ_adjective s'est йcrasй en territoire %s1_civ_adjective. Aucun pays n'a fourni de dйtails quant а l'accident.</French>
 		<German>Eine %s4:3_civ_adjective Passagiermaschine ist auf dem Territorium des %s1:2_civ_adjective Volkes abgestьrzt. Keine der betroffenen Nationen hat Einzelheiten zu dem Vorfall preisgegeben.</German>
@@ -701,7 +701,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_TRIGGER_AIRLINER_CRASH_1</Tag>
-		<Russian>A %s1_civ_adjective passenger flight has crashed in our territory near %s2_city.</Russian>
+		<Russian>Пассажирский самолет народа A %s1_civ_adjective разбился на нашей территории вблизи города %s2_city.</Russian>
 		<English>A %s1_civ_adjective passenger flight has crashed in our territory near %s2_city.</English>
 		<French>Un avion commercial %s1:1_civ_adjective s'est йcrasй sur votre territoire prиs de %s2_city.</French>
 		<German>Eine %s1:3_civ_adjective Passagiermaschine ist in der Nдhe von %s2_city auf unserem Territorium abgestьrzt.</German>
@@ -710,7 +710,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_AIRLINER_CRASH_1</Tag>
-		<Russian>Allow their recovery teams unfettered access to the crash site.</Russian>
+		<Russian>Разрешить их спасательным коммандам посетить место аварии.</Russian>
 		<English>Allow their recovery teams unfettered access to the crash site.</English>
 		<French>Autoriser leurs йquipes de secours а accйder au site de l'accident.</French>
 		<German>Gewдhrt ihren Bergungstrupps uneingeschrдnkten Zugang zur Absturzstelle.</German>
@@ -719,7 +719,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_AIRLINER_CRASH_2</Tag>
-		<Russian>Stall them for time while your own team learns what it can first.</Russian>
+		<Russian>Задержaть их порка наша команда не выяснит, что произошло.</Russian>
 		<English>Stall them for time while your own team learns what it can first.</English>
 		<French>Gagner du temps pendant que votre propre йquipe essaye d'en savoir plus.</French>
 		<German>Haltet sie eine Weile hin, bis unsere eigenen Leute mehr ьber die Sache herausgefunden haben.</German>
@@ -728,7 +728,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_AIRLINER_CRASH_3</Tag>
-		<Russian>Deny access. Claim the wreckage and let your engineers pore over it.</Russian>
+		<Russian>Запретить доступ. Заявить о правах на обломки и позволить нашим инженерам поразмышлять над ними.</Russian>
 		<English>Deny access. Claim the wreckage and let your engineers pore over it.</English>
 		<French>Refuser l'accиs. Revendiquer la propriйtй de l'йpave et laisser vos ingйnieurs l'йtudier.</French>
 		<German>Verweigert ihnen den Zutritt zur Absturzstelle. Sichert das Wrack und lasst es von Euren Ingenieuren untersuchen.</German>
@@ -737,7 +737,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_AIRLINER_CRASH_OTHER_1</Tag>
-		<Russian>One of your passenger airliners has crashed in %s1_civ_adjective territory. They have allowed unrestricted access to your recovery teams, building trust between your two nations.</Russian>
+		<Russian>Один из наших пассажирский самолетов разбился на территории народа %s1_civ_adjective. Они предоставили неограниченный доступ нашим спасательным командам, что укрепляет доверии между двумя нашими нациями.</Russian>
 		<English>One of your passenger airliners has crashed in %s1_civ_adjective territory. They have allowed unrestricted access to your recovery teams, building trust between your two nations.</English>
 		<French>Un de vos avions commerciaux s'est йcrasй en territoire %s1:1_civ_adjective. Les %s1:3_civ_adjective ont autorisй vos йquipes de secours а accйder au site de l'accident, renforзant ainsi la confiance entre vos deux nations.</French>
 		<German>Eine Eurer Passagiermaschinen ist auf dem Territorium des %s1:2_civ_adjective Volkes abgestьrzt. Sie gewдhren Euren Bergungstrupps uneingeschrдnkten Zugang, wodurch das Vertrauensverhдltnis zwischen den beiden Nationen steigt.</German>
@@ -746,7 +746,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_AIRLINER_CRASH_OTHER_2</Tag>
-		<Russian>One of your passenger airliners has crashed in %s1_civ_adjective territory. They seemed to be unsure how to react at first, but finally allowed your recovery teams access to the crash site.</Russian>
+		<Russian>Один из наших пассажирский самолетов разбился на территории народа %s1_civ_adjective. Похоже, что они сначала не были уверены, как реагировать, но в конце концов позволили нашим спасательным командам посетить место катастрофы.</Russian>
 		<English>One of your passenger airliners has crashed in %s1_civ_adjective territory. They seemed to be unsure how to react at first, but finally allowed your recovery teams access to the crash site.</English>
 		<French>Un de vos avions commerciaux s'est йcrasй en territoire %s1:1_civ_adjective. Aprиs quelques hйsitations, ils ont finalement laissй vos йquipes de secours accйder au site de l'accident.</French>
 		<German>Eine Eurer Passagiermaschinen ist auf dem Territorium des %s1:2_civ_adjective Volkes abgestьrzt. Sie schienen zunдchst unsicher, wie sie reagieren sollten, gewдhren Euren Bergungstrupps nun aber uneingeschrдnkten Zugang zur Absturzstelle.</German>
@@ -755,7 +755,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_EVENT_AIRLINER_CRASH_OTHER_3</Tag>
-		<Russian>One of your passenger airliners has crashed in %s1_civ_adjective territory. They are denying all access and have claimed the wreckage as their own. This outrage has angered your people and driven a diplomatic wedge between your two nations.</Russian>
+		<Russian>Один из наших пассажирский самолетов разбился на территории народа %s1_civ_adjective. Они запретили доступ и объявили обломки своей собственностью. Это оскорбление разозлило наш народ и вбило клин между нашими народами.</Russian>
 		<English>One of your passenger airliners has crashed in %s1_civ_adjective territory. They are denying all access and have claimed the wreckage as their own. This outrage has angered your people and driven a diplomatic wedge between your two nations.</English>
 		<French>Un de vos avions commerciaux s'est йcrasй en territoire %s1:1_civ_adjective. Ils refusent tout accиs et ont revendiquй la propriйtй de l'йpave. Cet outrage a provoquй la colиre de votre peuple et une tension diplomatique entre vos deux nations.</French>
 		<German>Eine Eurer Passagiermaschinen ist auf dem Hoheitsgebiet des %s1:2_civ_adjective Volkes abgestьrzt. Sie verwehren unseren Bergungstrupps den Zugang zur Absturzstelle und beanspruchen das Wrack fьr sich selbst. Dieses Vorgehen lцst Empцrung in unserer Bevцlkerung aus und treibt einen Keil in die diplomatischen Beziehungen zwischen unseren Nationen.</German>
@@ -7570,3 +7570,4 @@
    		<Spanish>Toda la informaciуn sobre los juegos antiguos se ha perdido por siempre.</Spanish>
 	</TEXT>
 </Civ4GameText>
+
