@@ -5,7 +5,7 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
 	<TEXT>
 		<Tag>TXT_KEY_DAWN_OF_MAN_SCREEN_TITLE</Tag>
-		<Russian>Рассвет цивилизации</Russian>
+		<Russian>РАССВЕТ ЦИВИЛИЗАЦИИ</Russian>
 		<English>DAWN OF A CIVILIZATION</English>
 	</TEXT>
 	<TEXT>
@@ -20,6 +20,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_INDIA_1700AD</Tag>
+		<Russian>1700 год н.э. 16 лет назад Шиваджи основал Маратхскую империю, первое индуистское государство, оспорившее гегемониию Моголов в Северной Индии. Так как власть Моголов слабеет, сейчас самое время положить конец мусульманскому доминированию на субконтиненте.</Russian>
 		<English>It is the year 1700 AD. Sixteen years ago, Shivaji Bhosle has established the Maratha Kingdom, the first Hindu state to challenge Mughal hegemony over Northern India. With Mughal power declining, now is the time to break Muslim domination of the subcontinent for good.</English>
 	</TEXT>
 	<TEXT>
@@ -29,11 +30,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_CHINA_LATE</Tag>
-		<Russian>600 год н.э. После падения династии Хань, последовала гражданская война между китайскими королевствами. Лишь 11 лет назад Императору Ян Цзянь(в начале правления Е Суй Вэнь-ди) удалось заново объединить Китай и вернуть Мандат Небес. Но силы династии Суй еще не полностью объединены, а прежние вызовы остаются для Китая актуальными.</Russian>
+		<Russian>600 год н.э. После падения династии Хань, последовала гражданская война между китайскими королевствами. Лишь 11 лет назад императору Суй Вэнь-ди удалось заново объединить Китай и вернуть Мандат Небес. Но силы династии Суй еще не полностью объединены, а прежние вызовы остаются для Китая актуальными.</Russian>
 		<English>It is the year 600 AD. After the Han Dynasty had collapsed, civil war between the Chinese kingdoms ensued. Only 11 years ago Emperor Wen of Sui managed to reunite China and reclaim the Mandate of Heaven. But the power of the Sui Dynasty is not completely consolidated, and the old challenges of China remain.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_CHINA_1700AD</Tag>
+		<Russian>1700 год н.э. После падения династии Мин из-за крестьянских бунтов, Чжурчжэни из Маньчжурии завоевали Китай и основали династию Цин. Владея Маньчжурией, Уйгурстаном и Тибетом, Китай достиг наибольших размеров в истории, а правление императора Канси предвещает очередной Золотой век.</Russian>
 		<English>It is the year 1700 AD. After the Ming Dynasty has collapsed under peasant revolts, the Jurchens of Manchuria have conquered China and established the Qing Dynasty. With Manchuria, Xinjiang and Tibet under imperial control, China has reached the greatest extent in history, and the rule of the Kangxi Emperor promises another golden era.</English>
 	</TEXT>
 	<TEXT>
@@ -43,6 +45,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_HARAPPA</Tag>
+		<Russian>3000 год до н.э. Реки Инд и Сарасвати обеспечивают плодородную почву для древней цивилизации. Владея беспрецендентными санитарией и городским планированием, Цивилизация долины Инда, сосредоточенная вокруг города Хараппа, может воспользоваться этим плодородием и стать наиболее широко расселившейся и многочисленной цивилизацией своего времени.</Russian>
 		<English>It is the year 3000 BC. The river beds of the Indus and Sarasvati provide fertile ground for ancient civilization. With unparalleled sanitation and urban planning, the Indus Valley Civilization centered around the city of Harappa can make use of this fertility and become the most widespread and populous civilization of its time.</English>
 	</TEXT>
 	<TEXT>
@@ -57,6 +60,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_PERSIA_1700AD</Tag>
+		<Russian>1700 год н.э. Династия Сефевидов, правившея Персией с 1500 года н.э., потеряла власть над своей территорией. Пришло время компетентным военачальникам взять власть и покорить соседних турков, узбеков и моголов.</Russian>
 		<English>It is the year 1700 AD. The Safavid Dynasty, which has ruled Persia since 1500 AD, is losing authority over its territory. The time is ripe for a competent warlord to seize control and humiliate the neighboring Turks, Uzbeks and Mughals ...</English>
 	</TEXT>
 	<TEXT>
@@ -66,6 +70,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_POLYNESIA</Tag>
+		<Russian>1000 год до н.э. Полинезийские поселенцы мигрировали на острова Тонга и Самоа. Используя свои исключительные навыки мореплавания, они могут добраться и заселить даже самые изолированные острова южного Тихого океана.</Russian>
 		<English>It is the year 1000 BC. Polynesian settlers have migrated to the Tongan and Samoan islands. With their exceptional navigational skills, they can reach and settle even the most isolated islands in the South Pacific Ocean around them.</English>
 	</TEXT>
 	<TEXT>
@@ -85,6 +90,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_JAPAN_1700AD</Tag>
+		<Russian>1700 год н.э. Япония живет мирно уже почти сто лет под властью Сегуната Токугавы. Но контакты с европейскими торговцами угрожают снова нарушить древнее равновесие, и даже полная изоляции Сакоку не может сохранить его навсегда. Япония должна будет открыть себя миру...</Russian>
 		<English>It is the year 1700 AD. Under the Tokugawa Shogunate, Japan has been at peace for almost a century now. But contact with European traders threatens to disturb the achieved balance again, and even the complete seclusion under the Sakoku cannot preserve it forever. Japan will have to open itself to the world ...</English>
 	</TEXT>
 	<TEXT>
@@ -104,6 +110,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_KOREA_1700AD</Tag>
+		<Russian>1700 год н.э. Королевство Чосон столкнулось с вторжениями со стороны и Японии, и маньчжуров, которые в настоящий момент контролируют всю Китайскую империю. Начался период относительного мира, экономического и культурного возраждения, но два мощных соседа и расцветающий западный империализм не позволят ему длиться слишком долго...</Russian>
 		<English>It is the year 1700 AD. The Kingdom of Joseon has faced both invasion from Japan and the Manchu, who now control the entire Chinese Empire. Now a period of relative peace and economic and cultural renaissance has begun, but with two powerful neighbors and Western imperialism on the rise, it can only last for so long ...</English>
 	</TEXT>
 	<TEXT>
@@ -123,14 +130,17 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_VIKINGS</Tag>
+		<Russian>551 год н.э. Недостаток пищи заставил обитателей Скандинавии стать отличными мореходами, полагающимися на рыболовство и торговлю. Их родные королевства не могут поддерживать дальнейший рост населения, и Викинги должны обратить свои взоры к заморским землям. Не только берега Северного моря, но и Средиземноморье, и даже Новый Свет являются хорошими целями для грабежа и заселения.</Russian>
 		<English>It is the year 551 AD. The scarcity of food makes the inhabitants of Scandinavia excellent sailors that rely on fishing and trade. Their home kingdoms still can't sustain further population growth, and the Vikings have to turn to lands across the sea. Not only the coasts of the North Sea, but also the Mediterranean and even the New World make good targets for plunder or settlement.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_VIKINGS_LATE</Tag>
+		<Russian>600 год н.э. Недостаток пищи заставил обитателей Скандинавии стать отличными мореходами, полагающимися на рыболовство и торговлю. Их родные королевства не могут поддерживать дальнейший рост населения, и Викинги должны обратить свои взоры к заморским землям. Не только берега Северного моря, но и Средиземноморье, и даже Новый Свет являются хорошими целями для грабежа и заселения.</Russian>
 		<English>It is the year 600 AD. The scarcity of food makes the inhabitants of Scandinavia excellent sailors that rely on fishing and trade. Their home kingdoms still can't sustain further population growth, and the Vikings have to turn to lands across the sea. Not only the coasts of the North Sea, but also those of the Mediterranean and even the New World make good targets for either plunder or settlement.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_SWEDEN_1700AD</Tag>
+		<Russian>1700 год н.э. Королевство Швеция является самой грозной Скандинавской державой и смогло стать империей, завладев Финляндией. Но экспансия создает ему врагов, и конкуренты, такие как Датско-норвежская уния, Польша и, особенно, Россия, могут попытаться обуздать Шведскую мощь...</Russian>
 		<English>It is the year 1700 AD. The Kingdom of Sweden is the most formidable of the Scandinavian powers and has managed to establish an empire by acquiring Finland. Still, its expansion has also created enemies, and rivals like Denmark-Norway, Poland and especially Russia might seek to curb Swedish power ...</English>
 	</TEXT>
 	<TEXT>
@@ -140,7 +150,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_TIBET</Tag>
-		<Russian>It is the year 630 AD. The Tibetan clans around Lhasa have been united, and the current weakness of the neighboring Chinese Tang and Indian Pala empires opens the opportunity to expand your empire from the Tibetan highlands and spread Buddhist teaching in the whole world.</Russian>
+		<Russian>630 год н.э. Тибетские кланы объединяются вокруг города Лхаса, а слабость соседних империя: китайской Тан и индийской Пала - открывают возможности для расширения империи с Тибетского плато и распространения буддизма по всему миру.</Russian>
 		<English>It is the year 630 AD. The Tibetan clans around Lhasa have been united, and the current weakness of the neighboring Chinese Tang and Indian Pala empires opens the opportunity to expand your empire from the Tibetan highlands and spread Buddhist teaching in the whole world.</English>
 	</TEXT>
 	<TEXT>
@@ -160,6 +170,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_SPAIN_1700AD</Tag>
+		<Russian>1700 год н.э. Испанская имерия находится в состоянии упадка. Доходы из американских колоний уменьшаются, культурное процветание прошлого века подходит к концу, а правящая династия Габсбургов почти пресеклась. Война за Испанское наследство вот вот захватит Европу...</Russian>
 		<English>It is the year 1700 AD. The Spanish Empire is in a state of decline. Income from the American colonies is diminishing, the cultural flourishing of the last century has come to an end, and now the ruling Habsburg dynasty is about to die out. The conflict over the Spanish succession is about to consume Europe ...</English>
 	</TEXT>
 	<TEXT>
@@ -169,6 +180,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_FRANCE_1700AD</Tag>
+		<Russian>1700 год н.э. Франция под властью Луи XIV находится на вершине своей мощи и является доминирующей в культурнойм и военном плане державой континентальной Европы. После расширения границ и победы в Тридцатилетней войне, смерть последнего испанского короля из династии Габсбургов, представляет еще одну возможность для расширения власти Франции.</Russian>
 		<English>It is the year 1700 AD. France under the rule of Louis XIV is at the height of its power and the dominating cultural and military power in continental Europe. After extending its borders and winning the Thirty Years War, the impeding end of the Spanish Habsburgs presents another opportunity to expand French power.</English>
 	</TEXT>
 	<TEXT>
@@ -178,6 +190,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_ENGLAND_1700AD</Tag>
+		<Russian>1700 год н.э. Славная революция восстановила стабильность британского трона проложила путь к Акту об Унии. Учитывая рост колониальных владений в Америках и Индии, британская корона будет способна установить всемирную империю и оспорить французкое доминирование в Европе.</Russian>
 		<English>It is the year 1700 AD. The Glorious Revolution has restored stability to the British thrones and paved the way to the Acts of Union. With its colonial holdings in the Americas and India growing, the British crown will be able to establish a world-wide empire and challenge the French dominance over Europe.</English>
 	</TEXT>
 	<TEXT>
@@ -187,6 +200,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_AUSTRIA_1700AD</Tag>
+		<Russian>1700 год н.э. Несмотря на неудачи во время Тридцатилетней войны, победа в Венской битве позволила Габсбургской монархии отбросить турков и обезопасить свои владения на Балканах. Начало австрийского барокко позволило разцвести искусствам и архитектуре, но слабость испанской ветви династии может вскоре привести к ещё одной войне...</Russian>
 		<English>It is the year 1700 AD. Despite the setbacks during the Thirty Years War, the victory at the Siege of Vienna allowed the Habsburg Monarchy to drive back the Turks and secure their holdings in the Balkans. The beginning of the Austrian baroque let arts and architecture flourish, but the weakness of the Spanish line may lead to another war soon ...</English>
 	</TEXT>
 	<TEXT>
@@ -196,6 +210,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_RUSSIA_1700AD</Tag>
+		<Russian>1700 год н.э. Под властью Петра Великого Россия находится на пути модернизации. Недавно была одержана победа над Швецией, а основание Санкт-Петербурга открыло России окно в Европу. Учитывая продвижение в Сибирь, Российская империя теперь является крупнейшей в мире.</Russian>
 		<English>It is the year 1700 AD. Under the rule of Peter the Great Russia is on the path of modernization. Sweden has just been defeated and the foundation of Sankt-Peterburg secured a window to the east for Russia. With the advance into Siberia, the Russian Empire is now the largest in the world.</English>
 	</TEXT>
 	<TEXT>
@@ -205,11 +220,12 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_NETHERLANDS_1700AD</Tag>
+		<Russian>1700 год н.э. После обретения независимости в результате Нидерландской революции Нидерланды вступили в Золотой век и стали европейским центром торговли, промышленности, культуры и науки. Однако это богатство пробуждает завистить соседних держав - Франции и Великобритании, голландцам нужно сохранить свою колониальную империю, чтобы поддерживать свое благосостояние.</Russian>
 		<English>It is the year 1700 AD. Since their independence at the end of the Eighty Years war, the Netherlands have entered a Golden Age and become the European center of trade, industry, culture and science. This wealth however has created envy in the rising neighboring powers of France and Great Britain, and the Dutch will need to keep their colonial empire together to maintain their wealth.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_MALI</Tag>
-		<Russian>It is the year 989 AD. Sub-Saharan Africa is still underdeveloped compared to the rest of the old world. But the Mande people control rich gold mines, which has caught the attention of its northern neighbors. Defending against foreign attempts to seize its riches by force, Mali has now the opportunity to truly become the richest civilization on Earth.</Russian>
+		<Russian>989 год н.э. Африка к югу от Сахары все еще слаборазвита по сравнению с остальным Старым светом. Но народ манде контролирует богатые золотые шахты, привлекающие внимание их северных соседей. Защищаясь от иностранных попыток захватить их богатство силой, у Мали есть возможность стать действительно самой богатой цивилизацией на Земле.</Russian>
 		<English>It is the year 989 AD. Sub-Saharan Africa is still underdeveloped compared to the rest of the old world. But the Mande people control rich gold mines, which has caught the attention of its northern neighbors. Defending against foreign attempts to seize its riches by force, Mali has now the opportunity to truly become the richest civilization on Earth.</English>
 	</TEXT>
 	<TEXT>
@@ -219,6 +235,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_PORTUGAL_1700AD</Tag>
+		<Russian>1700 год н.э. В прошлом веке Португалия вернула свои независимость от испанской короны. Многие ее колониальные владения были отобраны Голландией, но Бразилия все еще находится под португальской властью и обещает богатство в будущем.</Russian>
 		<English>It is the year 1700 AD. In the last century, Portugal has regained its independence from the Spanish crown. Many of its colonial possessions have been lost to the Dutch, but Brazil is still under Portuguese control and promises wealth for the future.</English>
 	</TEXT>
 	<TEXT>
@@ -248,6 +265,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_MUGHALS_1700AD</Tag>
+		<Russian>1700 год н.э. Империя Великих Моголов достигла зенита. Хотя культура и архитектура все еще процветают, монгольской гегемонии в Индии угрожает возникающее суверенное индуистское государство в Махараштре и прибытие различных Европейских держав к индийским берегам.</Russian>
 		<English>It is the year 1700 AD. The Mughal Empire has reached its zenith. While culture and architecture are still thriving, Mughal hegemony over India is threatened by the emergence of a sovereign Hindu state in the Marathas and the gains of various European powers on India's coasts.</English>
 	</TEXT>
 	<TEXT>
@@ -257,6 +275,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_TURKEY_1700AD</Tag>
+		<Russian>1700 год н.э. С порожением в Венской битве военная экспансия Османской империи подошла к концу, она вынуждена обороняться от растущей мощи Австрии и России. Это изменение в балансе сил ведет к расширению культурных контактов с европейцами и расцвету османской культуры.</Russian>
 		<English>It is the year 1700 AD. With the defeat at the Siege of Vienna, the military expansion of the Ottoman Empire has come to an end and it is on the defensive against the growing power of Austria and Russia. This change in the balance of power leads to increased cultural contact and exchange with the Europeans and a flowering of Ottoman culture.</English>
 	</TEXT>
 	<TEXT>
@@ -266,6 +285,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_THAILAND_1700AD</Tag>
+		<Russian>1700 год н.э. Имея отличные отношения с новыми европейскими силами в Южной Азии и контролируя один из крупнейших городов в мире, Королевство Аюттхая находится в выгодном положении. Однако, угороза со стороны бирманских соседей начинает возрастать и даже европейцы могут задуматься о колонизации...</Russian>
 		<English>It is the year 1700 AD. With excellent relations with the new European powers in South Asia and controlling one of the largest cities in the world, the Kingdom of Ayutthaya is in an advantageous condition. However, the threat from their Burmese neighbors is beginning to grow and even the Europeans might consider colonization ...</English>
 	</TEXT>
 	<TEXT>
@@ -285,6 +305,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_TAMILS_1700AD</Tag>
+		<Russian>1700 год н.э. Начиная с заката Виджаянагарской империи в 16 веке, Княжество Майсур было доминирующей силой в южном Деккане, сопротивляющейся экспансии Моголов. С появлением государства маратхов и приходом британцев баланс сил в Индии изменился, заставляя Майсурское княжество снова защищать свой суверенитет.</Russian>
 		<English>It is the year 1700 AD. Since the decline of the Vijayanagara Empire in the 16th century, the Kingdom of Mysore has been the dominant power in the southern Deccan, resisting Mughal expansion. With the appearance of the Marathas and the British, the power structure in India has shifted, requiring Mysore to defend its sovereignty again.</English>
 	</TEXT>
 	<TEXT>
@@ -299,6 +320,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_POLAND_1700AD</Tag>
+		<Russian>1700 год н.э. Восстания казаков и "Шведский потоп" несколько ослабили Речь Посполитую, а децентрализованная политическая система неспособна к реформам. Польша окруженна растущими державами - Приссией, Австрией и Россией, так что сама независимость Польшы под угрозой...</Russian>
 		<English>It is the year 1700 AD. Cossack uprisings and the Swedish deluge have severely weakened the Polish-Lithuanian Commonwealth, and the decentralized political system is incapable of reform. Encircled by the growing powers of Prussia, Austria and Russia, the very independence of Poland is in danger ...</English>
 	</TEXT>
 	<TEXT>
@@ -308,18 +330,22 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_CONGO_1700AD</Tag>
+		<Russian>1700 год н.э. Продолжающаяся война с португальцами и внутренние мятежи ослабили Королевство Конго до состояния фактической колонизации. Королевтсво все еще отстает в научном и экономическом планах, а торговля рабами зачастую остается единственным надежным источником доходов.</Russian>
 		<English>It is the year 1700 AD. Continued warfare with the Portuguese and internal rebellions have weakened the Kingdom of Kongo to the point of effective colonization. The kingdom is still lagging behind scientifically and economically, and often the slave trade remains as the only viable source of income.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_ARGENTINA</Tag>
+		<Russian>1810 год н.э. Вдохновленные слабостью Испанской империи и идеалами Великой Французкой революции, народ Вицекоролевства Рио-де-ла-Плата сверг вицекороля и начал революцию, чтобы основать Аргентинскую республику.</Russian>
 		<English>It is the year 1810 AD. Spurred by the weakness of the Spanish Empire and the ideals of the French Revolution, the people in the Viceroyalty of the Rio de la Plata have overthrown their viceroy and started a revolution to form the Argentine Republic.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_BRAZIL</Tag>
+		<Russian>1822 год н.э. После революции в португалии, угрожающей бразильскому суверенитету в рамках Соединенного королевства, Педру Бразильский объявил независимость. Богатые бразильские плантации и дождевые леса Амазонки обещают богатство в будущем, но требуют охраны природы.</Russian>
 		<English>It is the year 1822 AD. After the revolution in Portugal threatens Brazilian sovereignty with in the United Kingdom, Dom Pedro of Brazil declares an independent empire. Brazil's rich plantations as well as the Amazon rainforest promise wealth for the future, but also demand preservation.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_DOM_CANADA</Tag>
+		<Russian>1867 год н.э. После Американской революции Канада остается под колониальной властью. С принятием Актов о Британской Северной Америке, Канада, наконец, обрела независимость, так что она может освоить Великий Белый Север по своему.</Russian>
 		<English>It is the year 1867. After the American revolution, Canada has remained under colonial control. With the approval of the North America Acts, Canada has now been finally granted independence so it can expand across the Great White North on its own accord.</English>
 	</TEXT>
 </Civ4GameText>

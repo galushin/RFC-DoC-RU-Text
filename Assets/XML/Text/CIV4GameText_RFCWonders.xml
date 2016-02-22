@@ -1891,7 +1891,7 @@ The name Khajuraho, ancient "Kharjuravahaka", is derived from the Sanskrit words
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_MOAI_STATUES_HELP</Tag>
-		<Russian>Требует 20 водных клеток в радиусе города[NEWLINE][ICON_BULLET]+2 [ICON_PRODUCTION] для водных улучшений местности</English>
+		<Russian>Требует 20 водных клеток в радиусе города[NEWLINE][ICON_BULLET]+2 [ICON_PRODUCTION] для водных улучшений местности</Russian>
 		<English>Requires 20 Water Tiles in City Radius[NEWLINE][ICON_BULLET]+2 [ICON_PRODUCTION] for Water Improvements</English>
 	</TEXT>
 </Civ4GameText>
